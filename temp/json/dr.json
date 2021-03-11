@@ -1,0 +1,556 @@
+{
+"name": "Dominican Republic",
+"code": "DR",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "The Taino - indigenous inhabitants of Hispaniola prior to the arrival of the Europeans - divided the island into five chiefdoms and territories. Christopher COLUMBUS explored and claimed the island on his first voyage in 1492; it became a springboard for Spanish conquest of the Caribbean and the American mainland. In 1697, Spain recognized French dominion over the western third of the island, which in 1804 became Haiti. The remainder of the island, by then known as Santo Domingo, sought to gain its own independence in 1821 but was conquered and ruled by the Haitians for 22 years; it finally attained independence as the Dominican Republic in 1844. In 1861, the Dominicans voluntarily returned to the Spanish Empire, but two years later they launched a war that restored independence in 1865. A legacy of unsettled, mostly non-representative rule followed, capped by the dictatorship of Rafael Leonidas TRUJILLO from 1930 to 1961. Juan BOSCH was elected president in 1962 but was deposed in a military coup in 1963. In 1965, the US led an intervention in the midst of a civil war sparked by an uprising to restore BOSCH. In 1966, Joaquin BALAGUER defeated BOSCH in the presidential election. BALAGUER maintained a tight grip on power for most of the next 30 years when international reaction to flawed elections forced him to curtail his term in 1996. Since then, regular competitive elections have been held in which opposition candidates have won the presidency. Former President Leonel FERNANDEZ Reyna (first term 1996-2000) won election to a new term in 2004 following a constitutional amendment allowing presidents to serve more than one term, and was later reelected to a second consecutive term. In 2012, Danilo MEDINA Sanchez became president; he was reelected in 2016.",
+}, 
+"geography": 
+{
+"location": "Caribbean, eastern two-thirds of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, east of Haiti",
+"geographic_coordinates": "19 00 N, 70 40 W",
+"map_references": "Central America and the Caribbean",
+"area": 
+{
+"total": "48,670 sq km",
+"land": "48,320 sq km",
+"water": "350 sq km",
+}, 
+"area_comparative": "slightly more than twice the size of New Jersey",
+"land_boundaries": 
+{
+"total": "376 km",
+"border_countries": "Haiti 376 km",
+}, 
+"coastline": "1,288 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": "200 nm or to the edge of the continental margin",
+}, 
+"climate": "tropical maritime; little seasonal temperature variation; seasonal variation in rainfall",
+"terrain": "rugged highlands and mountains interspersed with fertile valleys",
+"elevation": 
+{
+"mean_elevation": "424 m",
+"lowest_point": "Lago Enriquillo -46 m",
+"highest_point": "Pico Duarte 3,098 m",
+}, 
+"natural_resources": "nickel, bauxite, gold, silver, arable land",
+"land_use": 
+{
+"agricultural_land": "51.5% (2011 est.)",
+"agricultural_land_arable_land": "16.6% (2011 est.)",
+"agricultural_land_permanent_crops": "10.1% (2011 est.)",
+"agricultural_land_permanent_pasture": "24.8% (2011 est.)",
+"forest": "40.8% (2011 est.)",
+"other": "7.7% (2011 est.)",
+}, 
+"irrigated_land": "3,070 sq km (2012)",
+"population_distribution": "coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)",
+"natural_hazards": "lies in the middle of the hurricane belt and subject to severe storms from June to October; occasional flooding; periodic droughts",
+"environment_current_issues": "water shortages; soil eroding into the sea damages coral reefs; deforestation",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "Law of the Sea",
+}, 
+"geography_note": "shares island of Hispaniola with Haiti (eastern two-thirds makes up the Dominican Republic, western one-third is Haiti); the second largest country in the Antilles (after Cuba); geographically diverse with the Caribbean&#39;s tallest mountain, Pico Duarte, and lowest elevation and largest lake, Lago Enriquillo",
+}, 
+"people_and_society": 
+{
+"population": "10,298,756 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Dominican(s)",
+"adjective": "Dominican",
+}, 
+"ethnic_groups": "mixed 70.4% (mestizo/indio 58%, mulatto 12.4%), black 15.8%, white 13.5%, other 0.3% (2014 est.)",
+"languages": "Spanish (official)",
+"religions": "Roman Catholic 47.8%, Protestant 21.3%, other 2.2%, none 28%, don&#39;t know/no response .7% (2017 est.)",
+"age_structure": 
+{
+"0_14_years": "27.56% (male 1,442,926 /female 1,395,809)",
+"15_24_years": "18.52% (male 969,467 /female 937,765)",
+"25_54_years": "40.28% (male 2,112,813 /female 2,035,902)",
+"55_64_years": "7.71% (male 397,821 /female 396,172)",
+"65_years_and_over": "5.92% (male 286,300 /female 323,781) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "57.8 (2015 est.)",
+"youth_dependency_ratio": "47.3 (2015 est.)",
+"elderly_dependency_ratio": "10.5 (2015 est.)",
+"potential_support_ratio": "9.5 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "27.3 years (2018 est.)",
+"male": "27.1 years",
+"female": "27.4 years",
+}, 
+"population_growth_rate": "0.99% (2018 est.)",
+"birth_rate": "18.9 births/1,000 population (2018 est.)",
+"death_rate": "6.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-2.6 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)",
+"urbanization": 
+{
+"urban_population": "81.8% of total population (2019)",
+"rate_of_urbanization": "2.06% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "3.245 million SANTO DOMINGO (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.04 male(s)/female",
+"0_14_years": "1.03 male(s)/female",
+"15_24_years": "1.03 male(s)/female",
+"25_54_years": "1.04 male(s)/female",
+"55_64_years": "1 male(s)/female",
+"65_years_and_over": "0.88 male(s)/female",
+"total_population": "1.02 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "21.3 years (2013 est.)",
+"maternal_mortality_rate": "95 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "22.7 deaths/1,000 live births (2018 est.)",
+"male": "25 deaths/1,000 live births",
+"female": "20.3 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "71.3 years (2018 est.)",
+"male": "69.7 years",
+"female": "73.1 years",
+}, 
+"total_fertility_rate": "2.28 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "69.5% (2014)",
+"drinking_water_source": 
+{
+"improved_urban": "85.4% of population",
+"improved_rural": "81.9% of population",
+"improved_total": "84.7% of population",
+"unimproved_urban": "14.6% of population",
+"unimproved_rural": "18.1% of population",
+"unimproved_total": "15.3% of population (2015 est.)",
+}, 
+"current_health_expenditure": "6.2% (2016)",
+"physicians_density": "1.56 physicians/1,000 population (2017)",
+"hospital_bed_density": "1.6 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "86.2% of population (2015 est.)",
+"improved_rural": "75.7% of population (2015 est.)",
+"improved_total": "84% of population (2015 est.)",
+"unimproved_urban": "13.8% of population (2015 est.)",
+"unimproved_rural": "24.3% of population (2015 est.)",
+"unimproved_total": "16% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.9% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "70,000 (2018 est.)",
+"hiv_aids_deaths": "1,200 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "high (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "dengue fever (2016)",
+}, 
+"obesity_adult_prevalence_rate": "27.6% (2016)",
+"children_under_the_age_of_5_years_underweight": "4% (2013)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "93.8%",
+"male": "93.8%",
+"female": "93.8% (2016)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "14 years",
+"male": "13 years",
+"female": "14 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "13.5%",
+"male": "9.9%",
+"female": "19.7% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Dominican Republic",
+"conventional_short_form": "The Dominican",
+"local_long_form": "Republica Dominicana",
+"local_short_form": "La Dominicana",
+"etymology": "the country name derives from the capital city of Santo Domingo (Saint Dominic)",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Santo Domingo",
+"geographic_coordinates": "18 28 N, 69 54 W",
+"time_difference": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "10 regions (regiones, singular - region); Cibao Nordeste, Cibao Noroeste, Cibao Norte, Cibao Sur, El Valle, Enriquillo, Higuamo, Ozama, Valdesia, Yuma",
+"independence": "27 February 1844 (from Haiti)",
+"national_holiday": "Independence Day, 27 February (1844)",
+"constitution": 
+{
+"history": "many previous (38 total); latest proclaimed 13 June 2015",
+"amendments": "proposed by a special session of the National Congress called the National Revisory Assembly; passage requires at least two-thirds majority approval by at least one half of those present in both houses of the Assembly; passage of amendments to constitutional articles, such as fundamental rights and guarantees, territorial composition, nationality, or the procedures for constitutional reform, also requires approval in a referendum; amended many times, last in 2017 (2018)",
+}, 
+"legal_system": "civil law system based on the French civil code; Criminal Procedures Code modified in 2004 to include important elements of an accusatory system",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of the Dominican Republic",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "2 years",
+}, 
+"suffrage": "18 years of age; universal and compulsory; married persons regardless of age can vote; note - members of the armed forces and national police by law cannot vote",
+"executive_branch": 
+{
+"chief_of_state": "President Danilo MEDINA Sanchez (since 16 August 2012); Vice President Margarita CEDENO DE FERNANDEZ (since 16 August 2012); note - the president is both chief of state and head of government",
+"head_of_government": "President Danilo MEDINA Sanchez (since 16 August 2012); Vice President Margarita CEDENO DE FERNANDEZ (since 16 August 2012)",
+"cabinet": "Cabinet nominated by the president",
+"elections_appointments": "president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for a maximum of two consecutive terms); election last held on 15 May 2016 (next to be held in 2020)",
+"election_results": "Danilo MEDINA Sanchez reelected president in first round; percent of vote - Danilo MEDINA Sanchez (PLD) 61.7%, Luis Rodolfo ABINADER Corona (PRM) 35%, other 3.3%; Margarita CEDENO DE FERNANDEZ (PLD) reelected vice president",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral National Congress or Congreso Nacional consists of:&lt;br /&gt;Senate or Senado (32 seats; note - electoral system changes by the Central Election Commission are being challenged by the ruling party and opposition)&lt;br /&gt; House of Representatives or Camara de Diputados (190 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)",
+"elections": "&lt;br /&gt; Senate - last held on 15 May 2016 (next to be held in May 2020)&lt;br /&gt; House of Representatives - last held on 15 May 2016 (next to be held in May 2020)",
+"election_results": "&lt;br /&gt; Senate - percent of vote by party - NA; seats by party - PLD 26, PRM 2, BIS 1, PLRD 1, PRD 1, PRSC 1; composition as of 2018 - men 29, women 3, percent of women 9.4%&lt;br /&gt; House of Representatives - percent of vote by party - NA; seats by party - PLD 106, PRM 42, PRSC 18, PRD 16, PLRD 3, other 5; composition as of 2018 - men 139, women 51, percent of women 26.8%; note - total National Congress percent of women 24.3%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment",
+"judge_selection_and_term_of_office": "Supreme Court and Constitutional Court judges appointed by the National Council of the Judiciary comprised of the president, the leaders of both chambers of congress, the president of the Supreme Court, and a non-governing party congressional representative; Supreme Court judges appointed for 7-year terms; Constitutional Court judges appointed for 9-year terms",
+"subordinate_courts": "courts of appeal; courts of first instance; justices of the peace; special courts for juvenile, labor, and land cases; Contentious Administrative Court for cases filed against the government",
+}, 
+"political_parties_and_leaders": "Dominican Liberation Party or PLD [Leonel FERNANDEZ Reyna]&lt;br /&gt;Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado]&lt;br /&gt;Institutional Social Democratic Bloc or BIS&lt;br /&gt;Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)&lt;br /&gt;Modern Revolutionary Party or PRM [Jose Ignacio PALIZA]&lt;br /&gt;National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO]&lt;br /&gt;Social Christian Reformist Party or PRSC [Federico ANTUN]",
+"international_organization_participation": "ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Jose Tomas PEREZ Vazquez (since 23 February 2015)",
+"chancery": "1715 22nd Street NW, Washington, DC 20008",
+"telephone": "[1] (202) 332-6280, 660-2263",
+"fax": "[1] (202) 265-8057",
+"consulate_s_general": "Boston, Chicago, Los Angeles, Mayaguez (Puerto Rico), Miami, New Orleans, New York, San Juan (Puerto Rico)",
+"consulate_s": "San Francisco",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Robin BERNSTEIN (since 6 September 2018)",
+"telephone": "[1] (809) 567-7775",
+"embassy": "Av. Republica de Colombia # 57, Santo Domingo",
+"mailing_address": "Unit 5500, APO AA 34041-5500",
+"fax": "[1] (809) 686-7437",
+}, 
+"flag_description": "a centered white cross that extends to the edges divides the flag into four rectangles - the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto, DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield a bible is opened to a verse that reads &quot;Y la verdad nos hara libre&quot; (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes",
+"national_symbol_s": "palmchat (bird); national colors: red, white, blue",
+"national_anthem": 
+{
+"name": "&quot;Himno Nacional&quot; (National Anthem)",
+"lyrics_music": "Emilio PRUD&#39;HOMME/Jose REYES",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The Dominican Republic was for most of its history primarily an exporter of sugar, coffee, and tobacco, but over the last three decades the economy has become more diversified as the service sector has overtaken agriculture as the economy&#39;s largest employer, due to growth in construction, tourism, and free trade zones. The mining sector has also played a greater role in the export market since late 2012 with the commencement of the extraction phase of the Pueblo Viejo Gold and Silver mine, one of the largest gold mines in the world.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;For the last 20 years, the Dominican Republic has been one of the fastest growing economies in Latin America. The economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016, and public debt is declining. Marked income inequality, high unemployment, and underemployment remain important long-term challenges; the poorest half of the population receives less than one-fifth of GDP, while the richest 10% enjoys nearly 40% of GDP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The economy is highly dependent upon the US, the destination for approximately half of exports and the source of 40% of imports. Remittances from the US amount to about 7% of GDP, equivalent to about a third of exports and two-thirds of tourism receipts. The Central America-Dominican Republic Free Trade Agreement came into force in March 2007, boosting investment and manufacturing exports.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$173 billion",
+"2016": "$165.4 billion",
+"2015": "$155.2 billion",
+},
+"gdp_official_exchange_rate": "$76.09 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.6%",
+"2016": "6.6%",
+"2015": "7%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$17,000",
+"2016": "$16,400",
+"2015": "$15,500",
+},
+"gross_national_saving":
+{
+"2017": "21.6% of GDP",
+"2016": "20.8% of GDP",
+"2015": "20.7% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "69.3% (2017 est.)",
+"government_consumption": "12.2% (2017 est.)",
+"investment_in_fixed_capital": "21.9% (2017 est.)",
+"investment_in_inventories": "-0.1% (2017 est.)",
+"exports_of_goods_and_services": "24.8% (2017 est.)",
+"imports_of_goods_and_services": "-28.1% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "5.6% (2017 est.)",
+"industry": "33% (2017 est.)",
+"services": "61.4% (2017 est.)",
+}, 
+"agriculture_products": "cocoa, tobacco, sugarcane, coffee, cotton, rice, beans, potatoes, corn, bananas; cattle, pigs, dairy products, beef, eggs",
+"industries": "tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical components, medical devices",
+"industrial_production_growth_rate": "3.1% (2017 est.)",
+"labor_force": "4.732 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "14.4%",
+"industry": "20.8% (2014)",
+"services": "64.7% (2014 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "5.1%",
+"2016": "5.5%",
+},
+"population_below_poverty_line": "30.5% (2016 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.9%",
+"highest_10": "37.4% (2013 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2013": "47.1",
+"2012": "45.7",
+},
+"budget": 
+{
+"revenues": "11.33 billion (2017 est.)",
+"expenditures": "13.62 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "14.9% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "37.2% of GDP",
+"2016": "34.6% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "3.3%",
+"2016": "1.6%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "13.91%",
+"31 December 2016": "15.08%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$7.011 billion",
+"31 December 2016": "$6.491 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$7.011 billion",
+"31 December 2016": "$6.491 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$35.42 billion",
+"31 December 2016": "$33.6 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$165 million",
+"2016": "-$815 million",
+},
+"exports":
+{
+"2017": "$10.12 billion",
+"2016": "$9.86 billion",
+},
+"exports_partners": "US 50.3%, Haiti 9.1%, Canada 8.2%, India 5.6% (2017)",
+"exports_commodities": "gold, silver, cocoa, sugar, coffee, tobacco, meats, consumer goods",
+"imports":
+{
+"2017": "$17.7 billion",
+"2016": "$17.4 billion",
+},
+"imports_commodities": "petroleum, foodstuffs, cotton and fabrics, chemicals and pharmaceuticals",
+"imports_partners": "US 41.4%, China 13.9%, Mexico 4.5%, Brazil 4.3% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$6.873 billion",
+"31 December 2016": "$6.134 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$29.16 billion",
+"31 December 2016": "$27.7 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$37.15 billion",
+"31 December 2016": "$33.56 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$408.6 million",
+"31 December 2016": "$387.8 million",
+},
+"exchange_rates": 
+{
+"currency": "Dominican pesos (DOP) per US dollar -",
+"exchange_rates":
+{
+"2017": "47.42",
+"2016": "46.078",
+"2015": "46.078",
+"2014": "45.052",
+"2013": "43.556",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "18.03 billion kWh (2016 est.)",
+"electricity_consumption": "15.64 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "3.839 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "77% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "16% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "7% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "16,980 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "16,060 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "134,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "108,500 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "1.161 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "1.161 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "23.79 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,329,852",
+"subscriptions_per_100_inhabitants": "12 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "8,769,127",
+"subscriptions_per_100_inhabitants": "82 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "relatively efficient system based on island-wide microwave radio relay network; there are multiple operators licensed to provide services, most of them are small and localized; the telecom sector across the Caribbean region remains one of the key growth areas (2018)",
+"domestic": "fixed-line teledensity is about 12 per 100 persons; multiple providers of mobile-cellular service with a subscribership of over 80 per 100 persons (2018)",
+"international": "country code - 1-809; 1-829; 1-849; landing point for the&amp;nbsp;ARCOS-1, Antillas 1, AMX-1, SAm-1,&amp;nbsp;East-West, Deep Blue Cable and the Fibralink submarine cables that provide links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "combination of state-owned and privately owned broadcast media; 1 state-owned TV network and a number of private TV networks; networks operate repeaters to extend signals throughout country; combination of state-owned and privately owned radio stations with more than 300 radio stations operating (2019)",
+"internet_country_code": ".do",
+"internet_users": 
+{
+"total": "6,504,998",
+"percent_of_population": "61.3% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.74% of GDP",
+"2017": "0.66% of GDP",
+"2016": "0.67% of GDP",
+"2015": "0.67% of GDP",
+"2014": "0.67% of GDP",
+},
+"military_and_security_forces": "Armed Forces of the Dominican Republic:&amp;nbsp; Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2017)",
+"military_service_age_and_obligation": "17-21 years of age for voluntary military service; recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "6 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "14,463 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "HI (2016)",
+"airports": "36 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "16 (2017)",
+"over_3_047_m": "3 (2017)",
+"2_438_to_3_047_m": "4 (2017)",
+"1_524_to_2_437_m": "4 (2017)",
+"914_to_1_523_m": "4 (2017)",
+"under_914_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "20 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "1 (2013)",
+"under_914_m": "18 (2013)",
+}, 
+"heliports": "1 (2013)",
+"pipelines": "27 km gas, 103 km oil (2013)",
+"railways": 
+{
+"total": "496 km (2014)",
+"standard_gauge": "354 km 1.435-m gauge (2014)",
+"narrow_gauge": "142 km 0.762-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "19,705 km (2002)",
+"paved": "9,872 km (2002)",
+"unpaved": "9,833 km (2002)",
+}, 
+"merchant_marine": 
+{
+"total": "23",
+"by_type": "general cargo 2, oil tanker 1, other 20 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Puerto Haina, Puerto Plata, Santo Domingo",
+"oil_terminal_s": "Punta Nizao oil terminal",
+"lng_terminal_s_import": "Andres LNG terminal (Boca Chica)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Haitian migrants cross the porous border into the Dominican Republic to find work; illegal migrants from the Dominican Republic cross the Mona Passage each year to Puerto Rico to find better work&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "8,119 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2019)",
+"stateless_persons": "133,770 (2016); note - a September 2013 Constitutional Court ruling revoked the citizenship of those born after 1929 to immigrants without proper documentation, even though the constitution at the time automatically granted citizenship to children born in the Dominican Republic and the 2010 constitution provides that constitutional provisions cannot be applied retroactively; the decision overwhelmingly affected people of Haitian descent whose relatives had come to the Dominican Republic since the 1890s as a cheap source of labor for sugar plantations; a May 2014 law passed by the Dominican Congress regularizes the status of those with birth certificates but will require those without them to prove they were born in the Dominican Republic and to apply for naturalization; the government has issued documents to thousands of individuals who may claim citizenship under this law, but no official estimate has been released",
+}, 
+"illicit_drugs": "transshipment point for South American drugs destined for the US and Europe; has become a transshipment point for ecstasy from the Netherlands and Belgium destined for US and Canada; substantial money laundering activity in particular by Colombian narcotics traffickers; significant amphetamine consumption",
+}
+}

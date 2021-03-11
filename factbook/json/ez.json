@@ -1,0 +1,543 @@
+{
+"name": "Czechia",
+"code": "EZ",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "At the close of World War I, the Czechs and Slovaks of the former Austro-Hungarian Empire merged to form Czechoslovakia. During the interwar years, having rejected a federal system, the new country&#39;s predominantly Czech leaders were frequently preoccupied with meeting the increasingly strident demands of other ethnic minorities within the republic, most notably the Slovaks, the Sudeten Germans, and the Ruthenians (Ukrainians). On the eve of World War II, Nazi Germany occupied the territory that today comprises Czechia, and Slovakia became an independent state allied with Germany. After the war, a reunited but truncated Czechoslovakia (less Ruthenia) fell within the Soviet sphere of influence. In 1968, an invasion by Warsaw Pact troops ended the efforts of the country&#39;s leaders to liberalize communist rule and create &quot;socialism with a human face,&quot; ushering in a period of repression known as &quot;normalization.&quot; The peaceful &quot;Velvet Revolution&quot; swept the Communist Party from power at the end of 1989 and inaugurated a return to democratic rule and a market economy. On 1 January 1993, the country underwent a nonviolent &quot;velvet divorce&quot; into its two national components, the Czech Republic and Slovakia. The Czech Republic joined NATO in 1999 and the European Union in 2004. The country added the short-form name Czechia in 2016, while continuing to use the full form name, Czech Republic.",
+}, 
+"geography": 
+{
+"location": "Central Europe, between Germany, Poland, Slovakia, and Austria",
+"geographic_coordinates": "49 45 N, 15 30 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "78,867 sq km",
+"land": "77,247 sq km",
+"water": "1,620 sq km",
+}, 
+"area_comparative": "about two-thirds the size of Pennsylvania; slightly smaller than South Carolina",
+"land_boundaries": 
+{
+"total": "2,143 km",
+"border_countries": "Austria 402 km, Germany 704 km, Poland 796 km, Slovakia 241 km",
+}, 
+"coastline": "0 km (landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "temperate; cool summers; cold, cloudy, humid winters",
+"terrain": "Bohemia in the west consists of rolling plains, hills, and plateaus surrounded by low mountains; Moravia in the east consists of very hilly country",
+"elevation": 
+{
+"mean_elevation": "433 m",
+"lowest_point": "Labe (Elbe) River 115 m",
+"highest_point": "Snezka 1,602 m",
+}, 
+"natural_resources": "hard coal, soft coal, kaolin, clay, graphite, timber, arable land",
+"land_use": 
+{
+"agricultural_land": "54.8% (2011 est.)",
+"agricultural_land_arable_land": "41% (2011 est.)",
+"agricultural_land_permanent_crops": "1% (2011 est.)",
+"agricultural_land_permanent_pasture": "12.8% (2011 est.)",
+"forest": "34.4% (2011 est.)",
+"other": "10.8% (2011 est.)",
+}, 
+"irrigated_land": "320 sq km (2012)",
+"population_distribution": "a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations",
+"natural_hazards": "flooding",
+"environment_current_issues": "air and water pollution in areas of northwest Bohemia and in northern Moravia around Ostrava present health risks; acid rain damaging forests; land pollution caused by industry, mining, and agriculture",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "&lt;strong&gt;note 1:&lt;/strong&gt; landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;note 2:&lt;/strong&gt; the Hranice Abyss in Czechia is the world&#39;s deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep"
+}, 
+"people_and_society": 
+{
+"population": "10,686,269 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Czech(s)",
+"adjective": "Czech",
+}, 
+"ethnic_groups": "Czech 64.3%, Moravian 5%, Slovak 1.4%, other 1.8%, unspecified 27.5% (2011 est.)",
+"languages": "Czech (official) 95.4%, Slovak 1.6%, other 3% (2011 census)",
+"religions": "Roman Catholic 10.4%, Protestant (includes Czech Brethren and Hussite) 1.1%, other and unspecified 54%, none 34.5% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "15.21% (male 834,800 /female 790,128)",
+"15_24_years": "9.34% (male 514,728 /female 483,546)",
+"25_54_years": "43.79% (male 2,404,724 /female 2,275,309)",
+"55_64_years": "12.24% (male 638,130 /female 669,959)",
+"65_years_and_over": "19.42% (male 865,455 /female 1,209,490) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "49.5 (2015 est.)",
+"youth_dependency_ratio": "22.6 (2015 est.)",
+"elderly_dependency_ratio": "26.9 (2015 est.)",
+"potential_support_ratio": "3.7 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "42.5 years (2018 est.)",
+"male": "41.2 years",
+"female": "43.8 years",
+}, 
+"population_growth_rate": "0.1% (2018 est.)",
+"birth_rate": "9.2 births/1,000 population (2018 est.)",
+"death_rate": "10.5 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "2.3 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations",
+"urbanization": 
+{
+"urban_population": "73.9% of total population (2019)",
+"rate_of_urbanization": "0.21% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.299 million PRAGUE (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.06 male(s)/female",
+"15_24_years": "1.06 male(s)/female",
+"25_54_years": "1.06 male(s)/female",
+"55_64_years": "0.95 male(s)/female",
+"65_years_and_over": "0.72 male(s)/female",
+"total_population": "0.97 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "28.1 years (2014 est.)",
+"maternal_mortality_rate": "3 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "2.6 deaths/1,000 live births (2018 est.)",
+"male": "2.8 deaths/1,000 live births",
+"female": "2.5 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "78.9 years (2018 est.)",
+"male": "76 years",
+"female": "82.1 years",
+}, 
+"total_fertility_rate": "1.46 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "7.1% (2016)",
+"physicians_density": "4.31 physicians/1,000 population (2016)",
+"hospital_bed_density": "6.5 beds/1,000 population (2015)",
+"sanitation_facility_access": 
+{
+"improved_urban": "99.1% of population (2015 est.)",
+"improved_rural": "99.2% of population (2015 est.)",
+"improved_total": "99.1% of population (2015 est.)",
+"unimproved_urban": "0.9% of population (2015 est.)",
+"unimproved_rural": "0.8% of population (2015 est.)",
+"unimproved_total": "0.9% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "4,400 (2018 est.)",
+"hiv_aids_deaths": " &lt;100 (2018 est.)",
+"obesity_adult_prevalence_rate": "26% (2016)",
+"education_expenditures": "5.6% of GDP (2016)",
+"literacy": 
+{
+"definition": "NA",
+"total_population": "99%",
+"male": "99%",
+"female": "99% (2011)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "17 years",
+"male": "16 years",
+"female": "18 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "7.9%",
+"male": "7.4%",
+"female": "8.7% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Czech Republic",
+"conventional_short_form": "Czechia",
+"local_long_form": "Ceska republika",
+"local_short_form": "Cesko",
+"etymology": "name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D.",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Prague",
+"geographic_coordinates": "50 05 N, 14 28 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin)",
+"independence": "1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia); note - although 1 January is the day the Czech Republic came into being, the Czechs commemorate 28 October 1918, the day the former Czechoslovakia declared its independence from the Austro-Hungarian Empire, as their independence day",
+"national_holiday": "Czechoslovak Founding Day, 28 October (1918)",
+"constitution": 
+{
+"history": "previous 1960; latest ratified 16 December 1992, effective 1 January 1993",
+"amendments": "passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2013 (2017)",
+}, 
+"legal_system": "new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Czechia",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Milos ZEMAN (since 8 March 2013)",
+"head_of_government": "Prime Minister Andrej BABIS (since 13 December 2017); First Deputy Prime Minister Jan HAMACEK (since 27 June 2018), Deputy Prime Minister Alena SCHILLEROVA (since 30 April 2019)",
+"cabinet": "Cabinet appointed by the president on the recommendation of the prime minister",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 12-13 January 2018 with a runoff on 26-27 January 2018 (next to be held in January 2023); prime minister appointed by the president for a 4-year term",
+"election_results": "Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Parlament consists of:&lt;br /&gt;Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)&lt;br /&gt; Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)",
+"elections": "&lt;br /&gt;Senate - last held in 2 rounds on 5-6 and 12-13 October 2018 (next to be held in October 2020)&lt;br /&gt; Chamber of Deputies - last held on 20-21 October 2017 (next to be held by October 2021)",
+"election_results": "&lt;br /&gt; Senate - percent of vote by party - NA; seats by party - ODS 16, KDU-CSL 16, CSSD 13, STAN 10, ANO 7, SEN 21 6, TOP 09 3, SZ 1, Movement for Prague 1, Pirates 1, SsCR 1, independent 6; composition men 69, women 12, percent of women 14.8%&lt;br /&gt;&lt;br /&gt; Chamber of Deputies - percent of vote by party - ANO 29.6%, ODS 11.3%, Pirates 10.8%, SPD 10.6%, KSCM 7.8%, CSSD 7.3%, KDU-CSL 5.8%, TOP 09 5.3%, STAN 5.2%, other 6.3%; seats by party - ANO 78, ODS 25, Pirates 22, SPD 22, CSSD 15, KSCM 15, KDU-CSL 10, TOP 09 7, STAN 6; composition - men 156, women 44, percent of women 22%; note - total Parliament percent of women 19.9%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)",
+"judge_selection_and_term_of_office": "Supreme Court judges proposed by the Chamber of Deputies and appointed by the president; judges appointed for life; Constitutional Court judges appointed by the president and confirmed by the Senate; judges appointed for 10-year, renewable terms; Supreme Administrative Court judges selected by the president of the Court; unlimited terms",
+"subordinate_courts": "High Court; regional and district courts",
+}, 
+"political_parties_and_leaders": "Christian Democratic Union-Czechoslovak People&#39;s Party or KDU-CSL [Pavel BELOBRADEK]&lt;br /&gt;Civic Democratic Party or ODS [Petr FIALA]&lt;br /&gt;Communist Party of Bohemia and Moravia or KSCM [Vojtech FILIP]&lt;br /&gt;Czech Social Democratic Party or CSSD [Jan HAMACEK]&lt;br /&gt;Freedom and Direct Democracy or SPD [Tomio OKAMURA]&lt;br /&gt;Green Party or SZ [Petr STEPANEK]&lt;br /&gt;Mayors and Independents or STAN [Petr GAZDIK]&lt;br /&gt;Movement of Dissatisfied Citizens or ANO [Andrej BABIS]&lt;br /&gt;Party of Civic Rights or SPO [Lubomir NECAS]&lt;br /&gt;Pirate Party or Pirates [Ivan BARTOS]&lt;br /&gt;Tradition Responsibility Prosperity 09 or TOP 09 [Jiri POSPISIL]",
+"international_organization_participation": "Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Hynek KMONICEK (since 24 April 2017)",
+"chancery": "3900 Spring of Freedom Street NW, Washington, DC 20008",
+"telephone": "[1] (202) 274-9100",
+"fax": "[1] (202) 966-8540",
+"consulate_s_general": "Chicago, Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Stephen B. KING (since 6 December 2017)",
+"telephone": "[420] 257 022 000",
+"embassy": "Trziste 15, 118 01 Prague 1 - Mala Strana",
+"mailing_address": "use embassy street address",
+"fax": "[420] 257 022 809",
+}, 
+"flag_description": "two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side",
+"national_symbol_s": "silver (or white), double-tailed, rampant lion; national colors: white, red, blue",
+"national_anthem": 
+{
+"name": "&quot;Kde domov muj?&quot; (Where is My Home?)",
+"lyrics_music": "Josef Kajetan TYL/Frantisek Jan SKROUP",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Czechia is a prosperous market economy that boasts one of the highest GDP growth rates and lowest unemployment levels in the EU, but its dependence on exports makes economic growth vulnerable to contractions in external demand. Czechia’s exports comprise some 80% of GDP and largely consist of automobiles, the country’s single largest industry. Czechia acceded to the EU in 2004 but has yet to join the euro-zone. While the flexible koruna helps Czechia weather external shocks, it was one of the world’s strongest performing currencies in 2017, appreciating approximately 16% relative to the US dollar after the central bank (Czech National Bank - CNB) ended its cap on the currency’s value in early April 2017, which it had maintained since November 2013. The CNB hiked rates in August and November 2017 - the first rate changes in nine years - to address rising inflationary pressures brought by strong economic growth and a tight labor market.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Since coming to power in 2014, the new government has undertaken some reforms to try to reduce corruption, attract investment, and improve social welfare programs, which could help increase the government’s revenues and improve living conditions for Czechs. The government introduced in December 2016 an online tax reporting system intended to reduce tax evasion and increase revenues. The government also plans to remove labor market rigidities to improve the business climate, bring procurement procedures in line with EU best practices, and boost wages. The country&#39;s low unemployment rate has led to steady increases in salaries, and the government is facing pressure from businesses to allow greater migration of qualified workers, at least from Ukraine and neighboring Central European countries.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Long-term challenges include dealing with a rapidly aging population, a shortage of skilled workers, a lagging education system, funding an unsustainable pension and health care system, and diversifying away from manufacturing and toward a more high-tech, services-based, knowledge economy.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$375.9 billion",
+"2016": "$360.5 billion",
+"2015": "$351.9 billion",
+},
+"gdp_official_exchange_rate": "$215.8 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.3%",
+"2016": "2.5%",
+"2015": "5.3%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$35,500",
+"2016": "$34,200",
+"2015": "$33,400",
+},
+"gross_national_saving":
+{
+"2017": "26.9% of GDP",
+"2016": "27.5% of GDP",
+"2015": "28.2% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "47.4% (2017 est.)",
+"government_consumption": "19.2% (2017 est.)",
+"investment_in_fixed_capital": "24.7% (2017 est.)",
+"investment_in_inventories": "1.1% (2017 est.)",
+"exports_of_goods_and_services": "79.9% (2017 est.)",
+"imports_of_goods_and_services": "-72.3% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "2.3% (2017 est.)",
+"industry": "36.9% (2017 est.)",
+"services": "60.8% (2017 est.)",
+}, 
+"agriculture_products": "wheat, potatoes, sugar beets, hops, fruit; pigs, poultry",
+"industries": "motor vehicles, metallurgy, machinery and equipment, glass, armaments",
+"industrial_production_growth_rate": "7.5% (2017 est.)",
+"labor_force": "5.427 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "2.8%",
+"industry": "38%",
+"services": "59.2% (2015)",
+}, 
+"unemployment_rate":
+{
+"2017": "2.9%",
+"2016": "3.9%",
+},
+"population_below_poverty_line": "9.7% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "4.1%",
+"highest_10": "21.7% (2015 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2015": "25",
+"2014": "25.1",
+},
+"budget": 
+{
+"revenues": "87.37 billion (2017 est.)",
+"expenditures": "83.92 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "40.5% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "1.6% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "34.7% of GDP",
+"2016": "36.8% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "2.4%",
+"2016": "0.7%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "0.05%",
+"31 December 2016": "0.05%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "3.59%",
+"31 December 2016": "3.91%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$177.2 billion",
+"31 December 2016": "$133.5 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$177.2 billion",
+"31 December 2016": "$133.5 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$147.1 billion",
+"31 December 2016": "$124.3 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$58.83 billion",
+"31 December 2016": "$40.74 billion",
+"31 December 2015": "$44.5 billion",
+},
+"current_account_balance":
+{
+"2017": "$2.317 billion",
+"2016": "$3.037 billion",
+},
+"exports":
+{
+"2017": "$144.8 billion",
+"2016": "$131.1 billion",
+},
+"exports_partners": "Germany 32.8%, Slovakia 7.8%, Poland 6.1%, France 5.1%, UK 4.9%, Austria 4.4%, Italy 4.1% (2017)",
+"exports_commodities": "machinery and transport equipment, raw materials, fuel, chemicals",
+"imports":
+{
+"2017": "$134.7 billion",
+"2016": "$120.5 billion",
+},
+"imports_commodities": "machinery and transport equipment, raw materials and fuels, chemicals",
+"imports_partners": "Germany 29.8%, Poland 9.1%, China 7.4%, Slovakia 5.8%, Netherlands 5.3%, Italy 4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$148 billion",
+"31 December 2016": "$85.73 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$205.2 billion",
+"31 December 2016": "$138 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$185.6 billion",
+"31 December 2016": "$139.6 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$54.39 billion",
+"31 December 2016": "$43.09 billion",
+},
+"exchange_rates": 
+{
+"currency": "koruny (CZK) per US dollar -",
+"exchange_rates":
+{
+"2017": "23.34",
+"2016": "24.44",
+"2015": "24.44",
+"2014": "24.599",
+"2013": "20.758",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "77.39 billion kWh (2016 est.)",
+"electricity_consumption": "62.34 billion kWh (2016 est.)",
+"electricity_exports": "24.79 billion kWh (2016 est.)",
+"electricity_imports": "13.82 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "21.63 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "60% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "19% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "5% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "16% of total installed capacity (2017 est.)",
+"crude_oil_production": "2,000 bbl/day (2018 est.)",
+"crude_oil_exports": "446 bbl/day (2017 est.)",
+"crude_oil_imports": "155,900 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "15 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "177,500 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "213,700 bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "52,200 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "83,860 bbl/day (2017 est.)",
+"natural_gas_production": "229.4 million cu m (2017 est.)",
+"natural_gas_consumption": "8.721 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "8.891 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "3.964 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "115.8 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,616,631",
+"subscriptions_per_100_inhabitants": "15 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "12,634,937",
+"subscriptions_per_100_inhabitants": "118 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "good telephone and Internet service; the Czech Republic has a sophisticated telecom market, with competition in all sectors provided by a number of&amp;nbsp;alternate operators; the incumbent telco O2 Czech Republic remains the dominant player though&amp;nbsp;other operators are gaining market share, through&amp;nbsp;merger and acquisition activity; regulator makes progress&amp;nbsp;for 5G services;&amp;nbsp;fixed wireless broadband remains strong, with penetration among the highest in the EU (2018)",
+"domestic": "access to the fixed-line telephone network expanded throughout the 1990s, 15 per 100 fixed-line, but the number of fixed-line connections has been dropping since then; mobile telephone usage increased sharply to 119 per 100 mobile-cellular, and the number of cellular telephone subscriptions now greatly exceeds the population (2018)",
+"international": "country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)",
+}, 
+"broadcast_media": "22 TV stations operate nationally, with 17 of them in private hands; publicly operated Czech Television has 5 national channels; throughout the country, there are some 350 TV channels in operation, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters are registered, operating over 80 radio stations, including 7 multiregional radio stations or networks; publicly operated broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partially financed through a license fee (2019)",
+"internet_country_code": ".cz",
+"internet_users": 
+{
+"total": "8,141,303",
+"percent_of_population": "76.5% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "3,060,597",
+"subscriptions_per_100_inhabitants": "29 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "1.19% of GDP",
+"2018": "1.13% of GDP",
+"2017": "1.04% of GDP",
+"2016": "0.96% of GDP",
+"2015": "1.03% of GDP",
+},
+"military_and_security_forces": "Ministry of Defense and Armed Forces:&amp;nbsp; Czech Land Forces and Czech Air Force (2019)",
+"military_service_age_and_obligation": "18-28 years of age for male and female voluntary military service; no conscription (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "4 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "48 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "4,971,616 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "26,619,650 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "OK (2016)",
+"airports": "128 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "41 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "9 (2017)",
+"1_524_to_2_437_m": "12 (2017)",
+"914_to_1_523_m": "2 (2017)",
+"under_914_m": "16 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "87 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "25 (2013)",
+"under_914_m": "61 (2013)",
+}, 
+"heliports": "1 (2013)",
+"pipelines": "7,160 km gas, 675 km oil, 94 km refined products (2016)",
+"railways": 
+{
+"total": "9,408 km (2017)",
+"standard_gauge": "9,385 km 1.435-m gauge (3,218 km electrified) (2017)",
+"narrow_gauge": "23 km 0.760-m gauge (2017)",
+}, 
+"roadways": 
+{
+"total": "55,744 km (includes urban and category I, II, III roads) (2019)",
+"paved": "55,744 km (includes 1,252 km of expressways) (2019)",
+}, 
+"waterways": "664 km (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals) (2010)",
+"ports_and_terminals": "Prague (Vltava)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "1,502 (2018)",
+"illicit_drugs": "transshipment point for Southwest Asian heroin and minor transit point for Latin American cocaine to Western Europe; producer of synthetic drugs for local and regional markets; susceptible to money laundering related to drug trafficking, organized crime; significant consumer of ecstasy",
+}
+}

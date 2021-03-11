@@ -1,0 +1,223 @@
+Country Comparison :: Telephones - fixed lines
+
+1       China                                                      193,762,000         est.
+2       United States                                              119,902,000         est.
+3       Japan                                                       63,941,094         est.
+4       Germany                                                     44,400,000         est.
+5       Brazil                                                      40,878,018         est.
+6       France                                                      38,687,000         est.
+7       United Kingdom                                              33,140,662         est.
+8       Russia                                                      31,190,855         est.
+9       Iran                                                        31,182,812         est.
+10      Korea, South                                                26,842,952         est.
+11      India                                                       23,234,687         est.
+12      Italy                                                       20,700,659         est.
+13      Mexico                                                      20,602,668         est.
+14      Spain                                                       19,680,973         est.
+15      Canada                                                      14,700,854         est.
+16      Taiwan                                                      13,565,064         est.
+17      Turkey                                                      11,308,444         est.
+18      Indonesia                                                   11,172,021         est.
+19      Argentina                                                    9,530,349         est.
+20      Australia                                                    8,460,000         est.
+21      Poland                                                       8,143,145         est.
+22      Ukraine                                                      7,186,579         est.
+23      Colombia                                                     6,987,654         est.
+24      Egypt                                                        6,604,849         est.
+25      Malaysia                                                     6,578,200         est.
+26      Netherlands                                                  6,551,000         est.
+27      Turkmenistan                                                 5,315,000         est.
+28      Greece                                                       5,176,475         est.
+29      Portugal                                                     4,831,022         est.
+30      Vietnam                                                      4,526,077         est.
+31      Belarus                                                      4,499,821         est.
+32      Hong Kong                                                    4,266,837         est.
+33      Belgium                                                      4,251,564         est.
+34      Philippines                                                  4,163,282         est.
+35      Romania                                                      3,890,000         est.
+36      Austria                                                      3,762,801         est.
+37      Kazakhstan                                                   3,697,300         est.
+38      Switzerland                                                  3,672,500         est.
+39      South Africa                                                 3,629,141         est.
+40      Saudi Arabia                                                 3,619,352         est.
+41      Uzbekistan                                                   3,444,330         est.
+42      Israel                                                       3,240,000         est.
+43      Chile                                                        3,193,131         est.
+44      Hungary                                                      3,131,598         est.
+45      Algeria                                                      3,130,090         est.
+46      Peru                                                         3,082,036         est.
+47      Pakistan                                                     2,940,243         est.
+48      Iraq                                                         2,918,396         est.
+49      Thailand                                                     2,910,000         est.
+50      Sweden                                                       2,794,418         est.
+51      Syria                                                        2,726,193         est.
+52      Serbia                                                       2,609,592         est.
+53      Sri Lanka                                                    2,603,178         est.
+54      Guatemala                                                    2,461,109         est.
+55      Ecuador                                                      2,415,204         est.
+56      United Arab Emirates                                         2,320,837         est.
+57      Morocco                                                      2,046,390         est.
+58      Singapore                                                    1,983,100         est.
+59      Ireland                                                      1,842,026         est.
+60      Lebanon                                                      1,816,262         est.
+61      Azerbaijan                                                   1,688,325         est.
+62      Czechia                                                      1,616,631         est.
+63      Denmark                                                      1,439,695         est.
+64      Croatia                                                      1,401,354         est.
+65      Libya                                                        1,374,408         est.
+66      New Zealand                                                  1,368,000         est.
+67      Cuba                                                         1,349,188         est.
+68      Dominican Republic                                           1,329,852         est.
+69      Bulgaria                                                     1,302,316         est.
+70      Ethiopia                                                     1,181,000         est.
+71      Korea, North                                                 1,180,000         est.
+72      Yemen                                                        1,165,828         est.
+73      Moldova                                                      1,143,852         est.
+74      Uruguay                                                      1,136,977         est.
+75      Laos                                                         1,125,469         est.
+76      Tunisia                                                      1,113,168         est.
+77      Nepal                                                          861,299         est.
+78      Bolivia                                                        851,110         est.
+79      Costa Rica                                                     843,148         est.
+80      Kosovo                                                         831,470         est.
+81      Puerto Rico                                                    783,739         est.
+82      Bosnia and Herzegovina                                         759,344         est.
+83      Slovakia                                                       758,842         est.
+84      Norway                                                         745,182         est.
+85      Slovenia                                                       717,235         est.
+86      Georgia                                                        713,826         est.
+87      Bangladesh                                                     710,189         est.
+88      Cameroon                                                       699,055         est.
+89      El Salvador                                                    677,599         est.
+90      Panama                                                         603,638         est.
+91      Burma                                                          556,112         est.
+92      Venezuela                                                      547,291         est.
+93      Kuwait                                                         542,082         est.
+94      Armenia                                                        505,190         est.
+95      Oman                                                           497,716         est.
+96      Honduras                                                       491,107         est.
+97      Lithuania                                                      486,895         est.
+98      West Bank                                                      472,293         est.
+99      Tajikistan                                                     468,000         est.
+100     Qatar                                                          440,909         est.
+101     Gaza Strip                                                     432,000         est.
+102     Mauritius                                                      413,100         est.
+103     Jordan                                                         404,112         est.
+104     Finland                                                        378,200         est.
+105     Nicaragua                                                      375,856         est.
+106     Kyrgyzstan                                                     362,288         est.
+107     Estonia                                                        362,117         est.
+108     Macedonia                                                      361,269         est.
+109     Latvia                                                         342,097         est.
+110     Cyprus                                                         317,241         est.
+111     Cote d'Ivoire                                                  305,562         est.
+112     Ghana                                                          301,551         est.
+113     Jamaica                                                        297,027         est.
+114     Mongolia                                                       292,594         est.
+115     Senegal                                                        290,636         est.
+116     Paraguay                                                       290,109         est.
+117     Bahrain                                                        285,318         est.
+118     Luxembourg                                                     275,300         est.
+119     Zimbabwe                                                       264,150         est.
+120     Uganda                                                         262,286         est.
+121     Trinidad and Tobago                                            257,445         est.
+122     Albania                                                        247,010         est.
+123     Malta                                                          240,280         est.
+124     Mali                                                           200,812         est.
+125     Namibia                                                        193,125         est.
+126     Angola                                                         161,070         est.
+127     Papua New Guinea                                               154,000         est.
+128     Montenegro                                                     152,155         est.
+129     Iceland                                                        146,213         est.
+130     Sudan                                                          143,280         est.
+131     Macau                                                          142,000         est.
+132     Botswana                                                       141,207         est.
+133     Barbados                                                       139,645         est.
+134     Nigeria                                                        139,344         est.
+135     Guyana                                                         135,795         est.
+136     Cambodia                                                       132,911         est.
+137     Tanzania                                                       127,094         est.
+138     Afghanistan                                                    118,769        2017 est.
+139     Niger                                                          114,352         est.
+140     Bahamas, The                                                   113,852         est.
+141     Zambia                                                         101,444         est.
+142     New Caledonia                                                   92,000         est.
+143     Suriname                                                        89,030         est.
+144     Mozambique                                                      80,545         est.
+145     Burkina Faso                                                    76,000         est.
+146     Virgin Islands                                                  76,000         est.
+147     Fiji                                                            75,952         est.
+148     Brunei                                                          74,213         est.
+149     Kenya                                                           69,861         est.
+150     Madagascar                                                      68,792         est.
+151     Guam                                                            68,000         est.
+152     Eritrea                                                         66,086         est.
+153     Cabo Verde                                                      64,970         est.
+154     French Polynesia                                                60,530         est.
+155     Mauritania                                                      57,057         est.
+156     Benin                                                           56,787         est.
+157     Jersey                                                          55,938         est.
+158     Somalia                                                         48,000         est.
+159     Monaco                                                          47,013         est.
+160     Eswatini                                                        42,000         est.
+161     Andorra                                                         38,411         est.
+162     Gambia, The                                                     37,969         est.
+163     Djibouti                                                        36,582         est.
+164     Guernsey                                                        36,547         est.
+165     Togo                                                            36,111         est.
+166     Saint Lucia                                                     35,014         est.
+167     Aruba                                                           35,000         est.
+168     Cayman Islands                                                  34,116         est.
+169     Grenada                                                         32,491         est.
+170     Burundi                                                         23,409         est.
+171     Belize                                                          23,000         est.
+172     Antigua and Barbuda                                             22,504         est.
+173     Bermuda                                                         21,883         est.
+174     Bhutan                                                          21,364         est.
+175     Gabon                                                           21,235         est.
+176     Maldives                                                        20,377         est.
+177     Faroe Islands                                                   20,193         est.
+178     Saint Vincent and the Grenadines                                20,111         est.
+179     Gibraltar                                                       19,753         est.
+180     Seychelles                                                      19,652         est.
+181     Malawi                                                          17,337         est.
+182     Saint Kitts and Nevis                                           17,293         est.
+183     Comoros                                                         17,212         est.
+184     Congo, Republic of the                                          17,000         est.
+185     Sierra Leone                                                    17,000         est.
+186     Greenland                                                       16,000         est.
+187     Liechtenstein                                                   15,852         est.
+188     San Marino                                                      15,800         est.
+189     Chad                                                            14,000         est.
+190     Dominica                                                        13,328         est.
+191     Rwanda                                                          12,333         est.
+192     Tonga                                                           11,000         est.
+193     Equatorial Guinea                                               10,989         est.
+194     Lesotho                                                         10,637         est.
+195     British Virgin Islands                                          10,004         est.
+196     American Samoa                                                  10,000         est.
+197     Samoa                                                            8,454         est.
+198     Liberia                                                          8,000         est.
+199     Cook Islands                                                     7,800         est.
+200     Solomon Islands                                                  7,405         est.
+201     Palau                                                            7,204         est.
+202     Micronesia, Federated States of                                  6,947         est.
+203     Anguilla                                                         6,000         est.
+204     Haiti                                                            5,703         est.
+205     Sao Tome and Principe                                            5,569         est.
+206     Saint Pierre and Miquelon                                        4,800         est.
+207     Vanuatu                                                          3,499         est.
+208     Wallis and Futuna                                                3,132         est.
+209     Montserrat                                                       3,000         est.
+210     Timor-Leste                                                      2,364         est.
+211     Marshall Islands                                                 2,361         est.
+212     Falkland Islands (Islas Malvinas)                                2,255         est.
+213     Tuvalu                                                           2,000         est.
+214     Central African Republic                                         1,964         est.
+215     Nauru                                                            1,900         est.
+216     Kiribati                                                           765         est.
+217     Saint Helena, Ascension, and Tristan da Cunha                      576         est.
+218     Tokelau                                                            300         est.
+219     Guinea                                                               0         est.
+220     Guinea-Bissau                                                        0         est.
+221     South Sudan                                                          0         est.

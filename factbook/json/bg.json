@@ -1,0 +1,591 @@
+{
+"name": "Bangladesh",
+"code": "BG",
+"publish_date": "December 19, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;The huge delta region formed at the confluence of the Ganges and Brahmaputra River systems - now referred to as Bangladesh - was a loosely incorporated outpost of various empires centered on the Gangetic plain for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. Partition in 1947 resulted in an eastern wing of Pakistan in the Muslim-majority area, which became East Pakistan. Calls for greater autonomy and animosity between the eastern and western wings of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971.&lt;/p&gt; &lt;p&gt;The post-independence AL government faced daunting challenges and in 1975 it was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP) in 1978. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections occurred in 1991. The BNP and AL have alternated in power since 1991, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the incumbent AL won the national election by an overwhelming majority after the BNP boycotted the election, which extended HASINA&#39;s term as prime minister. In December 2018, HASINA secured a third consecutive term (fourth overall) with the AL coalition securing 96% of available seats, amid widespread claims of election irregularities. With the help of international development assistance, Bangladesh has reduced the poverty rate from over half of the population to less than a third, achieved Millennium Development Goals for maternal and child health, and made great progress in food security since independence. The economy has grown at an annual average of about 6% for the last two decades and the country reached World Bank lower-middle income status in 2014.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southern Asia, bordering the Bay of Bengal, between Burma and India",
+"geographic_coordinates": "24 00 N, 90 00 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "148,460 sq km",
+"land": "130,170 sq km",
+"water": "18,290 sq km",
+}, 
+"area_comparative": "slightly larger than Pennsylvania and New Jersey combined; slightly smaller than Iowa",
+"land_boundaries": 
+{
+"total": "4,413 km",
+"border_countries": "Burma 271 km, India 4142 km",
+}, 
+"coastline": "580 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "18 nm",
+"continental_shelf": " to the outer limits of the continental margin",
+}, 
+"climate": "tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)",
+"terrain": "mostly flat alluvial plain; hilly in southeast",
+"elevation": 
+{
+"mean_elevation": "85 m",
+"lowest_point": "Indian Ocean 0 m",
+"highest_point": "Keokradong 1,230 m",
+}, 
+"natural_resources": "natural gas, arable land, timber, coal",
+"land_use": 
+{
+"agricultural_land": "70.1% (2016 est.)",
+"agricultural_land_arable_land": "59% (2016 est.)",
+"agricultural_land_permanent_crops": "6.5% (2016 est.)",
+"agricultural_land_permanent_pasture": "4.6% (2016 est.)",
+"forest": "11.1% (2016 est.)",
+"other": "18.8% (2016 est.)",
+}, 
+"irrigated_land": "53,000 sq km (2012)",
+"natural_hazards": "droughts; cyclones; much of the country routinely inundated during the summer monsoon season",
+"environment_current_issues": "many people are landless and forced to live on and cultivate flood-prone land; waterborne diseases prevalent in surface water; water pollution, especially of fishing areas, results from the use of commercial pesticides; ground water contaminated by naturally occurring arsenic; intermittent water shortages because of falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; destruction of wetlands; severe overpopulation with noise pollution",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "most of the country is situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal",
+}, 
+"people_and_society": 
+{
+"population": "159,453,001 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Bangladeshi(s)",
+"adjective": "Bangladeshi",
+}, 
+"ethnic_groups": "Bengali at least 98%, other indigenous ethnic groups 1.1% (2011 est.)",
+"languages": "Bangla 98.8% (official, also known as Bengali), other 1.2% (2011 est.)",
+"religions": "Muslim 89.1%, Hindu 10%, other 0.9% (includes Buddhist, Christian) (2013 est.)",
+"age_structure": 
+{
+"0_14_years": "27.29% (male 22,135,349 /female 21,373,470)",
+"15_24_years": "19.14% (male 15,313,674 /female 15,200,861)",
+"25_54_years": "40.07% (male 30,626,005 /female 33,267,339)",
+"55_64_years": "7.09% (male 5,582,450 /female 5,716,763)",
+"65_years_and_over": "6.42% (male 4,844,612 /female 5,392,478) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "52.6 (2015 est.)",
+"youth_dependency_ratio": "44.9 (2015 est.)",
+"elderly_dependency_ratio": "7.7 (2015 est.)",
+"potential_support_ratio": "13 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "27.1 years (2018 est.)",
+"male": "26.3 years",
+"female": "27.8 years",
+}, 
+"population_growth_rate": "1.02% (2018 est.)",
+"birth_rate": "18.6 births/1,000 population (2018 est.)",
+"death_rate": "5.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-3 migrant(s)/1,000 population (2018 est.)",
+"urbanization": 
+{
+"urban_population": "37.4% of total population (2019)",
+"rate_of_urbanization": "3.17% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "20.284 million DHAKA (capital), 4.915 million Chittagong, 963,000 Khulna, 893,000 Rajshahi, 814,000 Sylhet (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.04 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.01 male(s)/female",
+"25_54_years": "0.92 male(s)/female",
+"55_64_years": "0.98 male(s)/female",
+"65_years_and_over": "0.9 male(s)/female",
+"total_population": "0.97 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "18.5 years (2014 est.)",
+"maternal_mortality_rate": "173 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "30.5 deaths/1,000 live births (2018 est.)",
+"male": "32.8 deaths/1,000 live births",
+"female": "28.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "73.7 years (2018 est.)",
+"male": "71.5 years",
+"female": "75.9 years",
+}, 
+"total_fertility_rate": "2.15 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "62.3% (2014)",
+"drinking_water_source": 
+{
+"improved_urban": "86.5% of population",
+"improved_rural": "87% of population",
+"improved_total": "86.9% of population",
+"unimproved_urban": "13.5% of population",
+"unimproved_rural": "13% of population",
+"unimproved_total": "13.1% of population (2015 est.)",
+}, 
+"current_health_expenditure": "2.4% (2016)",
+"physicians_density": "0.53 physicians/1,000 population (2015)",
+"hospital_bed_density": "0.8 beds/1,000 population (2015)",
+"sanitation_facility_access": 
+{
+"improved_urban": "57.7% of population (2015 est.)",
+"improved_rural": "62.1% of population (2015 est.)",
+"improved_total": "60.6% of population (2015 est.)",
+"unimproved_urban": "42.3% of population (2015 est.)",
+"unimproved_rural": "37.9% of population (2015 est.)",
+"unimproved_total": "39.4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "14,000 (2018 est.)",
+"hiv_aids_deaths": " &lt;1000 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "high (2019)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever (2019)",
+"vectorborne_diseases": "dengue fever and malaria are high risks in some locations (2019)",
+"water_contact_diseases": "leptospirosis (2019)",
+"animal_contact_diseases": "rabies (2019)",
+}, 
+"obesity_adult_prevalence_rate": "3.6% (2016)",
+"children_under_the_age_of_5_years_underweight": "32.8% (2014)",
+"education_expenditures": "2% of GDP (2018)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "72.9%",
+"male": "75.7%",
+"female": "70.1% (2017)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "11 years",
+"male": "11 years",
+"female": "12 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "12.8%",
+"male": "10.8%",
+"female": "16.8% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "People&#39;s Republic of Bangladesh",
+"conventional_short_form": "Bangladesh",
+"local_long_form": "Gana Prajatantri Bangladesh",
+"local_short_form": "Bangladesh",
+"former": "East Bengal, East Pakistan",
+"etymology": "the name - a compound of the Bengali words &quot;Bangla&quot; (Bengal) and &quot;desh&quot; (country) - means &quot;Country of Bengal&quot;",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Dhaka",
+"geographic_coordinates": "23 43 N, 90 24 E",
+"time_difference": "UTC+6 (11 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "8 divisions; Barisal, Chittagong, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet",
+"independence": "16 December 1971 (from Pakistan)",
+"national_holiday": "Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - 26 March 1971 is the date of the Awami League&#39;s declaration of an independent Bangladesh, and 16 December (Victory Day) memorializes the military victory over Pakistan and the official creation of the state of Bangladesh",
+"constitution": 
+{
+"history": "previous 1935, 1956, 1962 (preindependence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986",
+"amendments": "proposed by the House of the Nation; approval requires at least two-thirds majority vote of the House membership and assent of the president of the republic; amended many times, last in 2018 (2019)",
+}, 
+"legal_system": "mixed legal system of mostly English common law and Islamic law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Bangladesh",
+"dual_citizenship_recognized": "yes, but limited to select countries",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Abdul HAMID (since 24 April 2013); note - Abdul HAMID served as acting president following the death of Zillur RAHMAN in March 2013; HAMID was subsequently indirectly elected by the National Parliament and sworn in 24 April 2013",
+"head_of_government": "Prime Minister Sheikh HASINA (since 6 January 2009)",
+"cabinet": "Cabinet selected by the prime minister, appointed by the president",
+"elections_appointments": "president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 7 February 2018 (next to be held by 2023); the president appoints as prime minister the majority party leader in the National Parliament",
+"election_results": "President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary elections in 2018",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority popular vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)",
+"elections": "last held on&amp;nbsp;30 December 2018&amp;nbsp;(next to be held in 2023)",
+"election_results": "percent of vote by party - NA; seats by party - AL 289, BNP 7, other 3; composition - men 279, women 72, percent of women 20.6%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)",
+"judge_selection_and_term_of_office": "chief justice and justices appointed by the president; justices serve until retirement at age 67",
+"subordinate_courts": "civil courts include: Assistant Judge&#39;s Court; Joint District Judge&#39;s Court; Additional District Judge&#39;s Court; District Judge&#39;s Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals",
+}, 
+"political_parties_and_leaders": "Awami League or AL [Sheikh HASINA]&lt;br /&gt;Bangladesh Nationalist Front or BNF [Abdul Kalam AZADI]&lt;br /&gt;Bangladesh Nationalist Party or BNP [Khaleda ZIA]&lt;br /&gt;Bangladesh Tariqat Federation or BTF [Syed Nozibul Bashar MAIZBHANDARI]&lt;br /&gt;Jamaat-i-Islami Bangladesh or JIB (Makbul AHMAD)&lt;br /&gt;Jatiya Party or JP (Ershad faction) [Hussain Mohammad ERSHAD]&lt;br /&gt;Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]&lt;br /&gt;Liberal Democratic Party or LDP [Oli AHMED]&lt;br /&gt;National Socialist Party or JSD [KHALEQUZZAMAN]&lt;br /&gt;Workers Party or WP [Rashed Khan MENON]",
+"international_organization_participation": "ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Mohammad ZIAUDDIN (since 18 September 2014)",
+"chancery": "3510 International Drive NW, Washington, DC 20008",
+"telephone": "[1] (202) 244-0183",
+"fax": "[1] (202) 244-2771",
+"consulate_s_general": "Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Earl Robert MILLER (since 29 November 2018)",
+"telephone": "[880] (2) 5566-2000",
+"embassy": "Madani Avenue, Baridhara, Dhaka 1212",
+"mailing_address": "G. P. O. Box 323, Dhaka 1000",
+"fax": "[880] (2) 5566-2915",
+}, 
+"flag_description": "green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh",
+"national_symbol_s": "Bengal tiger, water lily; national colors: green, red",
+"national_anthem": 
+{
+"name": "&quot;Amar Shonar Bangla&quot; (My Golden Bengal)",
+"lyrics_music": "Rabindranath TAGORE",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Bangladesh&#39;s economy has grown roughly 6% per year since 2005 despite prolonged periods of political instability, poor infrastructure, endemic corruption, insufficient power supplies, and slow implementation of economic reforms. Although more than half of GDP is generated through the services sector, almost half of Bangladeshis are employed in the agriculture sector, with rice as the single-most-important product.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Garments, the backbone of Bangladesh&#39;s industrial sector, accounted for more than 80% of total exports in FY 2016-17. The industrial sector continues to grow, despite the need for improvements in factory safety conditions. Steady export growth in the garment sector, combined with $13 billion in remittances from overseas Bangladeshis, contributed to Bangladesh&#39;s rising foreign exchange reserves in FY 2016-17. Recent improvements to energy infrastructure, including the start of liquefied natural gas imports in 2018, represent a major step forward in resolving a key growth bottleneck.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$690.3 billion",
+"2016": "$642.7 billion",
+"2015": "$599.5 billion",
+},
+"gdp_official_exchange_rate": "$261.5 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "7.4%",
+"2016": "7.2%",
+"2015": "6.8%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$4,200",
+"2016": "$4,000",
+"2015": "$3,800",
+},
+"gross_national_saving":
+{
+"2017": "30.2% of GDP",
+"2016": "30.6% of GDP",
+"2015": "30.3% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "68.7% (2017 est.)",
+"government_consumption": "6% (2017 est.)",
+"investment_in_fixed_capital": "30.5% (2017 est.)",
+"investment_in_inventories": "1% (2017 est.)",
+"exports_of_goods_and_services": "15% (2017 est.)",
+"imports_of_goods_and_services": "-20.3% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "14.2% (2017 est.)",
+"industry": "29.3% (2017 est.)",
+"services": "56.5% (2017 est.)",
+}, 
+"agriculture_products": "rice, jute, tea, wheat, sugarcane, potatoes, tobacco, pulses, oilseeds, spices, fruit; beef, milk, poultry",
+"industries": "jute, cotton, garments, paper, leather, fertilizer, iron and steel, cement, petroleum products, tobacco, pharmaceuticals, ceramics, tea, salt, sugar, edible oils, soap and detergent, fabricated metal products, electricity, natural gas",
+"industrial_production_growth_rate": "10.2% (2017 est.)",
+"labor_force": "66.64 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "42.7%",
+"industry": "20.5%",
+"services": "36.9% (2016 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "4.4%",
+"2016": "4.4%",
+},
+"population_below_poverty_line": "24.3% (2016 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "4%",
+"highest_10": "27% (2010 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2010": "32.1",
+"2005": "33.2",
+},
+"budget": 
+{
+"revenues": "25.1 billion (2017 est.)",
+"expenditures": "33.5 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "9.6% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3.2% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "33.1% of GDP",
+"2016": "33.3% of GDP",
+},
+"fiscal_year": "1 July - 30 June",
+"inflation_rate_consumer_prices":
+{
+"2017": "5.6%",
+"2016": "5.7%",
+},
+"central_bank_discount_rate":
+{
+"11 December 2017": "5%",
+"30 October 2015": "5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "9.54%",
+"31 December 2016": "10.41%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$28.68 billion",
+"31 December 2016": "$25.98 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$28.68 billion",
+"31 December 2016": "$25.98 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$152.1 billion",
+"31 December 2016": "$135.3 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"30 September 2017": "$92.33 billion",
+"31 December 2016": "$77.99 billion",
+"31 December 2015": "$71.73 billion",
+},
+"current_account_balance":
+{
+"2017": "-$5.322 billion",
+"2016": "$1.391 billion",
+},
+"exports":
+{
+"2017": "$35.3 billion",
+"2016": "$34.14 billion",
+},
+"exports_partners": "Germany 12.9%, US 12.2%, UK 8.7%, Spain 5.3%, France 5.1%, Italy 4.1% (2017)",
+"exports_commodities": "garments, knitwear, agricultural products, frozen food (fish and seafood), jute and jute goods, leather",
+"imports":
+{
+"2017": "$47.56 billion",
+"2016": "$40.28 billion",
+},
+"imports_commodities": "cotton, machinery and equipment, chemicals, iron and steel, foodstuffs",
+"imports_partners": "China 21.9%, India 15.3%, Singapore 5.7% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$33.42 billion",
+"31 December 2016": "$32.28 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$50.26 billion",
+"31 December 2016": "$41.85 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$14.62 billion",
+"31 December 2016": "$13.24 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$369.6 million",
+"31 December 2016": "$228.5 million",
+},
+"exchange_rates": 
+{
+"currency": "taka (BDT) per US dollar -",
+"exchange_rates":
+{
+"2017": "80.69",
+"2016": "78.468",
+"2015": "78.468",
+"2014": "77.947",
+"2013": "77.614",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "60.3 million (2013)",
+"electrification_total_population": "75.9% (2016)",
+"electrification_urban_areas": "94% (2016)",
+"electrification_rural_areas": "68.9% (2016)",
+}, 
+"electricity_production": "60.51 billion kWh (2016 est.)",
+"electricity_consumption": "53.65 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "11.9 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "97% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "2% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "2% of total installed capacity (2017 est.)",
+"crude_oil_production": "3,000 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "21,860 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "28 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "26,280 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "106,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "901 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "81,570 bbl/day (2015 est.)",
+"natural_gas_production": "29.53 billion cu m (2017 est.)",
+"natural_gas_consumption": "29.53 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "185.8 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "79.97 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "710,189",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "145,113,669",
+"subscriptions_per_100_inhabitants": "92 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "inadequate for a modern country; introducing digital systems; trunk systems include VHF and UHF microwave radio relay links, and some fiber-optic cable in cities; fixed broadband penetration in Bangladesh remains very low mainly due to the dominance of the mobile platform; in July 2018&amp;nbsp; first test run of 5G technology in Bangladesh took place in Dhaka (2018)",
+"domestic": "fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds&amp;nbsp;92 telephones per 100 persons; slow to moderate mobile subscriber growth is&amp;nbsp;anticipated over the next five years to 2023; strong local competition (2018)",
+"international": "country code - 880; landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2019)",
+}, 
+"broadcast_media": "state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some channels, such as BTV World, operate via satellite. The government also owns a medium wave radio channel and some private FM radio broadcast news channels. Of the 41 Bangladesh approved TV stations, 26 are currently being used to broadcast. Of those, 23 operate under private management via cable distribution. Collectively, TV channels can reach more than 50 million people across the country.",
+"internet_country_code": ".bd",
+"internet_users": 
+{
+"total": "28,499,324",
+"percent_of_population": "18.2% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "7.296 million",
+"subscriptions_per_100_inhabitants": "5 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.37% of GDP",
+"2017": "1.38% of GDP",
+"2016": "1.44% of GDP",
+"2015": "1.46% of GDP",
+"2014": "1.36% of GDP",
+},
+"military_and_security_forces": "Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force (2019)",
+"military_service_age_and_obligation": "16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2018)",
+"maritime_threats": "the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; in 2018, the number of attacks against commercial vessels increased to 12 over the 11 such incidents in 2017",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "6 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "30 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "2,906,799 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "182,692,553 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "S2 (2016)",
+"airports": "18 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "16 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "2 (2017)",
+"1_524_to_2_437_m": "6 (2017)",
+"914_to_1_523_m": "1 (2017)",
+"under_914_m": "5 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "2 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"under_914_m": "1 (2013)",
+}, 
+"heliports": "3 (2013)",
+"pipelines": "2950 km gas (2013)",
+"railways": 
+{
+"total": "2,460 km (2014)",
+"narrow_gauge": "1,801 km 1.000-m gauge (2014)",
+"broad_gauge": "659 km 1.676-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "369,105 km (2018)",
+"paved": "110,311 km (2018)",
+"unpaved": "258,794 km (2018)",
+}, 
+"waterways": "8,370 km (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season) (2011)",
+"merchant_marine": 
+{
+"total": "329",
+"by_type": "bulk carrier 33, container ship 4, general cargo 77, oil tanker 122, other 93 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Chittagong",
+"container_port_s_teus": "Chittagong (2,566,597) (2017)",
+"river_port_s": "Mongla Port (Sela River)",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_home_based": 
+{
+"harakat_ul_jihad_i_islami_bangladesh_huji_b": "&lt;strong&gt;aim(s):&lt;/strong&gt; install an Islamic state in Bangladesh&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; headquartered in Bangladesh and mostly active in the southeast; maintains a network of madrassas in Bangladesh; has links with al-Qa&#39;ida and Pakistan-based terror groups advocating similar objectives, including Harakat-ul Jihad Islami (HUJI) and Lashkar e-Tayibba (LeT) (2019)",
+"islamic_state_of_iraq_and_ash_sham_isis_networks_in_bangladesh": "&lt;strong&gt;aim(s):&lt;/strong&gt; replace the Bangladesh Government with an Islamic state and implement ISIS&#39;s strict interpretation of Sharia; ISIS operates in Bangladesh under the name Islamic State in Bangladesh (ISB)&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operates primarily in Dhaka&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; targets foreigners, foreign aid workers, university professors, students, and secular bloggers for assassination; core ISIS refers to its Bangladesh branch as Bengal (2019)",
+}, 
+"terrorist_groups_foreign_based": 
+{
+"al_qa_ida_aq": "&lt;strong&gt;aim(s): &lt;/strong&gt;overthrow the Bangladesh Government and, ultimately, establish a pan-Islamic caliphate under a strict Salafi Muslim interpretation of sharia&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; operates in collaboration with its al-Qa&#39;ida in the Indian Subcontinent affiliate&lt;br /&gt;&lt;strong&gt;note:&amp;nbsp; &lt;/strong&gt;also known as Ansar al-Islam in Bangladesh (2019)",
+"al_qa_ida_in_the_indian_subcontinent_aqis": "&lt;strong&gt;aim(s): &lt;/strong&gt;protect Muslims in Bangladesh from perceived injustices and, ultimately, establish an Islamic caliphate in the Indian subcontinent&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; active throughout the country, targeting primarily military and security personnel, but also activists, bloggers, academics, and religious minorities&lt;br /&gt;&lt;strong&gt;note:&amp;nbsp; &lt;/strong&gt;also known as Ansar al-Islam in Bangladesh (2019)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh&#39;s September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox&#39;s Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "914,998 (Burma) (2019) (includes an estimated 744,400 Rohingya refugees who have fled conflict since 25 August 2017)",
+"idps": "426,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2018)",
+}, 
+"illicit_drugs": "transit country for illegal drugs produced in neighboring countries",
+}
+}

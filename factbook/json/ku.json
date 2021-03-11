@@ -1,0 +1,537 @@
+{
+"name": "Kuwait",
+"code": "KU",
+"publish_date": "December 05, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Kuwait has been ruled by the AL-SABAH dynasty since the 18th century. The threat of Ottoman invasion in 1899 prompted Amir Mubarak AL-SABAH to seek protection from Britain, ceding foreign and defense responsibility to Britain until 1961, when the country attained its independence. Kuwait was attacked and overrun by Iraq in August 1990. Following several weeks of aerial bombardment, a US-led UN coalition began a ground assault in February 1991 that liberated Kuwait in four days. In 1992, the Amir reconstituted the parliament that he had dissolved in 1986. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs, known as Bidoon, staged small protests in early 2011 demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Other demographic groups, notably Islamists and Kuwaitis from tribal backgrounds, soon joined the growing protest movements, which culminated in late 2011 with the resignation of the prime minister amidst allegations of corruption. Demonstrations renewed in late 2012 in response to an amiri decree amending the electoral law that lessened the voting power of the tribal blocs. &lt;br /&gt;&lt;br /&gt;An opposition coalition of Sunni Islamists, tribal populists, and some liberals, largely boycotted legislative elections in 2012 and 2013, which ushered in a legislature more amenable to the government&#39;s agenda. Faced with the prospect of painful subsidy cuts, oppositionists and independents actively participated in the November 2016 election, winning nearly half of the seats but a cohesive opposition alliance largely ceased to exist with the 2016 election and the opposition became increasingly factionalized. Since coming to power in 2006, the Amir has dissolved the National Assembly on seven occasions (the Constitutional Court annulled the Assembly elections in June 2012 and again in June 2013) and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Middle East, bordering the Persian Gulf, between Iraq and Saudi Arabia",
+"geographic_coordinates": "29 30 N, 45 45 E",
+"map_references": "Middle East",
+"area": 
+{
+"total": "17,818 sq km",
+"land": "17,818 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly smaller than New Jersey",
+"land_boundaries": 
+{
+"total": "475 km",
+"border_countries": "Iraq 254 km, Saudi Arabia 221 km",
+}, 
+"coastline": "499 km",
+"maritime_claims": "12 nm",
+"climate": "dry desert; intensely hot summers; short, cool winters",
+"terrain": "flat to slightly undulating desert plain",
+"elevation": 
+{
+"mean_elevation": "108 m",
+"lowest_point": "Persian Gulf 0 m",
+"highest_point": "3.6 km W. of Al-Salmi Border Post 300 m",
+}, 
+"natural_resources": "petroleum, fish, shrimp, natural gas",
+"land_use": 
+{
+"agricultural_land": "8.5% (2011 est.)",
+"agricultural_land_arable_land": "0.6% (2011 est.)",
+"agricultural_land_permanent_crops": "0.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "7.6% (2011 est.)",
+"forest": "0.4% (2011 est.)",
+"other": "91.1% (2011 est.)",
+}, 
+"irrigated_land": "105 sq km (2012)",
+"population_distribution": "densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country",
+"natural_hazards": "sudden cloudbursts are common from October to April and bring heavy rain, which can damage roads and houses; sandstorms and dust storms occur throughout the year but are most common between March and August",
+"environment_current_issues": "limited natural freshwater resources; some of world&#39;s largest and most sophisticated desalination facilities provide much of the water; air and water pollution; desertification; loss of biodiversity",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection",
+"signed_but_not_ratified": "Marine Dumping",
+}, 
+"geography_note": "strategic location at head of Persian Gulf",
+}, 
+"people_and_society": 
+{
+"population": "2,916,467 (July 2017 est.) (July 2018 est.)",
+"nationality": 
+{
+"noun": "Kuwaiti(s)",
+"adjective": "Kuwaiti",
+}, 
+"ethnic_groups": "Kuwaiti 30.4%, other Arab 27.4%, Asian 40.3%, African 1%, other .9% (includes European, North American, South American, and Australian) (2018 est.)",
+"languages": "Arabic (official), English widely spoken",
+"religions": "Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)",
+"age_structure": 
+{
+"0_14_years": "24.81% (male 376,652 /female 347,019)",
+"15_24_years": "15.04% (male 240,638 /female 197,946)",
+"25_54_years": "52.3% (male 961,205 /female 563,979)",
+"55_64_years": "5.2% (male 85,146 /female 66,373)",
+"65_years_and_over": "2.66% (male 35,117 /female 42,392) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "29.8 (2015 est.)",
+"youth_dependency_ratio": "27.1 (2015 est.)",
+"elderly_dependency_ratio": "2.7 (2015 est.)",
+"potential_support_ratio": "37.3 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "29.4 years (2018 est.)",
+"male": "30.5 years",
+"female": "27.6 years",
+}, 
+"population_growth_rate": "1.38% (2018 est.)",
+"birth_rate": "18.8 births/1,000 population (2018 est.)",
+"death_rate": "2.3 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-2.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country",
+"urbanization": 
+{
+"urban_population": "100% of total population (2019)",
+"rate_of_urbanization": "1.78% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "3.052 million KUWAIT (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.09 male(s)/female",
+"15_24_years": "1.22 male(s)/female",
+"25_54_years": "1.7 male(s)/female",
+"55_64_years": "1.28 male(s)/female",
+"65_years_and_over": "0.83 male(s)/female",
+"total_population": "1.4 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "12 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "6.8 deaths/1,000 live births (2018 est.)",
+"male": "6.6 deaths/1,000 live births",
+"female": "7 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "78.3 years (2018 est.)",
+"male": "76.9 years",
+"female": "79.8 years",
+}, 
+"total_fertility_rate": "2.35 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "99% of population",
+"improved_rural": "99% of population",
+"improved_total": "99% of population",
+"unimproved_urban": "1% of population",
+"unimproved_rural": "1% of population",
+"unimproved_total": "1% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.9% (2016)",
+"physicians_density": "2.58 physicians/1,000 population (2015)",
+"hospital_bed_density": "2 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "100% of population (2015 est.)",
+"improved_rural": "100% of population (2015 est.)",
+"improved_total": "100% of population (2015 est.)",
+"unimproved_urban": "0% of population (2015 est.)",
+"unimproved_rural": "0% of population (2015 est.)",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": " &lt;1000 (2018 est.)",
+"hiv_aids_deaths": " &lt;100 (2018 est.)",
+"obesity_adult_prevalence_rate": "37.9% (2016)",
+"children_under_the_age_of_5_years_underweight": "3% (2014)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "96%",
+"male": "96.7%",
+"female": "94.8% (2017)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "14 years",
+"male": "13 years",
+"female": "14 years (2013)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "15.4%",
+"male": "9.4% N/A",
+"female": "30% N/A (2016 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "State of Kuwait",
+"conventional_short_form": "Kuwait",
+"local_long_form": "Dawlat al Kuwayt",
+"local_short_form": "Al Kuwayt",
+"etymology": "the name derives from the capital city, which is from Arabic &quot;al-Kuwayt&quot; a diminutive of &quot;kut&quot; meaning &quot;fortress,&quot; possibly a reference to a small castle built on the current location of Kuwait City by the Beni Khaled tribe in the 17th century",
+}, 
+"government_type": "constitutional monarchy (emirate)",
+"capital": 
+{
+"name": "Kuwait City",
+"geographic_coordinates": "29 22 N, 47 58 E",
+"time_difference": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "6 governorates (muhafazat, singular - muhafazah); Al Ahmadi, Al &#39;Asimah, Al Farwaniyah, Al Jahra&#39;, Hawalli, Mubarak al Kabir",
+"independence": "19 June 1961 (from the UK)",
+"national_holiday": "National Day, 25 February (1950)",
+"constitution": 
+{
+"history": "approved and promulgated 11 November 1962",
+"amendments": "proposed by the amir or supported by at least one third of the National Assembly; passage requires two-thirds consent of the Assembly membership and promulgation by the amir; constitutional articles on the initiation, approval, and promulgation of general legislation cannot be amended (2016)",
+}, 
+"legal_system": "mixed legal system consisting of English common law, French civil law, and Islamic sharia law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Kuwait",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "not specified",
+}, 
+"suffrage": "21 years of age and at least 20-year citizenship",
+"executive_branch": 
+{
+"chief_of_state": "Amir SABAH al-Ahmad al-Jabir al-Sabah (since 29 January 2006); Crown Prince NAWAF al-Ahmad al-Jabir al-Sabah",
+"head_of_government": "Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah (since 30 November 2011); First Deputy Prime Minister NASIR Sabah al-Ahmad al-Sabah (since 11 December 2017); Deputy Prime Ministers SABAH KHALID al-Hamid&amp;nbsp;al-Sabah (since 13 December 2011), KHALID al-Jarrah al-Sabah (since 4 August 2013), Anas Khalid al-SALEH (since 4 August 2013); note - on 14 November 2019, the government of Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah resigned",
+"cabinet": "Council of Ministers appointed by the prime minister, approved by the amir",
+"elections_appointments": "amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&amp;nbsp;appointed by the amir; members serve 4-year terms)",
+"elections": "last held on 26 November 2016 (next to be held in 2020)",
+"election_results": "seats won - oppositionists and independents, including populists, Islamists, and liberals 26, pro-government loyalists 24; composition for elected members only - men 49, women 1, percent of women 1.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)",
+"judge_selection_and_term_of_office": "all Kuwaiti judges appointed by the Amir upon recommendation of the Supreme Judicial Council, a consultative body comprised of Kuwaiti judges and Ministry of Justice officials",
+"subordinate_courts": "High Court of Appeal; Court of First Instance; Summary Court",
+}, 
+"political_parties_and_leaders": "none; the government does not recognize any political parties or allow their formation, although no formal law bans political parties",
+"international_organization_participation": "ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador SALIM al-Abdallah al-Jabir al-Sabah (since 10 October 2001)",
+"chancery": "2940 Tilden Street NW, Washington, DC 20008",
+"telephone": "[1] (202) 966-0702",
+"fax": "[1] (202) 966-8468",
+"consulate_s_general": "New York City",
+"consulate_s": "Lost Angeles",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Lawrence R. SILVERMAN (since 5 October 2016)",
+"telephone": "[965] 2259-1001",
+"embassy": "P.O. Box 77, Safat 13001",
+"mailing_address": "P. O. Box 77 Safat 13001 Kuwait; or PSC 1280 APO AE 09880-9000",
+"fax": "[965] 2538-6562",
+}, 
+"flag_description": "three equal horizontal bands of green (top), white, and red with a black trapezoid based on the hoist side; colors and design are based on the Arab Revolt flag of World War I; green represents fertile fields, white stands for purity, red denotes blood on Kuwaiti swords, black signifies the defeat of the enemy",
+"national_symbol_s": "golden falcon; national colors: green, white, red, black",
+"national_anthem": 
+{
+"name": "&quot;Al-Nasheed Al-Watani&quot; (National Anthem)",
+"lyrics_music": "Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Kuwait has a geographically small, but wealthy, relatively open economy with crude oil reserves of about 102 billion barrels - more than 6% of world reserves. Kuwaiti officials plan to increase production to 4 million barrels of oil equivalent per day by 2020. Petroleum accounts for over half of GDP, 92% of export revenues, and 90% of government income.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;With world oil prices declining, Kuwait realized a budget deficit in 2015 for the first time more than a decade; in 2016, the deficit grew to 16.5% of GDP. Kuwaiti authorities announced cuts to fuel subsidies in August 2016, provoking outrage among the public and National Assembly, and the Amir dissolved the government for the seventh time in ten years. In 2017 the deficit was reduced to 7.2% of GDP, and the government raised $8 billion by issuing international bonds. Despite Kuwait’s dependence on oil, the government has cushioned itself against the impact of lower oil prices, by saving annually at least 10% of government revenue in the Fund for Future Generations.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kuwait has failed to diversify its economy or bolster the private sector, because of a poor business climate, a large public sector that employs about 74% of citizens, and an acrimonious relationship between the National Assembly and the executive branch that has stymied most economic reforms. The Kuwaiti Government has made little progress on its long-term economic development plan first passed in 2010. While the government planned to spend up to $104 billion over four years to diversify the economy, attract more investment, and boost private sector participation in the economy, many of the projects did not materialize because of an uncertain political situation or delays in awarding contracts. To increase non-oil revenues, the Kuwaiti Government in August 2017 approved draft bills supporting a Gulf Cooperation Council-wide value added tax scheduled to take effect in 2018.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$289.7 billion",
+"2016": "$299.7 billion",
+"2015": "$293.2 billion",
+},
+"gdp_official_exchange_rate": "$120.7 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "-3.3%",
+"2016": "2.2%",
+"2015": "-1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$65,800",
+"2016": "$69,900",
+"2015": "$69,200",
+},
+"gross_national_saving":
+{
+"2017": "35.4% of GDP",
+"2016": "32.9% of GDP",
+"2015": "37.1% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "43.1% (2017 est.)",
+"government_consumption": "24.5% (2017 est.)",
+"investment_in_fixed_capital": "26.5% (2017 est.)",
+"investment_in_inventories": "3.5% (2017 est.)",
+"exports_of_goods_and_services": "49.4% (2017 est.)",
+"imports_of_goods_and_services": "-47% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "0.4% (2017 est.)",
+"industry": "58.7% (2017 est.)",
+"services": "40.9% (2017 est.)",
+}, 
+"agriculture_products": "fish",
+"industries": "petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, food processing, construction materials",
+"industrial_production_growth_rate": "2.8% (2017 est.)",
+"labor_force": "2.695 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": " NA",
+"industry": " NA",
+"services": " NA",
+}, 
+"unemployment_rate":
+{
+"2017": "1.1%",
+"2016": "1.1%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "50.5 billion (2017 est.)",
+"expenditures": "62.6 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "41.8% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-10% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "20.6% of GDP",
+"2016": "9.9% of GDP",
+},
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.5%",
+"2016": "3.5%",
+},
+"central_bank_discount_rate":
+{
+"18 December 2017": "2.75%",
+"31 December 2016": "2.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "4.68%",
+"31 December 2016": "4.5%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$33.68 billion",
+"31 December 2016": "$31.86 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$33.68 billion",
+"31 December 2016": "$31.86 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$111.2 billion",
+"31 December 2016": "$103.4 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2016": "$81.78 billion",
+"31 December 2015": "$83.13 billion",
+"31 December 2014": "$99.77 billion",
+},
+"current_account_balance":
+{
+"2017": "$7.127 billion",
+"2016": "-$5.056 billion",
+},
+"exports":
+{
+"2017": "$55.17 billion",
+"2016": "$46.26 billion",
+},
+"exports_partners": "South Korea 18.3%, China 17.4%, Japan 11.5%, India 11.2%, Singapore 6.3%, US 5.7% (2017)",
+"exports_commodities": "oil and refined products, fertilizers",
+"imports":
+{
+"2017": "$29.53 billion",
+"2016": "$26.56 billion",
+},
+"imports_commodities": "food, construction materials, vehicles and parts, clothing",
+"imports_partners": "China 13.5%, US 13.3%, UAE 9.5%, Saudi Arabia 5.8%, Germany 5.4%, Japan 5%, India 4.7%, Italy 4.5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$33.7 billion",
+"31 December 2016": "$31.13 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$47.24 billion",
+"31 December 2016": "$38.34 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$12.9 billion",
+"31 December 2016": "$12.62 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$82.35 billion",
+"31 December 2016": "$74.13 billion",
+},
+"exchange_rates": 
+{
+"currency": "Kuwaiti dinars (KD) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.3041",
+"2016": "0.3022",
+"2015": "0.3022",
+"2014": "0.3009",
+"2013": "0.2845",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "65.95 billion kWh (2016 est.)",
+"electricity_consumption": "57.78 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "18.89 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "100% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "2.807 million bbl/day (2018 est.)",
+"crude_oil_exports": "479,700 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "101.5 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "915,800 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "446,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "705,500 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "0 bbl/day (2015 est.)",
+"natural_gas_production": "17.1 billion cu m (2017 est.)",
+"natural_gas_consumption": "21.72 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "5.125 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "1.784 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "106.5 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "542,082",
+"subscriptions_per_100_inhabitants": "19 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "5,136,384",
+"subscriptions_per_100_inhabitants": "179 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "the quality of service is excellent; new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, and open-wire and fiber-optic cable; a 4G LTE mobile-cellular telephone system operates throughout Kuwai; Internet access is available via 4G LTE connections for fixed and mobile users;&amp;nbsp;high ownership of smart phone in Kuwait; one of the highest mobile penetration rates in the world (2018)",
+"domestic": "fixed-line subscriptions are 19 per 100 and mobile-cellular stands at 179 per 100 subscriptions (2018)",
+"international": "country code - 965; landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON submarine cables&amp;nbsp;linking Africa, the Middle East, and Asia; microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) (2019)",
+}, 
+"broadcast_media": "state-owned TV broadcaster operates 4 networks and a satellite channel; several private TV broadcasters have emerged; satellite TV available&amp;nbsp;and pan-Arab TV stations are especially popular; state-owned Radio Kuwait broadcasts on a number of channels in Arabic and English; first private radio station emerged in 2005; transmissions of at least 2 international radio broadcasters are available (2019)",
+"internet_country_code": ".kw",
+"internet_users": 
+{
+"total": "2,219,972",
+"percent_of_population": "78.4% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "113,427",
+"subscriptions_per_100_inhabitants": "4 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "5.06% of GDP",
+"2017": "5.64% of GDP",
+"2016": "5.81% of GDP",
+"2015": "5.01% of GDP",
+"2014": "3.59% of GDP",
+},
+"military_and_security_forces": "Kuwaiti Armed Forces:&amp;nbsp; Kuwaiti Land Forces (KLF), Kuwaiti Navy (includes Coast Guard), Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), Kuwaiti National Guard (KNG) (2019)",
+"military_service_age_and_obligation": "17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases &amp;ndash; four months for training and eight months for military service. (2018)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "3 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "31 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "3,655,366 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "275,777,666 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "9K (2016)",
+"airports": "7 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "4 (2017)",
+"over_3_047_m": "1 (2017)",
+"2_438_to_3_047_m": "2 (2017)",
+"914_to_1_523_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "3 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"under_914_m": "2 (2013)",
+}, 
+"heliports": "4 (2013)",
+"pipelines": "261 km gas, 540 km oil, 57 km refined products (2013)",
+"roadways": 
+{
+"total": "5,749 km (2018)",
+"paved": "4,887 km (2018)",
+"unpaved": "862 km (2018)",
+}, 
+"merchant_marine": 
+{
+"total": "158",
+"by_type": "general cargo 18, oil tanker 26, other 114 (2018)",
+}, 
+"ports_and_terminals": "Ash Shu&#39;aybah, Ash Shuwaykh, Az Zawr (Mina&#39; Sa&#39;ud), Mina&#39; &#39;Abd Allah, Mina&#39; al Ahmadi",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Kuwait and Saudi Arabia continue negotiating a joint maritime boundary with Iran; no maritime boundary exists with Iraq in the Persian Gulf&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "92,000 (2018); note - Kuwait&#39;s 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning &quot;without&quot;); since the 1980s Kuwait&#39;s bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as &quot;illegal residents,&quot; denying them access to civil documentation, such as birth and marriage certificates",
+"trafficking_in_persons": 
+{
+"current_situation": "Kuwait is a destination country for men and women subjected to forced labor and, to a lesser degree, forced prostitution; men and women migrate from South and Southeast Asia, Egypt, the Middle East, and increasingly Africa to work in Kuwait, most of them in the domestic service, construction, and sanitation sectors; although most of these migrants enter Kuwait voluntarily, upon arrival some are subjected to conditions of forced labor by their sponsors and labor agents, including debt bondage; Kuwait’s sponsorship law restricts workers’ movements and penalizes them for running away from abusive workplaces, making domestic workers particularly vulnerable to forced labor in private homes",
+"tier_rating": "Tier 3 - Kuwait does not fully comply with the minimum standards for the elimination of trafficking and is not making sufficient efforts to do so; although investigations into visa fraud rings lead to the referral of hundreds of people for prosecution, including complicit officials, the government has not prosecuted or convicted any suspected traffickers; authorities made no effort to enforce the prohibition against withholding workers’ passports, as mandated under Kuwaiti law; punishment of forced labor cases was limited to shutting down labor recruitment firms, assessing fines, and ordering the return of withheld passports and the paying of back-wages; the government made progress in victims’ protection by opening a high-capacity shelter for runaway domestic workers but still lacks formal procedures to identify and refer victims to care services (2015)",
+}, 
+}
+}

@@ -1,0 +1,572 @@
+{
+"name": "Saudi Arabia",
+"code": "SA",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Saudi Arabia is the birthplace of Islam and home to Islam&#39;s two holiest shrines in Mecca and Medina. The king&#39;s official title is the Custodian of the Two Holy Mosques. The modern Saudi state was founded in 1932 by ABD AL-AZIZ bin Abd al-Rahman Al SAUD (Ibn Saud) after a 30-year campaign to unify most of the Arabian Peninsula. One of his male descendants rules the country today, as required by the country&#39;s 1992 Basic Law. Following Iraq&#39;s invasion of Kuwait in 1990, Saudi Arabia accepted the Kuwaiti royal family and 400,000 refugees while allowing Western and Arab troops to deploy on its soil for the liberation of Kuwait the following year. The continuing presence of foreign troops on Saudi soil after the liberation of Kuwait became a source of tension between the royal family and the public until all operational US troops left the country in 2003. Major terrorist attacks in May and November 2003 spurred a strong ongoing campaign against domestic terrorism and extremism. US troops returned to the Kingdom in October 2019 after attacks on Saudi oil infrastructure.&lt;/p&gt; &lt;p&gt;From 2005 to 2015, King ABDALLAH bin Abd al-Aziz Al Saud incrementally modernized the Kingdom. Driven by personal ideology and political pragmatism, he introduced a series of social and economic initiatives, including expanding employment and social opportunities for women, attracting foreign investment, increasing the role of the private sector in the economy, and discouraging businesses from hiring foreign workers. These reforms have accelerated under King SALMAN bin Abd al-Aziz, who ascended to the throne in 2015, and has since lifted the Kingdom&#39;s ban on women driving and allowed cinemas to operate for the first time in decades.&amp;nbsp;Saudi Arabia saw some protests during the 2011 Arab Spring but not the level of bloodshed seen in protests elsewhere in the region. Shia Muslims in the Eastern Province protested primarily against the detention of political prisoners, endemic discrimination, and Bahraini and Saudi Government actions in Bahrain. Riyadh took a cautious but firm approach by arresting some protesters but releasing most of them quickly and by using its state-sponsored clerics to counter political and Islamist activism.&lt;/p&gt; &lt;p&gt;The government held its first-ever elections in 2005 and 2011, when Saudis went to the polls to elect municipal councilors. In December 2015, women were allowed to vote and stand as candidates for the first time in municipal council elections, with 19 women winning seats. After King SALMAN ascended to the throne in 2015, he placed the first next-generation prince, MUHAMMAD BIN NAYIF bin Abd al-Aziz Al Saud, in the line of succession as Crown Prince. He designated his son, MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud, as the Deputy Crown Prince. In March 2015, Saudi Arabia led a coalition of 10 countries in a military campaign to restore the legitimate government of Yemen, which had been ousted by Huthi forces allied with former president ALI ABDULLAH al-Salih. The war in Yemen has drawn international criticism for civilian casualties and its effect on the country&amp;rsquo;s dire humanitarian situation. In December 2015, then Deputy Crown Prince MUHAMMAD BIN SALMAN announced Saudi Arabia would lead a 34-nation Islamic Coalition to fight terrorism (it has since grown to 41 nations). In May 2017, Saudi Arabia inaugurated the Global Center for Combatting Extremist Ideology (also known as &quot;Etidal&quot;) as part of its ongoing efforts to counter violent extremism. In June 2017, King SALMAN elevated MUHAMMAD BIN SALMAN to Crown Prince.&lt;/p&gt; &lt;p&gt;The country remains a leading producer of oil and natural gas and holds about 16% of the world&#39;s proven oil reserves as of 2015. The government continues to pursue economic reform and diversification, particularly since Saudi Arabia&#39;s accession to the WTO in 2005, and promotes foreign investment in the Kingdom. In April 2016, the Saudi Government announced a broad set of socio-economic reforms, known as Vision 2030. Low global oil prices throughout 2015 and 2016 significantly lowered Saudi Arabia&amp;rsquo;s governmental revenue. In response, the government cut subsidies on water, electricity, and gasoline; reduced government employee compensation packages; and announced limited new land taxes. In coordination with OPEC and some key non-OPEC countries, Saudi Arabia agreed cut oil output in early 2017 to regulate supply and help elevate global prices.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Middle East, bordering the Persian Gulf and the Red Sea, north of Yemen",
+"geographic_coordinates": "25 00 N, 45 00 E",
+"map_references": "Middle East",
+"area": 
+{
+"total": "2,149,690 sq km",
+"land": "2,149,690 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly more than one-fifth the size of the US",
+"land_boundaries": 
+{
+"total": "4,272 km",
+"border_countries": "Iraq 811 km, Jordan 731 km, Kuwait 221 km, Oman 658 km, Qatar 87 km, UAE 457 km, Yemen 1307 km",
+}, 
+"coastline": "2,640 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"contiguous_zone": "18 nm",
+"continental_shelf": " not specified",
+}, 
+"climate": "harsh, dry desert with great temperature extremes",
+"terrain": "mostly sandy desert",
+"elevation": 
+{
+"mean_elevation": "665 m",
+"lowest_point": "Persian Gulf 0 m",
+"highest_point": "Jabal Sawda&#39; 3,133 m",
+}, 
+"natural_resources": "petroleum, natural gas, iron ore, gold, copper",
+"land_use": 
+{
+"agricultural_land": "80.7% (2011 est.)",
+"agricultural_land_arable_land": "1.5% (2011 est.)",
+"agricultural_land_permanent_crops": "0.1% (2011 est.)",
+"agricultural_land_permanent_pasture": "79.1% (2011 est.)",
+"forest": "0.5% (2011 est.)",
+"other": "18.8% (2011 est.)",
+}, 
+"irrigated_land": "16,200 sq km (2012)",
+"population_distribution": "historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country&#39;s population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea",
+"natural_hazards": "&lt;p&gt;frequent sand and dust storms&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; despite many volcanic formations, there has been little activity in the past few centuries; volcanoes include Harrat Rahat, Harrat Khaybar, Harrat Lunayyir, and Jabal Yar&lt;/p&gt;",
+"environment_current_issues": "desertification; depletion of underground water resources; the lack of perennial rivers or permanent water bodies has prompted the development of extensive seawater desalination facilities; coastal pollution from oil spills; air pollution; waste management",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "Saudi Arabia is the largest country in the world without a river; extensive coastlines on the Persian Gulf and Red Sea allow&amp;nbsp;for considerable&amp;nbsp;shipping (especially of crude oil) through the Persian Gulf and Suez Canal",
+}, 
+"people_and_society": 
+{
+"population": "33,091,113 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Saudi(s)",
+"adjective": "Saudi or Saudi Arabian",
+}, 
+"ethnic_groups": "Arab 90%, Afro-Asian 10%",
+"languages": "Arabic (official)",
+"religions": "Muslim (official; citizens are 85-90% Sunni and 10-15% Shia), other (includes Eastern Orthodox, Protestant, Roman Catholic, Jewish, Hindu, Buddhist, and Sikh) (2012 est.)",
+"age_structure": 
+{
+"0_14_years": "25.74% (male 4,348,227 /female 4,170,944)",
+"15_24_years": "15.58% (male 2,707,229 /female 2,447,519)",
+"25_54_years": "49.88% (male 9,951,080 /female 6,554,525)",
+"55_64_years": "5.48% (male 1,112,743 /female 700,553)",
+"65_years_and_over": "3.32% (male 586,606 /female 511,687) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "40.9 (2015 est.)",
+"youth_dependency_ratio": "36.6 (2015 est.)",
+"elderly_dependency_ratio": "4.3 (2015 est.)",
+"potential_support_ratio": "23.2 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "29.9 years (2018 est.)",
+"male": "32.1 years",
+"female": "27.2 years",
+}, 
+"population_growth_rate": "1.63% (2018 est.)",
+"birth_rate": "15.6 births/1,000 population (2018 est.)",
+"death_rate": "3.3 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "4.1 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country&#39;s population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea",
+"urbanization": 
+{
+"urban_population": "84.1% of total population (2019)",
+"rate_of_urbanization": "2.17% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "7.071 million RIYADH (capital), 4.522 million Jeddah, 2.005 million Mecca, 1.459 million Medina, 1.225 million Ad Dammam (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.11 male(s)/female",
+"25_54_years": "1.52 male(s)/female",
+"55_64_years": "1.59 male(s)/female",
+"65_years_and_over": "1.15 male(s)/female",
+"total_population": "1.3 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "17 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "12.1 deaths/1,000 live births (2018 est.)",
+"male": "13 deaths/1,000 live births",
+"female": "11.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "75.7 years (2018 est.)",
+"male": "74.2 years",
+"female": "77.3 years",
+}, 
+"total_fertility_rate": "2.04 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "24.6% (2016)",
+"drinking_water_source": 
+{
+"improved_urban": "97% of population",
+"improved_rural": "97% of population",
+"improved_total": "97% of population",
+"unimproved_rural": "3% of population",
+"unimproved_total": "3% of population (2015 est.)",
+}, 
+"current_health_expenditure": "5.7% (2016)",
+"physicians_density": "2.39 physicians/1,000 population (2016)",
+"hospital_bed_density": "2.7 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "100% of population (2015 est.)",
+"improved_rural": "100% of population (2015 est.)",
+"improved_total": "100% of population (2015 est.)",
+"unimproved_urban": "0% of population (2015 est.)",
+"unimproved_rural": "0% of population (2015 est.)",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2016 est.)",
+"hiv_aids_people_living_with_hiv_aids": "8,200 (2016 est.)",
+"hiv_aids_deaths": " &lt;500 (2016 est.)",
+"obesity_adult_prevalence_rate": "35.4% (2016)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "94.7%",
+"male": "97%",
+"female": "91.1% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "17 years",
+"male": "18 years",
+"female": "16 years (2014)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "24.2%",
+"male": "17.4%",
+"female": "46.3% (2016 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Kingdom of Saudi Arabia",
+"conventional_short_form": "Saudi Arabia",
+"local_long_form": "Al Mamlakah al Arabiyah as Suudiyah",
+"local_short_form": "Al Arabiyah as Suudiyah",
+"etymology": "named after the ruling dynasty of the country, the House of Saud; the name &quot;Arabia&quot; can be traced back many centuries B.C., the ancient Egyptians referred to the region as &quot;Ar Rabi&quot;",
+}, 
+"government_type": "absolute monarchy",
+"capital": 
+{
+"name": "Riyadh",
+"geographic_coordinates": "24 39 N, 46 42 E",
+"time_difference": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "13 regions (manatiq, singular - mintaqah); Al Bahah, Al Hudud ash Shamaliyah (Northern Border), Al Jawf, Al Madinah al Munawwarah (Medina), Al Qasim, Ar Riyad (Riyadh), Ash Sharqiyah (Eastern), &#39;Asir, Ha&#39;il, Jazan, Makkah al Mukarramah (Mecca), Najran, Tabuk",
+"independence": "23 September 1932 (unification of the kingdom)",
+"national_holiday": "Saudi National Day (Unification of the Kingdom), 23 September (1932)",
+"constitution": 
+{
+"history": "1 March 1992 - Basic Law of Government, issued by royal decree, serves as the constitutional framework and is based on the Qur&#39;an and the life and traditions of the Prophet Muhammad",
+"amendments": "proposed by the king directly or proposed to the king by the Consultative Assembly or by the Council of Ministers; passage by the king through royal decree; Basic Law amended many times, last in 2005 (2016)",
+}, 
+"legal_system": "Islamic (sharia) legal system with some elements of Egyptian, French, and customary law; note - several secular codes have been introduced; commercial disputes handled by special committees",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "the father must be a citizen of Saudi Arabia; a child born out of wedlock in Saudi Arabia to a Saudi mother and unknown father",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; restricted to males; universal for municipal elections",
+"executive_branch": 
+{
+"chief_of_state": "King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985); note - the monarch is both chief of state and head of government",
+"head_of_government": "King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)",
+"cabinet": "Council of Ministers appointed by the monarch every 4 years and includes many royal family members",
+"elections_appointments": "none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings",
+}, 
+"legislative_branch": "unicameral Consultative Council or Majlis al-Shura (150 seats; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council",
+"judicial_branch": 
+{
+"highest_courts": "High Court (consists of the court chief and is organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)",
+"judge_selection_and_term_of_office": "High Court chief and chiefs of the High Court Circuits appointed by royal decree upon the recommendation of the Supreme Judiciary Council, a 10-member body of high-level judges and other judicial heads; new judges and assistant judges serve 1- and 2-year probations, respectively, before permanent assignment",
+"subordinate_courts": "Court of Appeals; Specialized Criminal Court, first-degree courts composed of general, criminal, personal status, and commercial courts; Labor Court; a hierarchy of administrative courts",
+}, 
+"political_parties_and_leaders": "none",
+"international_organization_participation": "ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Prinecss REEMA bint Bandar Al Saud (since 8 July 2019)",
+"chancery": "601 New Hampshire Avenue NW, Washington, DC 20037",
+"telephone": "[1] (202) 342-3800",
+"fax": "[1] (202) 944-5983",
+"consulate_s_general": "Houston, Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador John P. ABIZAID (since 8 May 2019)",
+"telephone": "[966] (11) 488-3800",
+"embassy": "P.O. Box 94309, Riyadh 11693",
+"mailing_address": "American Embassy, Unit 61307, APO AE 09803-1307; International Mail: P. O. Box 94309, Riyadh 11693",
+"fax": "[966] (11) 488-7360",
+"consulate_s_general": "Dhahran, Jiddah (Jeddah)",
+}, 
+"flag_description": "green, a traditional color in Islamic flags, with the Shahada or Muslim creed in large white Arabic script (translated as &quot;There is no god but God; Muhammad is the Messenger of God&quot;) above a white horizontal saber (the tip points to the hoist side); design dates to the early twentieth century and is closely associated with the Al Saud family, which established the kingdom in 1932; the flag is manufactured with differing obverse and reverse sides so that the Shahada reads - and the sword points - correctly from right to left on both sides",
+"national_symbol_s": "palm tree surmounting two crossed swords; national colors: green, white",
+"national_anthem": 
+{
+"name": "&quot;Aash Al Maleek&quot; (Long Live Our Beloved King)",
+"lyrics_music": "Ibrahim KHAFAJI/Abdul Rahman al-KHATEEB",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Saudi Arabia has an oil-based economy with strong government controls over major economic activities. It possesses about 16% of the world&#39;s proven petroleum reserves, ranks as the largest exporter of petroleum, and plays a leading role in OPEC. The petroleum sector accounts for roughly 87% of budget revenues, 42% of GDP, and 90% of export earnings.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Saudi Arabia is encouraging the growth of the private sector in order to diversify its economy and to employ more Saudi nationals. Approximately 6 million foreign workers play an important role in the Saudi economy, particularly in the oil and service sectors; at the same time, however, Riyadh is struggling to reduce unemployment among its own nationals. Saudi officials are particularly focused on employing its large youth population.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In 2017, the Kingdom incurred a budget deficit estimated at 8.3% of GDP, which was financed by bond sales and drawing down reserves. Although the Kingdom can finance high deficits for several years by drawing down its considerable foreign assets or by borrowing, it has cut capital spending and reduced subsidies on electricity, water, and petroleum products and recently introduced a value-added tax of 5%. In January 2016, Crown Prince and Deputy Prime Minister MUHAMMAD BIN SALMAN announced that Saudi Arabia intends to list shares of its state-owned petroleum company, ARAMCO - another move to increase revenue and outside investment. The government has also looked at privatization and diversification of the economy more closely in the wake of a diminished oil market. Historically, Saudi Arabia has focused diversification efforts on power generation, telecommunications, natural gas exploration, and petrochemical sectors. More recently, the government has approached investors about expanding the role of the private sector in the health care, education and tourism industries. While Saudi Arabia has emphasized their goals of diversification for some time, current low oil prices may force the government to make more drastic changes ahead of their long-run timeline.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$1.775 trillion",
+"2016": "$1.79 trillion",
+"2015": "$1.761 trillion",
+},
+"gdp_official_exchange_rate": "$686.7 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "-0.9%",
+"2016": "1.7%",
+"2015": "4.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$54,500",
+"2016": "$56,400",
+"2015": "$56,800",
+},
+"gross_national_saving":
+{
+"2017": "30.1% of GDP",
+"2016": "27.2% of GDP",
+"2015": "26.5% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "41.3% (2017 est.)",
+"government_consumption": "24.5% (2017 est.)",
+"investment_in_fixed_capital": "23.2% (2017 est.)",
+"investment_in_inventories": "4.7% (2017 est.)",
+"exports_of_goods_and_services": "34.8% (2017 est.)",
+"imports_of_goods_and_services": "-28.6% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "2.6% (2017 est.)",
+"industry": "44.2% (2017 est.)",
+"services": "53.2% (2017 est.)",
+}, 
+"agriculture_products": "wheat, barley, tomatoes, melons, dates, citrus; mutton, chickens, eggs, milk",
+"industries": "crude oil production, petroleum refining, basic petrochemicals, ammonia, industrial gases, sodium hydroxide (caustic soda), cement, fertilizer, plastics, metals, commercial ship repair, commercial aircraft repair, construction",
+"industrial_production_growth_rate": "-2.4% (2017 est.)",
+"labor_force": "13.8 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "6.7%",
+"industry": "21.4%",
+"services": "71.9% (2005 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "6%",
+"2016": "5.6%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2013": "45.9",
+},
+"budget": 
+{
+"revenues": "181 billion (2017 est.)",
+"expenditures": "241.8 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "26.4% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-8.9% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "17.2% of GDP",
+"2016": "13.1% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "-0.9%",
+"2016": "2%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2008": "2.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "8.3%",
+"31 December 2016": "7.1%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$312.6 billion",
+"31 December 2016": "$305.2 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$312.6 billion",
+"31 December 2016": "$305.2 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$267.1 billion",
+"31 December 2016": "$219.7 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$421.1 billion",
+"31 December 2014": "$483.1 billion",
+"31 December 2013": "$467.4 billion",
+},
+"current_account_balance":
+{
+"2017": "$15.23 billion",
+"2016": "-$23.87 billion",
+},
+"exports":
+{
+"2017": "$221.1 billion",
+"2016": "$183.6 billion",
+},
+"exports_partners": "Japan 12.2%, China 11.7%, South Korea 9%, India 8.9%, US 8.3%, UAE 6.7%, Singapore 4.2% (2017)",
+"exports_commodities": "petroleum and petroleum products 90% (2012 est.)",
+"imports":
+{
+"2017": "$119.3 billion",
+"2016": "$127.8 billion",
+},
+"imports_commodities": "machinery and equipment, foodstuffs, chemicals, motor vehicles, textiles",
+"imports_partners": "China 15.4%, US 13.6%, UAE 6.5%, Germany 5.8%, Japan 4.1%, India 4.1%, South Korea 4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$496.4 billion",
+"31 December 2016": "$535.8 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$205.1 billion",
+"31 December 2016": "$189.3 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$264.6 billion",
+"31 December 2016": "$258.1 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$56.09 billion",
+"31 December 2016": "$46.45 billion",
+},
+"exchange_rates": 
+{
+"currency": "Saudi riyals (SAR) per US dollar -",
+"exchange_rates":
+{
+"2017": "3.75",
+"2016": "3.75",
+"2015": "3.75",
+"2014": "3.75",
+"2013": "3.75",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"electrification_total_population": "99% (2017)",
+"electrification_urban_areas": "100% (2017)",
+"electrification_rural_areas": "98% (2017)",
+}, 
+"electricity_production": "324.1 billion kWh (2016 est.)",
+"electricity_consumption": "296.2 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "82.94 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "100% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "10.425 million bbl/day (2018 est.)",
+"crude_oil_exports": "7.341 million bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "266.2 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "2.476 million bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "3.287 million bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "1.784 million bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "609,600 bbl/day (2015 est.)",
+"natural_gas_production": "109.3 billion cu m (2017 est.)",
+"natural_gas_consumption": "109.3 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "8.619 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "657.1 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "3,619,352",
+"subscriptions_per_100_inhabitants": "13 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "40,210,965",
+"subscriptions_per_100_inhabitants": "141 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern system including a combination of extensive microwave radio relays, coaxial cables, and fiber-optic cables; broadband is available with DSL, fibre, and wireless; mobile penetration is steep in Saudi Arabia; 4G/5G use&amp;nbsp;in early 2019 (2018)",
+"domestic": "fixed-line 13 per 100 mobile-cellular subscribership has been increasing rapidly 141 per 100 persons (2018)",
+"international": "country code - 966; landing points for the&amp;nbsp;SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia&amp;nbsp;;microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)",
+}, 
+"broadcast_media": "broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Arabia is a major market for pan-Arab satellite TV broadcasters; state-run radio operates several networks; multiple international broadcasters are available",
+"internet_country_code": ".sa",
+"internet_users": 
+{
+"total": "20,768,456",
+"percent_of_population": "73.8% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "2,498,692",
+"subscriptions_per_100_inhabitants": "9 (2017 est.)",
+}, 
+"communications_note": "the innovative King Abdulaziz Center for World Culture (informally known as Ithra, meaning &quot;enrichment&quot;) opened on 1 December 2017 in Dhahran, Eastern Region; its facilities include a grand library, several museums, an archive, an Idea Lab, a theater, a cinema, and an Energy Exhibit, all which are meant to provide visitors an immersive and transformative experience",
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "8.78% of GDP",
+"2017": "10.25% of GDP",
+"2016": "9.87% of GDP",
+"2015": "13.33% of GDP",
+"2014": "10.68% of GDP",
+},
+"military_and_security_forces": "Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard (SANG); Ministry of Interior:&amp;nbsp; Border Guard, Facilities Security Force (2019)",
+"military_service_age_and_obligation": "17 is the legal minimum age for voluntary military service; no conscription; in 2018, women were allowed to serve as soldiers in the internal security services under certain requirements (2018)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "12 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "214 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "32,778,827 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "1,783,086,000 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "HZ (2016)",
+"airports": "214 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "82 (2017)",
+"over_3_047_m": "33 (2017)",
+"2_438_to_3_047_m": "16 (2017)",
+"1_524_to_2_437_m": "27 (2017)",
+"914_to_1_523_m": "2 (2017)",
+"under_914_m": "4 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "132 (2013)",
+"2_438_to_3_047_m": "7 (2013)",
+"1_524_to_2_437_m": "72 (2013)",
+"914_to_1_523_m": "37 (2013)",
+"under_914_m": "16 (2013)",
+}, 
+"heliports": "10 (2013)",
+"pipelines": "209 km condensate, 2940 km gas, 1183 km liquid petroleum gas, 5117 km oil, 1151 km refined products (2013)",
+"railways": 
+{
+"total": "5,410 km (2016)",
+"standard_gauge": "5,410 km 1.435-m gauge (with branch lines and sidings) (2016)",
+}, 
+"roadways": 
+{
+"total": "221,372 km (2006)",
+"paved": "47,529 km (includes 3,891 km of expressways) (2006)",
+"unpaved": "173,843 km (2006)",
+}, 
+"merchant_marine": 
+{
+"total": "380",
+"by_type": "bulk carrier 5, container ship 1, general cargo 19, oil tanker 65, other 290 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu&#39;",
+"container_port_s_teus": "Ad Dammam (1,582,388), Jeddah (4,150,000), King Abdulla&amp;nbsp;(1,695,322) (2017)",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": 
+{
+"al_qa_ida_aq": "&lt;strong&gt;aim(s):&lt;/strong&gt; oppose the Saudi Islamic monarchy due to its cooperation with the US and the West, particularly US military bases in the Kingdom; eradicate US and Western influence and presence from Saudi Arabia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains familial connections but lacks a persistent operational presence; probably retains some supporters in the country who could facilitate future operations (2018)",
+"al_qa_ida_in_the_arabian_peninsula_aqap": "&lt;strong&gt;aim(s):&lt;/strong&gt; ultimately overthrow the Saudi Islamic monarchy; eradicate US and Western influence and presence from Yemen and the rest of the Arabian Peninsula&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains familial connections but lacks an operational presence inside Saudi Arabia; operates widely in neighboring Yemen (2018)",
+"islamic_state_of_iraq_and_ash_sham_isis_saudi_arabia": "&lt;strong&gt;aim(s):&lt;/strong&gt; replace the Saudi Islamic monarchy with an Islamic state applying ISIS&#39;s strict interpretation of Sharia; target minority Shia Muslims, Saudi security personnel, and their interests&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains a recruitment presence; conducts deadly strikes against Saudi security personnel and bombs Shia Muslim mosques, markets, and other places where Shia Muslims gather (2018)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Saudi Arabia has reinforced its concrete-filled security barrier along sections of the now fully demarcated border with Yemen to stem illegal cross-border activities; Kuwait and Saudi Arabia continue discussions on a maritime boundary with Iran; Saudi Arabia claims Egyptian-administered islands of Tiran and Sanafir&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "30,000 (Yemen) (2017)",
+"stateless_persons": "70,000 (2018); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness",
+}, 
+"trafficking_in_persons": 
+{
+"current_situation": "Saudi Arabia is a destination country for men and women subjected to forced labor and, to a lesser extent, forced prostitution; men and women from South and East Asia, the Middle East, and Africa who voluntarily travel to Saudi Arabia as domestic servants or low-skilled laborers subsequently face conditions of involuntary servitude, including nonpayment and withholding of passports; some migrant workers are forced to work indefinitely beyond the term of their contract because their employers will not grant them a required exit visa; female domestic workers are particularly vulnerable because of their isolation in private homes; women, primarily from Asian and African countries, are believed to be forced into prostitution in Saudi Arabia, while other foreign women were reportedly kidnapped and forced into prostitution after running away from abusive employers; children from South Asia, East Africa, and Yemen are subjected to forced labor as beggars and street vendors in Saudi Arabia, facilitated by criminal gangs",
+"tier_rating": "Tier 2 Watch List - Saudi Arabia does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; government officials and high-level religious leaders demonstrated greater political will to combat trafficking and publically acknowledged the problem – specifically forced labor; the government reported increased numbers of prosecutions and convictions of trafficking offenders; however, it did not proactively investigate and prosecute employers for potential labor trafficking crimes following their withholding of workers’ wages and passports, which are illegal; authorities did not systematically use formal criteria to proactively identify victims, resulting in some unidentified victims being arrested, detained, deported, and sometimes prosecuted; more victims were identified and referred to protective services in 2014 than the previous year, but victims of sex trafficking and male trafficking victims were not provided with shelter and remained vulnerable to punishment (2015)",
+}, 
+"illicit_drugs": "regularly enforces the death penalty for drug traffickers, with foreigners being convicted and executed disproportionately; improving anti-money-laundering legislation and enforcement",
+}
+}

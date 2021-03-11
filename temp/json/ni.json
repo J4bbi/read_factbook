@@ -1,0 +1,587 @@
+{
+"name": "Nigeria",
+"code": "NI",
+"publish_date": "December 26, 2019",
+"introduction": 
+{
+"background": "British influence and control over what would become Nigeria and Africa&#39;s most populous country grew through the 19th century. A series of constitutions after World War II granted Nigeria greater autonomy. After independence in 1960, politics were marked by coups and mostly military rule, until the death of a military head of state in 1998 allowed for a political transition. In 1999, a new constitution was adopted and a peaceful transition to civilian government was completed. The government continues to face the daunting task of institutionalizing democracy and reforming a petroleum-based economy, whose revenues have been squandered through corruption and mismanagement. In addition, Nigeria continues to experience longstanding ethnic and religious tensions. Although both the 2003 and 2007 presidential elections were marred by significant irregularities and violence, Nigeria is currently experiencing its longest period of civilian rule since independence. The general elections of 2007 marked the first civilian-to-civilian transfer of power in the country&#39;s history and the elections of 2011 were generally regarded as credible. The 2015 election was heralded for the fact that the then-umbrella opposition party, the All Progressives Congress, defeated the long-ruling People&#39;s Democratic Party that had governed since 1999 and assumed the presidency after a peaceful transfer of power. Successful presidential and legislative elections were held in early 2019.",
+}, 
+"geography": 
+{
+"location": "Western Africa, bordering the Gulf of Guinea, between Benin and Cameroon",
+"geographic_coordinates": "10 00 N, 8 00 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "923,768 sq km",
+"land": "910,768 sq km",
+"water": "13,000 sq km",
+}, 
+"area_comparative": "about six times the size of Georgia; slightly more than twice the size of California",
+"land_boundaries": 
+{
+"total": "4,477 km",
+"border_countries": "Benin 809 km, Cameroon 1975 km, Chad 85 km, Niger 1608 km",
+}, 
+"coastline": "853 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"continental_shelf": " 200-m depth or to the depth of exploitation",
+}, 
+"climate": "varies; equatorial in south, tropical in center, arid in north",
+"terrain": "southern lowlands merge into central hills and plateaus; mountains in southeast, plains in north",
+"elevation": 
+{
+"mean_elevation": "380 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Chappal Waddi 2,419 m",
+}, 
+"natural_resources": "natural gas, petroleum, tin, iron ore, coal, limestone, niobium, lead, zinc, arable land",
+"land_use": 
+{
+"agricultural_land": "78% (2011 est.)",
+"agricultural_land_arable_land": "37.3% (2011 est.)",
+"agricultural_land_permanent_crops": "7.4% (2011 est.)",
+"agricultural_land_permanent_pasture": "33.3% (2011 est.)",
+"forest": "9.5% (2011 est.)",
+"other": "12.5% (2011 est.)",
+}, 
+"irrigated_land": "2,930 sq km (2012)",
+"population_distribution": "largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest",
+"natural_hazards": "periodic droughts; flooding",
+"environment_current_issues": "serious overpopulation and rapid urbanization have led to numerous environmental problems; urban air and water pollution; rapid deforestation; soil degradation; loss of arable land; oil pollution - water, air, and soil have suffered serious damage from oil spills",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "the Niger River enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea",
+}, 
+"people_and_society": 
+{
+"population": "203,452,505 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Nigerian(s)",
+"adjective": "Nigerian",
+}, 
+"ethnic_groups": "Hausa 30%, Yoruba 15.5%, Igbo (Ibo) 15.2%, Fulani 6%, Tiv 2.4%, Kanuri/Beriberi 2.4%, Ibibio 1.8%, Ijaw/Izon 1.8%, other 24.7% (2018 est.)",
+"languages": "English (official), Hausa, Yoruba, Igbo (Ibo), Fulani, over 500 additional indigenous languages",
+"religions": "Muslim 53.5%, Roman Catholic 10.6%, other Christian 35.3%, other .6% (2018 est.)",
+"demographic_profile": "&lt;p&gt;Nigeria’s population is projected to grow from more than 186 million people in 2016 to 392 million in 2050, becoming the world’s fourth most populous country. Nigeria’s sustained high population growth rate will continue for the foreseeable future because of population momentum and its high birth rate. Abuja has not successfully implemented family planning programs to reduce and space births because of a lack of political will, government financing, and the availability and affordability of services and products, as well as a cultural preference for large families. Increased educational attainment, especially among women, and improvements in health care are needed to encourage and to better enable parents to opt for smaller families.&lt;/p&gt;&lt;p&gt;Nigeria needs to harness the potential of its burgeoning youth population in order to boost economic development, reduce widespread poverty, and channel large numbers of unemployed youth into productive activities and away from ongoing religious and ethnic violence. While most movement of Nigerians is internal, significant emigration regionally and to the West provides an outlet for Nigerians looking for economic opportunities, seeking asylum, and increasingly pursuing higher education. Immigration largely of West Africans continues to be insufficient to offset emigration and the loss of highly skilled workers. Nigeria also is a major source, transit, and destination country for forced labor and sex trafficking.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "42.45% (male 44,087,799 /female 42,278,742)",
+"15_24_years": "19.81% (male 20,452,045 /female 19,861,371)",
+"25_54_years": "30.44% (male 31,031,253 /female 30,893,168)",
+"55_64_years": "4.04% (male 4,017,658 /female 4,197,739)",
+"65_years_and_over": "3.26% (male 3,138,206 /female 3,494,524) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "88.2 (2015 est.)",
+"youth_dependency_ratio": "83 (2015 est.)",
+"elderly_dependency_ratio": "5.1 (2015 est.)",
+"potential_support_ratio": "19.4 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "18.3 years (2018 est.)",
+"male": "18.1 years",
+"female": "18.6 years",
+}, 
+"population_growth_rate": "2.54% (2018 est.)",
+"birth_rate": "35.2 births/1,000 population (2018 est.)",
+"death_rate": "9.6 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-0.2 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest",
+"urbanization": 
+{
+"urban_population": "51.2% of total population (2019)",
+"rate_of_urbanization": "4.23% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "13.904 million Lagos, 3.906 million Kano, 3.464 million Ibadan, 3.095 million ABUJA (capital), 2.873 million Port Harcourt, 1.676 million Benin City (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.03 male(s)/female",
+"25_54_years": "1 male(s)/female",
+"55_64_years": "0.96 male(s)/female",
+"65_years_and_over": "0.9 male(s)/female",
+"total_population": "1.02 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "20.3 years (2013 est.)",
+"maternal_mortality_rate": "917 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "63.3 deaths/1,000 live births (2018 est.)",
+"male": "69.1 deaths/1,000 live births",
+"female": "57.3 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "59.3 years (2018 est.)",
+"male": "57.5 years",
+"female": "61.1 years",
+}, 
+"total_fertility_rate": "4.85 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "27.6% (2018)",
+"drinking_water_source": 
+{
+"improved_urban": "80.8% of population",
+"improved_rural": "57.3% of population",
+"improved_total": "68.5% of population",
+"unimproved_urban": "19.2% of population",
+"unimproved_rural": "42.7% of population",
+"unimproved_total": "31.5% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.6% (2016)",
+"physicians_density": "0.38 physicians/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "32.8% of population (2015 est.)",
+"improved_rural": "25.4% of population (2015 est.)",
+"improved_total": "29% of population (2015 est.)",
+"unimproved_urban": "67.2% of population (2015 est.)",
+"unimproved_rural": "74.6% of population (2015 est.)",
+"unimproved_total": "71% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "1.5% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "1.9 million (2018 est.)",
+"hiv_aids_deaths": "53,200 (2017 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria, dengue fever, and yellow fever (2016)",
+"water_contact_diseases": "leptospirosis and schistosomiasis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+"respiratory_diseases": "meningococcal meningitis (2016)",
+"aerosolized_dust_or_soil_contact_diseases": "Lassa fever (2016)",
+}, 
+"obesity_adult_prevalence_rate": "8.9% (2016)",
+"children_under_the_age_of_5_years_underweight": "31.5% (2016)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "59.6%",
+"male": "69.2%",
+"female": "49.7% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "9 years",
+"male": "9 years",
+"female": "8 years (2011)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "12.4%",
+"male": " NA",
+"female": " NA (2016 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Federal Republic of Nigeria",
+"conventional_short_form": "Nigeria",
+"etymology": "named for the Niger River that flows through the west of the country to the Atlantic Ocean; from a native term &quot;Ni Gir&quot; meaning &quot;River Gir&quot;",
+}, 
+"government_type": "federal presidential republic",
+"capital": 
+{
+"name": "Abuja",
+"geographic_coordinates": "9 05 N, 7 32 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "36 states and 1 territory*; Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Federal Capital Territory*, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe, Zamfara",
+"independence": "1 October 1960 (from the UK)",
+"national_holiday": "Independence Day (National Day), 1 October (1960)",
+"constitution": 
+{
+"history": "several previous; latest adopted 5 May 1999, effective 29 May 1999",
+"amendments": "proposed by the National Assembly; passage requires at least two-thirds majority vote of both houses and approval by the Houses of Assembly of at least two thirds of the states; amendments to constitutional articles on the creation of a new state, fundamental constitutional rights, or constitution-amending procedures requires at least four-fifths majority vote by both houses of the National Assembly and approval by the Houses of Assembly in at least two thirds of the states; passage of amendments limited to the creation of a new state require at least two-thirds majority vote by the proposing National Assembly house and approval by the Houses of Assembly in two thirds of the states; amended several times, last in 2018 (2018)",
+}, 
+"legal_system": "mixed legal system of English common law, Islamic law (in 12 northern states), and traditional law",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Nigeria",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "15 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Maj. Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi &quot;Yemi&quot; OSINBAJO (since 29 May 2015); note - the president is both chief of state, head of government, and commander-in-chief of the armed forces",
+"head_of_government": "President Maj.Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi &quot;Yemi&quot; OSINBAJO (since 29 May 2015)",
+"cabinet": "Federal Executive Council appointed by the president but constrained constitutionally to include at least one member from each of the 36 states",
+"elections_appointments": "president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria&#39;s 36 states; president elected for a 4-year term (eligible for a second term); election last held on 23 February 2019 (next to be held in February 2023); note: the election was scheduled for 16 February 2019, but postponed on 16 February 2019",
+"election_results": "Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKER (PDP) 39%, other 8%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral National Assembly consists of:&lt;br /&gt;Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)&lt;br /&gt; House of Representatives (360 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)",
+"elections": "Senate - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019&lt;br /&gt; House of Representatives - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019",
+"election_results": "Senate - percent of vote by party - NA; seats by party - APC 65, PDP 39, YPP 1, TBD 3; composition - men 103, women 6, percent of women 5.5%&lt;br /&gt; House of Representatives - percent of vote by party - NA; seats by party - APC 217, PDP 115, other 20, TBD 8; composition - men 346, women 14, percent of women 3.9%; note - total National Assembly percent of women 4.3%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the chief justice and 15 justices)",
+"judge_selection_and_term_of_office": "judges appointed by the president upon the recommendation of the National Judicial Council, a 23-member independent body of federal and state judicial officials; judge appointments confirmed by the Senate; judges serve until age 70",
+"subordinate_courts": "Court of Appeal; Federal High Court; High Court of the Federal Capital Territory; Sharia Court of Appeal of the Federal Capital Territory; Customary Court of Appeal of the Federal Capital Territory; state court system similar in structure to federal system",
+}, 
+"political_parties_and_leaders": "Accord Party or ACC [Mohammad Lawal MALADO]&lt;br /&gt;All Progressives Congress or APC [Adams OSHIOMHOLE]&lt;br /&gt;All Progressives Grand Alliance or APGA [Victor Ike OYE]&lt;br /&gt;Democratic Peoples Party or DPP [Biodun OGUNBIYI]&lt;br /&gt;Labor Party or LP [Alhai Abdulkadir ABDULSALAM]&lt;br /&gt;Peoples Democratic Party or PDP [Uche SECONDUS]&lt;br /&gt;Young Progressive Party or YPP [Kingsley MOGHALU]",
+"international_organization_participation": "ACP, AfDB, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Sylvanus Adiewere NSOFOR (since 29 November 2017)",
+"chancery": "3519 International Court NW, Washington, DC 20008",
+"telephone": "[1] (202) 516-4277",
+"fax": "[1] (202) 362-6541",
+"consulate_s_general": "Atlanta, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Mary Beth LEONARD (since&amp;nbsp;24 December 2019)",
+"telephone": "[234] (9) 461-4000",
+"embassy": "Plot 1075 Diplomatic Drive, Central District Area, Abuja",
+"mailing_address": "P. O. Box 5760, Garki, Abuja",
+"fax": "[234] (9) 461-4036",
+"consulate_s": "Lagos",
+}, 
+"flag_description": "three equal vertical bands of green (hoist side), white, and green; the color green represents the forests and abundant natural wealth of the country, white stands for peace and unity",
+"national_symbol_s": "eagle; national colors: green, white",
+"national_anthem": 
+{
+"name": "Arise Oh Compatriots, Nigeria&#39;s Call Obey",
+"lyrics_music": "John A. ILECHUKWU, Eme Etim AKPAN, B.A. OGUNNAIKE, Sotu OMOIGUI and P.O. ADERIBIGBE/Benedict Elide ODIASE",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Nigeria is Sub Saharan Africa’s largest economy and relies heavily on oil as its main source of foreign exchange earnings and government revenues. Following the 2008-09 global financial crises, the banking sector was effectively recapitalized and regulation enhanced. Since then, Nigeria’s economic growth has been driven by growth in agriculture, telecommunications, and services. Economic diversification and strong growth have not translated into a significant decline in poverty levels; over 62% of Nigeria&#39;s over 180 million people still live in extreme poverty.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Despite its strong fundamentals, oil-rich Nigeria has been hobbled by inadequate power supply, lack of infrastructure, delays in the passage of legislative reforms, an inefficient property registration system, restrictive trade policies, an inconsistent regulatory environment, a slow and ineffective judicial system, unreliable dispute resolution mechanisms, insecurity, and pervasive corruption. Regulatory constraints and security risks have limited new investment in oil and natural gas, and Nigeria&#39;s oil production had been contracting every year since 2012 until a slight rebound in 2017.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;President BUHARI, elected in March 2015, has established a cabinet of economic ministers that includes several technocrats, and he has announced plans to increase transparency, diversify the economy away from oil, and improve fiscal management, but has taken a primarily protectionist approach that favors domestic producers at the expense of consumers. President BUHARI ran on an anti-corruption platform, and has made some headway in alleviating corruption, such as implementation of a Treasury Single Account that allows the government to better manage its resources and a more transparent government payroll and personnel system that eliminated duplicate and &quot;ghost workers.&quot; The government also is working to develop stronger public-private partnerships for roads, agriculture, and power.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Nigeria entered recession in 2016 as a result of lower oil prices and production, exacerbated by militant attacks on oil and gas infrastructure in the Niger Delta region, coupled with detrimental economic policies, including foreign exchange restrictions. GDP growth turned positive in 2017 as oil prices recovered and output stabilized.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$1.121 trillion",
+"2016": "$1.112 trillion",
+"2015": "$1.13 trillion",
+},
+"gdp_official_exchange_rate": "$376.4 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "0.8%",
+"2016": "-1.6%",
+"2015": "2.7%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$5,900",
+"2016": "$6,100",
+"2015": "$6,300",
+},
+"gross_national_saving":
+{
+"2017": "18.2% of GDP",
+"2016": "16% of GDP",
+"2015": "12.3% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "80% (2017 est.)",
+"government_consumption": "5.8% (2017 est.)",
+"investment_in_fixed_capital": "14.8% (2017 est.)",
+"investment_in_inventories": "0.7% (2017 est.)",
+"exports_of_goods_and_services": "11.9% (2017 est.)",
+"imports_of_goods_and_services": "-13.2% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "21.1% (2016 est.)",
+"industry": "22.5% (2016 est.)",
+"services": "56.4% (2017 est.)",
+}, 
+"agriculture_products": "cocoa, peanuts, cotton, palm oil, corn, rice, sorghum, millet, cassava (manioc, tapioca), yams, rubber; cattle, sheep, goats, pigs; timber; fish",
+"industries": "crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textiles, cement and other construction materials, food products, footwear, chemicals, fertilizer, printing, ceramics, steel",
+"industrial_production_growth_rate": "2.2% (2017 est.)",
+"labor_force": "60.08 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "70%",
+"industry": "10%",
+"services": "20% (1999 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "16.5%",
+"2016": "13.9%",
+},
+"population_below_poverty_line": "70% (2010 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.8%",
+"highest_10": "38.2% (2010 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2013": "48.8",
+"1997": "50.6",
+},
+"budget": 
+{
+"revenues": "12.92 billion (2017 est.)",
+"expenditures": "19.54 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "3.4% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1.8% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "21.8% of GDP",
+"2016": "19.6% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "16.5%",
+"2016": "15.7%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "4.25%",
+"31 December 2009": "6%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "17.58%",
+"31 December 2016": "16.87%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$36.13 billion",
+"31 December 2016": "$37.02 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$36.13 billion",
+"31 December 2016": "$37.02 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$84.66 billion",
+"31 December 2016": "$88.2 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2016": "$53.07 billion",
+"31 December 2014": "$63.47 billion",
+"31 December 2013": "$80.61 billion",
+},
+"current_account_balance":
+{
+"2017": "$10.38 billion",
+"2016": "$2.714 billion",
+},
+"exports":
+{
+"2017": "$1.146 billion",
+"2016": "$34.7 billion",
+},
+"exports_partners": "India 30.6%, US 12.1%, Spain 6.6%, China 5.6%, France 5.5%, Netherlands 4.4%, Indonesia 4.4% (2017)",
+"exports_commodities": "petroleum and petroleum products 95%, cocoa, rubber (2012 est.)",
+"imports":
+{
+"2017": "$32.67 billion",
+"2016": "$35.24 billion",
+},
+"imports_commodities": "machinery, chemicals, transport equipment, manufactured goods, food and live animals",
+"imports_partners": "China 21.1%, Belgium 8.7%, US 8.4%, South Korea 7.5%, UK 4.4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$38.77 billion",
+"31 December 2016": "$25.84 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$40.96 billion",
+"31 December 2016": "$31.41 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$116.9 billion",
+"31 December 2016": "$113.4 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$16.93 billion",
+"31 December 2016": "$15.65 billion",
+},
+"exchange_rates": 
+{
+"currency": "nairas (NGN) per US dollar -",
+"exchange_rates":
+{
+"2017": "323.5",
+"2016": "253",
+"2015": "253",
+"2014": "192.73",
+"2013": "158.55",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "77 million (2017)",
+"electrification_total_population": "59.3% (2016)",
+"electrification_urban_areas": "86% (2016)",
+"electrification_rural_areas": "41.1% (2016)",
+}, 
+"electricity_production": "29.35 billion kWh (2016 est.)",
+"electricity_consumption": "24.72 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "10.52 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "80% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "19% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "1.989 million bbl/day (2018 est.)",
+"crude_oil_exports": "2.096 million bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "37.45 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "35,010 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "325,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "2,332 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "223,400 bbl/day (2015 est.)",
+"natural_gas_production": "44.48 billion cu m (2017 est.)",
+"natural_gas_consumption": "17.24 billion cu m (2017 est.)",
+"natural_gas_exports": "27.21 billion cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "5.475 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "104 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "139,344",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "144,920,170",
+"subscriptions_per_100_inhabitants": "76 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "one of the larger telecom markets in Africa; foreign investment; market competition; LTE technologies available but GSM technology dominate; unified licensing regime; government committed to&amp;nbsp;expanding broadband penetration; in Q1 2018, the Nigerian Communications Commission approved seven licenses to telecom companies to deploy fiber optic cable in the six geopolitical zones and Lagos (2018)",
+"domestic": "fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with subscribership base over&amp;nbsp;76 per 100 persons (2018)",
+"international": "country code - 234; landing point for the SAT-3/WASC, NCSCS,&amp;nbsp; MainOne, Glo-1 &amp;amp; 2, ACE, and Equiano&amp;nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)",
+}, 
+"broadcast_media": "nearly 70 federal government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations operational; cable and satellite TV subscription services are available; network of federal government-controlled national, regional, and state radio stations; roughly 40 state government-owned radio stations typically carry their own programs except for news broadcasts; about 20 private radio stations; transmissions of international broadcasters are available; digital broadcasting migration process completed in three states in 2018 (2019)",
+"internet_country_code": ".ng",
+"internet_users": 
+{
+"total": "47,759,904",
+"percent_of_population": "25.7% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "74,004",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.51% of GDP",
+"2017": "0.43% of GDP",
+"2016": "0.43% of GDP",
+"2015": "0.42% of GDP",
+"2014": "0.42% of GDP",
+},
+"military_and_security_forces": "Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of Interior: Nigeria Security and Civil Defence Corps (NSCDC, a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters) (2019)",
+"military_service_age_and_obligation": "18 years of age for voluntary military service; no conscription (2012)",
+"maritime_threats": "the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea as very high risk for piracy and armed robbery of ships; in 2018,&amp;nbsp;48 commercial vessels were boarded or attacked compared with&amp;nbsp;33 attacks in 2017; in 2018, 29 ships were boarded&amp;nbsp;eight of which were underway,&amp;nbsp;12 were fired upon, and&amp;nbsp;78 crew members were abducted;&amp;nbsp;Nigerian pirates have extended the range of their attacks to as far away as Cote d&#39;Ivoire and as far as 170 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2019-010-Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 19 July 2019, which states in part &quot;Piracy, armed robbery, and kidnapping for ransom (KFR) continue to serve as significant threats to U.S. flagged vessels transiting or operating in the Gulf of Guinea (GoG). ...According to the Office of Naval Intelligence&amp;rsquo;s &amp;ldquo;Weekly Piracy Reports&amp;rdquo;&amp;nbsp;72 reported incidents of piracy and armed robbery at sea occurred in the GoG region this year as of July 9, 2019. Attacks, kidnappings for ransom (KFR), and boardings to steal valuables from the ships and crews are the most common types of incidents with approximately 75 percent of all incidents taking place off Nigeria. During the first six months of 2019, there were 15 kidnapping and 3 hijackings in the GoG.&quot;",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "16 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "73 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "3,223,459 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "22,400,657 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "5N (2016)",
+"airports": "54 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "40 (2017)",
+"over_3_047_m": "10 (2017)",
+"2_438_to_3_047_m": "12 (2017)",
+"1_524_to_2_437_m": "9 (2017)",
+"914_to_1_523_m": "6 (2017)",
+"under_914_m": "3 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "14 (2013)",
+"1_524_to_2_437_m": "2 (2013)",
+"914_to_1_523_m": "9 (2013)",
+"under_914_m": "3 (2013)",
+}, 
+"heliports": "5 (2013)",
+"pipelines": "124 km condensate, 4045 km gas, 164 km liquid petroleum gas, 4441 km oil, 3940 km refined products (2013)",
+"railways": 
+{
+"total": "3,798 km (2014)",
+"standard_gauge": "293 km 1.435-m gauge (2014)",
+"narrow_gauge": "3,505 km 1.067-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "195,000 km (2017)",
+"paved": "60,000 km (2017)",
+"unpaved": "135,000 km (2017)",
+}, 
+"waterways": "8,600 km (Niger and Benue Rivers and smaller rivers and creeks) (2011)",
+"merchant_marine": 
+{
+"total": "576",
+"by_type": "general cargo 14, oil tanker 90, other 472 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Bonny Inshore Terminal, Calabar, Lagos",
+"lng_terminal_s_export": "Bonny Island",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_home_based": 
+{
+"boko_haram": "&lt;strong&gt;aim(s):&lt;/strong&gt; replace the Nigerian Government with an Islamic state under strict sharia and, ultimately, establish an Islamic caliphate across Africa; avenge military offenses against the group and destroy any political or social activity associated with Western society; conducts attacks against primarily civilian and regional military targets&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; headquartered in the northeast&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; since 2009, fighters have killed tens of thousands of Nigerians during hundreds of attacks and disrupted trade and farming in the northeast, causing a risk of famine and displacing millions of people; violently opposes any political or social activity associated with Western society, including voting, attending secular schools, and wearing Western dress (2018)",
+"islamic_state_of_iraq_and_ash_sham_isis_west_africa": "&lt;strong&gt;aim(s): &lt;/strong&gt;implement ISIS&#39;s strict interpretation of Sharia; replace the Nigerian Government with an Islamic state&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; based primarily in the north along the border with Niger, with its largest presence in the northeast and the Lake Chad region; targets primarily regional military installations and civilians (2018)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately cedes sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation; only Nigeria and Cameroon have heeded the Lake Chad Commission&#39;s admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries; location of Benin-Niger-Nigeria tripoint is unresolved&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "44,524 (Cameroon) (2019)",
+"idps": "2,018,513 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2019)",
+}, 
+"illicit_drugs": "a transit point for heroin and cocaine intended for European, East Asian, and North American markets; consumer of amphetamines; safe haven for Nigerian narcotraffickers operating worldwide; major money-laundering center; massive corruption and criminal activity; Nigeria has improved some anti-money-laundering controls, resulting in its removal from the Financial Action Task Force&#39;s (FATF&#39;s) Noncooperative Countries and Territories List in June 2006; Nigeria&#39;s anti-money-laundering regime continues to be monitored by FATF",
+}
+}

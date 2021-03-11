@@ -1,0 +1,570 @@
+{
+"name": "Cameroon",
+"code": "CM",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "French Cameroon became independent in 1960 as the Republic of Cameroon. The following year the southern portion of neighboring British Cameroon voted to merge with the new country to form the Federal Republic of Cameroon. In 1972, a new constitution replaced the federation with a unitary state, the United Republic of Cameroon. The country has generally enjoyed stability, which has enabled the development of agriculture, roads, and railways, as well as a petroleum industry. Despite slow movement toward democratic reform, political power remains firmly in the hands of President Paul BIYA.",
+}, 
+"geography": 
+{
+"location": "Central Africa, bordering the Bight of Biafra, between Equatorial Guinea and Nigeria",
+"geographic_coordinates": "6 00 N, 12 00 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "475,440 sq km",
+"land": "472,710 sq km",
+"water": "2,730 sq km",
+}, 
+"area_comparative": "slightly larger than California; about four times the size of Pennsylvania",
+"land_boundaries": 
+{
+"total": "5,018 km",
+"border_countries": "Central African Republic 901 km, Chad 1116 km, Republic of the Congo 494 km, Equatorial Guinea 183 km, Gabon 349 km, Nigeria 1975 km",
+}, 
+"coastline": "402 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"contiguous_zone": "24 nm",
+}, 
+"climate": "varies with terrain, from tropical along coast to semiarid and hot in north",
+"terrain": "diverse, with coastal plain in southwest, dissected plateau in center, mountains in west, plains in north",
+"elevation": 
+{
+"mean_elevation": "667 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Fako on Mont Cameroun 4,045 m",
+}, 
+"natural_resources": "petroleum, bauxite, iron ore, timber, hydropower",
+"land_use": 
+{
+"agricultural_land": "20.6% (2011 est.)",
+"agricultural_land_arable_land": "13.1% (2011 est.)",
+"agricultural_land_permanent_crops": "3.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "4.2% (2011 est.)",
+"forest": "41.7% (2011 est.)",
+"other": "37.7% (2011 est.)",
+}, 
+"irrigated_land": "290 sq km (2012)",
+"population_distribution": "population concentrated in the west and north, with the interior of the country sparsely populated",
+"natural_hazards": "&lt;p&gt;volcanic activity with periodic releases of poisonous gases from Lake Nyos and Lake Monoun volcanoes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; Mt. Cameroon (4,095 m), which last erupted in 2000, is the most frequently active volcano in West Africa; lakes in Oku volcanic field have released fatal levels of gas on occasion, killing some 1,700 people in 1986&lt;/p&gt;",
+"environment_current_issues": "waterborne diseases are prevalent; deforestation and overgrazing result in erosion, desertification, and reduced quality of pastureland; poaching; overfishing; overhunting",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "sometimes referred to as the hinge of Africa because of its central location on the continent and its position at the west-south juncture of the Gulf of Guinea; throughout the country there are areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano",
+}, 
+"people_and_society": 
+{
+"population": "25,640,965 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Cameroonian(s)",
+"adjective": "Cameroonian",
+}, 
+"ethnic_groups": "Cameroon Highlanders 31%, Equatorial Bantu 19%, Kirdi 11%, Fulani 10%, Northwestern Bantu 8%, Eastern Nigritic 7%, other African 13%, non-African less than 1%",
+"languages": "24 major African language groups, English (official), French (official)",
+"religions": "Roman Catholic 38.4%, Protestant 26.3%, other Christian 4.5%, Muslim 20.9%, animist 5.6%, other 1%, non-believer 3.2% (2005 est.)",
+"demographic_profile": "&lt;p&gt;Cameroon has a large youth population, with more than 60% of the populace under the age of 25. Fertility is falling but remains at a high level, especially among poor, rural, and uneducated women, in part because of inadequate access to contraception. Life expectancy remains low at about 55 years due to the prevalence of HIV and AIDs and an elevated maternal mortality rate, which has remained high since 1990. Cameroon, particularly the northern region, is vulnerable to food insecurity largely because of government mismanagement, corruption, high production costs, inadequate infrastructure, and natural disasters. Despite economic growth in some regions, poverty is on the rise, and is most prevalent in rural areas, which are especially affected by a shortage of jobs, declining incomes, poor school and health care infrastructure, and a lack of clean water and sanitation. Underinvestment in social safety nets and ineffective public financial management also contribute to Cameroon’s high rate of poverty.&lt;/p&gt;&lt;p&gt;International migration has been driven by unemployment (including fewer government jobs), poverty, the search for educational opportunities, and corruption. The US and Europe are preferred destinations, but, with tighter immigration restrictions in these countries, young Cameroonians are increasingly turning to neighboring states, such as Gabon and Nigeria, South Africa, other parts of Africa, and the Near and Far East. Cameroon’s limited resources make it dependent on UN support to host more than 320,000 refugees and asylum seekers as of September 2017. These refugees and asylum seekers are primarily from the Central African Republic and more recently Nigeria.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "42.15% (male 5,445,142 /female 5,362,166)",
+"15_24_years": "19.6% (male 2,524,031 /female 2,502,072)",
+"25_54_years": "31.03% (male 4,001,963 /female 3,954,258)",
+"55_64_years": "3.99% (male 499,101 /female 524,288)",
+"65_years_and_over": "3.23% (male 384,845 /female 443,099) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "85.9 (2015 est.)",
+"youth_dependency_ratio": "80 (2015 est.)",
+"elderly_dependency_ratio": "5.9 (2015 est.)",
+"potential_support_ratio": "17 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "18.6 years (2018 est.)",
+"male": "18.5 years",
+"female": "18.7 years",
+}, 
+"population_growth_rate": "2.54% (2018 est.)",
+"birth_rate": "35 births/1,000 population (2018 est.)",
+"death_rate": "9.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-0.1 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population concentrated in the west and north, with the interior of the country sparsely populated",
+"urbanization": 
+{
+"urban_population": "57% of total population (2019)",
+"rate_of_urbanization": "3.63% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "3.822 million YAOUNDE (capital), 3.536 million Douala, (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1.02 male(s)/female",
+"15_24_years": "1.01 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "0.95 male(s)/female",
+"65_years_and_over": "0.87 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "19.7 years (2011 est.)",
+"maternal_mortality_rate": "529 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "49.8 deaths/1,000 live births (2018 est.)",
+"male": "53.4 deaths/1,000 live births",
+"female": "46.2 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "59.4 years (2018 est.)",
+"male": "58 years",
+"female": "60.9 years",
+}, 
+"total_fertility_rate": "4.58 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "34.4% (2014)",
+"drinking_water_source": 
+{
+"improved_urban": "94.8% of population",
+"improved_rural": "52.7% of population",
+"improved_total": "75.6% of population",
+"unimproved_urban": "5.2% of population",
+"unimproved_rural": "47.3% of population",
+"unimproved_total": "24.4% of population (2015 est.)",
+}, 
+"current_health_expenditure": "4.7% (2016)",
+"physicians_density": "0.09 physicians/1,000 population (2011)",
+"hospital_bed_density": "1.3 beds/1,000 population (2010)",
+"sanitation_facility_access": 
+{
+"improved_urban": "61.8% of population (2015 est.)",
+"improved_rural": "26.8% of population (2015 est.)",
+"improved_total": "45.8% of population (2015 est.)",
+"unimproved_urban": "38.2% of population (2015 est.)",
+"unimproved_rural": "73.2% of population (2015 est.)",
+"unimproved_total": "54.2% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "3.6% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "540,000 (2018 est.)",
+"hiv_aids_deaths": "18,000 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2019)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2019)",
+"vectorborne_diseases": "malaria and&amp;nbsp;dengue fever (2019)",
+"water_contact_diseases": "schistosomiasis (2019)",
+"animal_contact_diseases": "rabies (2019)",
+"respiratory_diseases": "meningococcal meningitis (2019)",
+}, 
+"obesity_adult_prevalence_rate": "11.4% (2016)",
+"children_under_the_age_of_5_years_underweight": "14.8% (2014)",
+"education_expenditures": "3.1% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "75%",
+"male": "81.2%",
+"female": "68.9% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "13 years",
+"male": "14 years",
+"female": "12 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "6.3%",
+"male": "5.8%",
+"female": "6.8% (2014 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Cameroon",
+"conventional_short_form": "Cameroon",
+"local_long_form": "Republique du Cameroun/Republic of Cameroon",
+"local_short_form": "Cameroun/Cameroon",
+"former": "Kamerun, French Cameroon, British Cameroon, Federal Republic of Cameroon, United Republic of Cameroon",
+"etymology": "in the 15th century, Portuguese explorers named the area near the mouth of the Wouri River the Rio dos Camaroes (River of Prawns) after the abundant shrimp in the water; over time the designation became Cameroon in English; this is the only instance where a country is named after a crustacean",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Yaounde",
+"geographic_coordinates": "3 52 N, 11 31 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extreme-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)",
+"independence": "1 January 1960 (from French-administered UN trusteeship)",
+"national_holiday": "State Unification Day (National Day), 20 May (1972)",
+"constitution": 
+{
+"history": "several previous; latest effective 18 January 1996",
+"amendments": "proposed by the president of the republic or by Parliament; amendment drafts require approval of at least one third of the membership in either house of Parliament; passage requires absolute majority vote of the Parliament membership; passage of drafts requested by the president for a second reading in Parliament requires two-thirds majority vote of its membership; the president can opt to submit drafts to a referendum, in which case passage requires a simple majority; constitutional articles on Cameroon&amp;rsquo;s unity and territorial integrity and its democratic principles cannot be amended; amended 2008 (2017)",
+}, 
+"legal_system": "mixed legal system of English common law, French civil law, and customary law",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Cameroon",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "20 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Paul BIYA (since 6 November 1982)",
+"head_of_government": "Prime Minister Joseph Dion NGUTE (since 4 January 2019); Deputy Prime Minister Amadou ALI (since 2014)",
+"cabinet": "Cabinet proposed by the prime minister, appointed by the president",
+"elections_appointments": "president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 7 October 2018 (next to be held in October 2025); prime minister appointed by the president",
+"election_results": "Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Parlement consists of:&lt;br /&gt;Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)&lt;br /&gt; National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)",
+"elections": "Senate - last held on 25 March 2018 (next to be held in 2023)&lt;br /&gt; National Assembly - last held on 30 September 2013 (next to be held 9 February 2020)",
+"election_results": "Senate - percent of vote by party - NA; seats by party - CPDM 63, SDF 7; National Assembly - percent of vote by party - NA; seats by party - CPDM 148, SDF 18, UNDP 5, UDC 4, UPC 3, other 2; composition - men 74, women 26, percent of women 26%&lt;br /&gt; National Assembly - composition - men 124, women 56, percent of women 31.3%; note - total Parliament percent of women 29.3%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)",
+"judge_selection_and_term_of_office": "Supreme Court judges appointed by the president with the advice of the Higher Judicial Council of Cameroon, a body chaired by the president and includes the minister of justice, selected magistrates, and representatives of the National Assembly; judge term NA; Constitutional Council members appointed by the president for single 9-year terms",
+"subordinate_courts": "Parliamentary Court of Justice (jurisdiction limited to cases involving the president and prime minister); appellate and first instance courts; circuit and magistrates&#39; courts",
+}, 
+"political_parties_and_leaders": "Alliance for Democracy and Development&lt;br /&gt;Cameroon People&#39;s Democratic Movement or CPDM [Paul BIYA]&lt;br /&gt;Cameroon People&#39;s Party or CPP [Edith Kah WALLA]&lt;br /&gt;Cameroon Renaissance Movement or MRC [Maurice KAMTO]&lt;br /&gt;Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA]&lt;br /&gt;Movement for the Defense of the Republic or MDR [Dakole DAISSALA]&lt;br /&gt;Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]&lt;br /&gt;National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]&lt;br /&gt;Progressive Movement or MP [Jean-Jacques EKINDI]&lt;br /&gt;Social Democratic Front or SDF [John FRU NDI]&lt;br /&gt;Union of Peoples of Cameroon or UPC [Provisionary Management Bureau]",
+"international_organization_participation": "ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Essomba ETOUNDI (since 27 June 2016)",
+"chancery": "2349 Massachusetts Avenue, Washington, DC 20008",
+"telephone": "[1] (202) 265-8790",
+"fax": "[1] (202) 387-3826",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Peter Henry BARLERIN (since 20 December 2017)",
+"telephone": "[237] 22220 1500; Consular: [237] 22220 1603",
+"embassy": "Avenue Rosa Parks, Yaounde",
+"mailing_address": "P.O. Box 817, Yaounde; pouch: American Embassy, US Department of State, Washington, DC 20521-2520",
+"fax": "[237] 22220 1500 Ext. 4531; Consular FAX: [237] 22220 1752",
+"branch_office_s": "Douala",
+}, 
+"flag_description": "three equal vertical bands of green (hoist side), red, and yellow, with a yellow five-pointed star centered in the red band; the vertical tricolor recalls the flag of France; red symbolizes unity, yellow the sun, happiness, and the savannahs in the north, and green hope and the forests in the south; the star is referred to as the &quot;star of unity&quot;",
+"national_symbol_s": "lion; national colors: green, red, yellow",
+"national_anthem": 
+{
+"name": "&quot;O Cameroun, Berceau de nos Ancetres&quot; (O Cameroon, Cradle of Our Forefathers)",
+"lyrics_music": "Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO&#39;O [French], Benard Nsokika FONLON [English]/Rene Djam AFAME",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Cameroon’s market-based, diversified economy features oil and gas, timber, aluminum, agriculture, mining and the service sector. Oil remains Cameroon’s main export commodity, and despite falling global oil prices, still accounts for nearly 40% of exports. Cameroon’s economy suffers from factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Since 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation&#39;s banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs. The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget and diverted funds from education, healthcare, and infrastructure projects, as low oil prices have led to lower revenues.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Cameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep seaport in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas-powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$89.54 billion",
+"2016": "$86.47 billion",
+"2015": "$82.63 billion",
+},
+"gdp_official_exchange_rate": "$34.99 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.5%",
+"2016": "4.6%",
+"2015": "5.7%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$3,700",
+"2016": "$3,700",
+"2015": "$3,600",
+},
+"gross_national_saving":
+{
+"2017": "25.5% of GDP",
+"2016": "25.2% of GDP",
+"2015": "23.9% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "66.3% (2017 est.)",
+"government_consumption": "11.8% (2017 est.)",
+"investment_in_fixed_capital": "21.6% (2017 est.)",
+"investment_in_inventories": "-0.3% (2017 est.)",
+"exports_of_goods_and_services": "21.6% (2017 est.)",
+"imports_of_goods_and_services": "-20.9% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "16.7% (2017 est.)",
+"industry": "26.5% (2017 est.)",
+"services": "56.8% (2017 est.)",
+}, 
+"agriculture_products": "coffee, cocoa, cotton, rubber, bananas, oilseed, grains, cassava (manioc, tapioca); livestock; timber",
+"industries": "petroleum production and refining, aluminum production, food processing, light consumer goods, textiles, lumber, ship repair",
+"industrial_production_growth_rate": "3.3% (2017 est.)",
+"labor_force": "9.912 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "70%",
+"industry": "13%",
+"services": "17% (2001 est.)",
+}, 
+"unemployment_rate":
+{
+"2014": "4.3%",
+"2001": "30%",
+},
+"population_below_poverty_line": "30% (2001 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "37.5%",
+"highest_10": "35.4% (2001)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2014": "46.5",
+"2001": "44.6",
+},
+"budget": 
+{
+"revenues": "5.363 billion (2017 est.)",
+"expenditures": "6.556 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "15.3% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3.4% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "36.9% of GDP",
+"2016": "32.5% of GDP",
+},
+"fiscal_year": "1 July - 30 June",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.6%",
+"2016": "0.9%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2009": "4.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "13%",
+"31 December 2016": "12.5%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$4.857 billion",
+"31 December 2016": "$3.86 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$4.857 billion",
+"31 December 2016": "$3.86 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$6.154 billion",
+"31 December 2016": "$5.714 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2012": "$230 million",
+},
+"current_account_balance":
+{
+"2017": "-$932 million",
+"2016": "-$1.034 billion",
+},
+"exports":
+{
+"2017": "$4.732 billion",
+"2016": "$4.561 billion",
+},
+"exports_partners": "Netherlands 15.6%, France 12.6%, China 11.7%, Belgium 6.8%, Italy 6.3%, Algeria 4.8%, Malaysia 4.4% (2017)",
+"exports_commodities": "crude oil and petroleum products, lumber, cocoa beans, aluminum, coffee, cotton",
+"imports":
+{
+"2017": "$4.812 billion",
+"2016": "$4.827 billion",
+},
+"imports_commodities": "machinery, electrical equipment, transport equipment, fuel, food",
+"imports_partners": "China 19%, France 10.3%, Thailand 7.9%, Nigeria 4.1% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$3.235 billion",
+"31 December 2016": "$2.26 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$9.375 billion",
+"31 December 2016": "$7.364 billion",
+},
+"exchange_rates": 
+{
+"currency": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -",
+"exchange_rates":
+{
+"2017": "605.3",
+"2016": "593.01",
+"2015": "593.01",
+"2014": "591.45",
+"2013": "494.42",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "9 million (2017)",
+"electrification_total_population": "60.1% (2016)",
+"electrification_urban_areas": "91.9% (2016)",
+"electrification_rural_areas": "21.3% (2016)",
+}, 
+"electricity_production": "8.108 billion kWh (2016 est.)",
+"electricity_consumption": "6.411 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "55 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "1.558 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "52% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "47% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "1% of total installed capacity (2017 est.)",
+"crude_oil_production": "69,000 bbl/day (2018 est.)",
+"crude_oil_exports": "96,370 bbl/day (2015 est.)",
+"crude_oil_imports": "36,480 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "200 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "39,080 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "45,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "8,545 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "14,090 bbl/day (2015 est.)",
+"natural_gas_production": "910.4 million cu m (2017 est.)",
+"natural_gas_consumption": "906.1 million cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "135.1 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "7.672 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "699,055",
+"subscriptions_per_100_inhabitants": "3 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "19,706,027",
+"subscriptions_per_100_inhabitants": "79 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "equipment is old and outdated, and connections with many parts of the country are unreliable; 3G service and&amp;nbsp;LTE service both developing given growing competition, along with a fast-developing mobile broadband sector (2018)",
+"domestic": "only about&amp;nbsp;3 per 100 persons for fixed-line subscriptions; mobile-cellular usage has increased sharply, reaching a subscribership base of over 79 per 100 persons (2018)",
+"international": "country code - 237; landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS&amp;nbsp;fiber-optic submarine cable that provides connectivity to Europe, South America, and West Africa; satellite earth stations - 2 Intelsat (Atlantic Ocean); (2019)",
+}, 
+"broadcast_media": "government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government finally issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operating but are subject to closure at any time; foreign news services required to partner with state-owned national station (2019)",
+"internet_country_code": ".cm",
+"internet_users": 
+{
+"total": "6,090,201",
+"percent_of_population": "25% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "42,117",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.25% of GDP",
+"2017": "1.31% of GDP",
+"2016": "1.32% of GDP",
+"2015": "1.25% of GDP",
+"2014": "1.25% of GDP",
+},
+"military_and_security_forces": "Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L&#39;Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry), Air Force (Armee de l&#39;Air du Cameroun, AAC), Gendarmerie, Presidential Guard (2019)",
+"military_service_age_and_obligation": "18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years; periodic government calls for volunteers (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "3 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "267,208 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "TJ (2016)",
+"airports": "33 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "11 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "5 (2017)",
+"1_524_to_2_437_m": "3 (2017)",
+"914_to_1_523_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "22 (2013)",
+"1_524_to_2_437_m": "4 (2013)",
+"914_to_1_523_m": "10 (2013)",
+"under_914_m": "8 (2013)",
+}, 
+"pipelines": "53 km gas, 5 km liquid petroleum gas, 1107 km oil, 35 km water (2013)",
+"railways": 
+{
+"total": "987 km (2014)",
+"narrow_gauge": "987 km 1.000-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "77,589 km (2016)",
+"paved": "5,133 km (2016)",
+"unpaved": "72,456 km (2016)",
+}, 
+"waterways": " (major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua) (2010)",
+"merchant_marine": 
+{
+"total": "19",
+"by_type": "general cargo 4, other 15 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"oil_terminal_s": "Limboh Terminal",
+"river_port_s": "Douala (Wouri)",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": 
+{
+"boko_haram": "&lt;strong&gt;aim(s):&lt;/strong&gt; establish an Islamic caliphate across Africa&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; conducts attacks, suicide bombings, targeted killings, kidnappings, and raids for supplies, especially in the Far North Region along Cameroon&#39;s border with Nigeria; perpetrates multiple and indiscriminate killings against civilians &amp;ndash; Muslim and Christian alike &amp;ndash; but also against government officials and security forces&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; violently opposes any political or social activity associated with Western society, including voting, attending secular schools, and wearing Western dress (2019)",
+"islamic_state_of_iraq_and_ash_sham_isis_west_africa": "&lt;strong&gt;aim(s):&lt;/strong&gt; implement ISIS&#39;s strict interpretation of Sharia; replace the Nigerian Government with an Islamic state&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; based primarily in Northeast Nigeria along the border with Niger, with its largest presence in northeast Nigeria and the Lake Chad region; targets primarily regional military installations (2019)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission&#39;s admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "292,862 (Central African Republic),&amp;nbsp;109,340 (Nigeria) (2019)",
+"idps": "806,977 (2019) (includes far north, northwest, and southwest)",
+}, 
+}
+}

@@ -1,0 +1,88 @@
+{
+"name": "Heard Island and McDonald Islands",
+"code": "HM",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "The UK transferred these uninhabited, barren, sub-Antarctic islands to Australia in 1947. Populated by large numbers of seal and bird species, the islands have been designated a nature preserve.",
+}, 
+"geography": 
+{
+"location": "islands in the Indian Ocean, about two-thirds of the way from Madagascar to Antarctica",
+"geographic_coordinates": "53 06 S, 72 31 E",
+"map_references": "Antarctic Region",
+"area": 
+{
+"total": "412 sq km",
+"land": "412 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly more than two times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "101.9 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_fishing_zone": "200 nm",
+}, 
+"climate": "antarctic",
+"terrain": "Heard Island - 80% ice-covered, bleak and mountainous, dominated by a large massif (Big Ben) and an active volcano (Mawson Peak); McDonald Islands - small and rocky",
+"elevation": 
+{
+"lowest_point": "Indian Ocean 0 m",
+"highest_point": "Mawson Peak on Big Ben volcano 2,745 m",
+}, 
+"natural_resources": "fish",
+"land_use": 
+{
+"agricultural_land": "0% (2011 est.)",
+"agricultural_land_arable_land": "0% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "0% (2011 est.)",
+"other": "100% (2011 est.)",
+}, 
+"natural_hazards": "Mawson Peak, an active volcano, is on Heard Island",
+"environment_current_issues": "none; uninhabited and mostly ice covered",
+"geography_note": "Mawson Peak on Heard Island is the highest Australian mountain (at 2,745 meters, it is taller than Mt. Kosciuszko in Australia proper), and one of only two active volcanoes located in Australian territory, the other being McDonald Island; in 1992, McDonald Island broke its dormancy and began erupting; it has erupted several times since, most recently in 2005",
+}, 
+"people_and_society": 
+{
+"population": " uninhabited",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Territory of Heard Island and McDonald Islands",
+"conventional_short_form": "Heard Island and McDonald Islands",
+"abbreviation": "HIMI",
+"etymology": "named after American Captain John HEARD, who sighted the island on 25 November 1853, and American Captain William McDONALD, who discovered the islands on 4 January 1854",
+}, 
+"dependency_status": "territory of Australia; administered from Canberra by the Department of Sustainability, Environment, Water, Population and Communities (Australian Antarctic Division)",
+"legal_system": "the laws of Australia apply where applicable",
+"diplomatic_representation_in_the_us": "none (territory of Australia)", 
+"diplomatic_representation_from_the_us": "none (territory of Australia)", 
+"flag_description": "the flag of Australia is used",
+}, 
+"economy": 
+{
+"economy_overview": "The islands have no indigenous economic activity, but the Australian Government allows limited fishing in the surrounding waters. Visits to Heard Island typically focus on terrestrial and marine research and infrequent private expeditions.",
+}, 
+"communications": 
+{
+"internet_country_code": ".hm",
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of Australia; Australia conducts fisheries patrols",
+}, 
+"transportation": 
+{
+"ports_and_terminals": "none; offshore anchorage only", 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

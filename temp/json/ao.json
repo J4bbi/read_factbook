@@ -1,0 +1,567 @@
+{
+"name": "Angola",
+"code": "AO",
+"publish_date": "December 27, 2019",
+"introduction": 
+{
+"background": "Angola scores low on human development indexes despite using its large oil reserves to rebuild since the end of a 27-year civil war in 2002. Fighting between the Popular Movement for the Liberation of Angola (MPLA), led by Jose Eduardo DOS SANTOS, and the National Union for the Total Independence of Angola (UNITA), led by Jonas SAVIMBI, followed independence from Portugal in 1975. Peace seemed imminent in 1992 when Angola held national elections, but fighting picked up again in 1993. Up to 1.5 million lives may have been lost - and 4 million people displaced - during the more than a quarter century of fighting. SAVIMBI&#39;s death in 2002 ended UNITA&#39;s insurgency and cemented the MPLA&#39;s hold on power. DOS SANTOS stepped down from the presidency in 2017, having led the country since 1979. He pushed through a new constitution in 2010. Joao LOURENCO was elected president in August 2017 and became president of the MPLA in September 2018.",
+}, 
+"geography": 
+{
+"location": "Southern Africa, bordering the South Atlantic Ocean, between Namibia and Democratic Republic of the Congo",
+"geographic_coordinates": "12 30 S, 18 30 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "1,246,700 sq km",
+"land": "1,246,700 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "about eight times the size of Georgia; slightly less than twice the size of Texas",
+"land_boundaries": 
+{
+"total": "5,369 km",
+"border_countries": "Democratic Republic of the Congo 2646 km (of which 225 km is the boundary of discontiguous Cabinda Province), Republic of the Congo 231 km, Namibia 1427 km, Zambia 1065 km",
+}, 
+"coastline": "1,600 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+}, 
+"climate": "semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)",
+"terrain": "narrow coastal plain rises abruptly to vast interior plateau",
+"elevation": 
+{
+"mean_elevation": "1,112 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Moca 2,620 m",
+}, 
+"natural_resources": "petroleum, diamonds, iron ore, phosphates, copper, feldspar, gold, bauxite, uranium",
+"land_use": 
+{
+"agricultural_land": "47.5% (2016 est.)",
+"agricultural_land_arable_land": "3.9% (2016 est.)",
+"agricultural_land_permanent_crops": "0.3% (2016 est.)",
+"agricultural_land_permanent_pasture": "43.3% (2016 est.)",
+"forest": "46.3% (2016 est.)",
+"other": "6.2% (2016 est.)",
+}, 
+"irrigated_land": "860 sq km (2014)",
+"population_distribution": "most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda",
+"natural_hazards": "locally heavy rainfall causes periodic flooding on the plateau",
+"environment_current_issues": "overuse of pastures and subsequent soil erosion attributable to population pressures; desertification; deforestation of tropical rain forest, in response to both international demand for tropical timber and to domestic use as fuel, resulting in loss of biodiversity; soil erosion contributing to water pollution and siltation of rivers and dams; inadequate supplies of potable water",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "the province of Cabinda is an exclave, separated from the rest of the country by the Democratic Republic of the Congo",
+}, 
+"people_and_society": 
+{
+"population": "30,355,880 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Angolan(s)",
+"adjective": "Angolan",
+}, 
+"ethnic_groups": "Ovimbundu 37%, Kimbundu 25%, Bakongo 13%, mestico (mixed European and native African) 2%, European 1%, other 22%",
+"languages": "Portuguese 71.2% (official), Umbundu 23%, Kikongo 8.2%, Kimbundu 7.8%, Chokwe 6.5%, Nhaneca 3.4%, Nganguela 3.1%, Fiote 2.4%, Kwanhama 2.3%, Muhumbi 2.1%, Luvale 1%, other 3.6% (2014 est.)",
+"religions": "Roman Catholic 41.1%, Protestant 38.1%, other 8.6%, none 12.3% (2014 est.)",
+"demographic_profile": "&lt;p&gt;More than a decade after the end of Angola&#39;s 27-year civil war, the country still faces a variety of socioeconomic problems, including poverty, high maternal and child mortality, and illiteracy. Despite the country&#39;s rapid post-war economic growth based on oil production, about 40 percent of Angolans live below the poverty line and unemployment is widespread, especially among the large young-adult population. Only about 70% of the population is literate, and the rate drops to around 60% for women. The youthful population - about 45% are under the age of 15 - is expected to continue growing rapidly with a fertility rate of more than 5 children per woman and a low rate of contraceptive use. Fewer than half of women deliver their babies with the assistance of trained health care personnel, which contributes to Angola&#39;s high maternal mortality rate.&lt;/p&gt; &lt;p&gt;Of the estimated 550,000 Angolans who fled their homeland during its civil war, most have returned home since 2002. In 2012, the UN assessed that conditions in Angola had been stable for several years and invoked a cessation of refugee status for Angolans. Following the cessation clause, some of those still in exile returned home voluntarily through UN repatriation programs, and others integrated into host countries.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "48.07% (male 7,257,155 /female 7,336,084)",
+"15_24_years": "18.33% (male 2,701,123 /female 2,863,950)",
+"25_54_years": "27.95% (male 4,044,944 /female 4,441,028)",
+"55_64_years": "3.32% (male 466,085 /female 540,452)",
+"65_years_and_over": "2.32% (male 296,411 /female 408,648) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "97.6 (2015 est.)",
+"youth_dependency_ratio": "93 (2015 est.)",
+"elderly_dependency_ratio": "4.6 (2015 est.)",
+"potential_support_ratio": "21.9 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "15.9 years (2018 est.)",
+"male": "15.4 years",
+"female": "16.3 years",
+}, 
+"population_growth_rate": "3.49% (2018 est.)",
+"birth_rate": "43.7 births/1,000 population (2018 est.)",
+"death_rate": "9 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0.1 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda",
+"urbanization": 
+{
+"urban_population": "66.2% of total population (2019)",
+"rate_of_urbanization": "4.32% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "8.045 million LUANDA (capital), 787,000 Lubango (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "0.99 male(s)/female",
+"15_24_years": "0.94 male(s)/female",
+"25_54_years": "0.91 male(s)/female",
+"55_64_years": "0.86 male(s)/female",
+"65_years_and_over": "0.73 male(s)/female",
+"total_population": "0.95 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "19.4 years (2015/16 est.)",
+"maternal_mortality_rate": "241 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "65.8 deaths/1,000 live births (2018 est.)",
+"male": "71.4 deaths/1,000 live births",
+"female": "60.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "60.6 years (2018 est.)",
+"male": "58.5 years",
+"female": "62.7 years",
+}, 
+"total_fertility_rate": "6.09 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "13.7% (2015/16)",
+"drinking_water_source": 
+{
+"improved_urban": "75.4% of population",
+"improved_rural": "28.2% of population",
+"improved_total": "49% of population",
+"unimproved_urban": "24.6% of population",
+"unimproved_rural": "71.8% of population",
+"unimproved_total": "51% of population (2015 est.)",
+}, 
+"current_health_expenditure": "2.9% (2016)",
+"physicians_density": "0.21 physicians/1,000 population (2017)",
+"sanitation_facility_access": 
+{
+"improved_urban": "88.6% of population (2015 est.)",
+"improved_rural": "22.5% of population (2015 est.)",
+"improved_total": "51.6% of population (2015 est.)",
+"unimproved_urban": "11.4% of population (2015 est.)",
+"unimproved_rural": "77.5% of population (2015 est.)",
+"unimproved_total": "48.4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "2% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "330,000 (2018 est.)",
+"hiv_aids_deaths": "14,000 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2019)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, typhoid fever (2019)",
+"vectorborne_diseases": "dengue fever, malaria (2019)",
+"water_contact_diseases": "schistosomiasis (2019)",
+"animal_contact_diseases": "rabies (2019)",
+}, 
+"obesity_adult_prevalence_rate": "8.2% (2016)",
+"children_under_the_age_of_5_years_underweight": "19% (2016)",
+"education_expenditures": "3.4% of GDP (2010)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "71.1%",
+"male": "82%",
+"female": "60.7% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "10 years",
+"male": "13 years",
+"female": "8 years (2011)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "39.4%",
+"male": "39%",
+"female": "39.8% (2014 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Angola",
+"conventional_short_form": "Angola",
+"local_long_form": "Republica de Angola",
+"local_short_form": "Angola",
+"former": "People&#39;s Republic of Angola",
+"etymology": "name derived by the Portuguese from the title &quot;ngola&quot; held by kings of the Ndongo (Ndongo was a kingdom in what is now northern Angola)",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Luanda",
+"geographic_coordinates": "8 50 S, 13 13 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "does not observe daylight savings time",
+}, 
+"administrative_divisions": "18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cunene, Huambo, Huila, Kwando Kubango, Kwanza Norte, Kwanza Sul, Luanda, Lunda Norte, Lunda Sul, Malanje, Moxico, Namibe, Uige, Zaire",
+"independence": "11 November 1975 (from Portugal)",
+"national_holiday": "Independence Day, 11 November (1975)",
+"constitution": 
+{
+"history": "previous 1975, 1992; latest passed by National Assembly 21 January 2010, adopted 5 February 2010",
+"amendments": "proposed by the president of the republic or supported by at least one third of the National Assembly membership; passage requires at least two-thirds majority vote of the Assembly subject to prior Constitutional Court review if requested by the president of the republic (2017)",
+}, 
+"legal_system": "civil legal system based on Portuguese civil law; no judicial review of legislation",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Angola",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017); note - the president is both chief of state and head of government",
+"head_of_government": "President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017)",
+"cabinet": "Council of Ministers appointed by the president",
+"elections_appointments": "the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 23 August 2017 (next to be held in 2022)",
+"election_results": "Joao Manuel Goncalves LOURENCO (MPLA) elected president by the winning party following the 23 August 2017 general election",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)",
+"elections": "last held on 23 August 2017 (next to be held in August 2022)",
+"election_results": "percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 136, women 84, percent of women 38.2%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)",
+"judge_selection_and_term_of_office": "Supreme Court judges appointed by the president upon recommendation of the Supreme Judicial Council, an 18-member body chaired by the president; judge tenure NA; Constitutional Court judges - 4 nominated by the president, 4 elected by National Assembly, 2 elected by Supreme National Council, 1 elected by competitive submission of curricula; judges serve single 7-year terms",
+"subordinate_courts": "provincial and municipal courts",
+}, 
+"political_parties_and_leaders": "Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Andre Mendes de CARVALHO]&lt;br /&gt;National Front for the Liberation of Angola or FNLA; note - party has two factions; one led by Lucas NGONDA; the other by Ngola KABANGU&lt;br /&gt;National Union for the Total Independence of Angola or UNITA [Isaias SAMAKUVA] (largest opposition party)&lt;br /&gt;Popular Movement for the Liberation of Angola or MPLA [Joao LOURENCO]; note - Jose Eduardo DOS SANTOS stepped down 8 Sept 2018 ruling party in power since 1975&lt;br /&gt;Social Renewal Party or PRS [Benedito DANIEL]",
+"international_organization_participation": "ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Agostinho Tavares da Silva NETO (since 18 November 2014)",
+"chancery": "2100-2108 16th Street NW, Washington, DC 20009",
+"telephone": "[1] (202) 785-1156",
+"fax": "[1] (202) 822-9049",
+"consulate_s_general": "Houston, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Nina Maria FITE (since 14 February 2018)",
+"telephone": "[244] 946440977",
+"embassy": "number 32 Rua Houari Boumedienne (in the Miramar area of Luanda), Luanda, C.P. 6468, Angola",
+"mailing_address": "international mail: Caixa Postal 6468, Luanda; pouch: US Embassy Luanda, US Department of State, 2550 Luanda Place, Washington, DC 20521-2550",
+"fax": "[244] (222) 64-1000",
+}, 
+"flag_description": "two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants",
+"national_symbol_s": "Palanca Negra Gigante (giant black sable antelope); national colors: red, black, yellow",
+"national_anthem": 
+{
+"name": "&quot;Angola Avante&quot; (Forward Angola)",
+"lyrics_music": "Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Angola&#39;s economy is overwhelmingly driven by its oil sector. Oil production and its supporting activities contribute about 50% of GDP, more than 70% of government revenue, and more than 90% of the country&#39;s exports; Angola is an OPEC member and subject to its direction regarding oil production levels. Diamonds contribute an additional 5% to exports. Subsistence agriculture provides the main livelihood for most of the people, but half of the country&#39;s food is still imported.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Increased oil production supported growth averaging more than 17% per year from 2004 to 2008. A postwar reconstruction boom and resettlement of displaced persons led to high rates of growth in construction and agriculture as well. Some of the country&#39;s infrastructure is still damaged or undeveloped from the 27-year-long civil war (1975-2002). However, the government since 2005 has used billions of dollars in credit from China, Brazil, Portugal, Germany, Spain, and the EU to help rebuild Angola&#39;s public infrastructure. Land mines left from the war still mar the countryside, and as a result, the national military, international partners, and private Angolan firms all continue to remove them.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The global recession that started in 2008 stalled Angola’s economic growth and many construction projects stopped because Luanda accrued billions in arrears to foreign construction companies when government revenue fell. Lower prices for oil and diamonds also resulted in GDP falling 0.7% in 2016. Angola formally abandoned its currency peg in 2009 but reinstituted it in April 2016 and maintains an overvalued exchange rate. In late 2016, Angola lost the last of its correspondent relationships with foreign banks, further exacerbating hard currency problems. Since 2013 the central bank has consistently spent down reserves to defend the kwanza, gradually allowing a 40% depreciation since late 2014. Consumer inflation declined from 325% in 2000 to less than 9% in 2014, before rising again to above 30% from 2015-2017.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Continued low oil prices, the depreciation of the kwanza, and slower than expected growth in non-oil GDP have reduced growth prospects, although several major international oil companies remain in Angola. Corruption, especially in the extractive sectors, is a major long-term challenge that poses an additional threat to the economy.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$193.6 billion",
+"2016": "$198.6 billion",
+"2015": "$203.9 billion",
+},
+"gdp_official_exchange_rate": "$126.5 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "-2.5%",
+"2016": "-2.6%",
+"2015": "0.9%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$6,800",
+"2016": "$7,200",
+"2015": "$7,600",
+},
+"gross_national_saving":
+{
+"2017": "28.6% of GDP",
+"2016": "24.5% of GDP",
+"2015": "28.5% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "80.6% (2017 est.)",
+"government_consumption": "15.6% (2017 est.)",
+"investment_in_fixed_capital": "10.3% (2017 est.)",
+"investment_in_inventories": "-1.2% (2017 est.)",
+"exports_of_goods_and_services": "25.4% (2017 est.)",
+"imports_of_goods_and_services": "-30.7% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "10.2% (2011 est.)",
+"industry": "61.4% (2011 est.)",
+"services": "28.4% (2011 est.)",
+}, 
+"agriculture_products": "bananas, sugarcane, coffee, sisal, corn, cotton, cassava (manioc, tapioca), tobacco, vegetables, plantains; livestock; forest products; fish",
+"industries": "petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing, brewing, tobacco products, sugar; textiles; ship repair",
+"industrial_production_growth_rate": "2.5% (2017 est.)",
+"labor_force": "12.51 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "85%",
+"industry": "15% (2015 est.)",
+"industry_and_services": "15% (2003 est.)",
+}, 
+"unemployment_rate":
+{
+"2016": "6.6%",
+},
+"population_below_poverty_line": "36.6% (2008 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "0.6%",
+"highest_10": "44.7% (2000)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2008": "42.7",
+},
+"budget": 
+{
+"revenues": "37.02 billion (2017 est.)",
+"expenditures": "45.44 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "29.3% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-6.7% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "65% of GDP",
+"2016": "75.3% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "29.8%",
+"2016": "30.7%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2014": "9%",
+"31 December 2010": "25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "15.82%",
+"31 December 2016": "15.78%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$32.39 billion",
+"31 December 2016": "$23.17 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$32.39 billion",
+"31 December 2016": "$23.17 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$16.02 billion",
+"31 December 2016": "$14.25 billion",
+},
+"current_account_balance":
+{
+"2017": "-$1.254 billion",
+"2016": "-$4.834 billion",
+},
+"exports":
+{
+"2017": "$33.07 billion",
+"2016": "$31.03 billion",
+},
+"exports_partners": "China 61.2%, India 13%, US 4.2% (2017)",
+"exports_commodities": "crude oil, diamonds, refined petroleum products, coffee, sisal, fish and fish products, timber, cotton",
+"imports":
+{
+"2017": "$19.5 billion",
+"2016": "$13.04 billion",
+},
+"imports_commodities": "machinery and electrical equipment, vehicles and spare parts; medicines, food, textiles, military goods",
+"imports_partners": "Portugal 17.8%, China 13.5%, US 7.4%, South Africa 6.2%, Brazil 6.1%, UK 4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$17.29 billion",
+"31 December 2016": "$23.74 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$42.08 billion",
+"31 December 2016": "$27.14 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$11.21 billion",
+"31 December 2016": "$9.16 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$28 billion",
+"31 December 2016": "$23.02 billion",
+},
+"exchange_rates": 
+{
+"currency": "kwanza (AOA) per US dollar -",
+"exchange_rates":
+{
+"2017": "172.6",
+"2016": "163.656",
+"2015": "163.656",
+"2014": "120.061",
+"2013": "98.303",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "15 million (2013)",
+"electrification_total_population": "40.5% (2016)",
+"electrification_urban_areas": "70.7% (2016)",
+"electrification_rural_areas": "16% (2016)",
+}, 
+"electricity_production": "10.2 billion kWh (2016 est.)",
+"electricity_consumption": "9.036 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "2.613 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "34% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "64% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "2% of total installed capacity (2017 est.)",
+"crude_oil_production": "1.593 million bbl/day (2018 est.)",
+"crude_oil_exports": "1.782 million bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "9.523 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "53,480 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "130,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "30,340 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "111,600 bbl/day (2015 est.)",
+"natural_gas_production": "3.115 billion cu m (2017 est.)",
+"natural_gas_consumption": "821.2 million cu m (2017 est.)",
+"natural_gas_exports": "3.993 billion cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "308.1 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "20.95 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "161,070",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "13,323,952",
+"subscriptions_per_100_inhabitants": "45 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "in the process of a restructure plan and opening up the telecom sector to new competitors,&amp;nbsp;while still retaining a 45% govt&amp;nbsp;portion of the share;&amp;nbsp;&amp;nbsp;slow progress in LTE network development, with only about 10% of the country covered by network infrastructure at the end of 2017 (2018)",
+"domestic": "only about one fixed-line per 100 persons; mobile-cellular teledensity about&amp;nbsp;45 telephones per 100 persons (2018)",
+"international": "country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&amp;nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29 (2019)",
+}, 
+"broadcast_media": "state controls all broadcast media with nationwide reach; state-owned Televisao Popular de Angola (TPA) provides terrestrial TV service on 2 channels; a third TPA channel is available via cable and satellite; TV subscription services are available; state-owned Radio Nacional de Angola (RNA) broadcasts on 5 stations; about a half-dozen private radio stations broadcast locally",
+"internet_country_code": ".ao",
+"internet_users": 
+{
+"total": "2,622,403",
+"percent_of_population": "13% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "96,919",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.78% of GDP",
+"2017": "2.42% of GDP",
+"2016": "2.95% of GDP",
+"2015": "3.52% of GDP",
+"2014": "5.4% of GDP",
+},
+"military_and_security_forces": "Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army) (2012)",
+"military_service_age_and_obligation": "20-45 years of age for compulsory male and 18-45 years for voluntary male military service (registration at age 18 is mandatory); 20-45 years of age for voluntary female service; 2-year conscript service obligation; Angolan citizenship required; the Navy (MGA) is entirely staffed with volunteers (2013)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "10 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "55 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "1,244,491 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "46.043 million mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "D2 (2016)",
+"airports": "176 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "31 (2017)",
+"over_3_047_m": "7 (2017)",
+"2_438_to_3_047_m": "8 (2017)",
+"1_524_to_2_437_m": "12 (2017)",
+"914_to_1_523_m": "4 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "145 (2013)",
+"over_3_047_m": "2 (2013)",
+"2_438_to_3_047_m": "3 (2013)",
+"1_524_to_2_437_m": "31 (2013)",
+"914_to_1_523_m": "66 (2013)",
+"under_914_m": "43 (2013)",
+}, 
+"heliports": "1 (2013)",
+"pipelines": "352 km gas, 85 km liquid petroleum gas, 1065 km oil, 5 km oil/gas/water (2013)",
+"railways": 
+{
+"total": "2,852 km (2014)",
+"narrow_gauge": "2,729 km 1.067-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "26,000 km (2018)",
+"paved": "13,600 km (2018)",
+"unpaved": "12,400 km (2018)",
+}, 
+"waterways": "1,300 km (2011)",
+"merchant_marine": 
+{
+"total": "55",
+"by_type": "general cargo 14, oil tanker 8, other 33 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Cabinda, Lobito, Luanda, Namibe",
+"lng_terminal_s_export": "Angola Soyo",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Democratic Republic of Congo accuses Angola of shifting monuments&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "6,448 (Cote d&#39;Ivoire), 5,709 (Mauritania) (2017); 22,463 (Democratic Republic of the Congo) (refugees and asylum seekers) (2019)",
+"illicit_drugs": "used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa",
+}
+}

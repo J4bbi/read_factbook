@@ -1,0 +1,527 @@
+{
+"name": "Bahrain",
+"code": "BA",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;In 1783, the Sunni Al-Khalifa family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain&#39;s small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE.&lt;/p&gt; &lt;p&gt;The Sunni royal family has long struggled to manage relations with its large Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Failed political talks prompted opposition political societies to boycott 2014 legislative and municipal council elections. In 2018, a law preventing members of political societies dissolved by the courts from participating in elections effectively sidelined the majority of opposition figures from taking part in national elections. As a result, most members of parliament are independents. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Middle East, archipelago in the Persian Gulf, east of Saudi Arabia",
+"geographic_coordinates": "26 00 N, 50 33 E",
+"map_references": "Middle East",
+"area": 
+{
+"total": "760 sq km",
+"land": "760 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "3.5 times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "161 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": " extending to boundaries to be determined",
+}, 
+"climate": "arid; mild, pleasant winters; very hot, humid summers",
+"terrain": "mostly low desert plain rising gently to low central escarpment",
+"elevation": 
+{
+"lowest_point": "Persian Gulf 0 m",
+"highest_point": "Jabal ad Dukhan 135 m",
+}, 
+"natural_resources": "oil, associated and nonassociated natural gas, fish, pearls",
+"land_use": 
+{
+"agricultural_land": "11.3% (2016 est.)",
+"agricultural_land_arable_land": "2.1% (2016 est.)",
+"agricultural_land_permanent_crops": "3.9% (2016 est.)",
+"agricultural_land_permanent_pasture": "5.3% (2016 est.)",
+"forest": "0.7% (2016 est.)",
+"other": "88% (2016 est.)",
+}, 
+"irrigated_land": "40 sq km (2012)",
+"population_distribution": "smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq",
+"natural_hazards": "periodic droughts; dust storms",
+"environment_current_issues": "desertification resulting from the degradation of limited arable land, periods of drought, and dust storms; coastal degradation (damage to coastlines, coral reefs, and sea vegetation) resulting from oil spills and other discharges from large tankers, oil refineries, and distribution stations; lack of freshwater resources (groundwater and seawater are the only sources for all water needs); lowered water table leaves aquifers vulnerable to saline contamination; desalinization provides some 90% of the country&#39;s freshwater",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "close to primary Middle Eastern petroleum sources; strategic location in Persian Gulf, through which much of the Western world&#39;s petroleum must transit to reach open ocean",
+}, 
+"people_and_society": 
+{
+"population": "1,442,659 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Bahraini(s)",
+"adjective": "Bahraini",
+}, 
+"ethnic_groups": "Bahraini 46%, Asian 45.5%, other Arab 4.7%, African 1.6%, European 1%, other 1.2% (includes Gulf Co-operative country nationals, North and South Americans, and Oceanians) (2010 est.)",
+"languages": "Arabic (official), English, Farsi, Urdu",
+"religions": "Muslim 73.7%, Christian 9.3%, Jewish 0.1%, other 16.9% (2017 est.)",
+"age_structure": 
+{
+"0_14_years": "18.88% (male 138,309 /female 134,067)",
+"15_24_years": "15.49% (male 126,564 /female 96,834)",
+"25_54_years": "56.06% (male 527,417 /female 281,391)",
+"55_64_years": "6.49% (male 59,404 /female 34,284)",
+"65_years_and_over": "3.08% (male 22,258 /female 22,131) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "30.2 (2015 est.)",
+"youth_dependency_ratio": "27.1 (2015 est.)",
+"elderly_dependency_ratio": "3 (2015 est.)",
+"potential_support_ratio": "33.1 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "32.5 years (2018 est.)",
+"male": "34 years",
+"female": "29.8 years",
+}, 
+"population_growth_rate": "2.19% (2018 est.)",
+"birth_rate": "13.1 births/1,000 population (2018 est.)",
+"death_rate": "2.8 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "11.6 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq",
+"urbanization": 
+{
+"urban_population": "89.4% of total population (2019)",
+"rate_of_urbanization": "4.38% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "600,000 MANAMA (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1.03 male(s)/female",
+"15_24_years": "1.31 male(s)/female",
+"25_54_years": "1.87 male(s)/female",
+"55_64_years": "1.73 male(s)/female",
+"65_years_and_over": "1.01 male(s)/female",
+"total_population": "1.54 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "14 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "8.8 deaths/1,000 live births (2018 est.)",
+"male": "9.7 deaths/1,000 live births",
+"female": "7.7 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "79.1 years (2018 est.)",
+"male": "76.9 years",
+"female": "81.5 years",
+}, 
+"total_fertility_rate": "1.73 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "4.9% (2016)",
+"physicians_density": "0.93 physicians/1,000 population (2015)",
+"hospital_bed_density": "2 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "99.2% of population (2015 est.)",
+"improved_rural": "99.2% of population (2015 est.)",
+"improved_total": "99.2% of population (2015 est.)",
+"unimproved_urban": "0.8% of population (2015 est.)",
+"unimproved_rural": "0.8% of population (2015 est.)",
+"unimproved_total": "0.8% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2017 est.)",
+"hiv_aids_people_living_with_hiv_aids": " &lt;500 (2017 est.)",
+"hiv_aids_deaths": " &lt;100 (2017 est.)",
+"obesity_adult_prevalence_rate": "29.8% (2016)",
+"education_expenditures": "2.3% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "95.7%",
+"male": "96.9%",
+"female": "93.5% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "15 years",
+"female": "16 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "5.3%",
+"male": "2.6%",
+"female": "12.2% (2012 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Kingdom of Bahrain",
+"conventional_short_form": "Bahrain",
+"local_long_form": "Mamlakat al Bahrayn",
+"local_short_form": "Al Bahrayn",
+"former": "Dilmun, Tylos, Awal, Mishmahig, Bahrayn, State of Bahrain",
+"etymology": "the name means &quot;the two seas&quot; in Arabic and refers to the water bodies surrounding the archipelago",
+}, 
+"government_type": "constitutional monarchy",
+"capital": 
+{
+"name": "Manama",
+"geographic_coordinates": "26 14 N, 50 34 E",
+"time_difference": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)",
+"independence": "15 August 1971 (from the UK)",
+"national_holiday": "National Day, 16 December (1971); note - 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection",
+"constitution": 
+{
+"history": "adopted 14 February 2002",
+"amendments": "proposed by the king or by at least 15 members of either chamber of the National Assembly followed by submission to an Assembly committee for review and, if approved, submitted to the government for restatement as drafts; passage requires a two-thirds majority vote by the membership of both chambers and validation by the king; constitutional articles on the state religion (Islam), state language (Arabic), and the monarchy and &quot;inherited rule&quot; cannot be amended; amended 2012, 2017 (2017)",
+}, 
+"legal_system": "mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, criminal, and commercial codes; customary law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "the father must be a citizen of Bahrain",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "25 years; 15 years for Arab nationals",
+}, 
+"suffrage": "20 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "King HAMAD bin Isa Al-Khalifa (since 6 March 1999); Crown Prince SALMAN bin Hamad Al-Khalifa (son of the monarch, born 21 October 1969)",
+"head_of_government": "Prime Minister KHALIFA bin Salman Al-Khalifa (since 1971); First Deputy Prime Minister SALMAN bin Hamad Al- Khalifa (since 11 March 2013); Deputy Prime Ministers MUHAMMAD bin Mubarak Al-Khalifa (since September 2005), Jawad bin Salim al-ARAIDH, ALI bin Khalifa bin Salman Al-Khalifa (since 11 December 2006), KHALID bin Abdallah Al-Khalifa (since November 2010)",
+"cabinet": "Cabinet appointed by the monarch",
+"elections_appointments": "the monarchy is hereditary; prime minister appointed by the monarch",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral National Assembly consists of:&lt;br /&gt;Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)&lt;br /&gt;Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)",
+"elections": "&lt;br /&gt;Consultative Council - last appointments on 12 December 2018 (next NA)&lt;br /&gt;Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018&amp;nbsp;(next to be held in 2022)",
+"election_results": "&lt;br /&gt;Consultative Council - composition - men 31, women 9, percent of women 22.5%&lt;br /&gt;&lt;br /&gt;Council of Representatives (for 2018 election) &amp;nbsp;- percent of vote by society&amp;nbsp;- NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)",
+"judge_selection_and_term_of_office": "Court of Cassation judges appointed by royal decree and serve for a specified tenure; Constitutional Court president and members appointed by the Higher Judicial Council, a body chaired by the monarch and includes judges from the Court of Cassation, sharia law courts, and Civil High Courts of Appeal; members serve 9-year terms; High Sharia Court of Appeal member appointments by royal decree&amp;nbsp;for a specified tenure",
+"subordinate_courts": "Civil High Courts of Appeal; middle and lower civil courts; High Sharia Court of Appeal; Senior Sharia Court; Administrative Courts of Appeal; military courts",
+}, 
+"political_parties_and_leaders": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; political parties are prohibited, but political societies were legalized under a July 2005 law&lt;/p&gt;", 
+"international_organization_participation": "ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Abdulla bin Rashid AL KHALIFA (since 21 July 2017)",
+"chancery": "3502 International Drive NW, Washington, DC 20008",
+"telephone": "[1] (202) 342-1111",
+"fax": "[1] (202) 362-2192",
+"consulate_s_general": "New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Justin H. SIBERELL (since November 2017)",
+"telephone": "[973] 1724-2700",
+"embassy": "Building #979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, Manama",
+"mailing_address": "PSC 451, Box 660, FPO AE 09834-5100 &lt;br /&gt;international mail: American Embassy, Box 26431, Manama",
+"fax": "[973] 1727-2594",
+}, 
+"flag_description": "red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam",
+"national_symbol_s": "a red field surmounted by a white serrated band with five white points; national colors: red, white",
+"national_anthem": 
+{
+"name": "&quot;Bahrainona&quot; (Our Bahrain)",
+"lyrics_music": "unknown",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to &quot;junk&quot; status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Other major economic activities are production of aluminum - Bahrain&#39;s second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$71.17 billion",
+"2016": "$68.59 billion",
+"2015": "$66.3 billion",
+},
+"gdp_official_exchange_rate": "$35.33 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.8%",
+"2016": "3.5%",
+"2015": "2.9%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$49,000",
+"2016": "$48,200",
+"2015": "$48,400",
+},
+"gross_national_saving":
+{
+"2017": "19.8% of GDP",
+"2016": "21.2% of GDP",
+"2015": "22% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "45.8% (2017 est.)",
+"government_consumption": "15.5% (2017 est.)",
+"investment_in_fixed_capital": "26.1% (2017 est.)",
+"investment_in_inventories": "0.4% (2017 est.)",
+"exports_of_goods_and_services": "80.2% (2017 est.)",
+"imports_of_goods_and_services": "-67.9% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "0.3% (2017 est.)",
+"industry": "39.3% (2017 est.)",
+"services": "60.4% (2017 est.)",
+}, 
+"agriculture_products": "fruit, vegetables; poultry, dairy products; shrimp, fish",
+"industries": "petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism",
+"industrial_production_growth_rate": "0.6% (2017 est.)",
+"labor_force": "831,600 (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "1%",
+"industry": "32%",
+"services": "67% (2004 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "3.6%",
+"2016": "3.7%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "5.854 billion (2017 est.)",
+"expenditures": "9.407 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "16.6% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-10.1% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "88.5% of GDP",
+"2016": "81.4% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.4%",
+"2016": "2.8%",
+},
+"central_bank_discount_rate":
+{
+"18 December 2017": "1.75%",
+"31 December 2010": "0.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "5.33%",
+"31 December 2016": "5.18%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$9.185 billion",
+"31 December 2016": "$9.078 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$9.185 billion",
+"31 December 2016": "$9.078 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$29.72 billion",
+"31 December 2016": "$29.08 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$19.25 billion",
+"31 December 2014": "$22.07 billion",
+"31 December 2013": "$18.57 billion",
+},
+"current_account_balance":
+{
+"2017": "-$1.6 billion",
+"2016": "-$1.493 billion",
+},
+"exports":
+{
+"2017": "$15.38 billion",
+"2016": "$12.78 billion",
+},
+"exports_partners": "UAE 19.6%, Saudi Arabia 11.7%, US 10.8%, Oman 8.1%, China 6.5%, Qatar 5.7%, Japan 4.2% (2017)",
+"exports_commodities": "petroleum and petroleum products, aluminum, textiles",
+"imports":
+{
+"2017": "$16.08 billion",
+"2016": "$13.59 billion",
+},
+"imports_commodities": "crude oil, machinery, chemicals",
+"imports_partners": "China 8.8%, UAE 7.2%, US 7.1%, Australia 5.3%, Japan 4.8% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$2.349 billion",
+"31 December 2016": "$3.094 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$52.15 billion",
+"31 December 2016": "$42.55 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$22.08 billion",
+"31 December 2016": "$21.56 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$10.66 billion",
+"31 December 2016": "$10.5 billion",
+},
+"exchange_rates": 
+{
+"currency": "Bahraini dinars (BHD) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.376",
+"2016": "0.376",
+"2015": "0.376",
+"2014": "0.376",
+"2013": "0.376",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "26.81 billion kWh (2016 est.)",
+"electricity_consumption": "26.11 billion kWh (2016 est.)",
+"electricity_exports": "213 million kWh (2015 est.)",
+"electricity_imports": "276 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "3.928 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "100% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "40,000 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "226,200 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "124.6 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "274,500 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "61,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "245,300 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "14,530 bbl/day (2015 est.)",
+"natural_gas_production": "15.89 billion cu m (2017 est.)",
+"natural_gas_consumption": "15.89 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "92.03 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "37.98 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "285,318",
+"subscriptions_per_100_inhabitants": "20 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "2,364,477",
+"subscriptions_per_100_inhabitants": "168 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern system; well-developed LTE networks,&amp;nbsp; 5G trials tested and deployment in near future; mobile penetration is high compared to the region; development of its own National Broadband Network (NBN); competition is good and telecoms are regulated (2018)",
+"domestic": "modern fiber-optic integrated services; digital network with rapidly growing use of mobile-cellular telephones; 20 per 100 fixed-line, 168 per 100 mobile-cellular; (2018)",
+"international": "country code - 973; landing points for the&amp;nbsp;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG&amp;nbsp;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)",
+}, 
+"broadcast_media": "state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2019)",
+"internet_country_code": ".bh",
+"internet_users": 
+{
+"total": "1,351,326",
+"percent_of_population": "98% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "213,633",
+"subscriptions_per_100_inhabitants": "15 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "3.6% of GDP",
+"2017": "4.39% of GDP",
+"2016": "4.73% of GDP",
+"2015": "4.59% of GDP",
+"2014": "4.42% of GDP",
+},
+"military_and_security_forces": "Bahrain Defense Force (BDF): Royal Bahraini Army, Royal Bahraini Navy, Royal Bahraini Air Force, Royal Bahraini Air Defense Force.&lt;br /&gt;&lt;br /&gt;The BDF also includes the Royal Guard, a battalion-plus sized combined arms special forces unit.&lt;br /&gt;&lt;br /&gt;The National Guard is charged with internal security and assisting the BDF in defending against external threats. (2016)",
+"military_service_age_and_obligation": "18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "6 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "42 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "5,313,756 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "240,107,004 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "A9C (2016)",
+"airports": "4 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "4 (2017)",
+"over_3_047_m": "3 (2017)",
+"914_to_1_523_m": "1 (2017)",
+}, 
+"heliports": "1 (2013)",
+"pipelines": "20 km gas, 54 km oil (2013)",
+"roadways": 
+{
+"total": "4,122 km (2010)",
+"paved": "3,392 km (2010)",
+"unpaved": "730 km (2010)",
+}, 
+"merchant_marine": 
+{
+"total": "259",
+"by_type": "bulk carrier 1, container ship 1, general cargo 12, oil tanker 4, other 241 (2018)",
+}, 
+"ports_and_terminals": "Mina&#39; Salman, Sitrah",
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": "&lt;p&gt;&lt;strong&gt;aim(s): &lt;/strong&gt;seeks to overthrow the Sunni al-Khalifa ruling family, and to expel America&amp;rsquo;s military presence; supports anti-government insurgent groups with funding, weapons, and training&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; Bahrain&lt;/p&gt; (2019)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

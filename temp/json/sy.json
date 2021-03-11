@@ -1,0 +1,562 @@
+{
+"name": "Syria",
+"code": "SY",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. The French administered the area as Syria until granting it independence in 1946. The new country lacked political stability and experienced a series of military coups. Syria united with Egypt in February 1958 to form the United Arab Republic. In September 1961, the two entities separated, and the Syrian Arab Republic was reestablished. In the 1967 Arab-Israeli War, Syria lost the Golan Heights region to Israel. During the 1990s, Syria and Israel held occasional, albeit unsuccessful, peace talks over its return. In November 1970, Hafiz al-ASAD, a member of the socialist Ba&#39;ath Party and the minority Alawi sect, seized power in a bloodless coup and brought political stability to the country. Following the death of President Hafiz al-ASAD, his son, Bashar al-ASAD, was approved as president by popular referendum in July 2000. Syrian troops - stationed in Lebanon since 1976 in an ostensible peacekeeping role - were withdrawn in April 2005. During the July-August 2006 conflict between Israel and Hizballah, Syria placed its military forces on alert but did not intervene directly on behalf of its ally Hizballah. In May 2007, Bashar al-ASAD&#39;s second term as president was approved by popular referendum.&lt;/p&gt; &lt;p&gt;Influenced by major uprisings that began elsewhere in the region, and compounded by additional social and economic factors, antigovernment protests broke out first in the southern province of Dar&#39;a in March 2011 with protesters calling for the repeal of the restrictive Emergency Law allowing arrests without charge, the legalization of political parties, and the removal of corrupt local officials. Demonstrations and violent unrest spread across Syria with the size and intensity of protests fluctuating. The government responded to unrest with a mix of concessions - including the repeal of the Emergency Law, new laws permitting new political parties, and liberalizing local and national elections - and with military force and detentions. The government&#39;s efforts to quell unrest and armed opposition activity led to extended clashes and eventually civil war between government forces, their allies, and oppositionists.&lt;/p&gt; &lt;p&gt;International pressure on the ASAD regime intensified after late 2011, as the Arab League, the EU, Turkey, and the US expanded economic sanctions against the regime and those entities that support it. In December 2012, the Syrian National Coalition, was recognized by more than 130 countries as the sole legitimate representative of the Syrian people. In September 2015, Russia launched a military intervention on behalf of the ASAD regime, and domestic and foreign government-aligned forces recaptured swaths of territory from opposition forces, and eventually the country&amp;rsquo;s second largest city, Aleppo, in December 2016, shifting the conflict in the regime&amp;rsquo;s favor. The regime, with this foreign support, also recaptured opposition strongholds in the Damascus suburbs and the southern province of Dar&amp;rsquo;a in 2018. The government lacks territorial control over much of the northeastern part of the country, which is dominated by the predominantly Kurdish Syrian Democratic Forces (SDF). The SDF has expanded its territorial hold over much of the northeast since 2014 as it has captured territory from the Islamic State of Iraq and Syria. Since 2016, Turkey has also conducted three large-scale military operations into Syria, capturing territory along Syria&#39;s northern border in the provinces of Aleppo, Ar Raqqah, and Al Hasakah. Political negotiations between the government and opposition delegations at UN-sponsored Geneva conferences since 2014 have failed to produce a resolution of the conflict. Since early 2017, Iran, Russia, and Turkey have held separate political negotiations outside of UN auspices to attempt to reduce violence in Syria. According to an April 2016 UN estimate, the death toll among Syrian Government forces, opposition forces, and civilians was over 400,000, though other estimates placed the number well over 500,000. As of December 2019, approximately 6 million Syrians were internally displaced. Approximately 11.1 million people were in need of humanitarian assistance across the country, and an additional 5.7 million Syrians were registered refugees in Turkey, Jordan, Iraq, Egypt, and North Africa. The conflict in Syria remains one of the largest humanitarian crises worldwide.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Middle East, bordering the Mediterranean Sea, between Lebanon and Turkey",
+"geographic_coordinates": "35 00 N, 38 00 E",
+"map_references": "Middle East",
+"area": 
+{
+"total": "187,437 sq km",
+"land": "185,887 sq km",
+"water": "1,550 sq km",
+}, 
+"area_comparative": "slightly more than 1.5 times the size of Pennsylvania",
+"land_boundaries": 
+{
+"total": "2,343 km",
+"border_countries": "Iraq 599 km, Israel 79 km, Jordan 362 km, Lebanon 394 km, Turkey 909 km",
+}, 
+"coastline": "193 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"contiguous_zone": "24 nm",
+}, 
+"climate": "mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus",
+"terrain": "primarily semiarid and desert plateau; narrow coastal plain; mountains in west",
+"elevation": 
+{
+"mean_elevation": "514 m",
+"lowest_point": "unnamed location near Lake Tiberias -208 m",
+"highest_point": "Mount Hermon (Jabal a-Shayk) 2,814 m",
+}, 
+"natural_resources": "petroleum, phosphates, chrome and manganese ores, asphalt, iron ore, rock salt, marble, gypsum, hydropower",
+"land_use": 
+{
+"agricultural_land": "75.8% (2011 est.)",
+"agricultural_land_arable_land": "25.4% (2011 est.)",
+"agricultural_land_permanent_crops": "5.8% (2011 est.)",
+"agricultural_land_permanent_pasture": "44.6% (2011 est.)",
+"forest": "2.7% (2011 est.)",
+"other": "21.5% (2011 est.)",
+}, 
+"irrigated_land": "14,280 sq km (2012)",
+"population_distribution": "significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country&#39;s largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley",
+"natural_hazards": "&lt;p&gt;dust storms, sandstorms&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; Syria&#39;s two historically active volcanoes, Es Safa and an unnamed volcano near the Turkish border have not erupted in centuries&lt;/p&gt;",
+"environment_current_issues": "deforestation; overgrazing; soil erosion; desertification; depletion of water resources; water pollution from raw sewage and petroleum refining wastes; inadequate potable water",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "Environmental Modification",
+}, 
+"geography_note": "the capital of Damascus - located at an oasis fed by the Barada River - is thought to be one of the world&#39;s oldest continuously inhabited cities; there are 42 Israeli settlements and civilian land use sites in the Israeli-controlled Golan Heights (2017)",
+}, 
+"people_and_society": 
+{
+"population": "19,454,263 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Syrian(s)",
+"adjective": "Syrian",
+}, 
+"ethnic_groups": "Arab ~50%, Alawite ~15%, Kurd ~10%, Levantine ~10%, other ~15% (includes Druze, Ismaili, Imami, Nusairi, Assyrian, Turkoman, Armenian)",
+"languages": "Arabic (official), Kurdish, Armenian, Aramaic, Circassian, French, English",
+"religions": "Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Christian 10% (includes Orthodox, Uniate, and Nestorian), Druze 3%, Jewish (few remaining in Damascus and Aleppo)",
+"age_structure": 
+{
+"0_14_years": "31.39% (male 3,132,619 /female 2,974,394)",
+"15_24_years": "19.52% (male 1,933,185 /female 1,863,991)",
+"25_54_years": "39.26% (male 3,807,664 /female 3,829,150)",
+"55_64_years": "5.52% (male 531,455 /female 542,738)",
+"65_years_and_over": "4.31% (male 379,360 /female 459,707) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "72.8 (2015 est.)",
+"youth_dependency_ratio": "65.8 (2015 est.)",
+"elderly_dependency_ratio": "7 (2015 est.)",
+"potential_support_ratio": "14.3 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "24.5 years (2018 est.)",
+"male": "24 years",
+"female": "25 years",
+}, 
+"population_growth_rate": "7.37% NA (2018 est.)",
+"birth_rate": "20.7 births/1,000 population (2018 est.)",
+"death_rate": "4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "57 migrant(s)/1,000 population NA (2018 est.)",
+"population_distribution": "significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country&#39;s largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley",
+"urbanization": 
+{
+"urban_population": "54.8% of total population (2019)",
+"rate_of_urbanization": "1.43% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "2.354 million DAMASCUS (capital), 1.834 million Aleppo, 1.314 million Hims (Homs), 907,000 Hamah (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "0.99 male(s)/female",
+"55_64_years": "0.98 male(s)/female",
+"65_years_and_over": "0.83 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "31 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "14.4 deaths/1,000 live births (2018 est.)",
+"male": "16.6 deaths/1,000 live births",
+"female": "12.2 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "75.2 years (2018 est.)",
+"male": "72.8 years",
+"female": "77.8 years",
+}, 
+"total_fertility_rate": "2.44 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "53.9% (2009)",
+"drinking_water_source": 
+{
+"improved_urban": "92.3% of population",
+"improved_rural": "87.2% of population",
+"improved_total": "90.1% of population",
+"unimproved_urban": "7.7% of population",
+"unimproved_rural": "12.8% of population",
+"unimproved_total": "9.9% of population (2015 est.)",
+}, 
+"physicians_density": "1.22 physicians/1,000 population (2016)",
+"hospital_bed_density": "1.5 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "96.2% of population (2015 est.)",
+"improved_rural": "95.1% of population (2015 est.)",
+"improved_total": "95.7% of population (2015 est.)",
+"unimproved_urban": "3.8% of population (2015 est.)",
+"unimproved_rural": "4.9% of population (2015 est.)",
+"unimproved_total": "4.3% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2018)",
+"hiv_aids_people_living_with_hiv_aids": " &lt;1000 (2018)",
+"hiv_aids_deaths": " &lt;100 (2018)",
+"obesity_adult_prevalence_rate": "27.8% (2016)",
+"children_under_the_age_of_5_years_underweight": "10.2% (2009)",
+"education_expenditures": "5.1% of GDP (2009)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "86.4%",
+"male": "91.7%",
+"female": "81% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "9 years",
+"male": "9 years",
+"female": "9 years (2013)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "35.8%",
+"male": "26.6%",
+"female": "71.1% (2011 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Syrian Arab Republic",
+"conventional_short_form": "Syria",
+"local_long_form": "Al Jumhuriyah al Arabiyah as Suriyah",
+"local_short_form": "Suriyah",
+"former": "United Arab Republic (with Egypt)",
+"etymology": "name ultimately derived from the ancient Assyrians who dominated northern Mesopotamia, but whose reach also extended westward to the Levant; over time, the name came to be associated more with the western area",
+}, 
+"government_type": "presidential republic; highly authoritarian regime",
+"capital": 
+{
+"name": "Damascus",
+"geographic_coordinates": "33 30 N, 36 18 E",
+"time_difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins midnight on the last Friday in March; ends at midnight on the last Friday in October",
+}, 
+"administrative_divisions": "14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda&#39;, Dar&#39;a, Dayr az Zawr, Dimashq (Damascus), Halab (Aleppo), Hamah, Hims (Homs), Idlib, Rif Dimashq (Damascus Countryside), Tartus",
+"independence": "17 April 1946 (from League of Nations mandate under French administration)",
+"national_holiday": "Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leaving of the last French troops and the proclamation of full independence",
+"constitution": 
+{
+"history": "several previous; latest issued 15 February 2012, passed by referendum and effective 27 February 2012",
+"amendments": "proposed by the president of the republic or by one third of the People&amp;rsquo;s Assembly members; following review by a special Assembly committee, passage requires at least three-quarters majority vote by the Assembly and approval by the president (2016)",
+}, 
+"legal_system": "mixed legal system of civil and Islamic (sharia) law (for family courts)",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "the father must be a citizen of Syria; if the father is unknown or stateless, the mother must be a citizen of Syria",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Bashar al-ASAD (since 17 July 2000); Vice President Najah al-ATTAR (since 23 March 2006)",
+"head_of_government": "Prime Minister Imad Muhammad Dib KHAMIS (since 22 June 2016); Deputy Prime Minister Walid al-MUALEM (since 23 June 2012)",
+"cabinet": "Council of Ministers appointed by the president",
+"elections_appointments": "president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 3 June 2014 (next to be held in June 2021); the president appoints the vice presidents, prime minister, and deputy prime ministers",
+"election_results": "Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba&#39;th Party) 88.7%, Hassan al-NOURI (independent) 4.3%, Maher HAJJER (independent) 3.2%, other/invalid 3.8%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral People&#39;s Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)",
+"elections": "last held on 13 April 2016 (next to be held in 2020)",
+"election_results": "percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 217, women 33, percent of women 13.2%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)",
+"judge_selection_and_term_of_office": "Court of Cassation judges appointed by the Supreme Judicial Council (SJC), a judicial management body headed by the minister of justice with 7 members, including the national president; judge tenure NA; Supreme Constitutional Court judges nominated by the president and appointed by the SJC; judges serve 4-year renewable terms",
+"subordinate_courts": "courts of first instance; magistrates&#39; courts; religious and military courts; Economic Security Court; Counterterrorism Court (established June 2012)",
+}, 
+"political_parties_and_leaders": "&lt;strong&gt;legal parties/alliances:&lt;br /&gt;&lt;/strong&gt; Arab Socialist Ba&#39;ath Party [Bashar al-ASAD, regional secretary] &lt;br /&gt;Arab Socialist Renaissance (Ba&#39;th) Party [President Bashar al-ASAD] &lt;br /&gt;Arab Socialist Union of Syria or ASU [Safwan al-QUDSI] &lt;br /&gt;National Progressive Front or NPF [Bashar al-ASAD, Suleiman QADDAH] (alliance includes Arab Socialist Renaissance (Ba&#39;th) Party, Socialist Unionist Democratic Party)&lt;br /&gt; Socialist Unionist Democratic Party [Fadlallah Nasr al-DIN]&lt;br /&gt;Syrian Communist Party (two branches) [Wissal Farha BAKDASH, Yusuf Rashid FAYSAL] &lt;br /&gt;Syrian Social Nationalist Party or SSNP [Ali HAIDAR]&lt;br /&gt;Unionist Socialist Party [Fayez ISMAIL]&lt;br /&gt;&lt;strong&gt;&lt;br /&gt;Major Kurdish parties&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;Kurdish Democratic Union Party or PYD [Shahoz HASAN and Aysha HISSO]&lt;br /&gt;Kurdish National Council [Sa&#39;ud MALA]&lt;br /&gt;&amp;nbsp; &lt;br /&gt;&lt;strong&gt;other:&lt;/strong&gt; Syrian Democratic Party [Mustafa QALAAJI]",
+"international_organization_participation": "ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant)",
+"chancery": "2215 Wyoming Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 232-6313",
+"fax": "[1] (202) 234-9548",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as protecting power for US interests in Syria",
+"telephone": "[963] (11) 3391-4444",
+"embassy": "Abou Roumaneh, 2 Al Mansour Street, Damascus",
+"mailing_address": "P. O. Box 29, Damascus",
+"fax": "[963] (11) 3391-3999",
+}, 
+"flag_description": "three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980",
+"national_symbol_s": "hawk; national colors: red, white, black, green",
+"national_anthem": 
+{
+"name": "&quot;Humat ad-Diyar&quot; (Guardians of the Homeland)",
+"lyrics_music": "Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Syria&#39;s economy has deeply deteriorated amid the ongoing conflict that began in 2011, declining by more than 70% from 2010 to 2017. The government has struggled to fully address the effects of international sanctions, widespread infrastructure damage, diminished domestic consumption and production, reduced subsidies, and high inflation, which have caused dwindling foreign exchange reserves, rising budget and trade deficits, a decreasing value of the Syrian pound, and falling household purchasing power. In 2017, some economic indicators began to stabilize, including the exchange rate and inflation, but economic activity remains depressed and GDP almost certainly fell.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;During 2017, the ongoing conflict and continued unrest and economic decline worsened the humanitarian crisis, necessitating high levels of international assistance, as more than 13 million people remain in need inside Syria, and the number of registered Syrian refugees increased from 4.8 million in 2016 to more than 5.4 million.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Prior to the turmoil, Damascus had begun liberalizing economic policies, including cutting lending interest rates, opening private banks, consolidating multiple exchange rates, raising prices on some subsidized items, and establishing the Damascus Stock Exchange, but the economy remains highly regulated. Long-run economic constraints include foreign trade barriers, declining oil production, high unemployment, rising budget deficits, increasing pressure on water supplies caused by heavy use in agriculture, industrial contaction, water pollution, and widespread infrastructure damage.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2015": "$50.28 billion",
+"2014": "$55.8 billion",
+"2013": "$61.9 billion",
+},
+"gdp_official_exchange_rate": "$24.6 billion (2014 est.) (2014 est.)",
+"gdp_real_growth_rate":
+{
+"2014": "-36.5%",
+"2013": "-30.9%",
+},
+"gdp_per_capita_ppp":
+{
+"2015": "$2,900",
+"2014": "$3,300",
+"2013": "$2,800",
+},
+"gross_national_saving":
+{
+"2017": "17% of GDP",
+"2016": "15.3% of GDP",
+"2015": "16.1% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "73.1% (2017 est.)",
+"government_consumption": "26% (2017 est.)",
+"investment_in_fixed_capital": "18.6% (2017 est.)",
+"investment_in_inventories": "12.3% (2017 est.)",
+"exports_of_goods_and_services": "16.1% (2017 est.)",
+"imports_of_goods_and_services": "-46.1% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "20% (2017 est.)",
+"industry": "19.5% (2017 est.)",
+"services": "60.8% (2017 est.)",
+}, 
+"agriculture_products": "wheat, barley, cotton, lentils, chickpeas, olives, sugar beets; beef, mutton, eggs, poultry, milk",
+"industries": "petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining, cement, oil seeds crushing, automobile assembly",
+"industrial_production_growth_rate": "4.3% (2017 est.)",
+"labor_force": "3.767 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "17%",
+"industry": "16%",
+"services": "67% (2008 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "50%",
+"2016": "50%",
+},
+"population_below_poverty_line": "82.5% (2014 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "1.162 billion (2017 est.)",
+"expenditures": "3.211 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "4.2% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-8.7% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "94.8% of GDP",
+"2016": "91.3% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "28.1%",
+"2016": "47.3%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "0.75%",
+"31 December 2016": "5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "14%",
+"31 December 2016": "22%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$7.272 billion",
+"31 December 2016": "$4.333 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$7.272 billion",
+"31 December 2016": "$4.333 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$9.161 billion",
+"31 December 2016": "$5.786 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$2.123 billion",
+"2016": "-$2.077 billion",
+},
+"exports":
+{
+"2017": "$1.85 billion",
+"2016": "$1.705 billion",
+},
+"exports_partners": "Lebanon 31.5%, Iraq 10.3%, Jordan 8.8%, China 7.8%, Turkey 7.5%, Spain 7.3% (2017)",
+"exports_commodities": "crude oil, minerals, petroleum products, fruits and vegetables, cotton fiber, textiles, clothing, meat and live animals, wheat",
+"imports":
+{
+"2017": "$6.279 billion",
+"2016": "$5.496 billion",
+},
+"imports_commodities": "machinery and transport equipment, electric power machinery, food and livestock, metal and metal products, chemicals and chemical products, plastics, yarn, paper",
+"imports_partners": "Russia 32.4%, Turkey 16.7%, China 9.5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$407.3 million",
+"31 December 2016": "$504.6 million",
+},
+"debt_external":
+{
+"31 December 2017": "$4.989 billion",
+"31 December 2016": "$5.085 billion",
+},
+"exchange_rates": 
+{
+"currency": "Syrian pounds (SYP) per US dollar -",
+"exchange_rates":
+{
+"2017": "514.6",
+"2016": "459.2",
+"2015": "459.2",
+"2014": "236.41",
+"2013": "153.695",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "1 million (2017)",
+"electrification_total_population": "92% (2017)",
+"electrification_urban_areas": "100% (2017)",
+"electrification_rural_areas": "84% (2017)",
+}, 
+"electricity_production": "17.07 billion kWh (2016 est.)",
+"electricity_consumption": "14.16 billion kWh (2016 est.)",
+"electricity_exports": "262 million kWh (2015 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "9.058 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "83% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "17% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "25,000 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "87,660 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "2.5 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "111,600 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "134,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "12,520 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "38,080 bbl/day (2015 est.)",
+"natural_gas_production": "3.738 billion cu m (2017 est.)",
+"natural_gas_consumption": "3.738 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "240.7 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "27.51 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "2,726,193",
+"subscriptions_per_100_inhabitants": "15 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "15.65 million",
+"subscriptions_per_100_inhabitants": "87 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "the armed insurgency that began in 2011 has led to major disruptions to the network and has caused telephone and Internet outages throughout the country; 2018 saw some stabilizing; telecoms have become decentralized with expensive satellite communications in the country; fairly high mobile penetration; potential for growth given that subscription numbers are low (2018)",
+"domestic": "the number of fixed-line connections increased markedly prior to the civil war in 2011 and now stands at 15 per 100; mobile-cellular service stands at about 87 per 100 persons (2018)",
+"international": "country code - 963; landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel (2019)",
+}, 
+"broadcast_media": "state-run TV and radio broadcast networks; state operates 2 TV networks and a satellite channel; roughly two-thirds of Syrian homes have a satellite dish providing access to foreign TV broadcasts; 3 state-run radio channels; first private radio station launched in 2005; private radio broadcasters prohibited from transmitting news or political content",
+"internet_country_code": ".sy",
+"internet_users": 
+{
+"total": "5,476,850",
+"percent_of_population": "31.9% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,154,909",
+"subscriptions_per_100_inhabitants": "6 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "Syrian Armed Forces: Syrian Arab Army, Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (pro-government militia and auxiliary forces) (2019)",
+"military_service_age_and_obligation": "18-42 years of age for compulsory and voluntary military service; conscript service obligation is 18-21 months; women are not conscripted but may volunteer to serve (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "2 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "11 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "475,932 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "1,517,388 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "YK (2016)",
+"airports": "90 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "29 (2013)",
+"over_3_047_m": "5 (2013)",
+"2_438_to_3_047_m": "16 (2013)",
+"914_to_1_523_m": "3 (2013)",
+"under_914_m": "5 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "61 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "12 (2013)",
+"under_914_m": "48 (2013)",
+}, 
+"heliports": "6 (2013)",
+"pipelines": "3170 km gas, 2029 km oil (2013)",
+"railways": 
+{
+"total": "2,052 km (2014)",
+"standard_gauge": "1,801 km 1.435-m gauge (2014)",
+"narrow_gauge": "251 km 1.050-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "69,873 km (2010)",
+"paved": "63,060 km (2010)",
+"unpaved": "6,813 km (2010)",
+}, 
+"waterways": "900 km (navigable but not economically significant) (2011)",
+"merchant_marine": 
+{
+"total": "21",
+"by_type": "bulk carrier 1, general cargo 7, other 13 (2018)",
+}, 
+"ports_and_terminals": "Baniyas, Latakia, Tartus",
+}, 
+"terrorism": 
+{
+"terrorist_groups_home_based": 
+{
+"al_nusrah_front": "&lt;strong&gt;aim(s):&lt;/strong&gt; overthrow Syrian President Bashar al-ASAD&#39;s regime, absorb like-minded Syrian rebel groups, and ultimately, establish a regional Islamic caliphate&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; headquartered in the northwestern Idlib Governorate, with a minor presence in Halab Governorate; operational primarily in northern, western, and southern Syria; installs Sharia in areas under its control; targets primarily Syrian regime and pro-regime forces, some minorities, other Syrian insurgent groups, and occasionally Western interests (2018)",
+"hay_at_tahrir_al_sham_hts": "&lt;strong&gt;aim(s):&lt;/strong&gt; an alias of the al-Nusrah Front; overthrow Syrian President Bashar al-ASAD&#39;s regime, absorb like-minded Syrian rebel groups, and, ultimately, establish a regional Islamic caliphate&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; Northwest Syria (2018)",
+"islamic_state_of_iraq_and_ash_sham_isis": "&lt;strong&gt;aim(s):&lt;/strong&gt; replace the world order with a global Islamic state based in Iraq and Syria; expand its branches and networks in other countries; rule according to ISIS&#39;s strict interpretation of Islamic law&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; ISIS has lost most of the territory it once controlled and now its overt territorial control is limited to pockets of land along the Syria-Iraq border and in southern Syria (2018)",
+}, 
+"terrorist_groups_foreign_based": 
+{
+"abdallah_azzam_brigades_aab": "&lt;strong&gt;aim(s):&lt;/strong&gt; disrupt and attack Shia Muslim and Western interests in Syria&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; remains operational; conducts attacks against primarily Shia Muslim organizations and individuals, including Hizballah members, and Westerners and their interests (2018)",
+"al_qa_ida_aq": "&lt;strong&gt;aim(s):&lt;/strong&gt; overthrow President Bashar al-ASAD&#39;s regime; establish a regional Islamic caliphate and conduct attacks outside of Syria&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operational primarily in Idlib Governorate and southern Syria, where it has established networks and operates paramilitary training camps (2018)",
+"ansar_al_islam_aai": "&lt;strong&gt;aim(s):&lt;/strong&gt; remove Syrian President Bashar al-ASAD from power and establish a government operating according to sharia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operationally active in Syria since 2011; launches attacks on Syrian Government security forces and pro-Syrian Government militias; some AAI factions combat ISIS, while others are aligned with ISIS (2018)",
+"hizballah": "&lt;strong&gt;aim(s):&lt;/strong&gt; preserve Syrian President Bashar al-ASAD&#39;s regime&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operational activity throughout the country since 2012; centered on providing paramilitary support to President Bashar al-ASAD&#39;s regime against armed insurgents (2018)",
+"islamic_revolutionary_guard_corps_qods_force_irgc_qf": "&lt;p&gt;&lt;strong&gt;aim(s): &lt;/strong&gt;assist government forces in suppressing opposition forces and Islamic State of Iraq and ash-Sham (ISIS) forces; train Syrian Government troops; conduct strikes against Israel; funnel arms and money onward to Lebanese Hizballah&lt;br /&gt;&lt;strong&gt;area(s) of operations: &lt;/strong&gt;throughout Syria&lt;/p&gt; (2019)",
+"kata_ib_hizballah_kh": "&lt;strong&gt;aim(s):&lt;/strong&gt; preserve Syrian President Bashar al-ASAD&#39;s regime&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; deploys combatants to Syria to fight alongside Syrian Government and Lebanese Hizballah forces (2018)",
+"kurdistan_workers_party_pkk": "&lt;strong&gt;aim(s):&lt;/strong&gt; advance Kurdish autonomy, political, and cultural rights in Syria, Turkey, Iraq, and Iran&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operational in the north and east; majority of members inside Syria are Syrian Kurds, along with Kurds from Iran, Iraq, and Turkey (2018)",
+"mujahidin_shura_council_in_the_environs_of_jerusalem_msc": "&lt;strong&gt;aim(s):&lt;/strong&gt; destroy the state of Israel; enhance its networks in Syria&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains limited networks for operational planning against Israel (2018)",
+"palestine_liberation_front_plf": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhances its networks and, ultimately, destroy the state of Israel and establish a secular, Marxist Palestinian state with Jerusalem as its capital&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains a recruitment and training presence in many refugee camps (2018)",
+"pflp_general_command_pflp_gc": "&lt;strong&gt;aim(s):&lt;/strong&gt; preserve Syrian President Bashar al-ASAD&#39;s regime&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains a political base in Damascus; fights with President al-ASAD&#39;s forces and Hizballah in areas where anti-regime paramilitary groups are active (2018)",
+"popular_front_for_the_liberation_of_palestine_pflp": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its recruitment networks in Syria&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains a recruitment and limited training presence in several refugee camps (2018)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Golan Heights is Israeli-controlled with an almost 1,000-strong UN Disengagement Observer Force patrolling a buffer zone since 1964; lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab&#39;a Farms in the Golan Heights; 2004 Agreement and pending demarcation would settle border dispute with Jordan&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "15,699 (Iraq) (2018); 560,139 (Palestinian Refugees) (2019)",
+"idps": "6.2 million (ongoing civil war since 2011) (2019)",
+"stateless_persons": "160,000 (2018); note - Syria&#39;s stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria&#39;s ongoing civil war",
+}, 
+"trafficking_in_persons": 
+{
+"current_situation": "as conditions continue to deteriorate due to Syria’s civil war, human trafficking has increased; Syrians remaining in the country and those that are refugees abroad are vulnerable to trafficking; Syria is a source and destination country for men, women and children subjected to forced labor and sex trafficking; Syrian children continue to be forcibly recruited by government forces, pro-regime militias, armed opposition groups, and terrorist organizations to serve as soldiers, human shields, and executioners; ISIL forces Syrian women and girls and Yazidi women and girls taken from Iraq to marry its fighters, where they experience domestic servitude and sexual violence; Syrian refugee women and girls are forced into exploitive marriages or prostitution in neighboring countries, while displaced children are forced into street begging domestically and abroad",
+"tier_rating": "Tier 3 - the government does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; in 2014, Syria’s violent conditions enabled human trafficking to flourish; the government made no effort to investigate, prosecute, or convict trafficking offenders or complicit government officials, including those who forcibly recruited child soldiers; authorities did not identify victims and failed to ensure victims, including child soldiers, were protected from arrest, detention, and severe abuse as a result of being trafficked (2015)",
+}, 
+"illicit_drugs": "a transit point for opiates, hashish, and cocaine bound for regional and Western markets; weak anti-money-laundering controls and bank privatization may leave it vulnerable to money laundering",
+}
+}

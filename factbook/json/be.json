@@ -1,0 +1,554 @@
+{
+"name": "Belgium",
+"code": "BE",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country prospered in the past half century as a modern, technologically advanced European state and member of NATO and the EU. In recent years, political divisions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations including the EU and NATO.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Western Europe, bordering the North Sea, between France and the Netherlands",
+"geographic_coordinates": "50 50 N, 4 00 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "30,528 sq km",
+"land": "30,278 sq km",
+"water": "250 sq km",
+}, 
+"area_comparative": "about the size of Maryland",
+"land_boundaries": 
+{
+"total": "1,297 km",
+"border_countries": "France 556 km, Germany 133 km, Luxembourg 130 km, Netherlands 478 km",
+}, 
+"coastline": "66.5 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": " geographic coordinates define outer limit",
+"contiguous_zone": "24 nm",
+"continental_shelf": " median line with neighbors",
+}, 
+"climate": "temperate; mild winters, cool summers; rainy, humid, cloudy",
+"terrain": "flat coastal plains in northwest, central rolling hills, rugged mountains of Ardennes Forest in southeast",
+"elevation": 
+{
+"mean_elevation": "181 m",
+"lowest_point": "North Sea 0 m",
+"highest_point": "Botrange 694 m",
+}, 
+"natural_resources": "construction materials, silica sand, carbonates, arable land",
+"land_use": 
+{
+"agricultural_land": "44.1% (2011 est.)",
+"agricultural_land_arable_land": "27.2% (2011 est.)",
+"agricultural_land_permanent_crops": "0.8% (2011 est.)",
+"agricultural_land_permanent_pasture": "16.1% (2011 est.)",
+"forest": "22.4% (2011 est.)",
+"other": "33.5% (2011 est.)",
+}, 
+"irrigated_land": "230 sq km (2012)",
+"population_distribution": "most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas",
+"natural_hazards": "flooding is a threat along rivers and in areas of reclaimed coastal land, protected from the sea by concrete dikes",
+"environment_current_issues": "intense pressures from human activities: urbanization, dense transportation network, industry, extensive animal breeding and crop cultivation; air and water pollution also have repercussions for neighboring countries",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "crossroads of Western Europe; most West European capitals are within 1,000 km of Brussels, the seat of both the European Union and NATO",
+}, 
+"people_and_society": 
+{
+"population": "11,570,762 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Belgian(s)",
+"adjective": "Belgian",
+}, 
+"ethnic_groups": "Belgian 75.2%, Italian 4.1%, Moroccan 3.7%, French 2.4%, Turkish 2%, Dutch 2%, other 10.6% (2012 est.)",
+"languages": "Dutch (official) 60%, French (official) 40%, German (official) less than 1%",
+"religions": "Roman Catholic 50%, Protestant and other Christian 2.5%, Muslim 5%, Jewish 0.4%, Buddhist 0.3%, atheist 9.2%, none 32.6% (2009 est.)",
+"age_structure": 
+{
+"0_14_years": "17.2% (male 1,019,427 /female 970,845)",
+"15_24_years": "11.25% (male 664,789 /female 636,452)",
+"25_54_years": "39.82% (male 2,323,488 /female 2,283,533)",
+"55_64_years": "12.96% (male 742,842 /female 756,509)",
+"65_years_and_over": "18.78% (male 948,956 /female 1,223,921) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "54.2 (2015 est.)",
+"youth_dependency_ratio": "26.2 (2015 est.)",
+"elderly_dependency_ratio": "28 (2015 est.)",
+"potential_support_ratio": "3.6 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "41.5 years (2018 est.)",
+"male": "40.3 years",
+"female": "42.7 years",
+}, 
+"population_growth_rate": "0.67% (2018 est.)",
+"birth_rate": "11.3 births/1,000 population (2018 est.)",
+"death_rate": "9.7 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "5.2 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas",
+"urbanization": 
+{
+"urban_population": "98% of total population (2019)",
+"rate_of_urbanization": "0.62% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "2.065 million BRUSSELS (capital), 1.037 million Antwerp (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.02 male(s)/female",
+"55_64_years": "0.98 male(s)/female",
+"65_years_and_over": "0.78 male(s)/female",
+"total_population": "0.97 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "28.6 years (2013 est.)",
+"maternal_mortality_rate": "5 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "3.4 deaths/1,000 live births (2018 est.)",
+"male": "3.7 deaths/1,000 live births",
+"female": "3 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "81.2 years (2018 est.)",
+"male": "78.6 years",
+"female": "83.9 years",
+}, 
+"total_fertility_rate": "1.78 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "66.8% (2013)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "10% (2016)",
+"physicians_density": "3.32 physicians/1,000 population (2016)",
+"hospital_bed_density": "6.2 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "99.5% of population (2015 est.)",
+"improved_rural": "99.4% of population (2015 est.)",
+"improved_total": "99.5% of population (2015 est.)",
+"unimproved_urban": "0.5% of population (2015 est.)",
+"unimproved_rural": "0.6% of population (2015 est.)",
+"unimproved_total": "0.5% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "22.1% (2016)",
+"education_expenditures": "6.5% of GDP (2016)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "20 years",
+"male": "19 years",
+"female": "21 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "19.3%",
+"male": "20.2%",
+"female": "18% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Kingdom of Belgium",
+"conventional_short_form": "Belgium",
+"local_long_form": "Royaume de Belgique (French)/Koninkrijk Belgie (Dutch)/Koenigreich Belgien (German)",
+"local_short_form": "Belgique/Belgie/Belgien",
+"etymology": "the name derives from the Belgae, an ancient Celtic tribal confederation that inhabited an area between the English Channel and the west bank of the Rhine in the first centuries B.C.",
+}, 
+"government_type": "federal parliamentary democracy under a constitutional monarchy",
+"capital": 
+{
+"name": "Brussels",
+"geographic_coordinates": "50 50 N, 4 20 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "3 regions (French: regions, singular - region; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)",
+"independence": "4 October 1830 (a provisional government declared independence from the Netherlands); 21 July 1831 (King LEOPOLD I ascended to the throne)",
+"national_holiday": "Belgian National Day (ascension to the throne of King LEOPOLD I), 21 July (1831)",
+"constitution": 
+{
+"history": "drafted 25 November 1830, approved 7 February 1831, entered into force 26 July 1831, revised 14 July 1993 (creating a federal state)",
+"amendments": "&quot;revisions&quot; proposed as declarations by the federal government in accord with the king or by Parliament followed by dissolution of Parliament and new elections; adoption requires two-thirds majority vote of a two-thirds quorum in both houses of the next elected Parliament; amended many times, last in 2014 (2016)",
+}, 
+"legal_system": "civil law system based on the French Civil Code; note - Belgian law continues to be modified in conformance with the legislative norms mandated by the European Union; judicial review of legislative acts",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Belgium",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal and compulsory",
+"executive_branch": 
+{
+"chief_of_state": "King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH (daughter of the monarch, born 25 October 2001)",
+"head_of_government": "Prime Minister Sophie WILMES (since 26 October 2019); Deputy Prime Ministers Alexander DE CROO (since 27 October 2019), Koen GEENS (27 October 2019), Didier REYNDERS (since 27 October 2019), David CLARINVAL (30 November 2019)",
+"cabinet": "Council of Ministers formally appointed by the monarch",
+"elections_appointments": "the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament consists of:&lt;br /&gt;Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)&lt;br /&gt; Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)",
+"elections": "&lt;p&gt;Senate - last held 26 May 2019 (next to be held in 2024)&lt;/p&gt; Chamber of Representatives - last held on 26 May 2019 (next to be held in 2024); note - elections coincided with the EU elections",
+"election_results": "Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7%&lt;br /&gt;&lt;br /&gt;Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Constitutional Court or Grondwettelijk Hof (in Dutch) and Cour Constitutionelle (in French) (consists of 12 judges - 6 Dutch-speaking and 6 French-speaking); Supreme Court of Justice or Hof van Cassatie (in Dutch) and Cour de Cassation (in French) (court organized into 3 chambers: civil and commercial; criminal; social, fiscal, and armed forces; each chamber includes a Dutch division and a French division, each with a chairperson and 5-6 judges)",
+"judge_selection_and_term_of_office": "Constitutional Court judges appointed by the monarch from candidates submitted by Parliament; judges appointed for life with mandatory retirement at age 70; Supreme Court judges appointed by the monarch from candidates submitted by the High Council of Justice, a 44-member independent body of judicial and non-judicial members; judges appointed for life",
+"subordinate_courts": "Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate&#39;s courts; justices of the peace",
+}, 
+"political_parties_and_leaders": "&lt;strong&gt;Flemish parties:&lt;/strong&gt; &lt;br /&gt;Christian Democratic and Flemish or CD&amp;amp;V [Wouter BEKE]&lt;br /&gt;Flemish Liberals and Democrats or Open VLD [Gwendolyn RUTTEN]&lt;br /&gt;Groen [Meyrem ALMACI] (formerly AGALEV, Flemish Greens)&lt;br /&gt;New Flemish Alliance or N-VA [Bart DE WEVER]&lt;br /&gt;Social Progressive Alternative or SP.A [John CROMBEZ]&lt;br /&gt;Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]&lt;br /&gt;&lt;strong&gt;Francophone parties:&lt;/strong&gt; &lt;br /&gt;Ecolo (Francophone Greens) [Jean-Marc NOLLET, Zakia KHATTABI]&lt;br /&gt;Francophone Federalist Democrats or Defi [Olivier MAINGAIN]&lt;br /&gt;Humanist and Democratic Center or CDH [Maxine PREVOT]&lt;br /&gt;People&#39;s Party or PP [Mischael MODRIKAMEN]&lt;br /&gt;Reform Movement or MR [Charles MICHEL]&lt;br /&gt;Socialist Party or PS [Elio DI RUPO]&lt;br /&gt;Workers&#39; Party or PTB [Peter MERTENS]&lt;br /&gt;other minor parties",
+"international_organization_participation": "ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Dirk Jozef M. WOUTERS (since 16 September 2016)",
+"chancery": "3330 Garfield Street NW, Washington, DC 20008",
+"telephone": "[1] (202) 333-6900",
+"fax": "[1] (202) 333-3079",
+"consulate_s_general": "Atlanta, Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Ronald GIDWITZ (since 4 July 2018)",
+"telephone": "[32] (2) 811-4000",
+"embassy": "27 Boulevard du Regent [Regentlaan], B-1000 Brussels",
+"mailing_address": "PSC 82, Box 002, APO AE 09710",
+"fax": "[32] (2) 811-4500",
+}, 
+"flag_description": "three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are those of the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field)",
+"national_symbol_s": "golden rampant lion; national colors: red, black, yellow",
+"national_anthem": 
+{
+"name": "&quot;La Brabanconne&quot; (The Song of Brabant)",
+"lyrics_music": "Louis-Alexandre DECHET[French] Victor CEULEMANS [Dutch]/Francois VAN CAMPENHOUT",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Belgium’s central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium&#39;s trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium’s economy vulnerable to the outcome of negotiations on the UK’s exit from the EU.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Belgium’s GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL&#39;s center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium&#39;s high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$529.2 billion",
+"2016": "$520.2 billion",
+"2015": "$513 billion",
+},
+"gdp_official_exchange_rate": "$493.7 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "1.7%",
+"2016": "1.4%",
+"2015": "1.4%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$46,600",
+"2016": "$46,000",
+"2015": "$45,700",
+},
+"gross_national_saving":
+{
+"2017": "24.5% of GDP",
+"2016": "24% of GDP",
+"2015": "23.4% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "51.2% (2017 est.)",
+"government_consumption": "23.4% (2017 est.)",
+"investment_in_fixed_capital": "23.3% (2017 est.)",
+"investment_in_inventories": "1.3% (2017 est.)",
+"exports_of_goods_and_services": "85.1% (2017 est.)",
+"imports_of_goods_and_services": "-84.4% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "0.7% (2017 est.)",
+"industry": "22.1% (2017 est.)",
+"services": "77.2% (2017 est.)",
+}, 
+"agriculture_products": "sugar beets, fresh vegetables, fruits, grain, tobacco; beef, veal, pork, milk",
+"industries": "engineering and metal products, motor vehicle assembly, transportation equipment, scientific instruments, processed food and beverages, chemicals, pharmaceuticals, base metals, textiles, glass, petroleum",
+"industrial_production_growth_rate": "0.2% (2017 est.)",
+"labor_force": "5.324 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "1.3%",
+"industry": "18.6%",
+"services": "80.1% (2013 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "7.1%",
+"2016": "7.9%",
+},
+"population_below_poverty_line": "15.1% (2013 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.4%",
+"highest_10": "28.4% (2006)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2013": "25.9",
+"1996": "28.7",
+},
+"budget": 
+{
+"revenues": "253.5 billion (2017 est.)",
+"expenditures": "258.6 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "51.3% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "103.4% of GDP",
+"2016": "106% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "2.2%",
+"2016": "1.8%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "0%",
+"31 December 2010": "0%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "2.08%",
+"31 December 2016": "2.02%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$240.5 billion",
+"31 December 2016": "$198 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$240.5 billion",
+"31 December 2016": "$198 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$711.3 billion",
+"31 December 2016": "$684.8 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$414.6 billion",
+"31 December 2014": "$378.5 billion",
+"31 December 2013": "$374.3 billion",
+},
+"current_account_balance":
+{
+"2017": "-$807 million",
+"2016": "$451 million",
+},
+"exports":
+{
+"2017": "$300.8 billion",
+"2016": "$277.7 billion",
+},
+"exports_partners": "Germany 16.6%, France 14.9%, Netherlands 12%, UK 8.4%, Italy 4.9%, US 4.8% (2017)",
+"exports_commodities": "chemicals, machinery and equipment, finished diamonds, metals and metal products, foodstuffs",
+"imports":
+{
+"2017": "$300.4 billion",
+"2016": "$273.4 billion",
+},
+"imports_commodities": "raw materials, machinery and equipment, chemicals, raw diamonds, pharmaceuticals, foodstuffs, transportation equipment, oil products",
+"imports_partners": "Netherlands 17.3%, Germany 13.8%, France 9.5%, US 7.1%, UK 4.9%, Ireland 4.2%, China 4.1% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$26.16 billion",
+"31 December 2015": "$24.1 billion",
+},
+"debt_external":
+{
+"31 March 2016": "$1.281 trillion",
+"31 March 2015": "$1.214 trillion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$1.035 trillion",
+"31 December 2016": "$1.054 trillion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$1.159 trillion",
+"31 December 2016": "$1.016 trillion",
+},
+"exchange_rates": 
+{
+"currency": "euros (EUR) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.885",
+"2016": "0.903",
+"2015": "0.9214",
+"2014": "0.885",
+"2013": "0.7634",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "79.83 billion kWh (2016 est.)",
+"electricity_consumption": "82.16 billion kWh (2016 est.)",
+"electricity_exports": "8.465 billion kWh (2016 est.)",
+"electricity_imports": "14.65 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "21.56 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "35% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "28% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "1% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "36% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2017 est.)",
+"crude_oil_imports": "687,600 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "731,700 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "648,600 bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "680,800 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "601,400 bbl/day (2017 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "17.61 billion cu m (2017 est.)",
+"natural_gas_exports": "736.2 million cu m (2017 est.)",
+"natural_gas_imports": "18.09 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "134.7 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "4,251,564",
+"subscriptions_per_100_inhabitants": "37 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "11,961,089",
+"subscriptions_per_100_inhabitants": "104 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "highly developed, technologically advanced, and completely automated domestic and international telephone and telegraph facilities; LTE availability is nearly universal in mobile sector; ongoing investments in developing applications and services for 5G; consumer are interested in quad-play services (broadband +television +telephone +wireless services)&amp;nbsp;&amp;nbsp;which will mean MNOs (mobile network operators) &amp;nbsp;are&amp;nbsp;enhancing their fixed-line offerings (2018)",
+"domestic": "nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network; 37&amp;nbsp;per 100 fixed-line, 104&amp;nbsp;per 100 mobile-cellular (2018)",
+"international": "country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)",
+}, 
+"broadcast_media": "a segmented market with the three major communities (Flemish, French, and German-speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network coexisting with private broadcasters",
+"internet_country_code": ".be",
+"internet_users": 
+{
+"total": "9,870,734",
+"percent_of_population": "86.5% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "4,378,973",
+"subscriptions_per_100_inhabitants": "38 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.93% of GDP",
+"2017": "0.9% of GDP",
+"2016": "0.91% of GDP",
+"2015": "0.92% of GDP",
+"2014": "0.98% of GDP",
+},
+"military_and_security_forces": "Belgian Armed Forces: Land Component, Naval Component, Air Component (2019)",
+"military_service_age_and_obligation": "18 years of age for male and female voluntary military service; conscription abolished in 1994 (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "7 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "117 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "11,193,023 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "1,464,316,900 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "OO (2016)",
+"airports": "41 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "26 (2019)",
+"over_3_047_m": "6",
+"2_438_to_3_047_m": "9",
+"1_524_to_2_437_m": "2",
+"914_to_1_523_m": "1",
+"under_914_m": "8",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "15 (2013)",
+"under_914_m": "15 (2013)",
+}, 
+"heliports": "1 (2013)",
+"pipelines": "3139 km gas, 154 km oil, 535 km refined products (2013)",
+"railways": 
+{
+"total": "3,592 km (2014)",
+"standard_gauge": "3,592 km 1.435-m gauge (2,960 km electrified) (2014)",
+}, 
+"roadways": 
+{
+"total": "118,414 km (2015)",
+"paved": "118,414 km (includes 1,747 km of expressways) (2015)",
+}, 
+"waterways": "2,043 km (1,528 km in regular commercial use) (2012)",
+"merchant_marine": 
+{
+"total": "192",
+"by_type": "bulk carrier 18, general cargo 18, oil tanker 20, other 136 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Oostende, Zeebrugge",
+"container_port_s_teus": "Antwerp (10,450,000) (2017)",
+"lng_terminal_s_import": "Zeebrugge",
+"river_port_s": "Antwerp, Gent (Schelde River)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "9,080 (Syria) (2018)",
+"stateless_persons": "7,695 (2018)",
+}, 
+"illicit_drugs": "growing producer of synthetic drugs and cannabis; transit point for US-bound ecstasy; source of precursor chemicals for South American cocaine processors; transshipment point for cocaine, heroin, hashish, and marijuana entering Western Europe; despite a strengthening of legislation, the country remains vulnerable to money laundering related to narcotics, automobiles, alcohol, and tobacco; significant domestic consumption of ecstasy",
+}
+}

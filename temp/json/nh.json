@@ -1,0 +1,495 @@
+{
+"name": "Vanuatu",
+"code": "NH",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "Multiple waves of colonizers, each speaking a distinct language, migrated to the New Hebrides in the millennia preceding European exploration in the 18th century. This settlement pattern accounts for the complex linguistic diversity found on the archipelago to this day. The British and French, who settled the New Hebrides in the 19th century, agreed in 1906 to an Anglo-French Condominium, which administered the islands until independence in 1980, when the new name of Vanuatu was adopted. Politics and society continue to be divided along linguistic lines, although those divisions are lessening over time. Coalition governments tend to be weak, and since 2008, prime ministers have been ousted through no-confidence motions or temporary procedural issues 10 times. Prime Minister Charlot SALAWI has survived four no-confidence motions since taking office in 2016.",
+}, 
+"geography": 
+{
+"location": "Oceania, group of islands in the South Pacific Ocean, about three-quarters of the way from Hawaii to Australia",
+"geographic_coordinates": "16 00 S, 167 00 E",
+"map_references": "Oceania",
+"area": 
+{
+"total": "12,189 sq km",
+"land": "12,189 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly larger than Connecticut",
+"land_boundaries": "0 km",
+"coastline": "2,528 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": "200 nm or to the edge of the continental margin",
+}, 
+"climate": "tropical; moderated by southeast trade winds from May to October; moderate rainfall from November to April; may be affected by cyclones from December to April",
+"terrain": "mostly mountainous islands of volcanic origin; narrow coastal plains",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "Tabwemasana 1,877 m",
+}, 
+"natural_resources": "manganese, hardwood forests, fish",
+"land_use": 
+{
+"agricultural_land": "15.3% (2011 est.)",
+"agricultural_land_arable_land": "1.6% (2011 est.)",
+"agricultural_land_permanent_crops": "10.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "3.4% (2011 est.)",
+"forest": "36.1% (2011 est.)",
+"other": "48.6% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace",
+"natural_hazards": "&lt;p&gt;tropical cyclones (January to April); volcanic eruption on Aoba (Ambae) island began on 27 November 2005, volcanism also causes minor earthquakes; tsunamis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; significant volcanic activity with multiple eruptions in recent years; Yasur (361 m), one of the world&#39;s most active volcanoes, has experienced continuous activity in recent centuries; other historically active volcanoes include Aoba, Ambrym, Epi, Gaua, Kuwae, Lopevi, Suretamatai, and Traitor&#39;s Head&lt;/p&gt;",
+"environment_current_issues": "population growth; water pollution, most of the population does not have access to a reliable supply of potable water; inadequate sanitation; deforestation",
+"environment_international_agreements": 
+{
+"party_to": "Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 94",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "a Y-shaped chain of four main islands and 80 smaller islands; several of the islands have active volcanoes and there are several underwater volcanoes as well",
+}, 
+"people_and_society": 
+{
+"population": "288,037 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Ni-Vanuatu (singular and plural)",
+"adjective": "Ni-Vanuatu",
+}, 
+"ethnic_groups": "Melanesian 99.2%, non-Melanesian 0.8% (2016 est.)",
+"languages": "local languages (more than 100) 63.2%, Bislama (official; creole) 33.7%, English (official) 2%, French (official) 0.6%, other 0.5% (2009 est.)",
+"religions": "Protestant 70% (includes Presbyterian 27.9%, Anglican 15.1%, Seventh Day Adventist 12.5%, Assemblies of God 4.7%, Church of Christ 4.5%, Neil Thomas Ministry 3.1%, and Apostolic 2.2%), Roman Catholic 12.4%, customary beliefs 3.7% (including Jon Frum cargo cult), other 12.6%, none 1.1%, unspecified 0.2% (2009 est.)",
+"age_structure": 
+{
+"0_14_years": "34.89% (male 51,313 /female 49,190)",
+"15_24_years": "20.03% (male 28,631 /female 29,053)",
+"25_54_years": "35.39% (male 49,803 /female 52,140)",
+"55_64_years": "5.57% (male 7,973 /female 8,072)",
+"65_years_and_over": "4.12% (male 5,968 /female 5,894) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "68.7 (2015 est.)",
+"youth_dependency_ratio": "61.6 (2015 est.)",
+"elderly_dependency_ratio": "7.1 (2015 est.)",
+"potential_support_ratio": "14.1 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "22.3 years (2018 est.)",
+"male": "21.9 years",
+"female": "22.7 years",
+}, 
+"population_growth_rate": "1.81% (2018 est.)",
+"birth_rate": "23.5 births/1,000 population (2018 est.)",
+"death_rate": "4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-1.4 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace",
+"urbanization": 
+{
+"urban_population": "25.4% of total population (2019)",
+"rate_of_urbanization": "2.55% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "53,000 PORT-VILA (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "0.99 male(s)/female",
+"25_54_years": "0.96 male(s)/female",
+"55_64_years": "0.99 male(s)/female",
+"65_years_and_over": "1.01 male(s)/female",
+"total_population": "1 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "72 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "13.9 deaths/1,000 live births (2018 est.)",
+"male": "14.8 deaths/1,000 live births",
+"female": "12.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "74 years (2018 est.)",
+"male": "72.4 years",
+"female": "75.7 years",
+}, 
+"total_fertility_rate": "2.97 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "49% (2013)",
+"drinking_water_source": 
+{
+"improved_urban": "98.9% of population",
+"improved_rural": "92.9% of population",
+"improved_total": "94.5% of population",
+"unimproved_urban": "1.1% of population",
+"unimproved_rural": "7.1% of population",
+"unimproved_total": "5.5% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.7% (2016)",
+"physicians_density": "0.17 physicians/1,000 population (2016)",
+"sanitation_facility_access": 
+{
+"improved_urban": "65.1% of population (2015 est.)",
+"improved_rural": "55.4% of population (2015 est.)",
+"improved_total": "57.9% of population (2015 est.)",
+"unimproved_urban": "34.9% of population (2015 est.)",
+"unimproved_rural": "44.6% of population (2015 est.)",
+"unimproved_total": "42.1% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "25.2% (2016)",
+"children_under_the_age_of_5_years_underweight": "10.7% (2013)",
+"education_expenditures": "4.7% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "85.2%",
+"male": "86.6%",
+"female": "83.8% (2015)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "10.6%",
+"male": "10.2%",
+"female": "11.2% (2009 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Vanuatu",
+"conventional_short_form": "Vanuatu",
+"local_long_form": "Ripablik blong Vanuatu",
+"local_short_form": "Vanuatu",
+"former": "New Hebrides",
+"etymology": "derived from the words &quot;vanua&quot; (home or land) and &quot;tu&quot; (stand) that occur in several of the Austonesian languages spoken on the islands and which provide a meaning of &quot;the land remains&quot; but which also convey a sense of &quot;independence&quot; or &quot;our land&quot;",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Port-Vila (on Efate)",
+"geographic_coordinates": "17 44 S, 168 19 E",
+"time_difference": "UTC+11 (16 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "6 provinces; Malampa, Penama, Sanma, Shefa, Tafea, Torba",
+"independence": "30 July 1980 (from France and the UK)",
+"national_holiday": "Independence Day, 30 July (1980)",
+"constitution": 
+{
+"history": "draft completed August 1979, finalized by constitution conference 19 September 1979, ratified by French and British Governments 23 October 1979, effective 30 July 1980 at independence",
+"amendments": "proposed by the prime minister or by the Parliament membership; passage requires at least two-thirds majority vote by Parliament in special session with at least three fourths of the membership; passage of amendments affecting the national and official languages, or the electoral and parliamentary system also requires approval in a referendum; amended several times, last in 2013 (2019)",
+}, 
+"legal_system": "mixed legal system of English common law, French law, and customary law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "both parents must be citizens of Vanuatu; in the case of only one parent, it must be the father who is a citizen",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Tallis Obed MOSES (since 6 July 2017)",
+"head_of_government": "Prime Minister Charlot SALWAI (since 11 February 2016)",
+"cabinet": "Council of Ministers appointed by the prime minister, responsible to parliament",
+"elections_appointments": "president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 17 June 2017 (next to be held in 2022); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by parliament from among its members; election for prime minister last held on 11 February 2016 (next to be held following general elections in 2020)",
+"election_results": "Baldwin LONSDALE (independent) died suddenly on 17 June 2017; Parliament elected Tallis Obed MOSES on 6 July 2017 with a 39 to 17 vote in the fourth round; Charlot SALWAI elected prime minister on 11 February 2016 with 46 votes",
+}, 
+"legislative_branch": 
+{
+"description": "&lt;p&gt;description: unicameral Parliament (52 seats; members directly elected in&amp;nbsp;8 single-seat and 9multi-seat constituencies by single non-transferable vote to serve 4-year terms (some candidates in multi-seat constituencies can be elected with as little as 4 percent of the vote)&lt;/p&gt;",
+"elections": "last held on 22 January 2016 (next to be held in 2020)",
+"election_results": "percent of vote by party - NA; seats by party - VP 8, PPP 6, UMP 5, GJP 4, NUP 4, IG 3, GC 3, NAG 3, RMC 3, MPP 2, NIPDP 2, PSP 1, VLDP 1, VNP 1, VNDP 1, VRP 1, independent 4; composition - men 52, women 0; percent of women 0%; note - political party associations are fluid",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)",
+"judge_selection_and_term_of_office": "Supreme Court chief justice appointed by the president after consultation with the prime minister and the leader of the opposition; other judges appointed by the president on the advice of the Judicial Service Commission, a 4-member advisory body; judges serve until the age of retirement",
+"subordinate_courts": "Magistrates Courts; Island Courts",
+}, 
+"political_parties_and_leaders": "Greens Confederation or GC [Moana CARCASSES Kalosil]&lt;br /&gt;Iauko Group or IG [Tony NARI]&lt;br /&gt;Land and Justice Party (Graon mo Jastis Pati) or GJP [Ralph REGENVANU]&lt;br /&gt;Melanesian Progressive Party or MPP [Barak SOPE]&lt;br /&gt;Nagriamel movement or NAG [Frankie STEVENS]&lt;br /&gt;Natatok Indigenous People&#39;s Democratic Party or (NATATOK) or NIPDP [Alfred Roland CARLOT]&lt;br /&gt;National United Party or NUP [Ham LINI]&lt;br /&gt;People&#39;s Progressive Party or PPP [Sato KILMAN]&lt;br /&gt;People&#39;s Service Party or PSP [Don KEN]&lt;br /&gt;Reunification of Movement for Change or RMC [Charlot SALWAI]&lt;br /&gt;Union of Moderate Parties or UMP [Serge VOHOR]&lt;br /&gt;Vanua&#39;aku Pati (Our Land Party) or VP [Edward NATAPEI]&lt;br /&gt;Vanuatu Democratic Party [Maxime Carlot KORMAN]&lt;br /&gt;Vanuatu Liberal Democratic Party or VLDP [Tapangararua WILLIE]&lt;br /&gt;Vanuatu National Party or VNP [Issac HAMARILIU]&lt;br /&gt;Vanuatu National Development Party or VNDP [Robert Bohn SIKOL]&lt;br /&gt;Vanuatu Republican Party or VRP [Marcellino PIPITE]",
+"international_organization_participation": "ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": "none; the Vanuatu Permanent Mission to the UN serves as the embassy; it is headed by Odo TEVI (since 2014); address: 800 Second Avenue, Suite 400B, New York, NY 10017; telephone: [1] (212) 661-4303; FAX: [1] (212) 422-2437",
+"diplomatic_representation_from_the_us": "the US does not have an embassy in Vanuatu; the US Ambassador to Papua New Guinea is accredited to Vanuatu", 
+"flag_description": "two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the hoist side) all separated by a black-edged yellow stripe in the shape of a horizontal Y (the two points of the Y face the hoist side and enclose the triangle); centered in the triangle is a boar&#39;s tusk encircling two crossed namele fern fronds, all in yellow; red represents the blood of boars and men, as well as unity, green the richness of the islands, and black the ni-Vanuatu people; the yellow Y-shape - which reflects the pattern of the islands in the Pacific Ocean - symbolizes the light of the Gospel spreading through the islands; the boar&#39;s tusk is a symbol of prosperity frequently worn as a pendant on the islands; the fern fronds represent peace",
+"national_symbol_s": "boar&#39;s tusk with crossed fern fronds; national colors: red, black, green, yellow",
+"national_anthem": 
+{
+"name": "&quot;Yumi, Yumi, Yumi&quot; (We, We, We)",
+"lyrics_music": "Francois Vincent AYSSAV",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;This South Pacific island economy is based primarily on small-scale agriculture, which provides a living for about two thirds of the population. Fishing, offshore financial services, and tourism, with more than 330,000 visitors in 2017, are other mainstays of the economy. Tourism has struggled after Efate, the most populous and most popular island for tourists, was damaged by Tropical Cyclone Pam in 2015. Ongoing infrastructure difficulties at Port Vila’s Bauerfield Airport have caused air travel disruptions, further hampering tourism numbers. Australia and New Zealand are the main source of tourists and foreign aid. A small light industry sector caters to the local market. Tax revenues come mainly from import duties. Mineral deposits are negligible; the country has no known petroleum deposits.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Economic development is hindered by dependence on relatively few commodity exports, vulnerability to natural disasters, and long distances from main markets and between constituent islands. In response to foreign concerns, the government has promised to tighten regulation of its offshore financial center.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Since 2002, the government has stepped up efforts to boost tourism through improved air connections, resort development, and cruise ship facilities. Agriculture, especially livestock farming, is a second target for growth.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$772 million",
+"2016": "$740.9 million",
+"2015": "$716.1 million",
+},
+"gdp_official_exchange_rate": "$870 million (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.2%",
+"2016": "3.5%",
+"2015": "0.2%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$2,700",
+"2016": "$2,700",
+"2015": "$2,700",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "59.9% (2017 est.)",
+"government_consumption": "17.4% (2017 est.)",
+"investment_in_fixed_capital": "28.7% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "42.5% (2017 est.)",
+"imports_of_goods_and_services": "-48.5% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "27.3% (2017 est.)",
+"industry": "11.8% (2017 est.)",
+"services": "60.8% (2017 est.)",
+}, 
+"agriculture_products": "copra, coconuts, cocoa, coffee, taro, yams, fruits, vegetables; beef; fish",
+"industries": "food and fish freezing, wood processing, meat canning",
+"industrial_production_growth_rate": "4.5% (2017 est.)",
+"labor_force": "115,900 (2007 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "65%",
+"industry": "5%",
+"services": "30% (2000 est.)",
+}, 
+"unemployment_rate":
+{
+"1999": "1.7%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "236.7 million (2017 est.)",
+"expenditures": "244.1 million (2017 est.)",
+}, 
+"taxes_and_other_revenues": "27.2% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-0.9% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "48.4% of GDP",
+"2016": "46.1% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "3.1%",
+"2016": "0.8%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "20%",
+"31 December 2009": "6%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "3.2%",
+"31 December 2016": "2.95%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$424.7 million",
+"31 December 2016": "$379.9 million",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$424.7 million",
+"31 December 2016": "$379.9 million",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$494 million",
+"31 December 2016": "$463.4 million",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$13 million",
+"2016": "-$37 million",
+},
+"exports":
+{
+"2017": "$44.7 million",
+"2016": "$53.5 million",
+},
+"exports_partners": "Philippines 23.9%, Australia 16.5%, US 10.4%, Japan 8.8%, Venezuela 8%, France 4.8%, Fiji 4.5%, Hong Kong 4.4% (2017)",
+"exports_commodities": "copra, beef (veal), cocoa, timber, kava, coffee, coconut oil, shell, cowhides, coconut meal, fish",
+"imports":
+{
+"2017": "$273.7 million",
+"2016": "$308.5 million",
+},
+"imports_commodities": "machinery and equipment, foodstuffs, fuels",
+"imports_partners": "Russia 35.2%, Australia 19.8%, NZ 9.8%, China 6.3%, Fiji 5.5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$395.1 million",
+"31 December 2016": "$267.4 million",
+},
+"debt_external":
+{
+"31 December 2017": "$200.5 million",
+"31 December 2016": "$182.5 million",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$590.9 million",
+"31 December 2016": "$535.9 million",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$22.3 million",
+"31 December 2016": "$22.4 million",
+},
+"exchange_rates": 
+{
+"currency": "vatu (VUV) per US dollar -",
+"exchange_rates":
+{
+"2017": "109.7",
+"2016": "112.28",
+"2015": "108.48",
+"2014": "108.99",
+"2013": "97.07",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"electrification_total_population": "57.8% (2016)",
+"electrification_urban_areas": "91.4% (2016)",
+"electrification_rural_areas": "46.4% (2016)",
+}, 
+"electricity_production": "63 million kWh (2016 est.)",
+"electricity_consumption": "58.59 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "37,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "71% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "29% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "1,100 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "1,073 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "164,800 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "3,499",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "228,016",
+"subscriptions_per_100_inhabitants": "81 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "telecom services have progressed significantly in recent years; mobile phones are now the primary means of communication and more than 92% of the population is covered by a mobile network; 2016 saw the launch of LTE services and the introduction of rural satellite broadband services; mobile phone use in some rural areas is constrained by electricity shortages; investment in fixed broadband saw recent growth with fiber-optic cables; mobile broadband infrastructure also expanded with a&amp;nbsp;reduction in prices; general broadband penetration is&amp;nbsp;at 45% (2018)",
+"domestic": "fixed-line 1 per 100 and mobile-cellular 81 per 100 (2018)",
+"international": "country code - 678; satellite earth station - 1 Intelsat (Pacific Ocean); 1CN1 submarine cable which resulted in reduction of broadband pricing",
+}, 
+"broadcast_media": "1 state-owned TV station; multi-channel pay TV is available; state-owned Radio Vanuatu operates 2 radio stations; 2 privately owned radio broadcasters; programming from multiple international broadcasters is available",
+"internet_country_code": ".vu",
+"internet_users": 
+{
+"total": "66,613",
+"percent_of_population": "24% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "5,841",
+"subscriptions_per_100_inhabitants": "2 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular military forces; Vanuatu Police Force (VPF; includes Vanuatu Mobile Force (VMF) and Police Maritime Wing (VPMW)) (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "6 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "287,526 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "1,510,732 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "YJ (2016)",
+"airports": "31 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "3 (2013)",
+"2_438_to_3_047_m": "1 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "1 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "28 (2013)",
+"914_to_1_523_m": "7 (2013)",
+"under_914_m": "21 (2013)",
+}, 
+"roadways": 
+{
+"total": "1,070 km (2000)",
+"paved": "256 km (2000)",
+"unpaved": "814 km (2000)",
+}, 
+"merchant_marine": 
+{
+"total": "405",
+"by_type": "bulk carrier 27, container ship 1, general cargo 35, other 342 (2018)",
+}, 
+"ports_and_terminals": "Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Matthew and Hunter Islands east of New Caledonia claimed by Vanuatu and France&lt;/p&gt;",
+}
+}

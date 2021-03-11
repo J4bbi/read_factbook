@@ -1,0 +1,580 @@
+{
+"name": "Malaysia",
+"code": "MY",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "During the late 18th and 19th centuries, Great Britain established colonies and protectorates in the area of current Malaysia; these were occupied by Japan from 1942 to 1945. In 1948, the British-ruled territories on the Malay Peninsula except Singapore formed the Federation of Malaya, which became independent in 1957. Malaysia was formed in 1963 when the former British colonies of Singapore, as well as Sabah and Sarawak on the northern coast of Borneo, joined the Federation. The first several years of the country&#39;s independence were marred by a communist insurgency, Indonesian confrontation with Malaysia, Philippine claims to Sabah, and Singapore&#39;s withdrawal in 1965. During the 22-year term of Prime Minister MAHATHIR Mohamad (1981-2003), Malaysia was successful in diversifying its economy from dependence on exports of raw materials to the development of manufacturing, services, and tourism. Prime Minister MAHATHIR and a newly-formed coalition of opposition parties defeated Prime Minister Mohamed NAJIB bin Abdul Razak&#39;s United Malays National Organization (UMNO) in May 2018, ending over 60 years of uninterrupted rule by UMNO.",
+}, 
+"geography": 
+{
+"location": "Southeastern Asia, peninsula bordering Thailand and northern one-third of the island of Borneo, bordering Indonesia, Brunei, and the South China Sea, south of Vietnam",
+"geographic_coordinates": "2 30 N, 112 30 E",
+"map_references": "Southeast Asia",
+"area": 
+{
+"total": "329,847 sq km",
+"land": "328,657 sq km",
+"water": "1,190 sq km",
+}, 
+"area_comparative": "slightly larger than New Mexico",
+"land_boundaries": 
+{
+"total": "2,742 km",
+"border_countries": "Brunei 266 km, Indonesia 1881 km, Thailand 595 km",
+}, 
+"coastline": "4,675 km (Peninsular Malaysia 2,068 km, East Malaysia 2,607 km)",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"continental_shelf": " 200-m depth or to the depth of exploitation; specified boundary in the South China Sea",
+}, 
+"climate": "tropical; annual southwest (April to October) and northeast (October to February) monsoons",
+"terrain": "coastal plains rising to hills and mountains",
+"elevation": 
+{
+"mean_elevation": "419 m",
+"lowest_point": "Indian Ocean 0 m",
+"highest_point": "Gunung Kinabalu 4,095 m",
+}, 
+"natural_resources": "tin, petroleum, timber, copper, iron ore, natural gas, bauxite",
+"land_use": 
+{
+"agricultural_land": "23.2% (2011 est.)",
+"agricultural_land_arable_land": "2.9% (2011 est.)",
+"agricultural_land_permanent_crops": "19.4% (2011 est.)",
+"agricultural_land_permanent_pasture": "0.9% (2011 est.)",
+"forest": "62% (2011 est.)",
+"other": "14.8% (2011 est.)",
+}, 
+"irrigated_land": "3,800 sq km (2012)",
+"population_distribution": "a highly uneven distribution with over 80% of the population residing on the Malay Peninsula",
+"natural_hazards": "flooding; landslides; forest fires",
+"environment_current_issues": "air pollution from industrial and vehicular emissions; water pollution from raw sewage; deforestation; smoke/haze from Indonesian forest fires; endangered species; coastal reclamation damaging mangroves and turtle nesting sites",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "strategic location along Strait of Malacca and southern South China Sea",
+}, 
+"people_and_society": 
+{
+"population": "31,809,660 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Malaysian(s)",
+"adjective": "Malaysian",
+}, 
+"ethnic_groups": "Bumiputera 62% (Malays and indigenous peoples, including Orang Asli, Dayak, Anak Negeri), Chinese 20.6%, Indian 6.2%, other 0.9%, non-citizens 10.3% (2017 est.)",
+"languages": "Bahasa Malaysia (official), English, Chinese (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai",
+"religions": "Muslim (official) 61.3%, Buddhist 19.8%, Christian 9.2%, Hindu 6.3%, Confucianism, Taoism, other traditional Chinese religions 1.3%, other 0.4%, none 0.8%, unspecified 1% (2010 est.)",
+"age_structure": 
+{
+"0_14_years": "27.48% (male 4,498,796 /female 4,243,418)",
+"15_24_years": "16.74% (male 2,704,318 /female 2,621,444)",
+"25_54_years": "40.97% (male 6,587,529 /female 6,444,430)",
+"55_64_years": "8.46% (male 1,364,858 /female 1,325,595)",
+"65_years_and_over": "6.35% (male 957,841 /female 1,061,431) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "44.6 (2015 est.)",
+"youth_dependency_ratio": "36.1 (2015 est.)",
+"elderly_dependency_ratio": "8.5 (2015 est.)",
+"potential_support_ratio": "11.8 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "28.7 years (2018 est.)",
+"male": "28.4 years",
+"female": "29 years",
+}, 
+"population_growth_rate": "1.34% (2018 est.)",
+"birth_rate": "18.8 births/1,000 population (2018 est.)",
+"death_rate": "5.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-0.3 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "a highly uneven distribution with over 80% of the population residing on the Malay Peninsula",
+"urbanization": 
+{
+"urban_population": "76.6% of total population (2019)",
+"rate_of_urbanization": "2.13% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "7.78 million KUALA LUMPUR (capital), 1.003 million Johor Bahru, 800,000 Ipoh (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.07 male(s)/female",
+"0_14_years": "1.06 male(s)/female",
+"15_24_years": "1.03 male(s)/female",
+"25_54_years": "1.02 male(s)/female",
+"55_64_years": "1.03 male(s)/female",
+"65_years_and_over": "0.9 male(s)/female",
+"total_population": "1.03 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "29 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "12.1 deaths/1,000 live births (2018 est.)",
+"male": "14 deaths/1,000 live births",
+"female": "10.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "75.4 years (2018 est.)",
+"male": "72.6 years",
+"female": "78.4 years",
+}, 
+"total_fertility_rate": "2.48 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "52.2% (2014)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "93% of population",
+"improved_total": "98.2% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "7% of population",
+"unimproved_total": "1.8% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.8% (2016)",
+"physicians_density": "1.51 physicians/1,000 population (2015)",
+"hospital_bed_density": "1.9 beds/1,000 population (2015)",
+"sanitation_facility_access": 
+{
+"improved_urban": "96.1% of population (2015 est.)",
+"improved_rural": "95.9% of population (2015 est.)",
+"improved_total": "96% of population (2015 est.)",
+"unimproved_urban": "3.9% of population (2015 est.)",
+"unimproved_rural": "4.1% of population (2015 est.)",
+"unimproved_total": "4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.4% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "87,000 (2018 est.)",
+"hiv_aids_deaths": "2,600 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "intermediate (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea (2016)",
+"vectorborne_diseases": "dengue fever (2016)",
+"water_contact_diseases": "leptospirosis (2016)",
+}, 
+"obesity_adult_prevalence_rate": "15.6% (2016)",
+"children_under_the_age_of_5_years_underweight": "13.7% (2016)",
+"education_expenditures": "4.7% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "94.6%",
+"male": "96.2%",
+"female": "93.2% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "13 years",
+"male": "13 years",
+"female": "14 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "10.5%",
+"male": "9.8%",
+"female": "11.4% (2016 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Malaysia",
+"local_long_form": "none",
+"local_short_form": "Malaysia",
+"former": "Federation of Malaya",
+"etymology": "the name means &quot;Land of the Malays&quot;",
+}, 
+"government_type": "federal parliamentary constitutional monarchy",
+"capital": 
+{
+"name": "Kuala Lumpur; note - nearby Putrajaya is referred to as a federal government administrative center but not the capital; Parliament meets in Kuala Lumpur",
+"geographic_coordinates": "3 10 N, 101 42 E",
+"time_difference": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "13 states (negeri-negeri, singular - negeri); Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Sabah, Sarawak, Selangor, Terengganu; and 1 federal territory (Wilayah Persekutuan) with 3 components, Kuala Lumpur, Labuan, and Putrajaya",
+"independence": "31 August 1957 (from the UK)",
+"national_holiday": "Independence Day (or Merdeka Day), 31 August (1957) (independence of Malaya); Malaysia Day, 16 September (1963) (formation of Malaysia)",
+"constitution": 
+{
+"history": "previous 1948; latest drafted 21 February 1957, effective 27 August 1957",
+"amendments": "proposed as a bill by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in the bill&amp;rsquo;s second and third readings; a number of constitutional sections are excluded from amendment or repeal; amended many times, last in 2010 (2017)",
+}, 
+"legal_system": "mixed legal system of English common law, Islamic (sharia) law, and customary law; judicial review of legislative acts in the Federal Court at request of supreme head of the federation",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Malaysia",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "10 out 12 years preceding application",
+}, 
+"suffrage": "18&amp;nbsp;years of age; universal (2019)",
+"executive_branch": 
+{
+"chief_of_state": "King Sultan ABDULLAH Sultan Ahmad Shah (since 24 January 2019); note - King MUHAMMAD V (formerly known as Tuanku Muhammad Faris Petra) (selected on 14 October 2016; installed on 13 December 2016) resigned on 6 January 2019; the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister",
+"head_of_government": "Prime Minister MAHATHIR Mohamad (since 10 May 2018); Deputy Prime Minister WAN AZIZAH Wan Ismail (since 21 May 2018) (2019)",
+"cabinet": "Cabinet appointed by the prime minister from among members of Parliament with the consent of the king",
+"elections_appointments": "king elected by and from the hereditary rulers of 9 states for a 5-year term; election is on a rotational basis among rulers of the 9 states; election last held on 24 January 2019 (next to be held in 2024); prime minister designated from among members of the House of Representatives; following legislative elections, the leader who commands support of the majority of members in the House becomes prime minister",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament of Malaysia or Parlimen Malaysia consists of:&lt;br /&gt;Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)&lt;br /&gt; House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) (2019)",
+"elections": "&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt; Senate - appointed&lt;br /&gt;House of Representatives - last held on 9 May 2018 (next to be held no later than May 2023)",
+"election_results": "&lt;br /&gt; Senate - appointed; composition - men 54, women 14, percent of women 20.6%&lt;br /&gt;House of Representatives - percent of vote by party/coalition - PH 45.6%, BN 33.8%, PAS 16.9%, WARISAN 2.3%, other 1.4%; seats by party/coalition - PH 113, BN 79, PAS 18, WARISAN 8, USA 1, independent 3; composition - men 199, women 23, percent of women 10.4%; note - total Parliament percent of women 12.8%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 &quot;additional&quot; judge); note - Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts",
+"judge_selection_and_term_of_office": "Federal Court justices appointed by the monarch on advice of the prime minister; judges serve until mandatory retirement at age 66 with the possibility of a single 6-month extension",
+"subordinate_courts": "Court of Appeal; High Court; Sessions Court; Magistrates&#39; Court",
+}, 
+"political_parties_and_leaders": "&lt;strong&gt;National Front (Barisan Nasional) or BN:&lt;/strong&gt; &lt;br /&gt;Malaysian Chinese Association (Persatuan China Malaysia) or MCA [LIOW Tiong Lai]&lt;br /&gt;Malaysian Indian Congress (Kongres India Malaysia) or MIC [S. SUBRAMANIAM]&lt;br /&gt;United Malays National Organization or UMNO [MOHAMAD Hasan, acting]&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Coalition of Hope (Pakatan Harapan) or PH (formerly the People&#39;s Alliance):&lt;/strong&gt; &lt;br /&gt;Democratic Action Party (Parti Tindakan Demokratik) or DAP [TAN Kok Wai]&lt;br /&gt;Malaysian United Indigenous Party (Parti Pribumi Bersatu Malaysia) or PPBM [MAHATHIR bin Mohamad]&lt;br /&gt;National Trust Party (Parti Amanah Negara) or AMANAH [Mohamad SABU]&lt;br /&gt;People&#39;s Justice Party (Parti Keadilan Rakyat) or PKR [ANWAR Ibrahim]&lt;br /&gt;&lt;strong&gt;&lt;br /&gt;Other:&lt;/strong&gt; &lt;br /&gt;Pan-Malaysian Islamic Party (Parti Islam se Malaysia) or PAS [Abdul HADI Awang]&lt;br /&gt;Progressive Democratic Party or PDP [TIONG King Sing]&lt;br /&gt;Sabah Heritage Party (Parti Warisan Sabah) or WARISAN [SHAFIE Apdal]&lt;br /&gt;Sarawak Parties Alliance (Gabungan Parti Sarawak) or GPS [ABANG JOHARI Openg] (includes PBB, SUPP, PRS, PDP)&lt;br /&gt;Sarawak People&#39;s Party (Parti Rakyat Sarawak) or PRS [James MASING]&lt;br /&gt;Sarawak United People&#39;s Party (Parti Bersatu Rakyat Sarawak) or SUPP [Dr. SIM Kui Hian]&lt;br /&gt;United Pasokmomogun Kadazandusun Murut Organization (Pertubuhan Pasko Momogun Kadazan Dusun Bersatu) or UPKO [Wilfred Madius TANGAU]&lt;br /&gt;United Sabah Alliance or USA (Gabungan Sabah)&lt;br /&gt;United Sabah Party (Parti Bersatu Sabah) or PBS [Maximus ONGKILI]&lt;br /&gt;United Sabah People&#39;s (Party Parti Bersatu Rakyat Sabah) or PBRS [Joseph KURUP]&lt;br /&gt;United Traditional Bumiputera Party (Parti Pesaka Bumiputera Bersata) or PBB; note - PBB is listed under GPS above",
+"international_organization_participation": "ADB, APEC, ARF, ASEAN, BIS, C, CICA (observer), CP, D-8, EAS, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador AZMIL Mohd Azbidi (since 8 April 2019)",
+"chancery": "3516 International Court NW, Washington, DC 20008",
+"telephone": "[1] (202) 572-9700",
+"fax": "[1] (202) 572-9882",
+"consulate_s_general": "Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Kamala Shirin LAKHDHIR (since 21 February 2017)",
+"telephone": "[60] (3) 2168-5000",
+"embassy": "376 Jalan Tun Razak, 50400 Kuala Lumpur",
+"mailing_address": "US Embassy Kuala Lumpur, APO AP 96535-8152",
+"fax": "[60] (3) 2142-2207",
+}, 
+"flag_description": "14 equal horizontal stripes of red (top) alternating with white (bottom); there is a dark blue rectangle in the upper hoist-side corner bearing a yellow crescent and a yellow 14-pointed star; the flag is often referred to as Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status in the federation of the 13 member states and the federal government; the 14 points on the star represent the unity between these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people and yellow is the royal color of Malay rulers",
+"national_symbol_s": "tiger, hibiscus; national colors: gold, black",
+"national_anthem": 
+{
+"name": "&quot;Negaraku&quot; (My Country)",
+"lyrics_music": "collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Malaysia, an upper middle-income country, has transformed itself since the 1970s from a producer of raw materials into a multi-sector economy. Under current Prime Minister NAJIB, Malaysia is attempting to achieve high-income status by 2020 and to move further up the value-added production chain by attracting investments in high technology, knowledge-based industries and services. NAJIB&#39;s Economic Transformation Program is a series of projects and policy measures intended to accelerate the country&#39;s economic growth. The government has also taken steps to liberalize some services sub-sectors. Malaysia is vulnerable to a fall in world commodity prices or a general slowdown in global economic activity.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The NAJIB administration is continuing efforts to boost domestic demand and reduce the economy&#39;s dependence on exports. Domestic demand continues to anchor economic growth, supported mainly by private consumption, which accounts for 53% of GDP. Nevertheless, exports - particularly of electronics, oil and gas, and palm oil - remain a significant driver of the economy. In 2015, gross exports of goods and services were equivalent to 73% of GDP. The oil and gas sector supplied about 22% of government revenue in 2015, down significantly from prior years amid a decline in commodity prices and diversification of government revenues. Malaysia has embarked on a fiscal reform program aimed at achieving a balanced budget by 2020, including rationalization of subsidies and the 2015 introduction of a 6% value added tax. Sustained low commodity prices throughout the period not only strained government finances, but also shrunk Malaysia’s current account surplus and weighed heavily on the Malaysian ringgit, which was among the region’s worst performing currencies during 2013-17. The ringgit hit new lows following the US presidential election amid a broader selloff of emerging market assets.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Bank Negara Malaysia (the central bank) maintains adequate foreign exchange reserves; a well-developed regulatory regime has limited Malaysia&#39;s exposure to riskier financial instruments, although it remains vulnerable to volatile global capital flows. In order to increase Malaysia’s competitiveness, Prime Minister NAJIB raised possible revisions to the special economic and social preferences accorded to ethnic Malays under the New Economic Policy of 1970, but retreated in 2013 after he encountered significant opposition from Malay nationalists and other vested interests. In September 2013 NAJIB launched the new Bumiputra Economic Empowerment Program, policies that favor and advance the economic condition of ethnic Malays.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Malaysia signed the 12-nation Trans-Pacific Partnership (TPP) free trade agreement in February 2016, although the future of the TPP remains unclear following the US withdrawal from the agreement. Along with nine other ASEAN members, Malaysia established the ASEAN Economic Community in 2015, which aims to advance regional economic integration.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$933.3 billion",
+"2016": "$881.3 billion",
+"2015": "$845.6 billion",
+},
+"gdp_official_exchange_rate": "$312.4 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "5.9%",
+"2016": "4.2%",
+"2015": "5.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$29,100",
+"2016": "$27,900",
+"2015": "$27,100",
+},
+"gross_national_saving":
+{
+"2017": "28.5% of GDP",
+"2016": "28.3% of GDP",
+"2015": "28.2% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "55.3% (2017 est.)",
+"government_consumption": "12.2% (2017 est.)",
+"investment_in_fixed_capital": "25.3% (2017 est.)",
+"investment_in_inventories": "0.3% (2017 est.)",
+"exports_of_goods_and_services": "71.4% (2017 est.)",
+"imports_of_goods_and_services": "-64.4% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "8.8% (2017 est.)",
+"industry": "37.6% (2017 est.)",
+"services": "53.6% (2017 est.)",
+}, 
+"agriculture_products": "Peninsular Malaysia - palm oil, rubber, cocoa, rice;Sabah - palm oil, subsistence crops; rubber, timber;Sarawak - palm oil, rubber, timber; pepper",
+"industries": "Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing;Sabah - logging, petroleum and natural gas production;Sarawak - agriculture processing, petroleum and natural gas production, logging",
+"industrial_production_growth_rate": "5% (2017 est.)",
+"labor_force": "14.94 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "11%",
+"industry": "36%",
+"services": "53% (2012 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "3.4%",
+"2016": "3.5%",
+},
+"population_below_poverty_line": "3.8% (2009 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.8%",
+"highest_10": "34.7% (2009 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2009": "46.2",
+"1997": "49.2",
+},
+"budget": 
+{
+"revenues": "51.25 billion (2017 est.)",
+"expenditures": "60.63 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "16.4% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "54.1% of GDP",
+"2016": "56.2% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "3.8%",
+"2016": "2.1%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2011": "3%",
+"31 December 2010": "2.83%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "4.61%",
+"31 December 2016": "4.52%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$107.5 billion",
+"31 December 2016": "$84.9 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$107.5 billion",
+"31 December 2016": "$84.9 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$482.7 billion",
+"31 December 2016": "$398.3 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$383 billion",
+"31 December 2014": "$459 billion",
+"31 December 2013": "$500.4 billion",
+},
+"current_account_balance":
+{
+"2017": "$9.296 billion",
+"2016": "$7.236 billion",
+},
+"exports":
+{
+"2017": "$187.9 billion",
+"2016": "$165.3 billion",
+},
+"exports_partners": "Singapore 15.1%, China 12.6%, US 9.4%, Japan 8.2%, Thailand 5.7%, Hong Kong 4.5% (2017)",
+"exports_commodities": "semiconductors and electronic equipment, palm oil, petroleum and liquefied natural gas, wood and wood products, palm oil, rubber, textiles, chemicals, solar panels",
+"imports":
+{
+"2017": "$160.7 billion",
+"2016": "$141 billion",
+},
+"imports_commodities": "electronics, machinery, petroleum products, plastics, vehicles, iron and steel products, chemicals",
+"imports_partners": "China 19.9%, Singapore 10.8%, US 8.4%, Japan 7.6%, Thailand 5.8%, South Korea 4.5%, Indonesia 4.4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$102.4 billion",
+"31 December 2016": "$94.5 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$217.2 billion",
+"31 December 2016": "$195.3 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$139.5 billion",
+"31 December 2016": "$121.6 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$128.5 billion",
+"31 December 2016": "$126.9 billion",
+},
+"exchange_rates": 
+{
+"currency": "ringgits (MYR) per US dollar -",
+"exchange_rates":
+{
+"2017": "4.343",
+"2016": "4.15",
+"2015": "4.15",
+"2014": "3.91",
+"2013": "3.27",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "148.3 billion kWh (2016 est.)",
+"electricity_consumption": "136.9 billion kWh (2016 est.)",
+"electricity_exports": "3 million kWh (2015 est.)",
+"electricity_imports": "33 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "33 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "78% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "18% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "4% of total installed capacity (2017 est.)",
+"crude_oil_production": "647,000 bbl/day (2018 est.)",
+"crude_oil_exports": "326,200 bbl/day (2015 est.)",
+"crude_oil_imports": "166,000 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "3.6 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "528,300 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "704,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "208,400 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "304,600 bbl/day (2015 est.)",
+"natural_gas_production": "69.49 billion cu m (2017 est.)",
+"natural_gas_consumption": "30.44 billion cu m (2017 est.)",
+"natural_gas_exports": "38.23 billion cu m (2017 est.)",
+"natural_gas_imports": "2.803 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "1.183 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "226.8 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "6,578,200",
+"subscriptions_per_100_inhabitants": "21 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "42,338,500",
+"subscriptions_per_100_inhabitants": "135 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern system featuring good intercity services&amp;nbsp;mainly by microwave radio relay and an adequate intercity microwave radio relay network between Sabah and Sarawak via Brunei; international service excellent; one of the most advanced telecom networks; roll-out of a national broadband network (2018)",
+"domestic": "fixed-line 21 per 100 and mobile-cellular teledensity exceeds 135 per 100 persons; domestic satellite system with 2 earth stations (2018)",
+"international": "country code - 60; landing points for&amp;nbsp;BBG, FEA, SAFE, SeaMeWe-3 &amp;amp; 4 &amp;amp; 5, AAE-1, JASUKA, BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe, MCT, BaSICS, and Labuan-Brunei Submarine cable providing connectivity via international submarine cable networks&amp;nbsp;to Asia, the Middle East, Southeast Asia, Australia&amp;nbsp;and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019)",
+}, 
+"broadcast_media": "state-owned TV broadcaster operates 2 TV networks with relays throughout the country, and the leading private commercial media group operates 4 TV stations with numerous relays throughout the country; satellite TV subscription service is available; state-owned radio broadcaster operates multiple national networks, as well as regional and local stations; many private commercial radio broadcasters and some subscription satellite radio services are available; about 55 radio stations overall (2019)",
+"internet_country_code": ".my",
+"internet_users": 
+{
+"total": "24,384,952",
+"percent_of_population": "78.8% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "2,687,800",
+"subscriptions_per_100_inhabitants": "9 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.98% of GDP",
+"2017": "1.12% of GDP",
+"2016": "1.41% of GDP",
+"2015": "1.53% of GDP",
+"2014": "1.46% of GDP",
+},
+"military_and_security_forces": "Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera Darat Malaysia), Royal Malaysian Navy (Tentera Laut Diraja Malaysia, TLDM), Royal Malaysian Air Force (Tentera Udara Diraja Malaysia, TUDM) (2019)",
+"military_service_age_and_obligation": "17 years 6 months of age for voluntary military service (younger with parental consent and proof of age); mandatory retirement age 60; women serve in the Malaysian Armed Forces; no conscription (2017)",
+"maritime_threats": "the International Maritime Bureau reports that the territorial and offshore waters in the Strait of Malacca and South China Sea remain high risk for piracy and armed robbery against ships; in the past, commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; 11 attacks were reported in 2018 including eight ships boarded and&amp;nbsp;seven crew taken hostage",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "12 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "263 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "50,347,149 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "2,005,979,379 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "9M (2016)",
+"airports": "114 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "39 (2017)",
+"over_3_047_m": "8 (2017)",
+"2_438_to_3_047_m": "8 (2017)",
+"1_524_to_2_437_m": "7 (2017)",
+"914_to_1_523_m": "8 (2017)",
+"under_914_m": "8 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "75 (2013)",
+"914_to_1_523_m": "6 (2013)",
+"under_914_m": "69 (2013)",
+}, 
+"heliports": "4 (2013)",
+"pipelines": "354 km condensate, 6439 km gas, 155 km liquid petroleum gas, 1937 km oil, 43 km oil/gas/water, 114 km refined products, 26 km water (2013)",
+"railways": 
+{
+"total": "1,851 km (2014)",
+"standard_gauge": "59 km 1.435-m gauge (59 km electrified) (2014)",
+"narrow_gauge": "1,792 km 1.000-m gauge (339 km electrified) (2014)",
+}, 
+"roadways": 
+{
+"total": "144,403 km (excludes local roads) (2010)",
+"paved": "116,169 km (includes 1,821 km of expressways) (2010)",
+"unpaved": "28,234 km (2010)",
+}, 
+"waterways": "7,200 km (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km) (2011)",
+"merchant_marine": 
+{
+"total": "1,704",
+"by_type": "bulk carrier 15, container ship 22, general cargo 182, oil tanker 137, other 1348 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port Klang), Tanjung Pelepas",
+"container_port_s_teus": "Port Kelang (Port Klang) (11,978,000), Tanjung Pelepas (8,260,000) (2017)",
+"lng_terminal_s_export": "Bintulu (Sarawak)",
+"lng_terminal_s_import": "Sungei Udang",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": "&lt;strong&gt;aim(s): &lt;/strong&gt;enhance networks in Malaysia and, ultimately, overthrow the secular Malaysian Government and establish a pan-Islamic state across Southeast Asia&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; maintains a recruitment and operational presence, primarily in major cities (2018)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;while the 2002 &quot;Declaration on the Conduct of Parties in the South China Sea&quot; has eased tensions over the Spratly Islands, it is not the legally binding &quot;code of conduct&quot; sought by some parties, which is currently being negotiated between China and ASEAN; Malaysia was not party to the March 2005 joint accord among the national oil companies of China, the Philippines, and Vietnam on conducting marine seismic activities in the Spratly Islands; disputes continue over deliveries of fresh water to Singapore, Singapore&#39;s land reclamation, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge; land and maritime negotiations with Indonesia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; separatist violence in Thailand&#39;s predominantly Muslim southern provinces prompts measures to close and monitor border with Malaysia to stem terrorist activities; Philippines retains a dormant claim to Malaysia&#39;s Sabah State in northern Borneo; per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei in exchange for Brunei&#39;s sultan dropping claims to the Limbang corridor, which divides Brunei; piracy remains a problem in the Malacca Strait&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "114,227 (Burma) (2018)",
+"stateless_persons": "9,631 (2018); note - Malaysia&#39;s stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped &quot;foreigner&quot; are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents&#39; country of origin for passports",
+}, 
+"trafficking_in_persons": 
+{
+"current_situation": "Malaysia is a destination and, to a lesser extent, a source and transit country for men, women, and children subjected to forced labor and women and children subjected to sex trafficking; Malaysia is mainly a destination country for foreign workers who migrate willingly from countries, including Indonesia, Bangladesh, the Philippines, Nepal, Burma, and other Southeast Asian countries, but subsequently encounter forced labor or debt bondage in agriculture, construction, factories, and domestic service at the hands of employers, employment agents, and labor recruiters; women from Southeast Asia and, to a much lesser extent, Africa, are recruited for legal work in restaurants, hotels, and salons but are forced into prostitution; refugees, including Rohingya adults and children, are not legally permitted to work and are vulnerable to trafficking; a small number of Malaysians are trafficked internally and subjected to sex trafficking abroad",
+"tier_rating": "Tier 2 Watch list - Malaysia does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, amendments to strengthen existing anti-trafficking laws, including enabling victims to move freely and to work and for NGOs to run protective facilities, were drafted by the government and are pending approval from Parliament; authorities more than doubled investigations and prosecutions but convicted only three traffickers for forced labor and none for sex trafficking, a decline from 2013 and a disproportionately small number compared to the scale of the country’s trafficking problem; NGOs provided the majority of victim rehabilitation and counseling services with no financial support from the government (2015)",
+}, 
+"illicit_drugs": "drug trafficking prosecuted vigorously, including enforcement of the death penalty; heroin still primary drug of abuse, but synthetic drug demand remains strong; continued ecstasy and methamphetamine producer for domestic users and, to a lesser extent, the regional drug market",
+}
+}

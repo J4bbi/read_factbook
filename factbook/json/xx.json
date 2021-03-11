@@ -1,0 +1,384 @@
+{
+"name": "World",
+"code": "XX",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "Globally, the 20th century was marked by: (a) two devastating world wars; (b) the Great Depression of the 1930s; (c) the end of vast colonial empires; (d) rapid advances in science and technology, from the first airplane flight at Kitty Hawk, North Carolina (US) to the landing on the moon; (e) the Cold War between the Western alliance and the Warsaw Pact nations; (f) a sharp rise in living standards in North America, Europe, and Japan; (g) increased concerns about environmental degradation including deforestation, energy and water shortages, declining biological diversity, and air pollution; (h) the onset of the AIDS epidemic; and (i) the ultimate emergence of the US as the only world superpower. The planet&#39;s population continues to explode: from 1 billion in 1820 to 2 billion in 1930, 3 billion in 1960, 4 billion in 1974, 5 billion in 1987, 6 billion in 1999, and 7 billion in 2012. For the 21st century, the continued exponential growth in science and technology raises both hopes (e.g., advances in medicine and agriculture) and fears (e.g., development of even more lethal weapons of war).",
+}, 
+"geography": 
+{
+"geographic_overview": "&lt;p&gt;The surface of the Earth is approximately 70.9% water and 29.1% land. The former portion is divided into large bodies termed oceans. The World Factbook recognizes and describes five oceans, which are in decreasing order of size: the Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean, and Arctic Ocean. Because of their immense size, the Pacific and Atlantic Oceans are generally divided at the equator into the North and South Pacific Oceans and the North and South Atlantic Oceans, thus creating seven major water bodies - the so-called &quot;Seven Seas.&quot;&lt;/p&gt; &lt;p&gt;Some 97.5% of the Earth&#39;s water is saltwater. Of the 2.5% that is fresh, about two-thirds is frozen mostly locked up in the Antarctic ice sheets and mountain glaciers worldwide. If all the surface ice on earth fully melted, the sea level would rise about 70 m.&lt;/p&gt; &lt;p&gt;Earth&#39;s land portion is generally divided into several, large, discrete landmasses termed continents. Depending on the convention used, the number of continents can vary from five to seven. The most common classification recognizes seven, which are (from largest to smallest): Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Asia and Europe are sometimes lumped together into a Eurasian continent resulting in six continents. Alternatively, North and South America are sometimes grouped as simply the Americas, resulting in a continent total of six (or five, if the Eurasia designation is used).&lt;/p&gt; &lt;p&gt;North America is commonly understood to include the island of Greenland, the isles of the Caribbean, and to extend south all the way to the Isthmus of Panama. The easternmost extent of Europe is generally defined as being the Ural Mountains and the Ural River; on the southeast the Caspian Sea; and on the south the Caucasus Mountains, the Black Sea, and the Mediterranean. Portions of five countries - Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey - fall within both Europe and Asia, but in every instance the larger section is in Asia. These countries are considered part of both continents. Armenia and Cyprus, which lie completely in Western Asia, are geopolitically European countries.&lt;/p&gt; &lt;p&gt;Asia usually incorporates all the islands of the Philippines, Malaysia, and Indonesia. The islands of the Pacific are often lumped with Australia into a &quot;land mass&quot; termed Oceania or Australasia. Africa&#39;s northeast extremity is frequently delimited at the Isthmus of Suez, but for geopolitical purposes, the Egyptian Sinai Peninsula is often included as part of Africa.&lt;/p&gt; &lt;p&gt;Although the above groupings are the most common, different continental dispositions are recognized or taught in certain parts of the world, with some arrangements more heavily based on cultural spheres rather than physical geographic considerations.&lt;/p&gt; &lt;p&gt;Based on the seven-continent model, and grouping islands with adjacent continents, Africa has the most countries with 54. Europe contains 49 countries and Asia 48, but these two continents share five countries: Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey. North America consists of 23 sovereign states, Oceania has 14, and South America 12.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;countries by continent:&lt;/strong&gt; Africa (54): Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Democratic Republic of the Congo, Republic of the Congo, Cote d&#39;Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, The Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe;&lt;/p&gt; &lt;p&gt;Europe (49): Albania, Andorra, Austria, Azerbaijan*, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Georgia*, Germany, Greece, Holy See (Vatican City), Hungary, Iceland, Ireland, Italy, Kazakhstan*, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Russia*, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey*, Ukraine, United Kingdom (* indicates part of the country is also in Asia);&lt;/p&gt; &lt;p&gt;Asia (48): Afghanistan, Armenia, Azerbaijan*, Bahrain, Bangladesh, Bhutan, Brunei, Burma, Cambodia, China, Cyprus, Georgia*, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan*, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos, Lebanon, Malaysia, Maldives, Mongolia, Nepal, Oman, Pakistan, Philippines, Qatar, Russia*, Saudi Arabia, Singapore, Sri Lanka, Syria, Tajikistan, Thailand, Timor-Leste, Turkey*, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, Yemen (* indicates part of the country is also in Europe);&lt;/p&gt; &lt;p&gt;North America (23): Antigua and Barbuda, The Bahamas, Barbados, Belize, Canada, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guatemala, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, United States;&lt;/p&gt; &lt;p&gt;Oceania (14): Australia, Fiji, Kiribati, Marshall Islands, Federated States of Micronesia, Nauru, New Zealand, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu;&lt;/p&gt; &lt;p&gt;South America (12): Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;the world from space:&lt;/strong&gt; Earth is the only planet in the Solar System to have water in its three states of matter: liquid (oceans, lakes, and rivers), solid (ice), and gas (water vapor in clouds); from a distance, Earth would be the brightest&amp;nbsp; of the eight planets in the Solar System; this luminous effect would be because of the sunlight reflected by the planet&#39;s water&lt;/p&gt;",
+"map_references": "Physical Map of the World",
+"area": 
+{
+"total": "510.072 million sq km",
+"land": "148.94 million sq km",
+"water": "361.132 million sq km",
+}, 
+"area_comparative": "&lt;p&gt;land area about 16 times the size of the US&lt;/p&gt;",
+"area_rankings": "&lt;p style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;strong style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot;&gt;top fifteen World Factbook entities ranked by size:&lt;/strong&gt; Pacific Ocean 155,557,000 sq km; Atlantic Ocean 76,762,000 sq km; Indian Ocean 68,556,000 sq km; Southern Ocean 20,327,000 sq km; Russia 17,098,242 sq km; Antarctica 14,200,000 sq km; Arctic Ocean 14,056,000 sq km; Canada 9,984,670 sq km; United States 9,826,675 sq km; China 9,596,960 sq km; Brazil 8,515,770 sq km; Australia 7,741,220 sq km; European Union 4,324,782 sq km; India 3,287,263 sq km; Argentina 2,780,400 sq km&lt;/p&gt; &lt;p style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;strong style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot;&gt;top ten largest water bodies:&lt;/strong&gt; Pacific Ocean 155,557,000 sq km; Atlantic Ocean 76,762,000 sq km; Indian Ocean 68,556,000 sq km; Southern Ocean 20,327,000 sq km; Arctic Ocean 14,056,000 sq km; Coral Sea 4,184,100 sq km; South China Sea 3,595,900 sq km; Caribbean Sea 2,834,000 sq km; Bering Sea 2,520,000 sq km; Mediterranean Sea 2,469,000 sq km&lt;/p&gt; &lt;p style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;strong style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot;&gt;top ten largest landmasses:&lt;/strong&gt; Asia 44,568,500 sq km; Africa 30,065,000 sq km; North America 24,473,000 sq km; South America 17,819,000 sq km; Antarctica 14,200,000 sq km; Europe 9,948,000 sq km; Australia 7,741,220 sq km; Greenland 2,166,086 sq km; New Guinea 785,753 sq km; Borneo 751,929 sq km&lt;/p&gt; &lt;p style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;strong style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot;&gt;top ten largest islands:&lt;/strong&gt; Greenland 2,166,086 sq km; New Guinea (Indonesia, Papua New Guinea) 785,753 sq km; Borneo (Brunei, Indonesia, Malaysia) 751,929 sq km; Madagascar 587,713 sq km; Baffin Island (Canada) 507,451 sq km; Sumatra (Indonesia) 472,784 sq km; Honshu (Japan) 227,963 sq km; Victoria Island (Canada) 217,291 sq km; Great Britain (United Kingdom) 209,331 sq km; Ellesmere Island (Canada) 196,236 sq km&lt;br style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot; /&gt;&lt;br style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot; /&gt;&lt;strong style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot;&gt;top ten longest mountain ranges (land-based):&lt;/strong&gt; Andes (Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina) 7,000 km; Rocky Mountains (Canada, US) 4,830 km; Great Dividing Range (Australia) 3,700 km; Transantarctic Mountains (Antarctica) 3,500 km; Kunlun Mountains (China) 3,000 km; Ural Mountains (Russia, Kazakhstan) 2,640 km; Atlas Mountains (Morocco, Algeria, Tunisia) 2,500 km; Appalachian Mountains (Canada, US) 2,400 km; Himalayas (Pakistan, Afghanistan, India, China, Nepal, Bhutan) 2,300 km; Altai Mountains (Kazakhstan, Russia, Mongolia) 2,000 km; &lt;strong&gt;note&lt;/strong&gt; - lengths are approximate; if oceans are included, the Mid-Ocean Ridge is by far the longest mountain range at 40,389 km&amp;nbsp;&lt;br style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot; /&gt;&lt;br style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot; /&gt;&lt;strong style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot;&gt;top ten largest forested countries (sq km and percent of land):&lt;/strong&gt; Russia 8,149,310 (49.8%); Brazil 4,935,380 (58.9%); Canada 3,470,690 (38.2%); United States 3,103,700 (33.9%); China 2,098,640 (22.3%); Democratic Republic of the Congo 1,522,670 (67.2%); Australia 1,250,590 (16.3%);&amp;nbsp; Indonesia 903,250 (49.9%); Peru 738,054 (57.7%); India 708,600 (23.8%) (2016 est.)&lt;br style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot; /&gt;&lt;br style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot; /&gt;&lt;strong style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot;&gt;top ten most densely forested countries (percent of land):&lt;/strong&gt; Suriname (98.3%), Federated States of Micronesia (91.9%), Gabon (90%), Seychelles (88.4%), Palau (87.6%), Guyana (83.9%), Laos (82.1%), Solomon Islands (77.9%), Papua New Guinea (74.1%), Finland (73.1%)&amp;nbsp;(2016 est.)&lt;br style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot; /&gt;&lt;br style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot; /&gt;&lt;strong style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot;&gt;top ten largest (non-polar) deserts:&lt;/strong&gt; Sahara (Algeria, Chad, Egypt, Libya, Mali, Mauritania, Niger, Western Sahara, Sudan, Tunisia) 9,200,000 sq km; Arabian (Saudi Arabia, Iraq, Jordan, Kuwait, Oman, Qatar, United Arab Emirates, Yemen) 2,330,000 sq km; Gobi (China, Mongolia) 1,295,000 sq km; Kalahari (Botswana, Namibia, South Africa) 900,000 sq km; Patagonian (Argentina) 673,000 sq km; Syrian (Syria, Iraq, Jordan, Saudi Arabia) 500,000 sq km; Chihuahuan (Mexico) 362,000 sq km; Kara-Kum (Turkmenistan) 350,000 sq km; Great Victoria (Australia) 348,750 sq km; Great Basin (United States) 343,169 sq km; &lt;strong&gt;note&lt;/strong&gt; - if the two polar deserts are included, they would rank first and second: Antarctic Desert 14,200,000 sq km and Arctic Desert 13,900,000 sq km&lt;/p&gt; &lt;p style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;strong style=&quot;background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; min-height: 0px;&quot;&gt;ten smallest independent countries:&lt;/strong&gt; Holy See (Vatican City) 0.44 sq km; Monaco 2 sq km; Nauru 21 sq km; Tuvalu 26 sq km; San Marino 61 sq km; Liechtenstein 160 sq km; Marshall Islands 181 sq km; Saint Kitts and Nevis 261 sq km; Maldives 298 sq km; Malta 316 sq km&lt;/p&gt;", 
+"land_boundaries": "&lt;p&gt;the land boundaries in the world total 251,060 km (not counting shared boundaries twice); two nations, China and Russia, each border 14 other countries&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; 46 nations and other areas are landlocked, these include: Afghanistan, Andorra, Armenia, Austria, Azerbaijan, Belarus, Bhutan, Bolivia, Botswana, Burkina Faso, Burundi, Central African Republic, Chad, Czechia, Eswatini, Ethiopia, Holy See (Vatican City), Hungary, Kazakhstan, Kosovo, Kyrgyzstan, Laos, Lesotho, Liechtenstein, Luxembourg, Macedonia, Malawi, Mali, Moldova, Mongolia, Nepal, Niger, Paraguay, Rwanda, San Marino, Serbia, Slovakia, South Sudan, Switzerland, Tajikistan, Turkmenistan, Uganda, Uzbekistan, West Bank, Zambia, Zimbabwe; two of these, Liechtenstein and Uzbekistan, are doubly landlocked&lt;/p&gt;", 
+"coastline": "356,000 km",
+"maritime_claims": "&lt;p&gt;a variety of situations exist, but in general, most countries make the following claims measured from the mean low-tide baseline as described in the 1982 UN Convention on the Law of the Sea: territorial sea - 12 nm, contiguous zone - 24 nm, and exclusive economic zone - 200 nm; additional zones provide for exploitation of continental shelf resources and an exclusive fishing zone; boundary situations with neighboring states prevent many countries from extending their fishing or economic zones to a full 200 nm&lt;/p&gt;", 
+"climate": 
+{
+"climate": "a wide equatorial band of hot and humid tropical climates, bordered north and south by subtropical temperate zones that separate two large areas of cold and dry polar climates",
+"ten_driest_places_on_earth_average_annual_precipitation": "&lt;p&gt;McMurdo Dry Valleys, Antarctica 0 mm (0 in)&lt;br /&gt;Arica, Chile 0.76 mm (0.03 in)&lt;br /&gt;Al Kufrah, Libya 0.86 mm (0.03 in)&lt;br /&gt;Aswan, Egypt 0.86 mm (0.03 in)&lt;br /&gt;Luxor, Egypt 0.86 mm (0.03 in)&lt;br /&gt;Ica, Peru 2.29 mm (0.09 in)&lt;br /&gt;Wadi Halfa, Sudan 2.45 mm (0.1 in)&lt;br /&gt;Iquique, Chile 5.08 mm (0.2 in)&lt;br /&gt;Pelican Point, Namibia 8.13 mm (0.32 in)&lt;br /&gt;El Arab (Aoulef), Algeria 12.19 mm (0.48 in)&lt;/p&gt;",
+"ten_wettest_places_on_earth_average_annual_precipitation": "&lt;p&gt;Mawsynram, India 11,871 mm (467.4 in)&lt;br /&gt;Cherrapunji, India 11,777 mm (463.7 in)&lt;br /&gt;Tutunendo, Colombia 11,770 mm (463.4 in)&lt;br /&gt;Cropp River, New Zealand 11,516 mm (453.4 in)&lt;br /&gt;San Antonia de Ureca, Equatorial Guinea 10,450 mm (411.4 in)&lt;br /&gt;Debundsha, Cameroon 10,299 mm (405.5 in)&lt;br /&gt;Big Bog, US (Hawaii) 10,272 mm (404.4 in)&lt;br /&gt;Mt Waialeale, US (Hawaii) 9,763 mm (384.4 in)&lt;br /&gt;Kukui, US (Hawaii) 9,293 mm (365.9 in)&lt;br /&gt;Emeishan, China 8,169 mm (321.6 in)&lt;/p&gt;",
+"ten_coldest_places_on_earth_lowest_average_monthly_temperature": "&lt;p&gt;Verkhoyansk, Russia (Siberia) -47&amp;deg;C (-53&amp;deg;F) January&lt;br /&gt;Oymyakon, Russia (Siberia) -46&amp;deg;C (-52&amp;deg;F) January&lt;br /&gt;Eureka, Canada -38.4&amp;deg;C (-37.1&amp;deg;F) February&lt;br /&gt;Isachsen, Canada -36&amp;deg;C (-32.8&amp;deg;F) February&lt;br /&gt;Alert, Canada -34&amp;deg;C (-28&amp;deg;F) February&lt;br /&gt;Kap Morris Jesup, Greenland -34&amp;deg;C (-29&amp;deg;F) March&lt;br /&gt;Cornwallis Island, Canada -33.5&amp;deg;C (-28.3&amp;deg;F) February&lt;br /&gt;Cambridge Bay, Canada -33.5&amp;deg;C (28.3&amp;deg;F) February&lt;br /&gt;Ilirnej, Russia -33&amp;deg;C (-28&amp;deg;F) January&lt;br /&gt;Resolute, Canada -33&amp;deg;C (-27.4&amp;deg;F) February&lt;/p&gt;",
+"ten_hottest_places_on_earth_highest_average_monthly_temperature": "&lt;p&gt;Death Valley, US (California) 39&amp;deg;C (101&amp;deg;F) July&lt;br /&gt;Iranshahr, Iran 38.3&amp;deg;C (100.9&amp;deg;F) June &lt;br /&gt;Ouallene, Algeria 38&amp;deg;C (100.4&amp;deg;F) July&lt;br /&gt;Kuwait City, Kuwait 37.7&amp;deg;C (100&amp;deg;F) July&lt;br /&gt;Medina, Saudi Arabia 36&amp;deg;C (97&amp;deg;F) July&lt;br /&gt;Buckeye, US (Arizona) 34&amp;deg;C (93&amp;deg;F) July&lt;br /&gt;Jazan, Saudi Arabia 33&amp;deg;C (91&amp;deg;F) June&lt;br /&gt;Al Kufrah, Libya 31&amp;deg;C (87&amp;deg;F) July&lt;br /&gt;Alice Springs, Australia 29&amp;deg;C (84&amp;deg;F) January&lt;br /&gt;Tamanrasset, Algeria 29&amp;deg;C (84&amp;deg;F) June&lt;/p&gt;",
+}, 
+"terrain": 
+{
+"terrain": "tremendous variation of terrain on each of the continents; check the World &#39;Elevation&#39; entry for a compilation of terrain extremes; the world&#39;s ocean floors are marked by mid-ocean ridges while the ocean surfaces form a dynamic, continuously changing environment; check the &#39;Terrain&#39; field and its &#39;major surface currents&#39; subfield under each of the five ocean (Arctic, Atlantic, Indian, Pacific, and Southern) entries for further information on oceanic environs",
+"ten_cave_superlatives": "compiled from &quot;Geography - note(s)&quot; under various country entries where more details may be found&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;largest cave: &lt;/strong&gt;Son Doong in Phong Nha-Ke Bang National Park, Vietnam is the world&#39;s largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume&lt;strong&gt;&lt;br /&gt;&lt;br /&gt;largest ice cave: &lt;/strong&gt;the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, Austria is the world&#39;s largest and longest ice cave system at 42 km (26 mi) &lt;br /&gt;&lt;strong&gt;&lt;br /&gt;longest cave:&lt;/strong&gt; Mammoth Cave, in west-central Kentucky, is the world&#39;s longest known cave system with more than 650 km (405 mi) of surveyed passageways&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;longest salt cave:&lt;/strong&gt; the Malham Cave in Mount Sodom in Israel is the world&#39;s longest salt cave at 10 km (6 mi); its survey is not complete and its length will undoubtedly increase&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;longest underwater cave:&lt;/strong&gt; the Sac Actun cave system in Mexico at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;longest lava tube cave:&lt;/strong&gt; Kazumura Cave on the island of Hawaii is the world&#39;s longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;deepest cave:&lt;/strong&gt; Veryovkina Cave in the Caucasus country of Georgia is the world&#39;s deepest cave, plunging down 2,212 m (7,257 ft)&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;deepest underwater cave:&lt;/strong&gt; the Hranice Abyss in Czechia is the world&#39;s deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;largest cave chamber:&lt;/strong&gt; the Miao Room in the Gebihe cave system at China&#39;s Ziyun Getu He Chuandong National Park encloses some 10.78 million cu m (380.7 million cu ft) of volume&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;largest bat cave: &lt;/strong&gt;Bracken Cave outside of San Antonio, Texas is the world&#39;s largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world&#39;s largest known concentration of mammals",
+}, 
+"elevation": 
+{
+"mean_elevation": "840 m",
+"lowest_point": "Denman Glacier (Antarctica) more than -3,500 m (in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean)",
+"highest_point": "&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;Mount Everest 8,850 m&lt;/span&gt;",
+}, 
+"natural_resources": "the rapid depletion of nonrenewable mineral resources, the depletion of forest areas and wetlands, the extinction of animal and plant species, and the deterioration in air and water quality pose serious long-term problems",
+"irrigated_land": "3,242,917 sq km (2012 est.)",
+"population_distribution": "six of the world&#39;s seven continents are widely and permanently inhabited; Asia is easily the most populous continent with about 60% of the world&#39;s population (China and India together account for over 35%); Africa comes in second with over 15% of the earth&#39;s populace, Europe has about 10%, North America 8%, South America almost 6%, and Oceania less than 1%; the harsh conditions on Antarctica prevent any permanent habitation",
+"natural_hazards": "&lt;p&gt;large areas subject to severe weather (tropical cyclones); natural disasters (earthquakes, landslides, tsunamis, volcanic eruptions)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; volcanism is a fundamental driver and consequence of plate tectonics, the physical process reshaping the Earth&#39;s lithosphere; the world is home to more than 1,500 potentially active volcanoes, with over 500 of these having erupted in historical times; an estimated 500 million people live near these volcanoes; associated dangers include lava flows, lahars (mudflows), pyroclastic flows, ash clouds, ash fall, ballistic projectiles, gas emissions, landslides, earthquakes, and tsunamis; in the 1990s, the International Association of Volcanology and Chemistry of the Earth&#39;s Interior, created a list of 16 Decade Volcanoes worthy of special study because of their great potential for destruction: Avachinsky-Koryaksky (Russia), Colima (Mexico), Etna (Italy), Galeras (Colombia), Mauna Loa (United States), Merapi (Indonesia), Nyiragongo (Democratic Republic of the Congo), Rainier (United States), Sakurajima (Japan), Santa Maria (Guatemala), Santorini (Greece), Taal (Philippines), Teide (Spain), Ulawun (Papua New Guinea), Unzen (Japan), Vesuvius (Italy); see second note under &quot;Geography - note&quot;&lt;/p&gt;",
+"environment_current_issues": "large areas subject to overpopulation, industrial disasters, pollution (air, water, acid rain, toxic substances), loss of vegetation (overgrazing, deforestation, desertification), loss of biodiversity; soil degradation, soil depletion, erosion; ozone layer depletion; waste disposal; global warming becoming a greater concern",
+"geography_note": "&lt;p&gt;&lt;strong&gt;note 1:&lt;/strong&gt; the world is now thought to be about 4.55 billion years old, just about one-third of the 13.8-billion-year age estimated for the universe; the earliest widely accepted date for life appearing on earth is 3.48 billion years ago, but this date is conservative and may get pushed back further&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 2:&lt;/strong&gt; although earthquakes can strike anywhere at any time, the vast majority occur in three large zones of the earth; the world&#39;s greatest earthquake belt, the Circum-Pacific Belt (popularly referred to as the Ring of Fire), is the zone of active volcanoes and earthquake epicenters bordering the Pacific Ocean; about 90% of the world&#39;s earthquakes (81% of the largest earthquakes) and some 75% of the world&#39;s volcanoes occur within the Ring of Fire; the belt extends northward from Chile, along the South American coast, through Central America, Mexico, the western US, southern Alaska and the Aleutian Islands, to Japan, the Philippines, Papua New Guinea, island groups in the southwestern Pacific, and New Zealand&lt;br /&gt;&lt;br /&gt;the second prominent belt, the Alpide, extends from Java to Sumatra, northward along the mountains of Burma, then eastward through the Himalayas, the Mediterranean, and out into the Atlantic Ocean; it accounts for about 17% of the world&#39;s largest earthquakes; the third important belt follows the long Mid-Atlantic Ridge&lt;/p&gt;",
+}, 
+"people_and_society": 
+{
+"population": "7,503,828,180 (2018 est.)",
+"languages": "&lt;p&gt;&lt;strong&gt;most-spoken language:&amp;nbsp;&lt;/strong&gt;English 15.1%, Mandarin Chinese 14.9%, Hindi 8.2%, Spanish 7.1%, French 3.7%, Arabic 3.7%, Bengali 3.5%, Russian 3.4%, Portuguese 3.1%, Indonesian 2.7% (2019 est.) &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;most-spoken first language:&lt;/strong&gt; Mandarin Chinese 12.3%, Spanish 6%, English 5.1%, Arabic 5.1%, Hindi 3.5%, Bengali 3.3%, Portuguese 3%, Russian 2.1%, Japanese 1.7%, Punjabi, Western 1.3%, Javanese 1.1% (2018 est.)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 1:&lt;/strong&gt; the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about 45% of the world&#39;s population, and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers (2018)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 2:&lt;/strong&gt; all told, there are estimated to be just over 7,100 languages spoken in the world; approximately 80% of these languages are spoken by less than 100,000 people; about 150 languages are spoken by less than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages (2019)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 3:&lt;/strong&gt; approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2019)&lt;/p&gt;", 
+"religions": "&lt;p&gt;Christian 31.4%, Muslim 23.2%, Hindu 15%, Buddhist 7.1%, folk religions 5.9%, Jewish 0.2%, other 0.8%, unaffiliated 16.4%&lt;/p&gt;", 
+"age_structure": 
+{
+"0_14_years": "25.29% (male 981,129,427/female 916,864,766)",
+"15_24_years": "15.77% (male 611,245,863/female 572,115,168)",
+"25_54_years": "41.03% (male 1,559,197,242/female 1,519,386,627)",
+"55_64_years": "8.84% (male 324,134,030/female 339,551,038)",
+"65_years_and_over": "9.06% (male 303,788,086/female 376,415,933) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "52.5 (2015 est.)",
+"youth_dependency_ratio": "39.9 (2015 est.)",
+"elderly_dependency_ratio": "12.6 (2015 est.)",
+"potential_support_ratio": "7.9 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "30.6 years (2018 est.)",
+"male": "29.9 years",
+"female": "31.4 years",
+}, 
+"population_growth_rate": "1.05% (2018 est.)",
+"birth_rate": "18.2 births/1,000 population (2018 est.)",
+"death_rate": "7.7 deaths/1,000 population (2018 est.)",
+"population_distribution": "six of the world&#39;s seven continents are widely and permanently inhabited; Asia is easily the most populous continent with about 60% of the world&#39;s population (China and India together account for over 35%); Africa comes in second with over 15% of the earth&#39;s populace, Europe has about 10%, North America 8%, South America almost 6%, and Oceania less than 1%; the harsh conditions on Antarctica prevent any permanent habitation",
+"urbanization": 
+{
+"urban_population": "55.7% of total population (2019)",
+"rate_of_urbanization": "1.9% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "&lt;strong&gt;ten largest urban agglomerations:&lt;/strong&gt; Tokyo (Japan) - 37,435,000; New Delhi (India) - 29,399,000; Shanghai (China) - 26,317,000; Sao Paulo (Brazil) - 21,847,000; Mexico City (Mexico) - 21,672,000; Cairo (Egypt) - 20,485,000; Dhaka (Bangladesh) - 20,284,000; Mumbai (India) - 20,185,000; Beijing (China) - 20,035,000; Osaka (Japan) - 19,223,000 (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.07 male(s)/female",
+"0_14_years": "1.07 male(s)/female",
+"15_24_years": "1.07 male(s)/female",
+"25_54_years": "1.03 male(s)/female",
+"55_64_years": "0.95 male(s)/female",
+"65_years_and_over": "0.81 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "211 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "32 deaths/1,000 live births (2018 est.)",
+"male": "34 deaths/1,000 live births",
+"female": "29.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "69.8 years (2018 est.)",
+"male": "67.8 years",
+"female": "72 years",
+}, 
+"total_fertility_rate": "2.42 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "96.5% of population",
+"improved_rural": "84.7% of population",
+"improved_total": "91.1% of population",
+"unimproved_urban": "3.5% of population",
+"unimproved_rural": "15.3% of population",
+"unimproved_total": "8.9% of population (2015 est.)",
+}, 
+"current_health_expenditure": "10% (2016)",
+"sanitation_facility_access": 
+{
+"improved_urban": "82.3% of population (2015 est.)",
+"improved_rural": "50.5% of population (2015 est.)",
+"improved_total": "67.7% of population (2015 est.)",
+"unimproved_urban": "17.7% of population (2015 est.)",
+"unimproved_rural": "49.5% of population (2015 est.)",
+"unimproved_total": "32.3% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.8% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "37.9 million (2018 est.)",
+"hiv_aids_deaths": "770,000 (2018 est.)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "86.2%",
+"male": "89.8%",
+"female": "82.6% (2016 est.)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "12 years",
+"male": "12 years",
+"female": "12 years (2017)",
+}, 
+}, 
+"government": 
+{
+"capital": "there are 21 World entities (20 countries and 1 dependency) with multiple time zones: Australia, Brazil, Canada, Chile, Democratic Republic of Congo, Ecuador, France, Greenland (part of the Danish Kingdom), Indonesia, Kazakhstan, Kiribati, Mexico, Micronesia, Mongolia, Netherlands, New Zealand, Papua New Guinea, Portugal, Russia, Spain, United States",
+"administrative_divisions": "195 countries, 72 dependent areas and other entities",
+"legal_system": "the legal systems of nearly all countries are generally modeled upon elements of five main types: civil law (including French law, the Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law); common law (including English and US law); customary law; mixed or pluralistic law; and religious law (including Islamic sharia law); an additional type of legal system - international law - governs the conduct of independent nations in their relationships with one another",
+"international_law_organization_participation": "all members of the UN are parties to the statute that established the International Court of Justice (ICJ) or World Court; states parties to the Rome Statute of the International Criminal Court (ICCt) are those countries that have ratified or acceded to the Rome Statute, the treaty that established the Court; as of May 2019, a total of 122 countries have accepted jurisdiction of the ICCt (see Appendix B for a clarification on the differing mandates of the ICJ and ICCt)",
+"executive_branch": "there are 27 countries with royal families in the world, most are in Asia (13) and Europe (10), three are in Africa, and one in Oceania; monarchies by continent are as follows: Asia (Bahrain, Bhutan, Brunei, Cambodia, Japan, Jordan, Kuwait, Malaysia, Oman, Qatar, Saudi Arabia, Thailand, United Arab Emirates); Europe (Belgium, Denmark, Liechtenstein, Luxembourg, Monaco, Netherlands, Norway, Spain, Sweden, United Kingdom); Africa (Eswatini, Lesotho, Morocco); Oceania (Tonga); note that Andorra and the Holy See (Vatican) are also monarchies of a sort, but they are not ruled by royal houses; Andorra has two co-princes (the president of France and the bishop of Urgell) and the Holy See is ruled by an elected pope; note too that the sovereign of Great Britain is also the monarch for many of the countries (including Australia, Canada, Jamaica, New Zealand) that make up the Commonwealth",
+"legislative_branch": "&lt;p&gt;there are 230 political entities with legislative bodies; of these 144 are unicameral (a single “house”) and 86 are bicameral (both upper and lower houses); note - while there are 195 countries in the world, 35 territories, possessions, or other special administrative units also have their own governing bodies&lt;/p&gt;", 
+"flag_description": "while a &quot;World&quot; flag does not exist, the flag of the United Nations (UN) - adopted on 7 December 1946 - has been used on occasion to represent the entire planet; technically, however, it only represents the international organization itself; the flag displays&amp;nbsp;the official emblem of the UN in white on a blue background; the emblem design shows a map of the world in an azimuthal equidistant projection centered on the North Pole, the image is flanked by two olive branches crossed below; blue was selected as the color to represent peace, in contrast to red usually associated with war; the map projection chosen includes all of the continents except Antarctica",
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The international financial crisis of 2008-09 led to the first downturn in global output since 1946 and presented the world with a major new challenge: determining what mix of fiscal and monetary policies to follow to restore growth and jobs, while keeping inflation and debt under control. Financial stabilization and stimulus programs that started in 2009-11, combined with lower tax revenues in 2009-10, required most countries to run large budget deficits. Treasuries issued new public debt - totaling $9.1 trillion since 2008 - to pay for the additional expenditures. To keep interest rates low, most central banks monetized that debt, injecting large sums of money into their economies - between December 2008 and December 2013 the global money supply increased by more than 35%. Governments are now faced with the difficult task of spurring current growth and employment without saddling their economies with so much debt that they sacrifice long-term growth and financial stability. When economic activity picks up, central banks will confront the difficult task of containing inflation without raising interest rates so high they snuff out further growth.&lt;/p&gt; &lt;p&gt;Fiscal and monetary data for 2013 are currently available for 180 countries, which together account for 98.5% of world GDP. Of the 180 countries, 82 pursued unequivocally expansionary policies, boosting government spending while also expanding their money supply relatively rapidly - faster than the world average of 3.1%; 28 followed restrictive fiscal and monetary policies, reducing government spending and holding money growth to less than the 3.1% average; and the remaining 70 followed a mix of counterbalancing fiscal and monetary policies, either reducing government spending while accelerating money growth, or boosting spending while curtailing money growth.&lt;/p&gt; &lt;p&gt;(For more information, see attached spreadsheet.)&lt;/p&gt; &lt;p&gt;In 2013, for many countries the drive for fiscal austerity that began in 2011 abated. While 5 out of 6 countries slowed spending in 2012, only 1 in 2 countries slowed spending in 2013. About 1 in 3 countries actually lowered the level of their expenditures. The global growth rate for government expenditures increased from 1.6% in 2012 to 5.1% in 2013, after falling from a 10.1% growth rate in 2011. On the other hand, nearly 2 out of 3 central banks tightened monetary policy in 2013, decelerating the rate of growth of their money supply, compared with only 1 out of 3 in 2012. Roughly 1 of 4 central banks actually withdrew money from circulation, an increase from 1 out of 7 in 2012. Growth of the global money supply, as measured by the narrowly defined M1, slowed from 8.7% in 2009 and 10.4% in 2010 to 5.2% in 2011, 4.6% in 2012, and 3.1% in 2013. Several notable shifts occurred in 2013. By cutting government expenditures and expanding money supplies, the US and Canada moved against the trend in the rest of the world. France reversed course completely. Rather than reducing expenditures and money as it had in 2012, it expanded both. Germany reversed its fiscal policy, sharply expanding federal spending, while continuing to grow the money supply. South Korea shifted monetary policy into high gear, while maintaining a strongly expansionary fiscal policy. Japan, however, continued to pursue austere fiscal and monetary policies.&lt;/p&gt; &lt;p&gt;Austere economic policies have significantly affected economic performance. The global budget deficit narrowed to roughly $2.7 trillion in 2012 and $2.1 trillion in 2013, or 3.8% and 2.5% of World GDP, respectively. But growth of the world economy slipped from 5.1% in 2010 and 3.7% in 2011, to just 3.1% in 2012, and 2.9% in 2013.&lt;/p&gt; &lt;p&gt;Countries with expansionary fiscal and monetary policies achieved significantly higher rates of growth, higher growth of tax revenues, and greater success reducing the public debt burden than those countries that chose contractionary policies. In 2013, the 82 countries that followed a pro-growth approach achieved a median GDP growth rate of 4.7%, compared to 1.7% for the 28 countries with restrictive fiscal and monetary policies, a difference of 3 percentage points. Among the 82, China grew 7.7%, Philippines 6.8%, Malaysia 4.7%, Pakistan and Saudi Arabia 3.6%, Argentina 3.5%, South Korea 2.8%, and Russia 1.3%, while among the 28, Brazil grew 2.3%, Japan 2.0%, South Africa 2.0%, Netherlands -0.8%, Croatia -1.0%, Iran -1.5%, Portugal -1.8%, Greece -3.8%, and Cyprus -8.7%.&lt;/p&gt; &lt;p&gt;Faster GDP growth and lower unemployment rates translated into increased tax revenues and a less cumbersome debt burden. Revenues for the 82 expansionary countries grew at a median rate of 10.7%, whereas tax revenues fell at a median rate of 6.8% for the 28 countries that chose austere economic policies. Budget balances improved for about three-quarters of the 28, but, for most, debt grew faster than GDP, and the median level of their public debt as a share of GDP increased 9.1 percentage points, to 59.2%. On the other hand, budget balances deteriorated for most of the 82 pro-growth countries, but GDP growth outpaced increases in debt, and the median level of public debt as a share of GDP increased just 1.9%, to 39.8%.&lt;/p&gt; &lt;p&gt;The world recession has suppressed inflation rates - world inflation declined 1.0 percentage point in 2012 to about 4.1% and 0.2 percentage point to 3.9% in 2013. In 2013 the median inflation rate for the 82 pro-growth countries was 1.3 percentage points higher than that for the countries that followed more austere fiscal and monetary policies. Overall, the latter countries also improved their current account balances by shedding imports; as a result, current account balances deteriorated for most of the countries that pursued pro-growth policies. Slow growth of world income continued to hold import demand in check and crude oil prices fell. Consequently, the dollar value of world trade grew just 1.3% in 2013.&lt;/p&gt; &lt;p&gt;Beyond the current global slowdown, the world faces several long standing economic challenges. The addition of 80 million people each year to an already overcrowded globe is exacerbating the problems of pollution, waste-disposal, epidemics, water-shortages, famine, over-fishing of oceans, deforestation, desertification, and depletion of non-renewable resources. The nation-state, as a bedrock economic-political institution, is steadily losing control over international flows of people, goods, services, funds, and technology. The introduction of the euro as the common currency of much of Western Europe in January 1999, while paving the way for an integrated economic powerhouse, has created economic risks because the participating nations have varying income levels and growth rates, and hence, require a different mix of monetary and fiscal policies. Governments, especially in Western Europe, face the difficult political problem of channeling resources away from welfare programs in order to increase investment and strengthen incentives to seek employment. Because of their own internal problems and priorities, the industrialized countries are unable to devote sufficient resources to deal effectively with the poorer areas of the world, which, at least from an economic point of view, are becoming further marginalized. The terrorist attacks on the US on 11 September 2001 accentuated a growing risk to global prosperity - the diversion of resources away from capital investments to counter-terrorism programs.&lt;/p&gt; &lt;p&gt;Despite these vexing problems, the world economy also shows great promise. Technology has made possible further advances in a wide range of fields, from agriculture, to medicine, alternative energy, metallurgy, and transportation. Improved global communications have greatly reduced the costs of international trade, helping the world gain from the international division of labor, raise living standards, and reduce income disparities among nations. Much of the resilience of the world economy in the aftermath of the financial crisis resulted from government and central bank leaders around the globe working in concert to stem the financial onslaught, knowing well the lessons of past economic failures.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$127.8 trillion",
+"2016": "$123.3 trillion",
+"2015": "$119.5 trillion",
+},
+"gdp_official_exchange_rate": "$80.27 trillion SGWP (gross world product) (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.7%",
+"2016": "3.2%",
+"2014": "3.3%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$17,500",
+"2016": "$17,000",
+"2015": "$16,800",
+},
+"gross_national_saving":
+{
+"2017": "27.9% of GDP",
+"2016": "27.4% of GDP",
+"2015": "27.8% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "56.4% (2017 est.)",
+"government_consumption": "16.1% (2017 est.)",
+"investment_in_fixed_capital": "25.7% (2017 est.)",
+"investment_in_inventories": "1.4% (2017 est.)",
+"exports_of_goods_and_services": "28.8% (2017 est.)",
+"imports_of_goods_and_services": "-28.3% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "6.4% (2017 est.)",
+"industry": "30% (2017 est.)",
+"services": "63% (2017 est.)",
+}, 
+"industries": "&lt;p&gt;dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems&lt;/p&gt;", 
+"industrial_production_growth_rate": "3.2% (2017 est.)",
+"labor_force": "3.432 billion (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "31%",
+"industry": "23.5%",
+"services": "45.5% (2014 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "7.7%",
+"2016": "7.5%",
+},
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.6%",
+"highest_10": "30.2% (2008 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2012": "37.9",
+"2005": "37.9",
+},
+"budget": 
+{
+"revenues": "21.68 trillion (2017 est.)",
+"expenditures": "23.81 trillion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "26.7% (of GDP) (2016 est.)",
+"budget_surplus_or_deficit": "-3% (of GDP) (2016 est.)",
+"public_debt":
+{
+"2017": "67.2% of GDP",
+"2016": "67.2% of GDP",
+},
+"inflation_rate_consumer_prices":
+{
+"2017": "6.4%",
+"2016": "3.7%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$34.4 trillion",
+"31 December 2016": "$30.17 trillion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$86.47 trillion",
+"31 December 2016": "$77.71 trillion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$111.7 trillion",
+"31 December 2016": "$100.4 trillion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$67.47 trillion",
+"31 December 2014": "$68.51 trillion",
+"31 December 2013": "$68.37 trillion",
+},
+"exports":
+{
+"2017": "$17.31 trillion",
+"2016": "$15.82 trillion",
+},
+"exports_commodities": "&lt;p&gt;the whole range of industrial and agricultural goods and services&lt;/p&gt; &lt;p&gt;&lt;strong&gt;top ten - share of world trade:&lt;/strong&gt; 14.8 electrical machinery, including computers; 14.4 mineral fuels, including oil, coal, gas, and refined products; 14.2 nuclear reactors, boilers, and parts; 8.9 cars, trucks, and buses; 3.5 scientific and precision instruments; 3.4 plastics; 2.7 iron and steel; 2.6 organic chemicals; 2.6 pharmaceutical products; 1.9 diamonds, pearls, and precious stones&lt;/p&gt; (2007 est.)",
+"imports":
+{
+"2018": "$20.01 trillion",
+"2017": "$16.02 trillion",
+},
+"imports_commodities": "&lt;p&gt;the whole range of industrial and agricultural goods and services&lt;/p&gt; &lt;p&gt;&lt;strong&gt;top ten - share of world trade:&lt;/strong&gt; see listing for exports&lt;/p&gt;",
+"debt_external":
+{
+"31 December 2017": "$76.56 trillion",
+"31 December 2016": "$75.09 trillion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$33.6 trillion",
+"31 December 2016": "$31.62 trillion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$34.73 trillion",
+"31 December 2016": "$32.94 trillion",
+},
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "1.201 billion (2013)",
+"electrification_total_population": "83% (2013)",
+"electrification_urban_areas": "95% (2013)",
+"electrification_rural_areas": "70% (2013)",
+}, 
+"electricity_production": "23.65 trillion kWh (2015 est.)",
+"electricity_consumption": "21.78 trillion kWh (2015 est.)",
+"electricity_exports": "696.1 billion kWh (2016)",
+"electricity_imports": "721.9 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "6.386 billion kW (2015 est.)",
+"electricity_from_fossil_fuels": "63% of total installed capacity (2015 est.)",
+"electricity_from_nuclear_fuels": "6% of total installed capacity (2015 est.)",
+"electricity_from_hydroelectric_plants": "18% of total installed capacity (2015 est.)",
+"electricity_from_other_renewable_sources": "14% of total installed capacity (2015 est.)",
+"crude_oil_production": "80.77 million bbl/day (2016 est.)",
+"crude_oil_exports": "43.57 million bbl/day (2014 est.)",
+"crude_oil_imports": "44.58 million bbl/day (2014 est.)",
+"crude_oil_proved_reserves": "1.665 trillion bbl (1 January 2017 est.)",
+"refined_petroleum_products_production": "88.4 million bbl/day (2014 est.)",
+"refined_petroleum_products_consumption": "96.26 million bbl/day (2015 est.)",
+"refined_petroleum_products_exports": "29.66 million bbl/day (2014 est.)",
+"refined_petroleum_products_imports": "28.62 million bbl/day (2014 est.)",
+"natural_gas_production": "3.481 trillion cu m (2015 est.)",
+"natural_gas_consumption": "3.477 trillion cu m (2015 est.)",
+"natural_gas_exports": "1.156 trillion cu m (2013 est.)",
+"natural_gas_imports": "1.496 trillion cu m (2013 est.)",
+"natural_gas_proved_reserves": "196.1 trillion cu m (1 January 2016 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "33.62 billion Mt (2013 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": " 984,289,950",
+"subscriptions_per_100_inhabitants": " 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": " 7,806,142,681",
+"subscriptions_per_100_inhabitants": " 105 (2017 est.)",
+}, 
+"internet_users": 
+{
+"total": " 3,174,000,000 (2018 est.)",
+"percent_of_population": " 43%",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": " 1,002,793,951",
+"subscriptions_per_100_inhabitants": " 14 (2017)",
+}, 
+"communications_note": "&lt;p&gt;three major data centers - which provide colocation, telecommunications, cloud services, and content ecosystems - compete to be called the world&#39;s biggest in terms of physical space occupied:&lt;br /&gt;&lt;br /&gt;no. 1.&amp;nbsp;- a&amp;nbsp;data farm in Langfang, Hebei Province, China, identified as the Range International Information Group, claims to be the largest with 585,000 sq m (6.3 million sq ft),&lt;br /&gt;&lt;br /&gt;no. 2. - a data farm in Las Vegas, Nevada, USA, known as the Switch SuperNAP data center, comes in second with over 325,000 sq m (3.5 million sq ft); it intends to expand to over 1.615 million sq m (17.4 million sq ft) by 2020,&lt;br /&gt;&lt;br /&gt;no. 3. - a data farm in Ashburn, Virginia, USA, referred to as the DFT Data Center, is a transit point for 70% of the world&#39;s Internet traffic; it includes 150,000 sq m (1.6 million sq ft) spread out over six separate buildings&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "2.14% of GDP",
+"2017": "2.16% of GDP",
+"2016": "2.2% of GDP",
+"2015": "2.25% of GDP",
+"2014": "2.24% of GDP",
+},
+"maritime_threats": "&lt;p&gt;The International Maritime Bureau (IMB) reports that 2018 saw an increase in global pirate activities; in 2018, pirates attacked a total of&amp;nbsp;201 ships worldwide including boarding 143 ships, hijacking six ships, and firing on 18; this activity is an increase&amp;nbsp;from&amp;nbsp;180 incidents in 2017; in 2018, the number of hostages increased to 141, however, the number of seafarers kidnapped for ransom increased to 83 compared with 75 in 2017, with nearly all taken off West Africa&lt;/p&gt; &lt;p&gt;Operation Ocean Shield, the NATO naval task force established in 2009 to combat Somali piracy, concluded its operations in December 2016 as a result of the drop in reported incidents over the last few years; the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2020; naval units from Japan, India, and China also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa&lt;/p&gt; &lt;p&gt;The Horn of Africa continued to see pirate activities with three incidents in 2018, a slight decrease over 2017; the decrease in successful pirate attacks off the Horn of Africa since the peak in 2007 was due, in part, to anti-piracy operations by international naval forces, the hardening of vessels, and the increased use of armed security teams aboard merchant ships; despite these preventative measures, the assessed risk remains high&lt;/p&gt; &lt;p&gt;West African piracy more than doubled in 2018 to become the most dangerous area in the world with 85 attacks in 2018 compared to 33 in 2017; Nigerian pirates are very aggressive, operating as far as 200 nm offshore and boarding 29 ships in 2018; attacks in South Asian waters remain at low levels with 12 attacks off Bangladesh in 2018, up from&amp;nbsp;11 in 2017; Peru reported four incidents in 2018, up from two in 2017; attacks in Vietnam rose from two in 2017 to four in 2018; the majority of global attacks against shipping have occurred in the offshore waters of five countries - Nigeria, Indonesia, Philippines, Venezuela, and Bangladesh.&lt;/p&gt; (2018)",
+}, 
+"transportation": 
+{
+"airports": "41,820 (2016)",
+"heliports": "6,524 (2013)",
+"railways": "1,148,186 km (2013)",
+"roadways": "64,285,009 km (2013)",
+"waterways": "2,293,412 km (2017)",
+"merchant_marine": 
+{
+"total": "92,647",
+"by_type": "bulk carrier 11,115, container ship 5,145, general cargo 19,128, oil tanker 10,252, other 47,007 (2018)",
+}, 
+"ports_and_terminals": "&lt;p&gt;&lt;strong&gt;top twenty container ports as measured by Twenty-Foot Equivalent Units (TEUs) throughput:&lt;/strong&gt; Shanghai (China) - 40,233,000; Singapore (Singapore) - 33,666,000; Shenzhen (China) - 25,208,000; Ningbo (China) - 24,607,000; Hong Kong (China) - 20,770,000; Busan (South Korea) - 20,493,000; Guangzhou (China) - 18,858,000; Qingdao (China) - 18,262,000; Dubai (UAE) - 15,368,000; - Tianjin (China) - 15,040,000; Rotterdam (Netherlands) - 13,734,000; Port Kelang (Malaysia) - 11,978,000; Antwerp (Belgium) - 10,450,000; Xiamen (China) - 10,380,000; Kaohsiung (Taiwan) - 10,271,000; Dalian (China) - 9,707,000; Los Angeles (US) - 9,343,000; Hamburg (Germany) - 8,860,000; Tanjung Pelepas (Malaysia) - 8,260,000; Laem Chabang (Thailand) -&amp;nbsp;7,227,000 (2017)&lt;br /&gt;&lt;strong&gt;note&lt;/strong&gt; - it was estimated that in 2017 60% of global sea-borne trade by value moved by container&lt;/p&gt;", 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;stretching over 250,000 km, the world&#39;s 325 international land boundaries separate 195 independent states and 71 dependencies, areas of special sovereignty, and other miscellaneous entities; ethnicity, culture, race, religion, and language have divided states into separate political entities as much as history, physical terrain, political fiat, or conquest, resulting in sometimes arbitrary and imposed boundaries; most maritime states have claimed limits that include territorial seas and exclusive economic zones; overlapping limits due to adjacent or opposite coasts create the potential for 430 bilateral maritime boundaries of which 209 have agreements that include contiguous and non-contiguous segments; boundary, borderland/resource, and territorial disputes vary in intensity from managed or dormant to violent or militarized; undemarcated, indefinite, porous, and unmanaged boundaries tend to encourage illegal cross-border activities, uncontrolled migration, and confrontation; territorial disputes may evolve from historical and/or cultural claims, or they may be brought on by resource competition; ethnic and cultural clashes continue to be responsible for much of the territorial fragmentation and internal displacement of the estimated 20.8 million people and cross-border displacements of approximately 12.1 million refugees and asylum seekers around the world as of mid-2013; over half a million refugees were repatriated during 2012; other sources of contention include access to water and mineral (especially hydrocarbon) resources, fisheries, and arable land; armed conflict prevails not so much between the uniformed armed forces of independent states as between stateless armed entities that detract from the sustenance and welfare of local populations, leaving the community of nations to cope with resultant refugees, hunger, disease, impoverishment, and environmental degradation&lt;/p&gt;", 
+"refugees_and_internally_displaced_persons": "&lt;p&gt;the UN High Commissioner for Refugees (UNHCR) estimated that as of year-end 2018 there were 70.8 million people forcibly displaced worldwide; this includes 25.9 million refugees, 3.5 million asylum seekers, and 41.4 million conflict IDPs; the UNHCR estimates there are currently at least 10 million stateless persons&lt;/p&gt;", 
+"trafficking_in_persons": 
+{
+"current_situation": "the International Labour Organization conservatively estimated that 20.9 million people in 2012 were victims of forced labor, representing the full range of human trafficking (also referred to as &#39;modern-day slavery&#39;) for labor and sexual exploitation; about one-third of reported cases involved crossing international borders, which is often associated with sexual exploitation; trafficking in persons is most prevalent in southeastern Europe, Eurasia, and Africa and least frequent in EU member states, Canada, the US, and other developed countries (2012)",
+"tier_rating": "&lt;strong&gt;&amp;nbsp;&lt;/strong&gt; (2015)",
+}, 
+"illicit_drugs": "&lt;p&gt;&lt;strong&gt;cocaine:&lt;/strong&gt; worldwide coca leaf cultivation in 2013 likely amounted to 165,000 hectares, assuming a stable crop in Bolivia; Colombia produced slightly less than half of the worldwide crop, followed by Peru and Bolivia; potential pure cocaine production increased 7% to 640 metric tons in 2013; Colombia conducts an aggressive coca eradication campaign, Peru has increased its eradication efforts, but remains hesitant to eradicate coca in key growing areas;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;opiates:&lt;/strong&gt; worldwide illicit opium poppy cultivation increased in 2013, with potential opium production reaching 6,800 metric tons; Afghanistan is world&#39;s primary opium producer, accounting for 82% of the global supply; Southeast Asia was responsible for 12% of global opium; Pakistan produced 3% of global opium; Latin America produced 4% of global opium, and most was refined into heroin destined for the US market&lt;/p&gt; (2015)",
+}
+}

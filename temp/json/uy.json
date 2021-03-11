@@ -1,0 +1,547 @@
+{
+"name": "Uruguay",
+"code": "UY",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Montevideo, founded by the Spanish in 1726 as a military stronghold, soon took advantage of its natural harbor to become an important commercial center. Claimed by Argentina but annexed by Brazil in 1821, Uruguay declared its independence four years later and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century launched widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros, launched in the late 1960s, led Uruguay&#39;s president to cede control of the government to the military in 1973. By yearend, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was restored in 1985. In 2004, the left-of-center Frente Amplio Coalition won national elections that effectively ended 170 years of political control previously held by the Colorado and National (Blanco) parties. Uruguay&#39;s political and labor conditions are among the freest on the continent.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southern South America, bordering the South Atlantic Ocean, between Argentina and Brazil",
+"geographic_coordinates": "33 00 S, 56 00 W",
+"map_references": "South America",
+"area": 
+{
+"total": "176,215 sq km",
+"land": "175,015 sq km",
+"water": "1,200 sq km",
+}, 
+"area_comparative": "about the size of Virginia and West Virginia combined; slightly smaller than the state of Washington",
+"land_boundaries": 
+{
+"total": "1,591 km",
+"border_countries": "Argentina 541 km, Brazil 1050 km",
+}, 
+"coastline": "660 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": " 200 nm or the edge of continental margin",
+}, 
+"climate": "warm temperate; freezing temperatures almost unknown",
+"terrain": "mostly rolling plains and low hills; fertile coastal lowland",
+"elevation": 
+{
+"mean_elevation": "109 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Cerro Catedral 514 m",
+}, 
+"natural_resources": "arable land, hydropower, minor minerals, fish",
+"land_use": 
+{
+"agricultural_land": "87.2% (2011 est.)",
+"agricultural_land_arable_land": "10.1% (2011 est.)",
+"agricultural_land_permanent_crops": "0.2% (2011 est.)",
+"agricultural_land_permanent_pasture": "76.9% (2011 est.)",
+"forest": "10.2% (2011 est.)",
+"other": "2.6% (2011 est.)",
+}, 
+"irrigated_land": "2,380 sq km (2012)",
+"population_distribution": "most of the country&#39;s population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo",
+"natural_hazards": "seasonally high winds (the pampero is a chilly and occasional violent wind that blows north from the Argentine pampas), droughts, floods; because of the absence of mountains, which act as weather barriers, all locations are particularly vulnerable to rapid changes from weather fronts",
+"environment_current_issues": "water pollution from meat packing/tannery industry; heavy metal pollution; inadequate solid/hazardous waste disposal; deforestation",
+"environment_international_agreements": 
+{
+"party_to": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "Marine Dumping, Marine Life Conservation",
+}, 
+"geography_note": "second-smallest South American country (after Suriname); most of the low-lying landscape (three-quarters of the country) is grassland, ideal for cattle and sheep raising",
+}, 
+"people_and_society": 
+{
+"population": "3,369,299 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Uruguayan(s)",
+"adjective": "Uruguayan",
+}, 
+"ethnic_groups": "white 87.7%, black 4.6%, indigenous 2.4%, other 0.3%, none or unspecified 5% (2011 est.)",
+"languages": "Spanish (official)",
+"religions": "Roman Catholic 47.1%, non-Catholic Christians 11.1%, nondenominational 23.2%, Jewish 0.3%, atheist or agnostic 17.2%, other 1.1% (2006 est.)",
+"demographic_profile": "&lt;p&gt;Uruguay rates high for most development indicators and is known for its secularism, liberal social laws, and well-developed social security, health, and educational systems. It is one of the few countries in Latin America and the Caribbean where the entire population has access to clean water. Uruguay&#39;s provision of free primary through university education has contributed to the country&#39;s high levels of literacy and educational attainment. However, the emigration of human capital has diminished the state&#39;s return on its investment in education. Remittances from the roughly 18% of Uruguayans abroad amount to less than 1 percent of national GDP. The emigration of young adults and a low birth rate are causing Uruguay&#39;s population to age rapidly.&lt;/p&gt;&lt;p&gt;In the 1960s, Uruguayans for the first time emigrated en masse - primarily to Argentina and Brazil - because of economic decline and the onset of more than a decade of military dictatorship. Economic crises in the early 1980s and 2002 also triggered waves of emigration, but since 2002 more than 70% of Uruguayan emigrants have selected the US and Spain as destinations because of better job prospects. Uruguay had a tiny population upon its independence in 1828 and welcomed thousands of predominantly Italian and Spanish immigrants, but the country has not experienced large influxes of new arrivals since the aftermath of World War II. More recent immigrants include Peruvians and Arabs.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "19.91% (male 341,402 /female 329,474)",
+"15_24_years": "15.56% (male 265,486 /female 258,611)",
+"25_54_years": "39.48% (male 658,871 /female 671,172)",
+"55_64_years": "10.68% (male 169,385 /female 190,392)",
+"65_years_and_over": "14.38% (male 194,269 /female 290,237) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "55.9 (2015 est.)",
+"youth_dependency_ratio": "33.4 (2015 est.)",
+"elderly_dependency_ratio": "22.5 (2015 est.)",
+"potential_support_ratio": "4.4 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "35.1 years (2018 est.)",
+"male": "33.3 years",
+"female": "36.9 years",
+}, 
+"population_growth_rate": "0.27% (2018 est.)",
+"birth_rate": "13 births/1,000 population (2018 est.)",
+"death_rate": "9.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-0.9 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most of the country&#39;s population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo",
+"urbanization": 
+{
+"urban_population": "95.4% of total population (2019)",
+"rate_of_urbanization": "0.46% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.745 million MONTEVIDEO (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.04 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.03 male(s)/female",
+"25_54_years": "0.98 male(s)/female",
+"55_64_years": "0.89 male(s)/female",
+"65_years_and_over": "0.67 male(s)/female",
+"total_population": "0.94 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "17 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "8.1 deaths/1,000 live births (2018 est.)",
+"male": "9 deaths/1,000 live births",
+"female": "7.2 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "77.6 years (2018 est.)",
+"male": "74.4 years",
+"female": "80.8 years",
+}, 
+"total_fertility_rate": "1.79 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "79.6% (2015)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "93.9% of population",
+"improved_total": "99.7% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "6.1% of population",
+"unimproved_total": "0.3% of population (2015 est.)",
+}, 
+"current_health_expenditure": "9.1% (2016)",
+"physicians_density": "5.05 physicians/1,000 population (2017)",
+"hospital_bed_density": "2.8 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "96.6% of population (2015 est.)",
+"improved_rural": "92.6% of population (2015 est.)",
+"improved_total": "96.4% of population (2015 est.)",
+"unimproved_urban": "3.4% of population (2015 est.)",
+"unimproved_rural": "7.4% of population (2015 est.)",
+"unimproved_total": "3.6% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.6% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "14,000 (2018 est.)",
+"hiv_aids_deaths": " &lt;200 (2018 est.)",
+"obesity_adult_prevalence_rate": "27.9% (2016)",
+"children_under_the_age_of_5_years_underweight": "4% (2011)",
+"education_expenditures": "4.9% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "98.6%",
+"male": "98.2%",
+"female": "99% (2017)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": "16 years",
+"unemployment_youth_ages_15_24": 
+{
+"total": "24.8%",
+"male": "20.7%",
+"female": "30.4% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Oriental Republic of Uruguay",
+"conventional_short_form": "Uruguay",
+"local_long_form": "Republica Oriental del Uruguay",
+"local_short_form": "Uruguay",
+"former": "Banda Oriental, Cisplatine Province",
+"etymology": "name derives from the Spanish pronunciation of the Guarani Indian designation of the Uruguay River, which makes up the western border of the country and whose name later came to be applied to the entire country",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Montevideo",
+"geographic_coordinates": "34 51 S, 56 10 W",
+"time_difference": "UTC-3 (2 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "19 departments (departamentos, singular - departamento); Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado, Montevideo, Paysandu, Rio Negro, Rivera, Rocha, Salto, San Jose, Soriano, Tacuarembo, Treinta y Tres",
+"independence": "25 August 1825 (from Brazil)",
+"national_holiday": "Independence Day, 25 August (1825)",
+"constitution": 
+{
+"history": "several previous; latest approved by plebiscite 27 November 1966, effective 15 February 1967",
+"amendments": "initiated by public petition of at least 10% of qualified voters, proposed by agreement of at least two fifths of the General Assembly membership, or by existing &quot;constitutional laws&quot; sanctioned by at least two thirds of the membership in both houses of the Assembly; proposals can also be submitted by senators, representatives, or by the executive power and require the formation of and approval in a national constituent convention; final passage by either method requires approval by absolute majority of votes cast in a referendum; amended many times, last in 2004 (2018)",
+}, 
+"legal_system": "civil law system based on the Spanish civil code",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "yes",
+"citizenship_by_descent_only": "yes",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "3-5 years",
+}, 
+"suffrage": "18 years of age; universal and compulsory",
+"executive_branch": 
+{
+"chief_of_state": "President Tabare VAZQUEZ (since 1 March 2015); Vice President Lucia TOPOLANSKY (since 13 September 2017); note - Vice President Raul Fernando SENDIC Rodriguez (since 1 March 2015) stepped down on 9 September 2017 amid accusations of misuse of public funds; the president is both chief of state and head of government",
+"head_of_government": "President Tabare VAZQUEZ (since 1 March 2015); Vice President Lucia TOPOLANSKY (since 13 September 2017)",
+"cabinet": "Council of Ministers appointed by the president with approval of the General Assembly",
+"elections_appointments": "president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 27 October 2019 with a runoff election on 24 November 2019 (next to be held in October 2024, and a runoff if needed in November 2024)",
+"election_results": "Luis Alberto LACALLE POU elected president - results of the first round of presidential elections: percent of vote - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (Blanco) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, and Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; results of the second round: percent of vote - Luis Alberto LACALLE POU (Blanco) 50.6%, Daniel MARTINEZ (FA) 49.4%,&amp;nbsp; note - LACALLE POU will take office 1 March 2020",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral General Assembly or Asamblea General consists of:&lt;br /&gt;Chamber of Senators or Camara de Senadores (31 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)&lt;br /&gt; Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)",
+"elections": "&lt;br /&gt;Chamber of Senators - last held on 26 October 2014 (next to be held in October 2019) &lt;br /&gt;Chamber of Representatives - last held on 26 October 2014 (next to be held on 27 October 2019)",
+"election_results": "&lt;br /&gt;Chamber of Senators - percent of vote by coalition/party - Frente Amplio 49.5%, National Party 31.9%, Colorado Party 13.3%, Independent Party 3.2%, other 2.1%; seats by coalition/party - Frente Amplio 15, National Party 10, Colorado Party 4, Independent Party 1; composition -men 22, women 9, percent of women 29%&lt;br /&gt;&lt;br /&gt; Chamber of Representatives - percent of vote by coalition/party - Frente Amplio 49.5%, National Party 31.9%, Colorado Party 13.3%, Independent Party 3.2%, AP 1.2%, other 0.9%; seats by coalition/party - Frente Amplio 50, National Party 32, Colorado Party 13, Independent Party 3, AP 1; composition - men 83, women 16, percent of women 16.2%; note - total General Assembly percent of women 19.2%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Justice (consists of 5 judges)",
+"judge_selection_and_term_of_office": "judges nominated by the president and appointed in joint conference of the General Assembly; judges serve 10-year terms, with reelection possible after a lapse of 5 years following the previous term",
+"subordinate_courts": "Courts of Appeal; District Courts (Juzgados Letrados); Peace Courts (Juzgados de Paz); Rural Courts (Juzgados Rurales)",
+}, 
+"political_parties_and_leaders": "Broad Front or FA (Frente Amplio) [Javier MIRANDA] - (a broad governing coalition that includes Uruguay Assembly [Danilo ASTORI], Progressive Alliance [Rodolfo NIN NOVOA], New Space [Rafael MICHELINI], Socialist Party [Monica XAVIER], Vertiente Artiguista [Enrique RUBIO], Christian Democratic Party [Jorge RODRIGUEZ], For the People&amp;rsquo;s Victory [Luis PUIG], Popular Participation Movement (MPP) [Jose MUJICA], Broad Front Commitment [Raul SENDIC], Big House [Constanza MOREIRA], Communist Party [Marcos CARAMBULA], The Federal League [Dario PEREZ]&lt;br /&gt;Colorado Party (including Vamos Uruguay (or Let&#39;s Go Uruguay), Open Space [Tabare VIERA], and Open Batllism [Ope PASQUET])&lt;br /&gt;Independent Party [Pablo MIERES]&lt;br /&gt;National Party or Blanco (including Everyone [Luis LACALLE POU] and National Alliance [Jorge LARRANAGA])&lt;br /&gt;Popular Unity [Gonzalo ABELLA]&lt;br /&gt;Open Cabildo [Guido MANINI RIOS]",
+"international_organization_participation": "CAN (associate), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAES, LAIA, Mercosur, MIGA, MINUSTAH, MONUSCO, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Carlos Alberto GIANELLI Derois (since 3 August 2015)",
+"chancery": "1913 I Street NW, Washington, DC 20006",
+"telephone": "[1] (202) 331-1313",
+"fax": "[1] (202) 331-8142",
+"consulate_s_general": "Chicago, Los Angeles, Miami, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant); Charge d&#39;Affaires Jennifer SAVAGE (since 6 August 2019)",
+"telephone": "[598] (2) 1770-2000",
+"embassy": "Lauro Muller 1776, Montevideo 11200",
+"mailing_address": "APO AA 34035",
+"fax": "[598] (2) 1770-2128",
+}, 
+"flag_description": "nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner with a yellow sun bearing a human face (delineated in black) known as the Sun of May with 16 rays that alternate between triangular and wavy; the stripes represent the nine original departments of Uruguay; the sun symbol evokes the legend of the sun breaking through the clouds on 25 May 1810 as independence was first declared from Spain (Uruguay subsequently won its independence from Brazil); the sun features are said to represent those of Inti, the Inca god of the sun",
+"national_symbol_s": "Sun of May (a sun-with-face symbol); national colors: blue, white, yellow",
+"national_anthem": 
+{
+"name": "&quot;Himno Nacional&quot; (National Anthem of Uruguay)",
+"lyrics_music": "Francisco Esteban ACUNA de Figueroa/Francisco Jose DEBALI",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Uruguay has a free market economy characterized by an export-oriented agricultural sector, a well-educated workforce, and high levels of social spending. Uruguay has sought to expand trade within the Common Market of the South (Mercosur) and with non-Mercosur members, and President VAZQUEZ has maintained his predecessor&#39;s mix of pro-market policies and a strong social safety net.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt; Following financial difficulties in the late 1990s and early 2000s, Uruguay&#39;s economic growth averaged 8% annually during the 2004-08 period. The 2008-09 global financial crisis put a brake on Uruguay&#39;s vigorous growth, which decelerated to 2.6% in 2009. Nevertheless, the country avoided a recession and kept growth rates positive, mainly through higher public expenditure and investment; GDP growth reached 8.9% in 2010 but slowed markedly in the 2012-16 period as a result of a renewed slowdown in the global economy and in Uruguay&#39;s main trade partners and Mercosur counterparts, Argentina and Brazil. Reforms in those countries should give Uruguay an economic boost. Growth picked up in 2017.",
+"gdp_purchasing_power_parity":
+{
+"2017": "$78.16 billion",
+"2016": "$76.14 billion",
+"2015": "$74.87 billion",
+},
+"gdp_official_exchange_rate": "$59.18 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "2.7%",
+"2016": "1.7%",
+"2015": "0.4%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$22,400",
+"2016": "$21,900",
+"2015": "$21,600",
+},
+"gross_national_saving":
+{
+"2017": "17.2% of GDP",
+"2016": "18.6% of GDP",
+"2015": "18.7% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "66.8% (2017 est.)",
+"government_consumption": "14.3% (2017 est.)",
+"investment_in_fixed_capital": "16.7% (2017 est.)",
+"investment_in_inventories": "-1% (2017 est.)",
+"exports_of_goods_and_services": "21.6% (2017 est.)",
+"imports_of_goods_and_services": "-18.4% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "6.2% (2017 est.)",
+"industry": "24.1% (2017 est.)",
+"services": "69.7% (2017 est.)",
+}, 
+"agriculture_products": "Cellulose, beef, soybeans, rice, wheat; dairy products; fish; lumber, tobacco, wine",
+"industries": "food processing, electrical machinery, transportation equipment, petroleum products, textiles, chemicals, beverages",
+"industrial_production_growth_rate": "-3.6% (2017 est.)",
+"labor_force": "1.748 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "13%",
+"industry": "14%",
+"services": "73% (2010 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "7.6%",
+"2016": "7.9%",
+},
+"population_below_poverty_line": "9.7% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.9%",
+"highest_10": "30.8% (2014 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2014": "41.6",
+"2013": "41.9",
+},
+"budget": 
+{
+"revenues": "17.66 billion (2017 est.)",
+"expenditures": "19.72 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "29.8% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3.5% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "65.7% of GDP",
+"2016": "61.6% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "6.2%",
+"2016": "9.6%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2012": "9%",
+"31 December 2011": "8.75%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "13.83%",
+"31 December 2016": "16.17%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$5.068 billion",
+"31 December 2016": "$4.516 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$5.068 billion",
+"31 December 2016": "$4.516 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$20.84 billion",
+"31 December 2016": "$19.03 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2012": "$175.4 million",
+"31 December 2011": "$174.6 million",
+"31 December 2010": "$156.9 million",
+},
+"current_account_balance":
+{
+"2017": "$879 million",
+"2016": "$410 million",
+},
+"exports":
+{
+"2017": "$11.41 billion",
+"2016": "$8.387 billion",
+},
+"exports_partners": "China 19%, Brazil 16.1%, US 5.7%, Argentina 5.4% (2017)",
+"exports_commodities": "beef, soybeans, cellulose, rice, wheat, wood, dairy products, wool",
+"imports":
+{
+"2017": "$8.607 billion",
+"2016": "$8.463 billion",
+},
+"imports_commodities": "refined oil, crude oil, passenger and other transportation vehicles, vehicle parts, cellular phones",
+"imports_partners": "China 20%, Brazil 19.5%, Argentina 12.6%, US 10.9% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$15.96 billion",
+"31 December 2016": "$13.47 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$28.37 billion",
+"31 December 2016": "$27.9 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$44.84 billion",
+"31 December 2016": "$22.81 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$19.97 billion",
+"31 December 2016": "$136.1 million",
+},
+"exchange_rates": 
+{
+"currency": "Uruguayan pesos (UYU) per US dollar -",
+"exchange_rates":
+{
+"2017": "28.77",
+"2016": "30.16",
+"2015": "30.16",
+"2014": "27.52",
+"2013": "23.25",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "13.13 billion kWh (2016 est.)",
+"electricity_consumption": "10.77 billion kWh (2016 est.)",
+"electricity_exports": "1.321 billion kWh (2015 est.)",
+"electricity_imports": "24 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "4.808 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "29% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "29% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "42% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "40,200 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "42,220 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "53,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "9,591 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "70.79 million cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "70.79 million cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "7.554 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,136,977",
+"subscriptions_per_100_inhabitants": "34 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "5,097,569",
+"subscriptions_per_100_inhabitants": "152 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "fully digitalized; one of the highest broadband penetrations in Latin America; high fixed-line and mobile penetrations as well;&amp;nbsp;FttP coverage by 2022; nationwide 3G coverage (2018)",
+"domestic": "most modern facilities concentrated in Montevideo; nationwide microwave radio relay network; overall fixed-line 34 per 100 and mobile-cellular teledensity&amp;nbsp;152 per&amp;nbsp;100 persons (2018)",
+"international": "country code - 598; the UNISOR submarine cable system provides direct connectivity to Brazil and Argentina; satellite earth stations - 2 Intelsat (Atlantic Ocean); Bicentenario 2012 and Tannat&amp;nbsp;2017 cables helped end-users with Internet bandwidth",
+}, 
+"broadcast_media": "mixture of privately owned and state-run broadcast media; more than 100 commercial radio stations and about 20 TV channels; cable TV is available; many community radio and TV stations; adopted the hybrid Japanese/Brazilian HDTV standard (ISDB-T) in December 2010 (2019)",
+"internet_country_code": ".uy",
+"internet_users": 
+{
+"total": "2,225,075",
+"percent_of_population": "66.4% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "949,974",
+"subscriptions_per_100_inhabitants": "28 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.95% of GDP",
+"2017": "1.98% of GDP",
+"2016": "1.88% of GDP",
+"2015": "1.82% of GDP",
+"2014": "1.81% of GDP",
+},
+"military_and_security_forces": "Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Maritime National Prefecture (Coast Guard)), Uruguayan Air Force (Fuerza Aerea) (2019)",
+"military_service_age_and_obligation": "18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2013)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "2 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "3 (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "CX (2016)",
+"airports": "133 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "11 (2013)",
+"over_3_047_m": "1 (2013)",
+"1_524_to_2_437_m": "4 (2013)",
+"914_to_1_523_m": "4 (2013)",
+"under_914_m": "2 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "122 (2013)",
+"1_524_to_2_437_m": "3 (2013)",
+"914_to_1_523_m": "40 (2013)",
+"under_914_m": "79 (2013)",
+}, 
+"pipelines": "257 km gas, 160 km oil (2013)",
+"railways": 
+{
+"total": "1,673 km (operational; government claims overall length is 2,961 km) (2016)",
+"standard_gauge": "1,673 km 1.435-m gauge (2016)",
+}, 
+"roadways": 
+{
+"total": "77,732 km (2010)",
+"paved": "7,743 km (2010)",
+"unpaved": "69,989 km (2010)",
+}, 
+"waterways": "1,600 km (2011)",
+"merchant_marine": 
+{
+"total": "57",
+"by_type": "container ship 1, general cargo 6, oil tanker 3, other 47 (2018)",
+}, 
+"ports_and_terminals": "Montevideo",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;in 2010, the ICJ ruled in favor of Uruguay&#39;s operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "13,694 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2019)",
+"illicit_drugs": "small-scale transit country for drugs mainly bound for Europe, often through sea-borne containers; law enforcement corruption; money laundering because of strict banking secrecy laws; weak border control along Brazilian frontier; increasing consumption of cocaine base and synthetic drugs",
+}
+}

@@ -1,0 +1,522 @@
+{
+"name": "Central African Republic",
+"code": "CT",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "The former French colony of Ubangi-Shari became the Central African Republic upon independence in 1960. After three tumultuous decades of misrule - mostly by military governments - civilian rule was established in 1993 but lasted only a decade. In March 2003, President Ange-Felix PATASSE was deposed in a military coup led by General Francois BOZIZE, who established a transitional government. Elections held in 2005 affirmed General BOZIZE as president; he was reelected in 2011 in voting widely viewed as flawed. The government still lacks full control of the countryside, where lawlessness persists. Several rebel groups joined together in early December 2012 to launch a series of attacks that left them in control of numerous towns in the northern and central parts of the country. The rebels - unhappy with BOZIZE&#39;s government - participated in peace talks in early January 2013 which resulted in a coalition government including the rebellion&#39;s leadership. In March 2013, the coalition government dissolved, rebels seized the capital, and President BOZIZE fled the country. Rebel leader Michel DJOTODIA assumed the presidency and the following month established a National Transitional Council (CNT). In January 2014, the CNT elected Catherine SAMBA-PANZA as interim president. Elections completed in March 2016 installed independent candidate Faustin-Archange TOUADERA as president; he continues to work towards peace between the government and armed groups, and is developing a disarmament, demobilization, reintegration, and repatriation program to reintegrate the armed groups into society.",
+}, 
+"geography": 
+{
+"location": "Central Africa, north of Democratic Republic of the Congo",
+"geographic_coordinates": "7 00 N, 21 00 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "622,984 sq km",
+"land": "622,984 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly smaller than Texas; about four times the size of Georgia",
+"land_boundaries": 
+{
+"total": "5,920 km",
+"border_countries": "Cameroon 901 km, Chad 1556 km, Democratic Republic of the Congo 1747 km, Republic of the Congo 487 km, South Sudan 1055 km, Sudan 174 km",
+}, 
+"coastline": "0 km (landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "tropical; hot, dry winters; mild to hot, wet summers",
+"terrain": "vast, flat to rolling plateau; scattered hills in northeast and southwest",
+"elevation": 
+{
+"mean_elevation": "635 m",
+"lowest_point": "Oubangui River 335 m",
+"highest_point": "Mont Ngaoui 1,410 m",
+}, 
+"natural_resources": "diamonds, uranium, timber, gold, oil, hydropower",
+"land_use": 
+{
+"agricultural_land": "8.1% (2011 est.)",
+"agricultural_land_arable_land": "2.9% (2011 est.)",
+"agricultural_land_permanent_crops": "0.1% (2011 est.)",
+"agricultural_land_permanent_pasture": "5.1% (2011 est.)",
+"forest": "36.2% (2011 est.)",
+"other": "55.7% (2011 est.)",
+}, 
+"irrigated_land": "10 sq km (2012)",
+"population_distribution": "majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui",
+"natural_hazards": "hot, dry, dusty harmattan winds affect northern areas; floods are common",
+"environment_current_issues": "water pollution; tap water is not potable; poaching and mismanagement have diminished the country&#39;s reputation as one of the last great wildlife refuges; desertification; deforestation; soil erosion",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Tropical Timber 94, Wetlands",
+"signed_but_not_ratified": "Law of the Sea",
+}, 
+"geography_note": "landlocked; almost the precise center of Africa",
+}, 
+"people_and_society": 
+{
+"population": "5,745,062 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Central African(s)",
+"adjective": "Central African",
+}, 
+"ethnic_groups": "Baya 33%, Banda 27%, Mandjia 13%, Sara 10%, Mboum 7%, M&#39;Baka 4%, Yakoma 4%, other 2%",
+"languages": "French (official), Sangho (lingua franca and national language), tribal languages",
+"religions": "indigenous beliefs 35%, Protestant 25%, Roman Catholic 25%, Muslim 15% (2018)",
+"demographic_profile": "&lt;p&gt;The Central African Republic’s (CAR) humanitarian crisis has worsened since a coup in March 2013. CAR’s high mortality rate and low life expectancy are attributed to elevated rates of preventable and treatable diseases (including malaria and malnutrition), an inadequate health care system, precarious food security, and armed conflict. Some of the worst mortality rates are in western CAR’s diamond mining region, which is impoverished because of government attempts to control the diamond trade and the fall in industrial diamond prices. To make matters worse, the government and international donors have reduced health funding in recent years. The CAR’s weak educational system and low literacy rate have also suffered as a result of the country’s ongoing conflict. Schools are closed, qualified teachers are scarce, infrastructure, funding, and supplies are lacking and subject to looting, and many students and teachers are displaced by violence.&lt;/p&gt;&lt;p&gt;Rampant poverty, human rights violations, unemployment, poor infrastructure, and a lack of security and stability have led to forced displacement internally and externally. Since the political crisis that resulted in CAR’s March 2013 coup began in December 2012, approximately 370,000 people have fled to Chad, the Democratic Republic of the Congo (DRC), and other neighboring countries, while more than an estimated 600,000 are displaced internally as of October 2017. The UN has urged countries to refrain from repatriating CAR refugees amid the heightened lawlessness.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "39.89% (male 1,151,724 /female 1,140,083)",
+"15_24_years": "19.91% (male 574,969 /female 568,942)",
+"25_54_years": "32.64% (male 938,365 /female 936,948)",
+"55_64_years": "4.17% (male 112,310 /female 127,045)",
+"65_years_and_over": "3.39% (male 75,401 /female 119,275) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "90 (2015 est.)",
+"youth_dependency_ratio": "83.1 (2015 est.)",
+"elderly_dependency_ratio": "7 (2015 est.)",
+"potential_support_ratio": "14.4 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "19.8 years (2018 est.)",
+"male": "19.5 years",
+"female": "20.1 years",
+}, 
+"population_growth_rate": "2.11% (2018 est.)",
+"birth_rate": "34 births/1,000 population (2018 est.)",
+"death_rate": "12.9 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui",
+"urbanization": 
+{
+"urban_population": "41.8% of total population (2019)",
+"rate_of_urbanization": "2.52% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "870,000 BANGUI (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1.01 male(s)/female",
+"15_24_years": "1.01 male(s)/female",
+"25_54_years": "1 male(s)/female",
+"55_64_years": "0.88 male(s)/female",
+"65_years_and_over": "0.63 male(s)/female",
+"total_population": "0.99 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "829 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "84.3 deaths/1,000 live births (2018 est.)",
+"male": "91.6 deaths/1,000 live births",
+"female": "76.7 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "53.3 years (2018 est.)",
+"male": "51.9 years",
+"female": "54.7 years",
+}, 
+"total_fertility_rate": "4.25 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "15.2% (2010/11)",
+"drinking_water_source": 
+{
+"improved_urban": "89.6% of population",
+"improved_rural": "54.4% of population",
+"improved_total": "68.5% of population",
+"unimproved_urban": "10.4% of population",
+"unimproved_rural": "45.6% of population",
+"unimproved_total": "31.5% of population (2015 est.)",
+}, 
+"current_health_expenditure": "4.3% (2016)",
+"physicians_density": "0.06 physicians/1,000 population (2015)",
+"hospital_bed_density": "1 beds/1,000 population (2011)",
+"sanitation_facility_access": 
+{
+"improved_urban": "43.6% of population (2015 est.)",
+"improved_rural": "7.2% of population (2015 est.)",
+"improved_total": "21.8% of population (2015 est.)",
+"unimproved_urban": "56.4% of population (2015 est.)",
+"unimproved_rural": "92.8% of population (2015 est.)",
+"unimproved_total": "78.2% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "3.6% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "110,000 (2018 est.)",
+"hiv_aids_deaths": "4,800 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2019)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever (2019)",
+"vectorborne_diseases": "malaria and dengue fever (2019)",
+"water_contact_diseases": "schistosomiasis (2019)",
+"animal_contact_diseases": "rabies (2019)",
+"respiratory_diseases": "meningococcal meningitis (2019)",
+}, 
+"obesity_adult_prevalence_rate": "7.5% (2016)",
+"children_under_the_age_of_5_years_underweight": "24.6% (2012)",
+"education_expenditures": "1.2% of GDP (2011)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "36.8%",
+"male": "50.7%",
+"female": "24.4% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "7 years",
+"male": "8 years",
+"female": "6 years (2012)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Central African Republic",
+"conventional_short_form": "none",
+"local_long_form": "Republique Centrafricaine",
+"local_short_form": "none",
+"former": "Ubangi-Shari, Central African Empire",
+"abbreviation": "CAR",
+"etymology": "self-descriptive name specifying the country&#39;s location on the continent; &quot;Africa&quot; is derived from the Roman designation of the area corresponding to present-day Tunisia &quot;Africa terra,&quot; which meant &quot;Land of the Afri&quot; (the tribe resident in that area), but which eventually came to mean the entire continent",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Bangui",
+"geographic_coordinates": "4 22 N, 18 35 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "14 prefectures (prefectures, singular - prefecture), 2 economic prefectures* (prefectures economiques, singular - prefecture economique), and 1 commune**; Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou, Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga",
+"independence": "13 August 1960 (from France)",
+"national_holiday": "Republic Day, 1 December (1958)",
+"constitution": 
+{
+"history": "several previous; latest (interim constitution) approved by the Transitional Council 30 August 2015, adopted by referendum 13-14 December 2015, ratified 27 March 2016",
+"amendments": "proposals require support of the government, two thirds of the National Council of Transition, and assent by the &quot;Mediator of the Central African&quot; crisis; passage requires at least three-fourths majority vote by the National Council membership; non-amendable constitutional provisions include those on the secular and republican form of government, fundamental rights and freedoms, amendment procedures, or changes to the authorities of various high-level executive, parliamentary, and judicial officials (2017)",
+}, 
+"legal_system": "civil law system based on the French model",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "least one parent must be a citizen of the Central African Republic",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "35 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Faustin-Archange TOUADERA (since 30 March 2016)",
+"head_of_government": "Prime Minister Firmin NGREBADA (since 25 February 2019)",
+"cabinet": "Council of Ministers appointed by the president",
+"elections_appointments": "under the 2015 constitution, the president is elected by universal direct suffrage for a period of 5 years (eligible for a second term); election last held 30 December 2015 with a runoff 20 February 2016 (next to be held in 2020)",
+"election_results": "Faustin-Archange TOUADERA elected president in the second round; percent of vote in first round - Anicet-Georges DOLOGUELE (URCA) 23.7%, Faustin-Archange TOUADERA (independent) 19.1%, Desire KOLINGBA (RDC) 12.%, Martin ZIGUELE (MLPC) 11.4%, other 33.8%; percent of vote in second round - Faustin-Archange TOUADERA 62.7%, Anicet-Georges DOLOGUELE 37.3%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)",
+"elections": "last held 30 December 2015 (results annulled), 14 February 2016 - first round and 31 March 2016 - second round (next to be held in 2021)",
+"election_results": "percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition - men 129, women 11, percent of women 7.9%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)",
+"judge_selection_and_term_of_office": "Supreme Court judges appointed by the president; Constitutional Court judge appointments - 2 by the president, 1 by the speaker of the National Assembly, 2 elected by their peers, 2 are advocates elected by their peers, and 2 are law professors elected by their peers; judges serve 7-year non-renewable terms",
+"subordinate_courts": "high courts; magistrates&#39; courts",
+}, 
+"political_parties_and_leaders": "Action Party for Development or PAD [El Hadj Laurent NGON-BABA]&lt;br /&gt;Alliance for Democracy and Progress or ADP [Clement BELIBANGA]&lt;br /&gt;Central African Democratic Rally or RDC [Desire Nzanga KOLINGBA]&lt;br /&gt;Movement for Democracy and Development or MDD [Louis PAPENIAH]&lt;br /&gt;Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]&lt;br /&gt;National Convergence (also known as Kwa Na Kwa) or KNK [Francois BOZIZE]&lt;br /&gt;National Union for Democracy and Progress or UNDP [Amine MICHEL]&lt;br /&gt;New Alliance for Progress or NAP [Jean-Jacques DEMAFOUTH]&lt;br /&gt;Social Democratic Party or PSD [Enoch LAKOUE]&lt;br /&gt;Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]",
+"international_organization_participation": "ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Martial NDOUBOU (since 17 September 2018)",
+"chancery": "2704 Ontario Road NW, Washington, DC 20009",
+"telephone": "[1] (202) 483-7800",
+"fax": "[1] (202) 332-9893",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Lucy TAMLYN (since 6 February 2019)",
+"telephone": "[236] 21 61 0200",
+"embassy": "Avenue David Dacko, Bangui",
+"mailing_address": "P.O. Box 924, Bangui",
+"fax": "[236] 21 61 4494",
+}, 
+"flag_description": "four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band; banner combines the Pan-African and French flag colors; red symbolizes the blood spilled in the struggle for independence, blue represents the sky and freedom, white peace and dignity, green hope and faith, and yellow tolerance; the star represents aspiration towards a vibrant future",
+"national_symbol_s": "elephant; national colors: blue, white, green, yellow, red",
+"national_anthem": 
+{
+"name": "&quot;Le Renaissance&quot; (The Renaissance)",
+"lyrics_music": "Barthelemy BOGANDA/Herbert PEPPER",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Subsistence agriculture, together with forestry and mining, remains the backbone of the economy of the Central African Republic (CAR), with about 60% of the population living in outlying areas. The agricultural sector generates more than half of estimated GDP, although statistics are unreliable in the conflict-prone country. Timber and diamonds account for most export earnings, followed by cotton. Important constraints to economic development include the CAR&#39;s landlocked geography, poor transportation system, largely unskilled work force, and legacy of misdirected macroeconomic policies. Factional fighting between the government and its opponents remains a drag on economic revitalization. Distribution of income is highly unequal and grants from the international community can only partially meet humanitarian needs. CAR shares a common currency with the Central African Monetary Union. The currency is pegged to the Euro.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Since 2009, the IMF has worked closely with the government to institute reforms that have resulted in some improvement in budget transparency, but other problems remain. The government&#39;s additional spending in the run-up to the 2011 election worsened CAR&#39;s fiscal situation. In 2012, the World Bank approved $125 million in funding for transport infrastructure and regional trade, focused on the route between CAR&#39;s capital and the port of Douala in Cameroon. In July 2016, the IMF approved a three-year extended credit facility valued at $116 million; in mid-2017, the IMF completed a review of CAR’s fiscal performance and broadly approved of the government’s management, although issues with revenue collection, weak government capacity, and transparency remain. The World Bank in late 2016 approved a $20 million grant to restore basic fiscal management, improve transparency, and assist with economic recovery.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Participation in the Kimberley Process, a commitment to remove conflict diamonds from the global supply chain, led to a partially lifted the ban on diamond exports from CAR in 2015, but persistent insecurity is likely to constrain real GDP growth.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$3.39 billion",
+"2016": "$3.249 billion",
+"2015": "$3.108 billion",
+},
+"gdp_official_exchange_rate": "$1.937 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.3%",
+"2016": "4.5%",
+"2015": "4.8%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$700",
+"2016": "$700",
+"2015": "$600",
+},
+"gross_national_saving":
+{
+"2017": "5.4% of GDP",
+"2016": "8.2% of GDP",
+"2015": "4.2% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "95.3% (2017 est.)",
+"government_consumption": "8.5% (2017 est.)",
+"investment_in_fixed_capital": "13.7% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "12% (2017 est.)",
+"imports_of_goods_and_services": "-29.5% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "43.2% (2017 est.)",
+"industry": "16% (2017 est.)",
+"services": "40.8% (2017 est.)",
+}, 
+"agriculture_products": "cotton, coffee, tobacco, cassava (manioc, tapioca), yams, millet, corn, bananas; timber",
+"industries": "gold and diamond mining, logging, brewing, sugar refining",
+"industrial_production_growth_rate": "3.9% (2017 est.)",
+"labor_force": "2.242 million (2017 est.)",
+"unemployment_rate":
+{
+"2017": "6.9%",
+},
+"population_below_poverty_line": "62% NA (2008 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.1%",
+"highest_10": "33% (2003)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2003": "43.6",
+"1993": "61.3",
+},
+"budget": 
+{
+"revenues": "282.9 million (2017 est.)",
+"expenditures": "300.1 million (2017 est.)",
+}, 
+"taxes_and_other_revenues": "14.6% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-0.9% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "52.9% of GDP",
+"2016": "56% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "4.1%",
+"2016": "4.6%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2009": "4.25%",
+"31 December 2008": "4.75%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "15.5%",
+"31 December 2016": "15.5%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$428.9 million",
+"31 December 2016": "$341.5 million",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$428.9 million",
+"31 December 2016": "$341.5 million",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$547 million",
+"31 December 2016": "$452.7 million",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$163 million",
+"2016": "-$97 million",
+},
+"exports":
+{
+"2017": "$113.7 million",
+"2016": "$101.5 million",
+},
+"exports_partners": "France 31.2%, Burundi 16.2%, China 12.5%, Cameroon 9.6%, Austria 7.8% (2017)",
+"exports_commodities": "diamonds, timber, cotton, coffee",
+"imports":
+{
+"2017": "$393.1 million",
+"2016": "$342.2 million",
+},
+"imports_commodities": "food, textiles, petroleum products, machinery, electrical equipment, motor vehicles, chemicals, pharmaceuticals",
+"imports_partners": "France 17.1%, US 12.3%, India 11.5%, China 8.2%, South Africa 7.4%, Japan 5.8%, Italy 5.1%, Cameroon 4.9%, Netherlands 4.6% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$304.3 million",
+"31 December 2016": "$252.5 million",
+},
+"debt_external":
+{
+"31 December 2017": "$779.9 million",
+"31 December 2016": "$691.5 million",
+},
+"exchange_rates": 
+{
+"currency": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -",
+"exchange_rates":
+{
+"2017": "605.3",
+"2016": "593.01",
+"2015": "593.01",
+"2014": "591.45",
+"2013": "494.42",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "5 million (2017)",
+"electrification_total_population": "14% (2016)",
+"electrification_urban_areas": "34.1% (2016)",
+"electrification_rural_areas": "0.4% (2016)",
+}, 
+"electricity_production": "171.4 million kWh (2016 est.)",
+"electricity_consumption": "159.4 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "38,300 kW (2016 est.)",
+"electricity_from_fossil_fuels": "50% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "50% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "1% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "2,800 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "2,799 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "413,800 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,964",
+"subscriptions_per_100_inhabitants": " less than 1 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "1,248,346",
+"subscriptions_per_100_inhabitants": "22 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "network consists principally of microwave radio relay and at low-capacity; ongoing conflict has&amp;nbsp;obstructed&amp;nbsp;telecommunication and media development,&amp;nbsp;although there are&amp;nbsp;ISP (Internet service providers) and mobile phone carriers,&amp;nbsp;radio is the most-popular communications medium (2018)",
+"domestic": "very limited telephone service with less than 1 fixed-line connection per 100 persons; with the presence of multiple providers&amp;nbsp;mobile-cellular service&amp;nbsp;has reached&amp;nbsp;22 per 100 mobile-cellular subscribers; cellular usage is increasing from a low base; most fixed-line and mobile-cellular telephone services are concentrated in Bangui (2018)",
+"international": "country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean)",
+}, 
+"broadcast_media": "government-owned network, Radiodiffusion Television Centrafricaine, provides limited domestic TV broadcasting; state-owned radio network is supplemented by a small number of privately owned broadcast stations as well as a few community radio stations; transmissions of at least 2 international broadcasters are available (2017)",
+"internet_country_code": ".cf",
+"internet_users": 
+{
+"total": "246,000",
+"percent_of_population": "4.6% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.41% of GDP",
+"2017": "1.44% of GDP",
+"2016": "1.53% of GDP",
+"2015": "1.69% of GDP",
+"2014": "2.56% of GDP",
+},
+"military_and_security_forces": "Central African Armed Forces (Forces Armees Centrafricaines, FACA): Ground Forces (includes Military Air Service), General Directorate of Gendarmerie Inspection (DGIG), National Police (2019)",
+"military_service_age_and_obligation": "18 years of age for military service; no conscription (2019)",
+"military_note": "the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country&amp;rsquo;s fragile transitional government; as of September 2019, MINUSCA had nearly 14,000 total personnel, including about 10,800 troops; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "2 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "2 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "46,364 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "TL (2016)",
+"airports": "39 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2019)",
+"2_438_to_3_047_m": "1",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "37 (2013)",
+"2_438_to_3_047_m": "1 (2013)",
+"1_524_to_2_437_m": "11 (2013)",
+"914_to_1_523_m": "19 (2013)",
+"under_914_m": "6 (2013)",
+}, 
+"roadways": 
+{
+"total": "24,000 km (2018)",
+"paved": "700 km (2018)",
+"unpaved": "23,300 km (2018)",
+}, 
+"waterways": "2,800 km (the primary navigable river is the Ubangi, which joins the River Congo; it was the traditional route for the export of products because it connected with the Congo-Ocean railway at Brazzaville; because of the warfare on both sides of the River Congo from 1997, importers and exporters preferred routes through Cameroon) (2011)",
+"ports_and_terminals": "Bangui (Oubangui)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;periodic skirmishes persist over water and grazing rights among related pastoral populations along the border with southern Sudan&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "600,136 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2019)",
+"trafficking_in_persons": 
+{
+"current_situation": "Central African Republic (CAR) is a source, transit, and destination country for children subjected to forced labor and sex trafficking, women subjected to forced prostitution, and adults subjected to forced labor; most victims appear to be CAR citizens exploited within the country, with a smaller number transported back and forth between the CAR and nearby countries; armed groups operating in the CAR, including those aligned with the former SELEKA Government and the Lord’s Resistance Army, continue to recruit and re-recruit children for military activities and labor; children are also subject to domestic servitude, commercial sexual exploitation, and forced labor in agriculture, mines, shops, and street vending; women and girls are subject to domestic servitude, sexual slavery, commercial sexual exploitation, and forced marriage",
+"tier_rating": "Tier 3 – the Central African Republic does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government conducted a limited number of investigations and prosecutions of cases of suspected human trafficking in 2014 but did not identify, provide protection to, or refer to care providers any trafficking victims; the government did not directly provide reintegration programs for demobilized child soldiers, leaving victims vulnerable to further exploitation or retrafficking by armed groups, including those affiliated with the government; in 2014, an NGO and the government began drafting a national action plan against trafficking but no efforts were reported to establish a policy against child soldiering or to raise awareness about existing laws prohibiting the use of children in the armed forces (2015)",
+}, 
+}
+}

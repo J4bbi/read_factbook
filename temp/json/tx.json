@@ -1,0 +1,526 @@
+{
+"name": "Turkmenistan",
+"code": "TX",
+"publish_date": "December 31, 2019",
+"introduction": 
+{
+"background": "Present-day Turkmenistan covers territory that has been at the crossroads of civilizations for centuries. The area was ruled in antiquity by various Persian empires, and was conquered by Alexander the Great, Muslim armies, the Mongols, Turkic warriors, and eventually the Russians. In medieval times, Merv (located in present-day Mary province) was one of the great cities of the Islamic world and an important stop on the Silk Road. Annexed by Russia in the late 1800s, Turkmenistan later figured prominently in the anti-Bolshevik movement in Central Asia. In 1924, Turkmenistan became a Soviet republic; it achieved independence upon the dissolution of the USSR in 1991. President for Life Saparmyrat NYYAZOW died in December 2006, and Gurbanguly BERDIMUHAMEDOW, a deputy chairman under NYYAZOW, emerged as the country&#39;s new president.&amp;nbsp;BERDIMUHAMEDOW won Turkmenistan&#39;s first multi-candidate presidential election in February 2007, and again in 2012 and in 2017 with over 97% of the vote in both instances, in elections widely regarded as undemocratic.&lt;br /&gt;&lt;br /&gt;Turkmenistan has sought new export markets for its extensive hydrocarbon/natural gas reserves, which have yet to be fully exploited. As of late 2019, Turkmenistan exported the majority of its gas to China and small levels of gas were also being sent to Russia. Turkmenistan&#39;s reliance on gas exports has made the economy vulnerable to fluctuations in the global energy market, and economic hardships since the drop in energy prices in 2014 have led many Turkmenistanis to emigrate, mostly to Turkey.",
+}, 
+"geography": 
+{
+"location": "Central Asia, bordering the Caspian Sea, between Iran and Kazakhstan",
+"geographic_coordinates": "40 00 N, 60 00 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "488,100 sq km",
+"land": "469,930 sq km",
+"water": "18,170 sq km",
+}, 
+"area_comparative": "slightly more than three times the size of Georgia; slightly larger than California",
+"land_boundaries": 
+{
+"total": "4,158 km",
+"border_countries": "Afghanistan 804 km, Iran 1148 km, Kazakhstan 413 km, Uzbekistan 1793 km",
+}, 
+"coastline": "0 km (landlocked); note - Turkmenistan borders the Caspian Sea (1,768 km)",
+"maritime_claims": "none (landlocked)", 
+"climate": "subtropical desert",
+"terrain": "flat-to-rolling sandy desert with dunes rising to mountains in the south; low mountains along border with Iran; borders Caspian Sea in west",
+"elevation": 
+{
+"mean_elevation": "230 m",
+"lowest_point": "Vpadina Akchanaya (Sarygamysh Koli is a lake in northern Turkmenistan with a water level that fluctuates above and below the elevation of Vpadina Akchanaya, the lake has dropped as low as -110 m) -81 m",
+"highest_point": "Gora Ayribaba 3,139 m",
+}, 
+"natural_resources": "petroleum, natural gas, sulfur, salt",
+"land_use": 
+{
+"agricultural_land": "72% (2011 est.)",
+"agricultural_land_arable_land": "4.1% (2011 est.)",
+"agricultural_land_permanent_crops": "0.1% (2011 est.)",
+"agricultural_land_permanent_pasture": "67.8% (2011 est.)",
+"forest": "8.8% (2011 est.)",
+"other": "19.2% (2011 est.)",
+}, 
+"irrigated_land": "19,950 sq km (2012)",
+"population_distribution": "the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat",
+"natural_hazards": "earthquakes; mudslides; droughts; dust storms; floods",
+"environment_current_issues": "contamination of soil and groundwater with agricultural chemicals, pesticides; salination, water logging of soil due to poor irrigation methods; Caspian Sea pollution; diversion of a large share of the flow of the Amu Darya into irrigation contributes to that river&#39;s inability to replenish the Aral Sea; soil erosion; desertification",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Ozone Layer Protection",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "landlocked; the western and central low-lying desolate portions of the country make up the great Garagum (Kara-Kum) desert, which occupies over 80% of the country; eastern part is plateau",
+}, 
+"people_and_society": 
+{
+"population": "5,411,012 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Turkmenistani(s)",
+"adjective": "Turkmenistani",
+}, 
+"ethnic_groups": "Turkmen 85%, Uzbek 5%, Russian 4%, other 6% (2003)",
+"languages": "Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%",
+"religions": "Muslim 89%, Eastern Orthodox 9%, unknown 2%",
+"age_structure": 
+{
+"0_14_years": "25.66% (male 704,067 /female 684,581)",
+"15_24_years": "17.71% (male 482,094 /female 476,080)",
+"25_54_years": "43.52% (male 1,169,965 /female 1,185,159)",
+"55_64_years": "8.17% (male 208,328 /female 233,902)",
+"65_years_and_over": "4.93% (male 116,218 /female 150,618) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "52.7 (2015 est.)",
+"youth_dependency_ratio": "46.5 (2015 est.)",
+"elderly_dependency_ratio": "6.2 (2015 est.)",
+"potential_support_ratio": "16.1 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "28.3 years (2018 est.)",
+"male": "27.8 years",
+"female": "28.8 years",
+}, 
+"population_growth_rate": "1.1% (2018 est.)",
+"birth_rate": "18.9 births/1,000 population (2018 est.)",
+"death_rate": "6.1 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-1.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat",
+"urbanization": 
+{
+"urban_population": "52% of total population (2019)",
+"rate_of_urbanization": "2.46% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "828,000 ASHGABAT (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.03 male(s)/female",
+"15_24_years": "1.01 male(s)/female",
+"25_54_years": "0.99 male(s)/female",
+"55_64_years": "0.89 male(s)/female",
+"65_years_and_over": "0.77 male(s)/female",
+"total_population": "0.98 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "7 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "33.1 deaths/1,000 live births (2018 est.)",
+"male": "39.8 deaths/1,000 live births",
+"female": "26 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "70.7 years (2018 est.)",
+"male": "67.6 years",
+"female": "73.9 years",
+}, 
+"total_fertility_rate": "2.06 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "50.2% (2015/16)",
+"drinking_water_source": 
+{
+"improved_urban": "89.1% of population",
+"improved_rural": "53.7% of population",
+"improved_total": "71.1% of population",
+"unimproved_urban": "10.9% of population",
+"unimproved_rural": "46.3% of population",
+"unimproved_total": "28.9% of population (2012 est.)",
+}, 
+"current_health_expenditure": "6.6% (2016)",
+"physicians_density": "2.22 physicians/1,000 population (2014)",
+"hospital_bed_density": "7.4 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "100% of population (2012 est.)",
+"improved_rural": "98.2% of population (2012 est.)",
+"improved_total": "99.1% of population (2012 est.)",
+"unimproved_urban": "0% of population (2012 est.)",
+"unimproved_rural": "1.8% of population (2012 est.)",
+"unimproved_total": "0.9% of population (2012 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "18.6% (2016)",
+"children_under_the_age_of_5_years_underweight": "3.2% (2015)",
+"education_expenditures": "3.1% of GDP (2012)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.7%",
+"male": "99.8%",
+"female": "99.6% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "11 years",
+"male": "11 years",
+"female": "11 years (2014)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Turkmenistan",
+"local_long_form": "none",
+"local_short_form": "Turkmenistan",
+"former": "Turkmen Soviet Socialist Republic",
+"etymology": "the suffix &quot;-stan&quot; means &quot;place of&quot; or &quot;country,&quot; so Turkmenistan literally means the &quot;Land of the Turkmen [people]&quot;",
+}, 
+"government_type": "presidential republic; authoritarian",
+"capital": 
+{
+"name": "Ashgabat (Ashkhabad)",
+"geographic_coordinates": "37 57 N, 58 23 E",
+"time_difference": "UTC+5 (10 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "5 provinces (welayatlar, singular - welayat) and 1 independent city*: Ahal Welayaty (Anew), Ashgabat*, Balkan Welayaty (Balkanabat), Dasoguz Welayaty, Lebap Welayaty (Turkmenabat), Mary Welayaty",
+"independence": "27 October 1991 (from the Soviet Union)",
+"national_holiday": "Independence Day, 27 October (1991)",
+"constitution": 
+{
+"history": "several previous; latest adopted 14 September 2016",
+"amendments": "proposed by the National Assembly; passage requires two-thirds majority vote of the total Assembly membership or absolute majority approval in a referendum; amended 2017 (2019)",
+}, 
+"legal_system": "civil law system with Islamic (sharia) law influences",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Turkmenistan",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "7 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007); note - the president is both chief of state and head of government",
+"head_of_government": "President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007)",
+"cabinet": "Cabinet of Ministers appointed by the president",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 February 2017 (next to be held in February 2024)",
+"election_results": "Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Mejlis (125 seats; members directly elected from single-seat constituencies by absolute majority vote; members serve 5-year terms)",
+"elections": "last held on 25 March 2018, although interim elections are held on an ad hoc basis to fill vacant sets",
+"election_results": "percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition - men 94, women 31, percent of women 24.8%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)",
+"judge_selection_and_term_of_office": "judges appointed by the president for 5-year terms",
+"subordinate_courts": "High Commercial Court; appellate courts; provincial, district, and city courts; military courts",
+}, 
+"political_parties_and_leaders": "Agrarian Party of Turkmenistan or APT [Basim ANNAGURBANOW]&lt;br /&gt;Democratic Party of Turkmenistan or DPT [Ata SERDAROW]&lt;br /&gt;Party of Industrialists and Entrepreneurs or PIE [Saparmyrat OWGANOW]",
+"international_organization_participation": "ADB, CIS (associate member, has not ratified the 1993 CIS charter although it participates in meetings and held the chairmanship of the CIS in 2012), EAPC, EBRD, ECO, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Meret ORAZOW (since 14 February 2001)",
+"chancery": "2207 Massachusetts Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 588-1500",
+"fax": "[1] (202) 588-0697",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Matthew S. KLIMOW (since 26 June 2019)",
+"telephone": "[993] (12) 94-00-45",
+"embassy": "No. 9 1984 Street (formerly Pushkin Street), Ashgabat, Turkmenistan 744000",
+"mailing_address": "7070 Ashgabat Place, Washington, DC 20521-7070",
+"fax": "[993] (12) 94-26-14",
+}, 
+"flag_description": "green field with a vertical red stripe near the hoist side, containing five tribal guls (designs used in producing carpets) stacked above two crossed olive branches; five white, five-pointed stars and a white crescent moon appear in the upper corner of the field just to the fly side of the red stripe; the green color and crescent moon represent Islam; the five stars symbolize the regions or welayats of Turkmenistan; the guls reflect the national identity of Turkmenistan where carpet-making has long been a part of traditional nomadic life",
+"national_symbol_s": "Akhal-Teke horse; national colors: green, white",
+"national_anthem": 
+{
+"name": "&quot;Garassyz, Bitarap Turkmenistanyn&quot; (Independent, Neutral, Turkmenistan State Anthem)",
+"lyrics_music": "collective/Veli MUKHATOV",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Turkmenistan is largely a desert country with intensive agriculture in irrigated oases and significant natural gas and oil resources. The two largest crops are cotton, most of which is produced for export, and wheat, which is domestically consumed. Although agriculture accounts for almost 8% of GDP, it continues to employ nearly half of the country&#39;s workforce. Hydrocarbon exports, the bulk of which is natural gas going to China, make up 25% of Turkmenistan&amp;rsquo;s GDP. Ashgabat has explored two initiatives to bring gas to new markets: a trans-Caspian pipeline that would carry gas to Europe and the Turkmenistan-Afghanistan-Pakistan-India gas pipeline. Both face major financing, political, and security hurdles and are unlikely to be completed soon.&lt;/p&gt; &lt;p&gt;Turkmenistan&amp;rsquo;s autocratic governments under presidents NIYAZOW (1991-2006) and BERDIMUHAMEDOW (since 2007) have made little progress improving the business climate, privatizing state-owned industries, combatting corruption, and limiting economic development outside the energy sector. High energy prices in the mid-2000s allowed the government to undertake extensive development and social spending, including providing heavy utility subsidies.&lt;/p&gt; &lt;p&gt;Low energy prices since mid-2014 are hampering Turkmenistan&amp;rsquo;s economic growth and reducing government revenues. The government has cut subsidies in several areas, and wage arrears have increased. In January 2014, the Central Bank of Turkmenistan devalued the manat by 19%, and downward pressure on the currency continues. There is a widening spread between the official exchange rate (3.5 TMM per US dollar) and the black market exchange rate (approximately 14 TMM per US dollar). Currency depreciation and conversion restrictions, corruption, isolationist policies, and declining spending on public services have resulted in a stagnate economy that is nearing crisis. Turkmenistan claims substantial foreign currency reserves, but non-transparent data limit international institutions&amp;rsquo; ability to verify this information.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$103.7 billion",
+"2016": "$97.41 billion",
+"2015": "$91.72 billion",
+},
+"gdp_official_exchange_rate": "$37.93 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "6.5%",
+"2016": "6.2%",
+"2015": "6.5%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$18,200",
+"2016": "$17,300",
+"2015": "$16,500",
+},
+"gross_national_saving":
+{
+"2017": "23.9% of GDP",
+"2016": "24.3% of GDP",
+"2015": "18.9% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "50% (2017 est.)",
+"government_consumption": "10% (2017 est.)",
+"investment_in_fixed_capital": "28.2% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "26.2% (2017 est.)",
+"imports_of_goods_and_services": "-14.3% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "7.5% (2017 est.)",
+"industry": "44.9% (2017 est.)",
+"services": "47.7% (2017 est.)",
+}, 
+"agriculture_products": "cotton, grain, melons; livestock",
+"industries": "natural gas, oil, petroleum products, textiles, food processing",
+"industrial_production_growth_rate": "1% (2017 est.)",
+"labor_force": "2.305 million (2013 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "48.2%",
+"industry": "14%",
+"services": "37.8% (2004 est.)",
+}, 
+"unemployment_rate":
+{
+"2014": "11%",
+"2013": "10.6%",
+},
+"population_below_poverty_line": "0.2% (2012 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.6%",
+"highest_10": "31.7% (1998)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"1998": "40.8",
+},
+"budget": 
+{
+"revenues": "5.657 billion (2017 est.)",
+"expenditures": "6.714 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "14.9% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-2.8% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "28.8% of GDP",
+"2016": "24.1% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "8%",
+"2016": "3.6%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2014": "5%",
+"31 December 2013": "5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "19%",
+"31 December 2016": "16%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2015": "$1.326 billion",
+"31 December 2014": "$1.255 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2015": "$12.23 billion",
+"31 December 2014": "$5.632 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2015": "$28.4 billion",
+"31 December 2014": "$13.09 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$4.359 billion",
+"2016": "-$7.207 billion",
+},
+"exports":
+{
+"2017": "$7.458 billion",
+"2016": "$6.987 billion",
+},
+"exports_partners": "China 83.7%, Turkey 5.1% (2017)",
+"exports_commodities": "gas, crude oil, petrochemicals, textiles, cotton fiber",
+"imports":
+{
+"2017": "$4.571 billion",
+"2016": "$5.215 billion",
+},
+"imports_commodities": "machinery and equipment, chemicals, foodstuffs",
+"imports_partners": "Turkey 24.2%, Algeria 14.4%, Germany 9.8%, China 8.9%, Russia 8%, US 6.6% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$24.91 billion",
+"31 December 2016": "$25.05 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$539.4 million",
+"31 December 2016": "$425.3 million",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"2013": "$3.061 billion",
+"2012": "$3.117 billion",
+},
+"exchange_rates": 
+{
+"currency": "Turkmenistani manat (TMM) per US dollar -",
+"exchange_rates":
+{
+"2017": "4.125",
+"2016": "3.5",
+"2015": "3.5",
+"2014": "3.5",
+"2013": "2.85",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "21.18 billion kWh (2016 est.)",
+"electricity_consumption": "15.09 billion kWh (2016 est.)",
+"electricity_exports": "3.201 billion kWh (2015 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "4.001 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "100% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "244,000 bbl/day (2018 est.)",
+"crude_oil_exports": "67,790 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "600 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "191,100 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "160,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "53,780 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "0 bbl/day (2015 est.)",
+"natural_gas_production": "77.45 billion cu m (2017 est.)",
+"natural_gas_consumption": "39.31 billion cu m (2017 est.)",
+"natural_gas_exports": "38.14 billion cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "7.504 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "100.5 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "5.315 million",
+"subscriptions_per_100_inhabitants": "132 (January 2019 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "8.575 million",
+"subscriptions_per_100_inhabitants": "160 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "telecommunications network is gradually improving&amp;nbsp;for the former Soviet republic; state control over most economic activities has not helped growth; mobile market will see slow growth; some rural areas&amp;nbsp;are still without telephones; mobile broadband is in the early stages of development (2018)",
+"domestic": "Turkmentelekom, in cooperation with foreign partners, has installed high-speed fiber-optic lines and has upgraded most of the country&#39;s telephone exchanges and switching centers with new digital technology; fixed-line&amp;nbsp;13 per 100 and mobile-cellular teledensity is about 160 per 100 persons; Russia&#39;s Mobile TeleSystems (MTS), the only foreign mobile-cellular service provider in Turkmenistan, suspended operations in September 2017 due to the state-owned telecom company cutting MTS&#39; access to international and long-distance communication services and Internet; Turkmenistan&#39;s first telecommunication satellite was launched in 2015 and is expected to greatly improve connectivity in the country (2018)",
+"international": "country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018)",
+}, 
+"broadcast_media": "broadcast media is government controlled and censored; 7 state-owned TV and 4 state-owned radio networks; satellite dishes and programming provide an alternative to the state-run media; officials sometimes limit access to satellite TV by removing satellite dishes",
+"internet_country_code": ".tm",
+"internet_users": 
+{
+"total": "951,925 (2019 est.)",
+"percent_of_population": "24% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "4,000",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "Armed Forces of Turkmenistan: National Army, Navy, Air and Air Defense Forces (2019)",
+"military_service_age_and_obligation": "18-27 years of age for compulsory male military service; 2-year conscript service obligation; 20 years of age for voluntary service; males may enroll in military schools from age 15 (2013)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "23 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "2,138,389 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "EZ (2016)",
+"airports": "26 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "21 (2013)",
+"over_3_047_m": "1 (2013)",
+"2_438_to_3_047_m": "9 (2013)",
+"1_524_to_2_437_m": "9 (2013)",
+"914_to_1_523_m": "2 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "5 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"under_914_m": "4 (2013)",
+}, 
+"heliports": "1 (2013)",
+"pipelines": "7500 km gas, 1501 km oil (2013)",
+"railways": 
+{
+"total": "5,113 km (2017)",
+"broad_gauge": "5,113 km 1.520-m gauge (2017)",
+}, 
+"roadways": 
+{
+"total": "58,592 km (2002)",
+"paved": "47,577 km (2002)",
+"unpaved": "11,015 km (2002)",
+}, 
+"waterways": "1,300 km (Amu Darya River and Kara Kum Canal are important inland waterways) (2011)",
+"merchant_marine": 
+{
+"total": "72",
+"by_type": "general cargo 9, oil tanker 8, other 55 (2018)",
+}, 
+"ports_and_terminals": "Caspian Sea - Turkmenbasy",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;cotton monoculture in Uzbekistan and Turkmenistan creates water-sharing difficulties for Amu Darya river states; field demarcation of the boundaries with Kazakhstan commenced in 2005; bilateral talks continue with Azerbaijan on dividing the seabed and contested oilfields in the middle of the Caspian&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "4,714 (2018)",
+"trafficking_in_persons": 
+{
+"current_situation": "Turkmenistan is a source country for men, women, and children subjected to forced labor and sex trafficking; Turkmenistanis who migrate abroad are forced to work in the textile, agriculture, construction, and domestic service industries, while women and girls may also be sex trafficked; in 2014, men surpassed women as victims; Turkey and Russia are primary trafficking destinations, followed by the Middle East, South and Central Asia, and other parts of Europe; Turkmenistanis also experience forced labor domestically in the informal construction industry; participation in the cotton harvest is still mandatory for some public sector employees",
+"tier_rating": "Tier 2 Watch List &amp;ndash; Turkmenistan does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Turkmenistan was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government made some progress in its law enforcement efforts in 2014, convicting more offenders than in 2013; authorities did not make adequate efforts to identify and protect victims and did not fund international organizations or NGOs that offered protective services; some victims were punished for crimes as a result of being trafficked (2015)",
+}, 
+"illicit_drugs": "transit country for Afghan narcotics bound for Russian and Western European markets; transit point for heroin precursor chemicals bound for Afghanistan",
+}
+}

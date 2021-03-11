@@ -1,0 +1,558 @@
+{
+"name": "Kazakhstan",
+"code": "KZ",
+"publish_date": "December 19, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Ethnic Kazakhs, a mix of Turkic and Mongol nomadic tribes with additional Persian cultural influences, migrated to the region in the 15th century. The area was conquered by Russia in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Repression and starvation associated with forced agricultural collectivization led to a massive number of deaths in the 1930s. During the 1950s and 1960s, the agricultural &quot;Virgin Lands&quot; program led to an influx of settlers (mostly ethnic Russians, but also other nationalities) and at the time of Kazakhstan&amp;rsquo;s independence in 1991, ethnic Kazakhs were a minority. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) back to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two-thirds.&lt;br /&gt;&lt;br /&gt;Kazakhstan&#39;s economy is the largest in the Central Asian states, mainly due to the country&#39;s vast natural resources. Current issues include: diversifying the economy, obtaining membership in global and regional international economic institutions, enhancing Kazakhstan&#39;s economic competitiveness, and strengthening relations with neighboring states and foreign powers.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Central Asia, northwest of China; a small portion west of the Ural (Zhayyq) River in easternmost Europe",
+"geographic_coordinates": "48 00 N, 68 00 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "2,724,900 sq km",
+"land": "2,699,700 sq km",
+"water": "25,200 sq km",
+}, 
+"area_comparative": "slightly less than four times the size of Texas",
+"land_boundaries": 
+{
+"total": "13,364 km",
+"border_countries": "China 1765 km, Kyrgyzstan 1212 km, Russia 7644 km, Turkmenistan 413 km, Uzbekistan 2330 km",
+}, 
+"coastline": "0 km (landlocked); note - Kazakhstan borders the Aral Sea, now split into two bodies of water (1,070 km), and the Caspian Sea (1,894 km)",
+"maritime_claims": "none (landlocked)", 
+"climate": "continental, cold winters and hot summers, arid and semiarid",
+"terrain": "vast flat steppe extending from the Volga in the west to the Altai Mountains in the east and from the plains of western Siberia in the north to oases and deserts of Central Asia in the south",
+"elevation": 
+{
+"mean_elevation": "387 m",
+"lowest_point": "Vpadina Kaundy -132 m",
+"highest_point": "Khan Tangiri Shyngy (Pik Khan-Tengri) 6,995 m",
+}, 
+"natural_resources": "major deposits of petroleum, natural gas, coal, iron ore, manganese, chrome ore, nickel, cobalt, copper, molybdenum, lead, zinc, bauxite, gold, uranium",
+"land_use": 
+{
+"agricultural_land": "77.4% (2011 est.)",
+"agricultural_land_arable_land": "8.9% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "68.5% (2011 est.)",
+"forest": "1.2% (2011 est.)",
+"other": "21.4% (2011 est.)",
+}, 
+"irrigated_land": "20,660 sq km (2012)",
+"population_distribution": "most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country",
+"natural_hazards": "earthquakes in the south; mudslides around Almaty",
+"environment_current_issues": "radioactive or toxic chemical sites associated with former defense industries and test ranges scattered throughout the country pose health risks for humans and animals; industrial pollution is severe in some cities; because the two main rivers that flowed into the Aral Sea have been diverted for irrigation, it is drying up and leaving behind a harmful layer of chemical pesticides and natural salts; these substances are then picked up by the wind and blown into noxious dust storms; pollution in the Caspian Sea; desertification; soil pollution from overuse of agricultural chemicals and salination from poor infrastructure and wasteful irrigation practices",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "Climate Change-Kyoto Protocol",
+}, 
+"geography_note": "world&#39;s largest landlocked country and one of only two landlocked countries in the world that extends into two continents (the other is Azerbaijan); Russia leases approximately 6,000 sq km of territory enclosing the Baykonur Cosmodrome; in January 2004, Kazakhstan and Russia extended the lease to 2050",
+}, 
+"people_and_society": 
+{
+"population": "18,744,548 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Kazakhstani(s)",
+"adjective": "Kazakhstani",
+}, 
+"ethnic_groups": "Kazakh (Qazaq) 68%, Russian 19.3%, Uzbek 3.2%, Ukrainian 1.5%, Uighur 1.5%, Tatar 1.1%, German 1%, other 4.4% (2019 est.)",
+"languages": "Kazakh (official, Qazaq) 83.1% (understand spoken language) and trilingual (Kazakh, Russian, English) 22.3% (2017 est.); Russian (official, used in everyday business, designated the &quot;language of interethnic communication&quot;) 94.4% (understand spoken language) (2009 est.)",
+"religions": "Muslim 70.2%, Christian 26.2% (mainly Russian Orthodox), other 0.2%, atheist 2.8%, unspecified 0.5% (2009 est.)",
+"age_structure": 
+{
+"0_14_years": "26.09% (male 2,406,397 /female 2,483,562)",
+"15_24_years": "13.55% (male 1,295,882 /female 1,244,540)",
+"25_54_years": "42.32% (male 3,884,454 /female 4,049,072)",
+"55_64_years": "10.14% (male 831,872 /female 1,068,651)",
+"65_years_and_over": "7.9% (male 517,471 /female 962,647) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "50.4 (2015 est.)",
+"youth_dependency_ratio": "40.3 (2015 est.)",
+"elderly_dependency_ratio": "10.2 (2015 est.)",
+"potential_support_ratio": "9.8 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "30.9 years (2018 est.)",
+"male": "29.7 years",
+"female": "32.2 years",
+}, 
+"population_growth_rate": "0.98% (2018 est.)",
+"birth_rate": "17.5 births/1,000 population (2018 est.)",
+"death_rate": "8.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0.4 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country",
+"urbanization": 
+{
+"urban_population": "57.5% of total population (2019)",
+"rate_of_urbanization": "1.29% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.863 million Almaty, 1.118 million NUR-SULTAN (capital), 1.021 million Shimkent (2019)",
+"sex_ratio": 
+{
+"at_birth": "0.94 male(s)/female",
+"0_14_years": "0.97 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "0.96 male(s)/female",
+"55_64_years": "0.78 male(s)/female",
+"65_years_and_over": "0.54 male(s)/female",
+"total_population": "0.91 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "25 years (2014 est.)",
+"maternal_mortality_rate": "10 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "19 deaths/1,000 live births (2018 est.)",
+"male": "21.6 deaths/1,000 live births",
+"female": "16.6 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "71.4 years (2018 est.)",
+"male": "66.2 years",
+"female": "76.3 years",
+}, 
+"total_fertility_rate": "2.22 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "54.8% (2018)",
+"drinking_water_source": 
+{
+"improved_urban": "99.4% of population",
+"improved_rural": "85.6% of population",
+"improved_total": "92.9% of population",
+"unimproved_urban": "0.6% of population",
+"unimproved_rural": "14.4% of population",
+"unimproved_total": "7.1% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.5% (2016)",
+"physicians_density": "3.25 physicians/1,000 population (2014)",
+"hospital_bed_density": "6.7 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "97% of population (2015 est.)",
+"improved_rural": "98.1% of population (2015 est.)",
+"improved_total": "97.5% of population (2015 est.)",
+"unimproved_urban": "3% of population (2015 est.)",
+"unimproved_rural": "1.9% of population (2015 est.)",
+"unimproved_total": "2.5% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.2% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "26,000 (2018 est.)",
+"hiv_aids_deaths": " &lt;500 (2018 est.)",
+"obesity_adult_prevalence_rate": "21% (2016)",
+"children_under_the_age_of_5_years_underweight": "2% (2015)",
+"education_expenditures": "2.8% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.8%",
+"male": "99.8%",
+"female": "99.8% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "15 years",
+"female": "16 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "3.9%",
+"male": "3.6%",
+"female": "4.3% (2013 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Kazakhstan",
+"conventional_short_form": "Kazakhstan",
+"local_long_form": "Qazaqstan Respublikasy",
+"local_short_form": "Qazaqstan",
+"former": "Kazakh Soviet Socialist Republic",
+"etymology": "the name &quot;Kazakh&quot; derives from the Turkic word &quot;kaz&quot; meaning &quot;to wander,&quot; recalling the Kazakh&#39;s nomadic lifestyle; the Persian suffix &quot;-stan&quot; means &quot;place of&quot; or &quot;country,&quot; so the word Kazakhstan literally means &quot;Land of the Wanderers&quot;",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Nur-Sultan",
+"geographic_coordinates": "51 10 N, 71 25 E",
+"time_difference": "UTC+6 (11 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "14 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Almaty (Taldyqorghan), Almaty*, Aqmola (Kokshetau), Aqtobe, Astana*, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Zhambyl (Taraz)",
+"independence": "16 December 1991 (from the Soviet Union)",
+"national_holiday": "Independence Day, 16 December (1991)",
+"constitution": 
+{
+"history": "previous 1937, 1978 (preindependence), 1993; latest approved by referendum 30 August 1995, effective 5 September 1995",
+"amendments": "introduced&amp;nbsp;by a referendum initiated by the president of the republic, on the recommendation of Parliament, or by the government; the president has the option of submitting draft amendments to Parliament or directly to a referendum; passage of amendments by Parliament requires four-fifths majority vote of both houses and the signature of the president; passage by referendum requires absolute majority vote by more than one half of the voters in at least two thirds of the oblasts, major cities, and the capital, followed by the signature of the president; amended several times, last in 2019 (2019)",
+}, 
+"legal_system": "civil law system influenced by Roman-Germanic law and by the theory and practice of the Russian Federation",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Kazakhstan",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet period), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of &quot;First President&quot;; TOKAYEV completed NAZARBAYEV&#39;s term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory",
+"head_of_government": "Prime Minister&amp;nbsp;Askar MAMIN (since 25 February 2019); First Deputy Prime Minister Alikhan SMAILOV (since 25 February 2019); Deputy Prime Ministers Berdibek SAPARBAYEV and Roman SKLYAR (since 18 September 2019)",
+"cabinet": "the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment",
+"elections_appointments": "president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis",
+"election_results": "Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament consists of:&lt;br /&gt;Senate (49 seats; 34 members indirectly elected by majority 2-round vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)&lt;br /&gt; Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 350-member, presidentially appointed advisory body designed to represent the country&#39;s ethnic minorities)",
+"elections": "&lt;br /&gt; Senate - last held on 28 June 2017 (next to be held in 2020)&lt;br /&gt; Mazhilis - last held on 20 March 2016 (next to be held by 2021)",
+"election_results": "&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt; Senate - percent of vote by party - NA; seats by party - NA; composition - men&amp;nbsp;42, women 5, percent of women 10.6%&lt;br /&gt; Mazhilis - percent of vote by party - Nur Otan 82.2%, Ak Zhol 7.2%, Communist People&#39;s Party 7.1%, other 3.5%; seats by party - Nur Otan 84, Ak Zhol 7, Communist People&#39;s Party 7; composition - men 78, women 29, percent of women 27.1%; note - total Parliament percent of women 22.1%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairman and 6 members)",
+"judge_selection_and_term_of_office": "Supreme Court judges proposed by the president of the republic on recommendation of the Supreme Judicial Council and confirmed by the Senate; judges normally serve until age 65 but can be extended to age 70; Constitutional Council - the president of the republic, the Senate chairperson, and the Mazhilis chairperson each appoints 2 members for a 6-year term; chairman of the Constitutional Council appointed by the president for a 6-year term",
+"subordinate_courts": "regional and local courts",
+}, 
+"political_parties_and_leaders": "Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV]&lt;br /&gt;Birlik (Unity) Party [Serik SULTANGALI]&lt;br /&gt;Communist People&#39;s Party of Kazakhstan [informal leader Aikyn KONUROV]&lt;br /&gt;National Social Democratic Party or NSDP [Zharmakhan TUYAKBAY]&lt;br /&gt;Nur Otan (Radiant Fatherland) Democratic People&#39;s Party [Nursultan NAZARBAYEV]&lt;br /&gt;People&#39;s Democratic (Patriotic) Party &quot;Auyl&quot; [Ali BEKTAYEV]&lt;br /&gt;Ult Tagdyry (Conscience of the Nation)",
+"international_organization_participation": "ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Yerzhan KAZYKHANOV (since 24 April 2017)",
+"chancery": "1401 16th Street NW, Washington, DC 20036",
+"telephone": "[1] (202) 232-5488",
+"fax": "[1] (202) 232-5845",
+"consulate_s_general": "New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador William MOSER (since 27 March 2019)",
+"telephone": "[7] (7172) 70-21-00",
+"embassy": "Rakhymzhan Koshkarbayev Ave. No 3, Astana 010010",
+"mailing_address": "use embassy street address",
+"fax": "[7] (7172) 54-09-14",
+"consulate_s_general": "Almaty",
+}, 
+"flag_description": "a gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky blue background; the hoist side displays a national ornamental pattern &quot;koshkar-muiz&quot; (the horns of the ram) in gold; the blue color is of religious significance to the Turkic peoples of the country, and so symbolizes cultural and ethnic unity; it also represents the endless sky as well as water; the sun, a source of life and energy, exemplifies wealth and plenitude; the sun&#39;s rays are shaped like grain, which is the basis of abundance and prosperity; the eagle has appeared on the flags of Kazakh tribes for centuries and represents freedom, power, and the flight to the future",
+"national_symbol_s": "golden eagle; national colors: blue, yellow",
+"national_anthem": 
+{
+"name": "&quot;Menin Qazaqstanim&quot; (My Kazakhstan)",
+"lyrics_music": "Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKOV",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Kazakhstan&#39;s vast hydrocarbon and mineral reserves form the backbone of its economy. Geographically the largest of the former Soviet republics, excluding Russia, Kazakhstan, g possesses substantial fossil fuel reserves and other minerals and metals, such as uranium, copper, and zinc. It also has a large agricultural sector featuring livestock and grain. The government realizes that its economy suffers from an overreliance on oil and extractive industries and has made initial attempts to diversify its economy by targeting sectors like transport, pharmaceuticals, telecommunications, petrochemicals and food processing for greater development and investment. It also adopted a Subsoil Code in December 2017 with the aim of increasing exploration and investment in the hydrocarbon, and particularly mining, sectors.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kazakhstan&#39;s oil production and potential is expanding rapidly. A $36.8 billion expansion of Kazakhstan’s premiere Tengiz oil field by Chevron-led Tengizchevroil should be complete in 2022. Meanwhile, the super-giant Kashagan field finally launched production in October 2016 after years of delay and an estimated $55 billion in development costs. Kazakhstan’s total oil production in 2017 climbed 10.5%.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kazakhstan is landlocked and depends on Russia to export its oil to Europe. It also exports oil directly to China. In 2010, Kazakhstan joined Russia and Belarus to establish a Customs Union in an effort to boost foreign investment and improve trade. The Customs Union evolved into a Single Economic Space in 2012 and the Eurasian Economic Union (EAEU) in January 2015. Supported by rising commodity prices, Kazakhstan’s exports to EAEU countries increased 30.2% in 2017. Imports from EAEU countries grew by 24.1%.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The economic downturn of its EAEU partner, Russia, and the decline in global commodity prices from 2014 to 2016 contributed to an economic slowdown in Kazakhstan. In 2014, Kazakhstan devalued its currency, the tenge, and announced a stimulus package to cope with its economic challenges. In the face of further decline in the ruble, oil prices, and the regional economy, Kazakhstan announced in 2015 it would replace its currency band with a floating exchange rate, leading to a sharp fall in the value of the tenge. Since reaching a low of 391 to the dollar in January 2016, the tenge has modestly appreciated, helped by somewhat higher oil prices. While growth slowed to about 1% in both 2015 and 2016, a moderate recovery in oil prices, relatively stable inflation and foreign exchange rates, and the start of production at Kashagan helped push 2017 GDP growth to 4%.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Despite some positive institutional and legislative changes in the last several years, investors remain concerned about corruption, bureaucracy, and arbitrary law enforcement, especially at the regional and municipal levels. An additional concern is the condition of the country’s banking sector, which suffers from poor asset quality and a lack of transparency. Investors also question the potentially negative effects on the economy of a contested presidential succession as Kazakhstan’s first president, Nursultan NAZARBAYEV, turned 77 in 2017.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$478.6 billion",
+"2016": "$460.3 billion",
+"2015": "$455.3 billion",
+},
+"gdp_official_exchange_rate": "$159.4 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4%",
+"2016": "1.1%",
+"2015": "1.2%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$26,300",
+"2016": "$25,700",
+"2015": "$25,800",
+},
+"gross_national_saving":
+{
+"2017": "23.7% of GDP",
+"2016": "21.4% of GDP",
+"2015": "25.1% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "53.2% (2017 est.)",
+"government_consumption": "11.1% (2017 est.)",
+"investment_in_fixed_capital": "22.5% (2017 est.)",
+"investment_in_inventories": "4.8% (2017 est.)",
+"exports_of_goods_and_services": "35.4% (2017 est.)",
+"imports_of_goods_and_services": "-27.1% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "4.7% (2017 est.)",
+"industry": "34.1% (2017 est.)",
+"services": "61.2% (2017 est.)",
+}, 
+"agriculture_products": "grain (mostly spring wheat and barley), potatoes, vegetables, melons; livestock",
+"industries": "oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite, gold, silver, phosphates, sulfur, uranium, iron and steel; tractors and other agricultural machinery, electric motors, construction materials",
+"industrial_production_growth_rate": "5.8% (2017 est.)",
+"labor_force": "8.97 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "18.1%",
+"industry": "20.4%",
+"services": "61.6% (2017 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "5%",
+"2016": "5%",
+},
+"population_below_poverty_line": "2.6% (2016 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "4.2%",
+"highest_10": "23.3% (2016)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2013": "26.3",
+"2003": "31.5",
+},
+"budget": 
+{
+"revenues": "35.48 billion (2017 est.)",
+"expenditures": "38.3 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "22.3% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1.8% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "20.8% of GDP",
+"2016": "19.7% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "7.4%",
+"2016": "14.6%",
+},
+"central_bank_discount_rate":
+{
+"10 April 2017": "11%",
+"9 January 2017": "12%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "14.17%",
+"31 December 2016": "15.34%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$14.99 billion",
+"31 December 2016": "$13.77 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$14.99 billion",
+"31 December 2016": "$13.77 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$54.92 billion",
+"31 December 2016": "$55.1 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2016": "$741.7 million",
+"31 December 2015": "$4.737 billion",
+"31 December 2013": "$26.23 billion",
+},
+"current_account_balance":
+{
+"2017": "-$5.353 billion",
+"2016": "-$8.874 billion",
+},
+"exports":
+{
+"2017": "$49.29 billion",
+"2016": "$37.26 billion",
+},
+"exports_partners": "Italy 17.9%, China 11.9%, Netherlands 9.8%, Russia 9.3%, Switzerland 6.4%, France 5.9% (2017)",
+"exports_commodities": "oil and oil products, natural gas, ferrous metals, chemicals, machinery, grain, wool, meat, coal",
+"imports":
+{
+"2017": "$31.85 billion",
+"2016": "$28.07 billion",
+},
+"imports_commodities": "machinery and equipment, metal products, foodstuffs",
+"imports_partners": "Russia 38.9%, China 16.1%, Germany 5.1%, US 4.3% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$30.75 billion",
+"31 December 2016": "$29.53 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$167.5 billion",
+"31 December 2016": "$163.6 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$161.6 billion",
+"31 December 2016": "$143.2 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$35.04 billion",
+"31 December 2016": "$32.74 billion",
+},
+"exchange_rates": 
+{
+"currency": "tenge (KZT) per US dollar -",
+"exchange_rates":
+{
+"2017": "326.3",
+"2016": "342.13",
+"2015": "342.13",
+"2014": "221.73",
+"2013": "179.19",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "100.8 billion kWh (2016 est.)",
+"electricity_consumption": "94.23 billion kWh (2016 est.)",
+"electricity_exports": "5.1 billion kWh (2017 est.)",
+"electricity_imports": "1.318 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "20.15 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "86% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "14% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "1% of total installed capacity (2017 est.)",
+"crude_oil_production": "1.856 million bbl/day (2018 est.)",
+"crude_oil_exports": "1.409 million bbl/day (2015 est.)",
+"crude_oil_imports": "1,480 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "30 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "290,700 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "274,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "105,900 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "39,120 bbl/day (2015 est.)",
+"natural_gas_production": "22.41 billion cu m (2017 est.)",
+"natural_gas_consumption": "15.37 billion cu m (2017 est.)",
+"natural_gas_exports": "12.8 billion cu m (2017 est.)",
+"natural_gas_imports": "5.748 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "2.407 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "304.6 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "3,697,300",
+"subscriptions_per_100_inhabitants": "20 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "26.473 million",
+"subscriptions_per_100_inhabitants": "143 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "one of the most progressive telecoms sectors in Central Asia; vast 4G network; low fixed-line and&amp;nbsp;fixed-broadband penetration, moderate mobile broadband penetration and high mobile penetration (2018)",
+"domestic": "intercity by landline and microwave radio relay; number of fixed-line connections is 20 per 100 persons; mobile-cellular usage increased rapidly and the subscriber base approaches 143 per 100 persons (2018)",
+"international": "country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the Trans-Asia-Europe (TAE) fiber-optic cable; satellite earth stations - 2 Intelsat",
+}, 
+"broadcast_media": "the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, many of which are owned by the government, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; a small number of commercial radio stations operate along with state-run radio stations; recent legislation requires all media outlets to register with the government and all TV providers to broadcast in digital format by 2018; broadcasts reach some 99% of the population as well as neighboring countries",
+"internet_country_code": ".kz",
+"internet_users": 
+{
+"total": "14,100,751",
+"percent_of_population": "76.8% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "2,573,500",
+"subscriptions_per_100_inhabitants": "14 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.95% of GDP",
+"2017": "0.84% of GDP",
+"2016": "0.96% of GDP",
+"2015": "1.1% of GDP",
+"2014": "1.04% of GDP",
+},
+"military_and_security_forces": "Armed Forces of Kazakhstan : Land Forces, Navy, Air Defense Force (2019)",
+"military_service_age_and_obligation": "All men 18-27 are required to serve in the military for at least one year. (2019)",
+"military_note": "Ministry of Internal Affairs:&amp;nbsp; National Guard, Border Service (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "10 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "71 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "5,081,631 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "37,669,008 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "UP (2016)",
+"airports": "96 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "63 (2017)",
+"over_3_047_m": "10 (2017)",
+"2_438_to_3_047_m": "25 (2017)",
+"1_524_to_2_437_m": "15 (2017)",
+"914_to_1_523_m": "5 (2017)",
+"under_914_m": "8 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "33 (2013)",
+"over_3_047_m": "5 (2013)",
+"2_438_to_3_047_m": "7 (2013)",
+"1_524_to_2_437_m": "3 (2013)",
+"914_to_1_523_m": "5 (2013)",
+"under_914_m": "13 (2013)",
+}, 
+"heliports": "3 (2013)",
+"pipelines": "658 km condensate, 15,256 km gas (2017), 8,013 km oil (2017), 1,095 km refined products, 1,975 km water (2016) (2017)",
+"railways": 
+{
+"total": "16,614 km (2017)",
+"broad_gauge": "16,614 km 1.520-m gauge (4,200 km electrified) (2017)",
+}, 
+"roadways": 
+{
+"total": "95,409 km (2017)",
+"paved": "81,814 km (2017)",
+"unpaved": "13,595 km (2017)",
+}, 
+"waterways": "4,000 km (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River) (2010)",
+"merchant_marine": 
+{
+"total": "121",
+"by_type": "general cargo 3, oil tanker 10, other 108 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur&#39;yev)",
+"river_port_s": "Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irtysh River)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;in January 2019, the Kyrgyz Republic ratified the demarcation agreement of the Kazakh-Kyrgyz border; the demarcation of the Kazakh-Uzbek borders is ongoing; the ongoing demarcation with Russia began in 2007; demarcation with China completed in 2002&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "7,690 (2018)",
+"illicit_drugs": "significant illicit cultivation of cannabis for CIS markets, as well as limited cultivation of opium poppy and ephedra (for the drug ephedrine); limited government eradication of illicit crops; transit point for Southwest Asian narcotics bound for Russia and the rest of Europe; significant consumer of opiates",
+}
+}

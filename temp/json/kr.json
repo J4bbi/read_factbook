@@ -1,0 +1,441 @@
+{
+"name": "Kiribati",
+"code": "KR",
+"publish_date": "December 05, 2019",
+"introduction": 
+{
+"background": "The Gilbert Islands became a British protectorate in 1892 and a colony in 1915; they were captured by the Japanese in the Pacific War in 1941. The islands of Makin and Tarawa were the sites of major US amphibious victories over entrenched Japanese garrisons in 1943. The Gilbert Islands were granted self-rule by the UK in 1971 and complete independence in 1979 under the new name of Kiribati. The US relinquished all claims to the sparsely inhabited Phoenix and Line Island groups in a 1979 treaty of friendship with Kiribati. Kiribati joined the UN in 1999 and has been an active participant in international efforts to combat climate change.",
+}, 
+"geography": 
+{
+"location": "Oceania, group of 32 coral atolls and one raised coral island in the Pacific Ocean, straddling the Equator; the capital Tarawa is about halfway between Hawaii and Australia",
+"geographic_coordinates": "1 25 N, 173 00 E",
+"map_references": "Oceania",
+"area": 
+{
+"total": "811 sq km",
+"land": "811 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "four times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "1,143 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "tropical; marine, hot and humid, moderated by trade winds",
+"terrain": "mostly low-lying coral atolls surrounded by extensive reefs",
+"elevation": 
+{
+"mean_elevation": "2 m",
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "unnamed elevation on Banaba 81 m m",
+}, 
+"natural_resources": "phosphate (production discontinued in 1979), coconuts (copra), fish",
+"land_use": 
+{
+"agricultural_land": "42% (2011 est.)",
+"agricultural_land_arable_land": "2.5% (2011 est.)",
+"agricultural_land_permanent_crops": "39.5% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "15% (2011 est.)",
+"other": "43% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong",
+"natural_hazards": "typhoons can occur any time, but usually November to March; occasional tornadoes; low level of some of the islands make them sensitive to changes in sea level",
+"environment_current_issues": "heavy pollution in lagoon of south Tarawa atoll due to overcrowding mixed with traditional practices such as lagoon latrines and open-pit dumping; ground water at risk; potential for water shortages, disease; coastal erosion",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "21 of the 33 islands are inhabited; Banaba (Ocean Island) in Kiribati is one of the three great phosphate rock islands in the Pacific Ocean - the others are Makatea in French Polynesia, and Nauru; Kiribati is the only country in the world to fall into all four hemispheres (northern, southern, eastern, and western)",
+}, 
+"people_and_society": 
+{
+"population": "109,367 (July 2018 est.)",
+"nationality": 
+{
+"noun": "I-Kiribati (singular and plural)",
+"adjective": "I-Kiribati",
+}, 
+"ethnic_groups": "I-Kiribati 96.2%, I-Kiribati/mixed 1.8%, Tuvaluan 0.2%, other 1.8% (2015 est.)",
+"languages": "I-Kiribati, English (official)",
+"religions": "Roman Catholic 57.3%, Kiribati Uniting Church 31.3%, Mormon 5.3%, Baha&#39;i 2.1%, Seventh Day Adventist 1.9%, other 2.1% (2015 est.)",
+"age_structure": 
+{
+"0_14_years": "29.27% (male 16,316 /female 15,693)",
+"15_24_years": "20.74% (male 11,213 /female 11,466)",
+"25_54_years": "39.43% (male 20,756 /female 22,363)",
+"55_64_years": "6.23% (male 3,071 /female 3,747)",
+"65_years_and_over": "4.34% (male 1,863 /female 2,879) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "63 (2015 est.)",
+"youth_dependency_ratio": "57 (2015 est.)",
+"elderly_dependency_ratio": "6 (2015 est.)",
+"potential_support_ratio": "16.6 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "25 years (2018 est.)",
+"male": "24.1 years",
+"female": "25.8 years",
+}, 
+"population_growth_rate": "1.12% (2018 est.)",
+"birth_rate": "21 births/1,000 population (2018 est.)",
+"death_rate": "7 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-2.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong",
+"urbanization": 
+{
+"urban_population": "54.8% of total population (2019)",
+"rate_of_urbanization": "3.19% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "64,000 TARAWA (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "0.98 male(s)/female",
+"25_54_years": "0.93 male(s)/female",
+"55_64_years": "0.82 male(s)/female",
+"65_years_and_over": "0.65 male(s)/female",
+"total_population": "0.95 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "23.1 years (2009 est.)",
+"maternal_mortality_rate": "92 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "31.1 deaths/1,000 live births (2018 est.)",
+"male": "32.3 deaths/1,000 live births",
+"female": "29.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "66.9 years (2018 est.)",
+"male": "64.3 years",
+"female": "69.5 years",
+}, 
+"total_fertility_rate": "2.34 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "22.3% (2009)",
+"drinking_water_source": 
+{
+"improved_urban": "87.3% of population",
+"improved_rural": "50.6% of population",
+"improved_total": "66.9% of population",
+"unimproved_urban": "12.7% of population",
+"unimproved_rural": "49.4% of population",
+"unimproved_total": "33.1% of population (2015 est.)",
+}, 
+"current_health_expenditure": "11.9% (2016)",
+"physicians_density": "0.2 physicians/1,000 population (2013)",
+"hospital_bed_density": "1.9 beds/1,000 population (2015)",
+"sanitation_facility_access": 
+{
+"improved_urban": "51.2% of population (2015 est.)",
+"improved_rural": "30.6% of population (2015 est.)",
+"improved_total": "39.7% of population (2015 est.)",
+"unimproved_urban": "48.8% of population (2015 est.)",
+"unimproved_rural": "69.4% of population (2015 est.)",
+"unimproved_total": "60.3% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "46% (2016)",
+"children_under_the_age_of_5_years_underweight": "14.9% (2009)",
+"education_expenditures": " NA",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "12 years",
+"male": "11 years",
+"female": "12 years (2008)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "17.1%",
+"male": "22.2%",
+"female": "7.4% (2015 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Kiribati",
+"conventional_short_form": "Kiribati",
+"local_long_form": "Republic of Kiribati",
+"local_short_form": "Kiribati",
+"former": "Gilbert Islands",
+"etymology": "the name is the local pronunciation of &quot;Gilberts,&quot; the former designation of the islands; originally named after explorer Thomas GILBERT, who mapped many of the islands in 1788",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Tarawa",
+"geographic_coordinates": "1 21 N, 173 02 E",
+"time_difference": "UTC+12 (17 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "3 geographical units: Gilbert Islands, Line Islands, Phoenix Islands; note - there are no first-order administrative divisions, but there are 6 districts (Banaba, Central Gilberts, Line Islands, Northern Gilberts, Southern Gilberts, Tarawa) and 21 island councils - one for each of the inhabited islands (Abaiang, Abemama, Aranuka, Arorae, Banaba, Beru, Butaritari, Kanton, Kiritimati, Kuria, Maiana, Makin, Marakei, Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa, Teraina)",
+"independence": "12 July 1979 (from the UK)",
+"national_holiday": "Independence Day, 12 July (1979)",
+"constitution": 
+{
+"history": "The Gilbert and Ellice Islands Order in Council 1915, The Gilbert Islands Order in Council 1975 (preindependence); latest promulgated 12 July 1979 (at independence)",
+"amendments": "proposed by the House of Assembly; passage requires two-thirds majority vote by the Assembly membership; passage of amendments affecting the constitutional section on amendment procedures and parts of the constitutional chapter on citizenship requires deferral of the proposal to the next Assembly meeting where approval is required by at least two-thirds majority vote of the Assembly membership and support of the nominated or elected Banaban member of the Assembly; amendments affecting the protection of fundamental rights and freedoms also requires approval by at least two-thirds majority in a referendum; amended 1995, 2013 (2017)",
+}, 
+"legal_system": "English common law supplemented by customary law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a native-born citizen of Kiribati",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "7 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Taneti MAAMAU (since 11 March 2016); Vice President Kourabi NENEM (since 17 March 2016); note - the president is both chief of state and head of government",
+"head_of_government": "President Taneti MAAMAU (since 11 March 2016); Vice President Kourabi NENEM (since 17 March 2016)",
+"cabinet": "Cabinet appointed by the president from among House of Assembly members",
+"elections_appointments": "president directly elected by simple majority popular vote following nomination of candidates from among House of Assembly members; term is 4 years (eligible for 2 additional terms); election last held on 9 March 2016 (next to be held in 2020); vice president appointed by the president",
+"election_results": "Taneti MAAMAU elected president; percent of vote - Taneti MAAMAU 60%, Rimeta BENIAMINA (BTK) 38.6%, Taneti IOANE (BTK) 1.4%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral House of Assembly or Maneaba Ni Maungatabu (46 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two-rounds if needed; 1 member appointed by the Rabi Council of Leaders - representing Banaba Island, and 1 ex officio member - the attorney general; members serve 4-year terms)",
+"elections": "legislative elections were held in two rounds - the first on 30 December 2015 and the second on 7 January 2016 (next to be held in 2019)",
+"election_results": "percent of vote by party - NA; seats by party - BTK 26, KTK and MKP 19, other 2 (includes attorney general); composition - men 43, women 3, percent of women 6.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues",
+"judge_selection_and_term_of_office": "chief justice appointed by the president on the advice of the cabinet in consultation with the Public Service Commission (PSC); other judges appointed by the president on the advice of the chief justice along with the PSC",
+"subordinate_courts": "Court of Appeal; magistrates&#39; courts",
+}, 
+"political_parties_and_leaders": "Boutokaan Te Koaua Party or BTK or Pillars of Truth [Anote TONG]&lt;br /&gt;Kamaeuraoan Te I-Kiribati Party or KTK [Tetaua TAITAI]&lt;br /&gt;Maurin Kiribati Pati or MKP [Rimeta BENIAMINA]&lt;br /&gt;Tobwaan Kiribati Party or TKP [Taneti MAAMAU]",
+"international_organization_participation": "ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO, WIPO, WMO",
+"diplomatic_representation_in_the_us": "none; the Kiribati Permanent Mission to the UN serves as the embassy; it is headed by Teburoro TITO (since 13 September 2017); address: 800 Second Avenue, Suite 400A, New York, NY 10017; telephone: [1](212)867-3310; FAX: [1](212)867-3320",
+"diplomatic_representation_from_the_us": "the US does not have an embassy in Kiribati; the US Ambassador to Fiji is accredited to Kiribati",
+"flag_description": "the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three horizontal wavy white stripes to represent the Pacific ocean; the white stripes represent the three island groups - the Gilbert, Line, and Phoenix Islands; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom",
+"national_symbol_s": "frigatebird; national colors: red, white, blue, yellow",
+"national_anthem": 
+{
+"name": "&quot;Teirake kaini Kiribati&quot; (Stand Up, Kiribati)",
+"lyrics_music": "Urium Tamuera IOTEBA",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;A remote country of 33 scattered coral atolls, Kiribati has few natural resources and is one of the least developed Pacific Island countries. Commercially viable phosphate deposits were exhausted by the time of independence from the United Kingdom in 1979. Earnings from fishing licenses and seafarer remittances are important sources of income. Although the number of seafarers employed declined due to changes in global shipping demands, remittances are expected to improve with more overseas temporary and seasonal work opportunities for Kiribati nationals.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Economic development is constrained by a shortage of skilled workers, weak infrastructure, and remoteness from international markets. The public sector dominates economic activity, with ongoing capital projects in infrastructure including road rehabilitation, water and sanitation projects, and renovations to the international airport, spurring some growth. Public debt increased from 23% of GDP at the end of 2015 to 25.8% in 2016.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kiribati is dependent on foreign aid, which was estimated to have contributed over 32.7% in 2016 to the government’s finances. The country’s sovereign fund, the Revenue Equalization Reserve Fund (RERF), which is held offshore, had an estimated balance of $855.5 million in late July 2016. The RERF seeks to avoid exchange rate risk by holding investments in more than 20 currencies, including the Australian dollar, US dollar, the Japanese yen, and the Euro. Drawdowns from the RERF helped finance the government’s annual budget.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$227 million",
+"2016": "$220.2 million",
+"2015": "$217.7 million",
+},
+"gdp_official_exchange_rate": "$197 million (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.1%",
+"2016": "1.1%",
+"2015": "10.3%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$2,000",
+"2016": "$2,000",
+"2015": "$2,000",
+},
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "23% (2016 est.)",
+"industry": "7% (2016 est.)",
+"services": "70% (2016 est.)",
+}, 
+"agriculture_products": "copra, breadfruit, fish",
+"industries": "fishing, handicrafts",
+"industrial_production_growth_rate": "1.1% (2012 est.)",
+"labor_force": "39,000 (2010 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "15%",
+"industry": "10%",
+"services": "75% (2010)",
+}, 
+"unemployment_rate":
+{
+"2010": "30.6%",
+"2005": "6.1%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "151.2 million (2017 est.)",
+"expenditures": "277.5 million (2017 est.)",
+}, 
+"taxes_and_other_revenues": "76.8% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-64.1% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "26.3% of GDP",
+"2016": "22.9% of GDP",
+},
+"fiscal_year": "NA",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.4%",
+"2016": "1.9%",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "$18 million",
+"2016": "$35 million",
+},
+"exports":
+{
+"2013": "$84.75 million",
+"2012": "$62.31 million",
+},
+"exports_partners": "Philippines 50.8%, Malaysia 17.2%, US 11.4%, Bangladesh 5.8%, Fiji 5.4% (2017)",
+"exports_commodities": "fish, coconut products",
+"imports":
+{
+"2016": "$107.1 million",
+"2013": "$182.2 million",
+},
+"imports_commodities": "food, machinery and equipment, miscellaneous manufactured goods, fuel",
+"imports_partners": "Australia 29.3%, Fiji 17.3%, NZ 10.7%, China 5.8%, US 5.8%, Singapore 5.1%, Japan 4.6%, Thailand 4.1% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$0",
+"31 December 2010": "$8.37 million",
+},
+"debt_external":
+{
+"2016": "$40.9 million",
+"2015": "$32.3 million",
+},
+"stock_of_direct_foreign_investment_at_home": "&lt;p&gt;NA&lt;/p&gt;", 
+"exchange_rates": 
+{
+"currency": "Australian dollars (AUD) per US dollar -",
+"exchange_rates":
+{
+"2017": "1.31",
+"2016": "1.34",
+"2015": "1.34",
+"2014": "1.33",
+"2013": "1.11",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"electrification_total_population": "84.9% (2016)",
+"electrification_urban_areas": "88.4% (2016)",
+"electrification_rural_areas": "82.2% (2016)",
+}, 
+"electricity_production": "29 million kWh (2016 est.)",
+"electricity_consumption": "26.97 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "11,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "73% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "27% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "400 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "420 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "58,850 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "765",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "46,123",
+"subscriptions_per_100_inhabitants": "43 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "generally good quality national and international service; wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; recently formed&amp;nbsp;mobile network operator (MNO)&amp;nbsp;is implementing the first phase of improvements with 3G and 4G upgrades on some islands; islands are connected to each other and the rest of the world via satellite",
+"domestic": "fixed-line 1 per 100 and mobile-cellular 43 per 100 subscriptions",
+"international": "country code - 686; landing point for the Southern Cross NEXT submarine cable system from Australia, 7 Pacific Ocean island countries to the US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)",
+}, 
+"broadcast_media": "multi-channel TV packages provide access to Australian and US stations; 1 government-operated radio station broadcasts on AM, FM, and shortwave (2017)",
+"internet_country_code": ".ki",
+"internet_users": 
+{
+"total": "14,649",
+"percent_of_population": "13.7% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "76",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular military forces (establishment prevented by the constitution); Police Force (2011)",
+"military_note": "Kiribati does not have military forces; defense assistance is provided by Australia and NZ",
+}, 
+"transportation": 
+{
+"civil_aircraft_registration_country_code_prefix": "T3 (2016)",
+"airports": "19 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "4 (2017)",
+"1_524_to_2_437_m": "4 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "15 (2013)",
+"914_to_1_523_m": "10 (2013)",
+"under_914_m": "5 (2013)",
+}, 
+"roadways": "670 km (2017)",
+"waterways": "5 km (small network of canals in Line Islands) (2012)",
+"merchant_marine": 
+{
+"total": "111",
+"by_type": "bulk carrier 3, general cargo 46, oil tanker 16, other 46 (2018)",
+}, 
+"ports_and_terminals": "Betio (Tarawa Atoll), Canton Island, English Harbor",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

@@ -1,0 +1,549 @@
+{
+"name": "Congo, Republic of the",
+"code": "CF",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "Upon independence in 1960, the former French region of Middle Congo became the Republic of the Congo. A quarter century of experimentation with Marxism was abandoned in 1990 and a democratically elected government took office in 1992. A two-year civil war that ended in 1999 restored former Marxist President Denis SASSOU-Nguesso, who had ruled from 1979 to 1992, and sparked a short period of ethnic and political unrest that was resolved by a peace agreement in late 1999. A new constitution adopted three years later provided for a multi-party system and a seven-year presidential term, and elections arranged shortly thereafter installed SASSOU-Nguesso. Following a year of renewed fighting, President SASSOU-Nguesso and southern-based rebel groups agreed to a final peace accord in March 2003. SASSOU-Nguesso was reeelected in 2009 and, after passing a referendum allowing him to run for a third term, was reelected again in 2016. The Republic of Congo is one of Africa&#39;s largest petroleum producers, but with declining production it will need new offshore oil finds to sustain its oil earnings over the long term.",
+}, 
+"geography": 
+{
+"location": "Central Africa, bordering the South Atlantic Ocean, between Angola and Gabon",
+"geographic_coordinates": "1 00 S, 15 00 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "342,000 sq km",
+"land": "341,500 sq km",
+"water": "500 sq km",
+}, 
+"area_comparative": "slightly smaller than Montana; about twice the size of Florida",
+"land_boundaries": 
+{
+"total": "5,008 km",
+"border_countries": "Angola 231 km, Cameroon 494 km, Central African Republic 487 km, Democratic Republic of the Congo 1229 km, Gabon 2567 km",
+}, 
+"coastline": "169 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+}, 
+"climate": "tropical; rainy season (March to June); dry season (June to October); persistent high temperatures and humidity; particularly enervating climate astride the Equator",
+"terrain": "coastal plain, southern basin, central plateau, northern basin",
+"elevation": 
+{
+"mean_elevation": "430 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Mount Berongou 903 m",
+}, 
+"natural_resources": "petroleum, timber, potash, lead, zinc, uranium, copper, phosphates, gold, magnesium, natural gas, hydropower",
+"land_use": 
+{
+"agricultural_land": "31.1% (2011 est.)",
+"agricultural_land_arable_land": "1.6% (2011 est.)",
+"agricultural_land_permanent_crops": "0.2% (2011 est.)",
+"agricultural_land_permanent_pasture": "29.3% (2011 est.)",
+"forest": "65.6% (2011 est.)",
+"other": "3.3% (2011 est.)",
+}, 
+"irrigated_land": "20 sq km (2012)",
+"population_distribution": "the population is primarily located in the south, in and around the capital of Brazzaville",
+"natural_hazards": "seasonal flooding",
+"environment_current_issues": "air pollution from vehicle emissions; water pollution from raw sewage; tap water is not potable; deforestation; wildlife protection",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "about 70% of the population lives in Brazzaville, Pointe-Noire, or along the railroad between them",
+}, 
+"people_and_society": 
+{
+"population": "5,062,021 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Congolese (singular and plural)",
+"adjective": "Congolese or Congo",
+}, 
+"ethnic_groups": "Kongo 40.5%, Teke 16.9%, Mbochi 13.1%, foreigner 8.2%, Sangha 5.6%, Mbere/Mbeti/Kele 4.4%, Punu 4.3%, Pygmy 1.6%, Oubanguiens 1.6%, Duma 1.5%, Makaa 1.3%, other and unspecified 1% (2014-15 est.)",
+"languages": "French (official), French Lingala and Monokutuba (lingua franca trade languages), many local languages and dialects (of which Kikongo is the most widespread)",
+"religions": "Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.9%, Salutiste 2.2%, Muslim 1.6%, Kimbanguiste 1.5%, other 8.1%, none 11.3% (2010 est.)",
+"age_structure": 
+{
+"0_14_years": "41.75% (male 1,066,474 /female 1,046,924)",
+"15_24_years": "16.99% (male 431,279 /female 428,999)",
+"25_54_years": "33.77% (male 857,596 /female 851,712)",
+"55_64_years": "4.39% (male 112,669 /female 109,429)",
+"65_years_and_over": "3.1% (male 69,621 /female 87,318) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "84.5 (2015 est.)",
+"youth_dependency_ratio": "78.3 (2015 est.)",
+"elderly_dependency_ratio": "6.2 (2015 est.)",
+"potential_support_ratio": "16.1 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "19.6 years (2018 est.)",
+"male": "19.4 years",
+"female": "19.8 years",
+}, 
+"population_growth_rate": "2.17% (2018 est.)",
+"birth_rate": "33.7 births/1,000 population (2018 est.)",
+"death_rate": "9.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-2.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "the population is primarily located in the south, in and around the capital of Brazzaville",
+"urbanization": 
+{
+"urban_population": "67.4% of total population (2019)",
+"rate_of_urbanization": "3.28% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "2.308 million BRAZZAVILLE (capital), 1.176 million Pointe-Noire (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1.02 male(s)/female",
+"15_24_years": "1.01 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "1.03 male(s)/female",
+"65_years_and_over": "0.8 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "19.8 years (2011/12 est.)",
+"maternal_mortality_rate": "378 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "53.5 deaths/1,000 live births (2018 est.)",
+"male": "58.3 deaths/1,000 live births",
+"female": "48.5 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "60.3 years (2018 est.)",
+"male": "59 years",
+"female": "61.6 years",
+}, 
+"total_fertility_rate": "4.26 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "30.1% (2014/15)",
+"drinking_water_source": 
+{
+"improved_urban": "95.8% of population",
+"improved_rural": "40% of population",
+"improved_total": "76.5% of population",
+"unimproved_urban": "4.2% of population",
+"unimproved_rural": "60% of population",
+"unimproved_total": "23.5% of population (2015 est.)",
+}, 
+"current_health_expenditure": "4.6% (2016)",
+"physicians_density": "0.12 physicians/1,000 population (2011)",
+"sanitation_facility_access": 
+{
+"improved_urban": "20% of population (2015 est.)",
+"improved_rural": "5.6% of population (2015 est.)",
+"improved_total": "15% of population (2015 est.)",
+"unimproved_urban": "80% of population (2015 est.)",
+"unimproved_rural": "94.4% of population (2015 est.)",
+"unimproved_total": "85% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "2.6% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "89,000 (2018 est.)",
+"hiv_aids_deaths": "4,000 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria and dengue fever (2016)",
+"water_contact_diseases": "schistosomiasis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+}, 
+"obesity_adult_prevalence_rate": "9.6% (2016)",
+"children_under_the_age_of_5_years_underweight": "12.3% (2015)",
+"education_expenditures": "4.6% of GDP (2015)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "79.3%",
+"male": "86.4%",
+"female": "72.9% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "11 years",
+"male": "11 years",
+"female": "11 years (2012)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of the Congo",
+"conventional_short_form": "Congo (Brazzaville)",
+"local_long_form": "Republique du Congo",
+"local_short_form": "Congo",
+"former": "French Congo, Middle Congo, People&#39;s Republic of the Congo, Congo/Brazzaville",
+"etymology": "named for the Congo River, which makes up much of the country&#39;s eastern border; the river name derives from Kongo, a Bantu kingdom that occupied its mouth at the time of Portuguese discovery in the late 15th century and whose name stems from its people the Bakongo, meaning &quot;hunters&quot;",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Brazzaville",
+"geographic_coordinates": "4 15 S, 15 17 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "12 departments (departments, singular - department); Bouenza, Brazzaville, Cuvette, Cuvette-Ouest, Kouilou, Lekoumou, Likouala, Niari, Plateaux, Pointe-Noire, Pool, Sangha",
+"independence": "15 August 1960 (from France)",
+"national_holiday": "Independence Day, 15 August (1960)",
+"constitution": 
+{
+"history": "several previous; latest approved by referendum 25 October 2015",
+"amendments": "proposed by the president of the republic or by Parliament; passage of presidential proposals requires Supreme Court review followed by approval in a referendum; such proposals may also be submitted directly to Parliament, in which case passage requires at least three-quarters majority vote of both houses in joint session; proposals by Parliament require three-fourths majority vote of both houses in joint session; constitutional articles including those affecting the country’s territory, republican form of government, and secularity of the state are not amendable (2017)",
+}, 
+"legal_system": "mixed legal system of French civil law and customary law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of the Republic of the Congo",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Denis SASSOU-Nguesso (since 25 October 1997)",
+"head_of_government": "Prime Minister Clement MOUAMBA (since 24 April 2016); note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister (2019)",
+"cabinet": "Council of Ministers appointed by the president",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 20 March 2016 (next to be held in 2021)",
+"election_results": "Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Parlement consists of:&lt;br /&gt;Senate (72 seats; members indirectly elected by regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years)&lt;br /&gt; National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)",
+"elections": "&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt; Senate - last held on 31 August 2017 for expiry of half the seats (next to be held in 2020)&lt;br /&gt; National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022)",
+"election_results": "&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt; Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%&lt;br /&gt; &lt;br /&gt;National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%&lt;br /&gt;",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic",
+"judge_selection_and_term_of_office": "Supreme Court judges elected by Parliament and serve until age 65; Constitutional Court members appointed by the president of the republic - 3 directly by the president and 6 nominated by Parliament; members appointed for renewable 9-year terms with one-third of the membership renewed every 3 years",
+"subordinate_courts": "Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts",
+}, 
+"political_parties_and_leaders": "Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]&lt;br /&gt;Citizen&#39;s Rally or RC [Claude Alphonse NSILOU]&lt;br /&gt;Congolese Labour Party or PCT [Denis SASSOU-NGUESSO]&lt;br /&gt;Congolese Movement for Democracy and Integral Development or MCDDI [Guy Price Parfait KOLELAS]&lt;br /&gt;Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]&lt;br /&gt;Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]&lt;br /&gt;Party for the Unity of the Republic or PUR&lt;br /&gt;Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]&lt;br /&gt;Prospects and Realities Club or CPR&lt;br /&gt;Rally for Democracy and Social Progress or RDPS [Bernard BATCHI]&lt;br /&gt;Rally of the Presidential Majority or RMP&lt;br /&gt;Republican and Liberal Party or PRL [Bonaventure MIZIDY]&lt;br /&gt;Union for the Republic or UR&lt;br /&gt;Union of Democratic Forces or UDF&lt;br /&gt;Union for Democracy and Republic or UDR&lt;br /&gt;many smaller parties",
+"international_organization_participation": "ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Serge MOMBOULI (since 31 July 2001)",
+"chancery": "1720 16th Street NW, Washington, DC 20009",
+"telephone": "[1] (202) 726-5500",
+"fax": "[1] (202) 726-1860",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Todd P. HASKELL (since July 2017)",
+"telephone": "[242] 06 612-2000",
+"embassy": "70-83 Section D, Maya-Maya Boulevard, Brazzaville",
+"mailing_address": "B.P. 1015, Brazzaville",
+}, 
+"flag_description": "divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, yellow the friendship and nobility of the people, red is unexplained but has been associated with the struggle for independence",
+"national_symbol_s": "lion, elephant; national colors: green, yellow, red",
+"national_anthem": 
+{
+"name": "&quot;La Congolaise&quot; (The Congolese)",
+"lyrics_music": "Jacques TONDRA and Georges KIBANGHI/Jean ROYER and Joseph SPADILIERE",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The Republic of the Congo’s economy is a mixture of subsistence farming, an industrial sector based largely on oil and support services, and government spending. Oil has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports. Natural gas is increasingly being converted to electricity rather than being flared, greatly improving energy prospects. New mining projects, particularly iron ore, which entered production in late 2013, may add as much as $1 billion to annual government revenue. The Republic of the Congo is a member of the Central African Economic and Monetary Community (CEMAC) and shares a common currency – the Central African Franc – with five other member states in the region.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The drop in oil prices that began in 2014 has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. The fiscal deficit amounted to 11% of GDP in 2017. The government’s inability to pay civil servant salaries has resulted in multiple rounds of strikes by many groups, including doctors, nurses, and teachers. In the wake of a multi-year recession, the country reached out to the IMF in 2017 for a new program; the IMF noted that the country’s continued dependence on oil, unsustainable debt, and significant governance weakness are key impediments to the country’s economy. In 2018, the country’s external debt level will approach 120% of GDP. The IMF urged the government to renegotiate debts levels to sustainable levels before it agreed to a new macroeconomic adjustment package.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$29.39 billion",
+"2016": "$30.33 billion",
+"2015": "$31.22 billion",
+},
+"gdp_official_exchange_rate": "$8.718 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "-3.1%",
+"2016": "-2.8%",
+"2015": "2.6%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$6,800",
+"2016": "$7,200",
+"2015": "$7,500",
+},
+"gross_national_saving":
+{
+"2017": "19.5% of GDP",
+"2016": "-12.8% of GDP",
+"2015": "6.6% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "47.6% (2017 est.)",
+"government_consumption": "9.6% (2017 est.)",
+"investment_in_fixed_capital": "42.5% (2017 est.)",
+"investment_in_inventories": "0.1% (2017 est.)",
+"exports_of_goods_and_services": "62.9% (2017 est.)",
+"imports_of_goods_and_services": "-62.7% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "9.3% (2017 est.)",
+"industry": "51% (2017 est.)",
+"services": "39.7% (2017 est.)",
+}, 
+"agriculture_products": "cassava (manioc, tapioca), sugar, rice, corn, peanuts, vegetables, coffee, cocoa; forest products",
+"industries": "petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cigarettes",
+"industrial_production_growth_rate": "-3% (2017 est.)",
+"labor_force": "2.055 million (2016 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "35.4%",
+"industry": "20.6%",
+"services": "44% (2005 est.)",
+}, 
+"unemployment_rate":
+{
+"2014": "36%",
+},
+"population_below_poverty_line": "46.5% (2011 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.1%",
+"highest_10": "37.1% (2005)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2011": "48.9",
+},
+"budget": 
+{
+"revenues": "1.965 billion (2017 est.)",
+"expenditures": "2.578 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "22.5% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-7% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "130.8% of GDP",
+"2016": "128.7% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.5%",
+"2016": "3.2%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2009": "4.25%",
+"31 December 2008": "4.75%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "14.6%",
+"31 December 2016": "14%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$2.585 billion",
+"31 December 2016": "$2.456 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$2.585 billion",
+"31 December 2016": "$2.456 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$3.036 billion",
+"31 December 2016": "$2.901 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$1.128 billion",
+"2016": "-$5.735 billion",
+},
+"exports":
+{
+"2017": "$4.193 billion",
+"2016": "$4.116 billion",
+},
+"exports_partners": "China 53.8%, Angola 6.2%, Gabon 5.7%, Italy 5.4%, Spain 5.4%, Australia 4.8% (2017)",
+"exports_commodities": "petroleum, lumber, plywood, sugar, cocoa, coffee, diamonds",
+"imports":
+{
+"2017": "$2.501 billion",
+"2016": "$5.639 billion",
+},
+"imports_commodities": "capital equipment, construction materials, foodstuffs",
+"imports_partners": "France 15%, China 14%, Belgium 12.2%, Norway 8.1% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$505.7 million",
+"31 December 2016": "$727.1 million",
+},
+"debt_external":
+{
+"31 December 2017": "$4.605 billion",
+"31 December 2016": "$4.721 billion",
+},
+"stock_of_direct_foreign_investment_at_home": "&lt;p&gt;NA&lt;/p&gt;", 
+"exchange_rates": 
+{
+"currency": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -",
+"exchange_rates":
+{
+"2017": "579.8",
+"2016": "593.01",
+"2015": "593.01",
+"2014": "591.45",
+"2013": "494.42",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "2 million (2017)",
+"electrification_total_population": "56.6% (2016)",
+"electrification_urban_areas": "74.2% (2016)",
+"electrification_rural_areas": "22.6% (2016)",
+}, 
+"electricity_production": "1.696 billion kWh (2016 est.)",
+"electricity_consumption": "912 million kWh (2016 est.)",
+"electricity_exports": "22 million kWh (2015 est.)",
+"electricity_imports": "18 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "591,500 kW (2016 est.)",
+"electricity_from_fossil_fuels": "64% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "36% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "340,000 bbl/day (2018 est.)",
+"crude_oil_exports": "254,100 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "1.6 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "15,760 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "17,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "5,766 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "7,162 bbl/day (2015 est.)",
+"natural_gas_production": "1.387 billion cu m (2017 est.)",
+"natural_gas_consumption": "1.387 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "90.61 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "5.239 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "17,000",
+"subscriptions_per_100_inhabitants": " less than 1 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "5.056 million",
+"subscriptions_per_100_inhabitants": "102 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order (2018)",
+"domestic": "fixed-line infrastructure inadequate, providing less than 1 connection per 100 persons; in the absence of an adequate fixed-line infrastructure, mobile-cellular subscribership has surged to 102 per 100 persons (2018)",
+"international": "country code - 242; WACS submarine cables to Europe and Western and South Africa; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "1 state-owned TV and 3 state-owned radio stations; several privately owned TV and radio stations; satellite TV service is available; rebroadcasts of several international broadcasters are available",
+"internet_country_code": ".cg",
+"internet_users": 
+{
+"total": "362,000",
+"percent_of_population": "7.6% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "2.55% of GDP",
+"2017": "4.27% of GDP",
+"2016": "6.38% of GDP",
+"2014": "5% of GDP",
+"2013": "4.61% of GDP",
+},
+"military_and_security_forces": "Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), Navy, Congolese Air Force (Armee de l&#39;Air Congolaise); Gendarmerie; Presidential Guard (2019)",
+"military_service_age_and_obligation": "18 years of age for voluntary military service; women may serve in the Armed Forces (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "3 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "12 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "657,926 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "2,987,493 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "TN (2016)",
+"airports": "27 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "8 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "1 (2017)",
+"1_524_to_2_437_m": "5 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "19 (2013)",
+"1_524_to_2_437_m": "8 (2013)",
+"914_to_1_523_m": "9 (2013)",
+"under_914_m": "2 (2013)",
+}, 
+"pipelines": "232 km gas, 4 km liquid petroleum gas, 982 km oil (2013)",
+"railways": 
+{
+"total": "510 km (2014)",
+"narrow_gauge": "510 km 1.067-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "23,324 km (2017)",
+"paved": "3,111 km (2017)",
+"unpaved": "20,213 km (2017)",
+}, 
+"waterways": "1,120 km (commercially navigable on Congo and Oubanqui Rivers above Brazzaville; there are many ferries across the river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the coast is not navigable because of rapids, necessitating a rail connection to Pointe Noire; other rivers are used for local traffic only) (2011)",
+"merchant_marine": 
+{
+"total": "16",
+"by_type": "general cargo 3, oil tanker 2, other 11 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Pointe-Noire",
+"oil_terminal_s": "Djeno",
+"river_port_s": "Brazzaville (Congo)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;the location of the boundary in the broad Congo River with the Democratic Republic of the Congo is undefined except in the Pool Malebo/Stanley Pool area&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "22,198 (Central African Republic), 20,289 (Democratic Republic of the Congo) (refugees and asylum seekers) (2019)",
+"idps": "107,000 (multiple civil wars since 1992) (2018)",
+}, 
+"trafficking_in_persons": 
+{
+"current_situation": "the Republic of the Congo is a source and destination country for children, men, and women, subjected to forced labor and sex trafficking; most trafficking victims are from Benin, the Democratic Republic of the Congo (DRC), and, to a lesser extent, other neighboring countries and are subjected to domestic servitude and market vending by West African and Congolese nationals; adults and children, the majority from the DRC, are also sex trafficked in Congo, mainly Brazzaville; internal trafficking victims, often from rural areas, are exploited as domestic servants or forced to work in quarries, bakeries, fishing, and agriculture",
+"tier_rating": "Tier 2 Watch List - the Republic of the Congo does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the country drafted an action plan based on anti-trafficking legislation, which remains pending in the Supreme Court; the government made minimal anti-trafficking law enforcement efforts in 2014, failing to prosecute or convict suspected traffickers from cases dating back to 2010; serious allegations of official complicity continue to be reported; the government lacks a systematic means of identifying victims and relies on NGOs and international organizations to identify victims and NGOs and foster families to provide care to victims; the quality of care varied widely because the foster care system was allegedly undermined by inadequate security and official complicity (2015)",
+}, 
+}
+}

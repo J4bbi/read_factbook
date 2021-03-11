@@ -1,0 +1,530 @@
+{
+"name": "Iceland",
+"code": "IC",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "Settled by Norwegian and Celtic (Scottish and Irish) immigrants during the late 9th and 10th centuries A.D., Iceland boasts the world&#39;s oldest functioning legislative assembly, the Althingi, established in 930. Independent for over 300 years, Iceland was subsequently ruled by Norway and Denmark. Fallout from the Askja volcano of 1875 devastated the Icelandic economy and caused widespread famine. Over the next quarter century, 20% of the island&#39;s population emigrated, mostly to Canada and the US. Denmark granted limited home rule in 1874 and complete independence in 1944. The second half of the 20th century saw substantial economic growth driven primarily by the fishing industry. The economy diversified greatly after the country joined the European Economic Area in 1994, but Iceland was especially hard hit by the global financial crisis in the years following 2008. The economy is now on an upward trajectory, fueled primarily by a tourism and construction boom. Literacy, longevity, and social cohesion are first rate by world standards.",
+}, 
+"geography": 
+{
+"location": "Northern Europe, island between the Greenland Sea and the North Atlantic Ocean, northwest of the United Kingdom",
+"geographic_coordinates": "65 00 N, 18 00 W",
+"map_references": "Arctic Region",
+"area": 
+{
+"total": "103,000 sq km",
+"land": "100,250 sq km",
+"water": "2,750 sq km",
+}, 
+"area_comparative": "slightly smaller than Pennsylvania; about the same size as Kentucky",
+"land_boundaries": "0 km",
+"coastline": "4,970 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"continental_shelf": "200 nm or to the edge of the continental margin",
+}, 
+"climate": "temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers",
+"terrain": "mostly plateau interspersed with mountain peaks, icefields; coast deeply indented by bays and fiords",
+"elevation": 
+{
+"mean_elevation": "557 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Hvannadalshnukur (at Vatnajokull Glacier) 2,110 m",
+}, 
+"natural_resources": "fish, hydropower, geothermal power, diatomite",
+"land_use": 
+{
+"agricultural_land": "18.7% (2011 est.)",
+"agricultural_land_arable_land": "1.2% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "17.5% (2011 est.)",
+"forest": "0.3% (2011 est.)",
+"other": "81% (2011 est.)",
+}, 
+"irrigated_land": " NA",
+"population_distribution": "Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west",
+"natural_hazards": "&lt;p&gt;earthquakes and volcanic activity&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; Iceland, situated on top of a hotspot, experiences severe volcanic activity; Eyjafjallajokull (1,666 m) erupted in 2010, sending ash high into the atmosphere and seriously disrupting European air traffic; scientists continue to monitor nearby Katla (1,512 m), which has a high probability of eruption in the very near future, potentially disrupting air traffic; Grimsvoetn and Hekla are Iceland&#39;s most active volcanoes; other historically active volcanoes include Askja, Bardarbunga, Brennisteinsfjoll, Esjufjoll, Hengill, Krafla, Krisuvik, Kverkfjoll, Oraefajokull, Reykjanes, Torfajokull, and Vestmannaeyjar&lt;/p&gt;",
+"environment_current_issues": "water pollution from fertilizer runoff",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Kyoto Protocol, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Transboundary Air Pollution, Wetlands, Whaling",
+"signed_but_not_ratified": "Environmental Modification, Marine Life Conservation",
+}, 
+"geography_note": "strategic location between Greenland and Europe; westernmost European country; Reykjavik is the northernmost national capital in the world; more land covered by glaciers than in all of continental Europe",
+}, 
+"people_and_society": 
+{
+"population": "343,518 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Icelander(s)",
+"adjective": "Icelandic",
+}, 
+"ethnic_groups": "homogeneous mixture of descendants of Norse and Celts 81%, population with foreign background 19% (2018 est.)",
+"languages": "Icelandic, English, Nordic languages, German",
+"religions": "Evangelical Lutheran Church of Iceland (official) 67.2%, Roman Catholic 3.9%, Reykjavik Free Church 2.8%, Hafnarfjordur Free Church 2%, Asatru Association 1.2%, The Independent Congregation .9%, other religions 4% (includes Zuist and Pentecostal), none 6.7%, other or unspecified 11.3% (2018 est.)",
+"age_structure": 
+{
+"0_14_years": "20.4% (male 35,812 /female 34,249)",
+"15_24_years": "13.22% (male 22,952 /female 22,444)",
+"25_54_years": "39.76% (male 69,177 /female 67,401)",
+"55_64_years": "11.87% (male 20,350 /female 20,426)",
+"65_years_and_over": "14.76% (male 23,822 /female 26,885) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "51.6 (2015 est.)",
+"youth_dependency_ratio": "30.8 (2015 est.)",
+"elderly_dependency_ratio": "20.8 (2015 est.)",
+"potential_support_ratio": "4.8 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "36.7 years (2018 est.)",
+"male": "36.1 years",
+"female": "37.3 years",
+}, 
+"population_growth_rate": "1.08% (2018 est.)",
+"birth_rate": "13.6 births/1,000 population (2018 est.)",
+"death_rate": "6.5 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "3.7 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west",
+"urbanization": 
+{
+"urban_population": "93.9% of total population (2019)",
+"rate_of_urbanization": "0.81% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "216,000 REYKJAVIK (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.02 male(s)/female",
+"25_54_years": "1.03 male(s)/female",
+"55_64_years": "1 male(s)/female",
+"65_years_and_over": "0.89 male(s)/female",
+"total_population": "1 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "27.4 years (2015 est.)",
+"maternal_mortality_rate": "4 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "2.1 deaths/1,000 live births (2018 est.)",
+"male": "2.2 deaths/1,000 live births",
+"female": "2 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "83.1 years (2018 est.)",
+"male": "80.9 years",
+"female": "85.5 years",
+}, 
+"total_fertility_rate": "1.99 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "8.3% (2016)",
+"physicians_density": "3.97 physicians/1,000 population (2017)",
+"hospital_bed_density": "3.4 beds/1,000 population (2015)",
+"sanitation_facility_access": 
+{
+"improved_urban": "98.7% of population (2015 est.)",
+"improved_rural": "100% of population (2015 est.)",
+"improved_total": "98.8% of population (2015 est.)",
+"unimproved_urban": "1.3% of population (2015 est.)",
+"unimproved_rural": "0% of population (2015 est.)",
+"unimproved_total": "1.2% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.1% (2018)",
+"hiv_aids_people_living_with_hiv_aids": " &lt;500 (2018)",
+"hiv_aids_deaths": " &lt;100 (2018)",
+"obesity_adult_prevalence_rate": "21.9% (2016)",
+"education_expenditures": "7.5% of GDP (2016)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "19 years",
+"male": "18 years",
+"female": "20 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "7.9%",
+"male": "8.6%",
+"female": "7.1% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Iceland",
+"conventional_short_form": "Iceland",
+"local_long_form": "Lydveldid Island",
+"local_short_form": "Island",
+"etymology": "Floki VILGERDARSON, an early explorer of the island (9th century), applied the name &quot;Land of Ice&quot; after spotting a fjord full of drift ice to the north and spending a bitter winter on the island; he eventually settled on the island, however, after he saw how it greened up in the summer and that it was, in fact, habitable",
+}, 
+"government_type": "unitary parliamentary republic",
+"capital": 
+{
+"name": "Reykjavik",
+"geographic_coordinates": "64 09 N, 21 57 W",
+"time_difference": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "74 municipalities (sveitarfelog, singular - sveitarfelagidh); Akrahreppur, Akraneskaupstadhur, Akureyrarkaupstadhur, Arneshreppur, Asahreppur, Blaskogabyggdh, Blonduosbaer, Bolungarvikurkaupstadhur, Borgarbyggdh, Borgarfjardharhreppur, Breidhdalshreppur, Dalabyggdh, Dalvikurbyggdh, Djupavogshreppur, Eyjafjardharsveit, Eyja-og Miklaholtshreppur, Fjallabyggdh, Fjardhabyggdh, Fljotsdalsheradh, Fljotsdalshreppur, Floahreppur, Gardhabaer, Grimsnes-og Grafningshreppur, Grindavikurbaer, Grundarfjardharbaer, Grytubakkahreppur, Hafnarfjardharkaupstadhur, Helgafellssveit, Horgarsveit, Hrunamannahreppur, Hunathing Vestra, Hunavatnshreppur, Hvalfjardharsveit, Hveragerdhisbaer, Isafjardharbaer, Kaldrananeshreppur, Kjosarhreppur, Kopavogsbaer, Langanesbyggdh, Mosfellsbaer, Myrdalshreppur, Nordhurthing, Rangarthing Eystra, Rangarthing Ytra, Reykholahreppur, Reykjanesbaer, Reykjavikurborg, Sandgerdhisbaer, Seltjarnarnesbaer, Seydhisfjardharkaupstadhur, Skaftarhreppur, Skagabyggdh, Skeidha-og Gnupverjahreppur, Skorradalshreppur, Skutustadhahreppur, Snaefellsbaer, Strandabyggdh, Stykkisholmsbaer, Sudhavikurhreppur, Svalbardhshreppur, Svalbardhsstrandarhreppur, Sveitarfelagidh Arborg, Sveitarfelagidh Gardhur, Sveitarfelagidh Hornafjordhur, Sveitarfelagidh Olfus, Sveitarfelagidh Skagafjordhur, Sveitarfelagidh Skagastrond, Sveitarfelagidh Vogar, Talknafjardharhreppur, Thingeyjarsveit, Tjorneshreppur, Vestmannaeyjabaer, Vesturbyggdh, Vopnafjardharhreppur",
+"independence": "1 December 1918 (became a sovereign state under the Danish Crown); 17 June 1944 (from Denmark; birthday of Jon SIGURDSSON, leader of Iceland&#39;s 19th Century independence movement)",
+"national_holiday": "Independence Day, 17 June (1944)",
+"constitution": 
+{
+"history": "several previous; latest ratified 16 June 1944, effective 17 June 1944 (at independence)",
+"amendments": "proposed by the Althingi; passage requires approval by the Althingi and by the next elected Althingi, and confirmation by the president of the republic; proposed amendments to Article 62 of the constitution – that the Evangelical Lutheran Church shall be the state church of Iceland – also require passage by referendum; amended many times, last in 2013 (2016)",
+}, 
+"legal_system": "civil law system influenced by the Danish model",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Iceland",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "3 to 7 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Gudni Thorlacius JOHANNESSON (since 1 August 2016)",
+"head_of_government": "Prime Minister Katrin JAKOBSDOTTIR (since 30 November 2017)",
+"cabinet": "Cabinet appointed by the president upon the recommendation of the prime minister",
+"elections_appointments": "president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 25 June 2016 (next to be held in June 2020); following legislative elections, the leader of the majority party or majority coalition becomes prime minister",
+"election_results": "Gudni Thorlacius JOHANNESSON elected president; percent of vote - Gudni Thorlacius JOHANNESSON 39.1%, Halla TOMASDOTTIR 27.9%, Andri Snaer MAGNASON 14.3%, David ODDSSON 13.7%, Sturla JONSSON 3.5%, invalid 1.5%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)",
+"elections": "last held on 28 October 2017 (next to be held in 2021)",
+"election_results": "percent of vote by party - IP 25.2%, LGM 16.9%, SDA 12.1%, CP 10.9%, PP 10.7%, Pirate Party 9.2%, People&#39;s Party 6.9%, Reform Party 6.7%. other 1.5%; seats by party - IP 16, LGM 11, SDA 7, CP 7, PP 8, Pirate Party 6, Reform Party 4, People&#39;s Party 4",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Haestirettur (consists of 9 judges)",
+"judge_selection_and_term_of_office": "judges proposed by Ministry of Interior selection committee and appointed by the president; judges appointed for an indefinite period",
+"subordinate_courts": "Appellate Court or Landsrettur; 8 district courts; Labor Court",
+}, 
+"political_parties_and_leaders": "Centrist Party (Midflokkurinn) or CP [Sigmundur David GUNNLAUGSSON]&lt;br /&gt;Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON]&lt;br /&gt;Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR]&lt;br /&gt;People&#39;s Party (Flokkur Folksins) [Inga SAELAND]&lt;br /&gt;Pirate Party (Piratar) [rotating leadership]&lt;br /&gt;Progressive Party (Framsoknarflokkurinn) or PP [Sigurdur Ingi JOHANNSSON]&lt;br /&gt;Reform Party (Vidreisn) [Thorgerdur Katrin GUNNARSDOTTIR]&lt;br /&gt;Social Democratic Alliance (Samfylkingin) or SDA [Logi Mar EINARSSON]",
+"international_organization_participation": "Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Geir Hilmar HAARDE (since 23 February 2015)",
+"chancery": "House of Sweden, 2900 K Street NW, #509, Washington, DC 20007",
+"telephone": "[1] (202) 265-6653",
+"fax": "[1] (202) 265-6656",
+"consulate_s_general": "New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Jeffrey Ross GUNTER (since 2 July 2019)",
+"telephone": "[354] 595-2200",
+"embassy": "Laufasvegur 21, 101 Reykjavik",
+"mailing_address": "US Department of State, 5640 Reykjavik Place, Washington, D.C. 20521-5640",
+"fax": "[354] 562-9118",
+}, 
+"flag_description": "blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island&#39;s volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean",
+"national_symbol_s": "gyrfalcon; national colors: blue, white, red",
+"national_anthem": 
+{
+"name": "&quot;Lofsongur&quot; (Song of Praise)",
+"lyrics_music": "Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Iceland&#39;s economy combines a capitalist structure and free-market principles with an extensive welfare system. Except for a brief period during the 2008 crisis, Iceland has in recent years achieved high growth, low unemployment, and a remarkably even distribution of income. Iceland&#39;s economy has been diversifying into manufacturing and service industries in the last decade, particularly within the fields of tourism, software production, and biotechnology. Abundant geothermal and hydropower sources have attracted substantial foreign investment in the aluminum sector, boosted economic growth, and sparked some interest from high-tech firms looking to establish data centers using cheap green energy.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Tourism, aluminum smelting, and fishing are the pillars of the economy. For decades the Icelandic economy depended heavily on fisheries, but tourism has now surpassed fishing and aluminum as Iceland’s main export industry. Tourism accounted for 8.6% of Iceland’s GDP in 2016, and 39% of total exports of merchandise and services. From 2010 to 2017, the number of tourists visiting Iceland increased by nearly 400%. Since 2010, tourism has become a main driver of Icelandic economic growth, with the number of tourists reaching 4.5 times the Icelandic population in 2016. Iceland remains sensitive to fluctuations in world prices for its main exports, and to fluctuations in the exchange rate of the Icelandic Krona.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Following the privatization of the banking sector in the early 2000s, domestic banks expanded aggressively in foreign markets, and consumers and businesses borrowed heavily in foreign currencies. Worsening global financial conditions throughout 2008 resulted in a sharp depreciation of the krona vis-a-vis other major currencies. The foreign exposure of Icelandic banks, whose loans and other assets totaled nearly nine times the country&#39;s GDP, became unsustainable. Iceland&#39;s three largest banks collapsed in late 2008. GDP fell 6.8% in 2009, and unemployment peaked at 9.4% in February 2009. Three new banks were established to take over the domestic assets of the collapsed banks. Two of them have majority ownership by the state, which intends to re-privatize them.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Since the collapse of Iceland&#39;s financial sector, government economic priorities have included stabilizing the krona, implementing capital controls, reducing Iceland&#39;s high budget deficit, containing inflation, addressing high household debt, restructuring the financial sector, and diversifying the economy. Capital controls were lifted in March 2017, but some financial protections, such as reserve requirements for specified investments connected to new inflows of foreign currency, remain in place.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$18.18 billion",
+"2016": "$17.48 billion",
+"2015": "$16.29 billion",
+},
+"gdp_official_exchange_rate": "$24.48 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4%",
+"2016": "7.4%",
+"2015": "4.5%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$52,200",
+"2016": "$51,700",
+"2015": "$48,900",
+},
+"gross_national_saving":
+{
+"2017": "25.8% of GDP",
+"2016": "29.1% of GDP",
+"2015": "24.5% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "50.4% (2017 est.)",
+"government_consumption": "23.3% (2017 est.)",
+"investment_in_fixed_capital": "22.1% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "47% (2017 est.)",
+"imports_of_goods_and_services": "-42.8% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "5.8% (2017 est.)",
+"industry": "19.7% (2017 est.)",
+"services": "74.6% (2017 est.)",
+}, 
+"agriculture_products": "potatoes, carrots, green vegetables, tomatoes, cucumbers; mutton, chicken, pork, beef, dairy products; fish",
+"industries": "tourism, fish processing; aluminum smelting;; geothermal power, hydropower; medical/pharmaceutical products",
+"industrial_production_growth_rate": "2.4% (2017 est.)",
+"labor_force": "198,700 (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "4.8%",
+"industry": "22.2%",
+"services": "73% (2008)",
+}, 
+"unemployment_rate":
+{
+"2017": "2.8%",
+"2016": "3%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2006": "28",
+"2005": "25",
+},
+"budget": 
+{
+"revenues": "10.39 billion (2017 est.)",
+"expenditures": "10.02 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "42.4% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "1.5% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "40% of GDP",
+"2016": "51.7% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.8%",
+"2016": "1.7%",
+},
+"central_bank_discount_rate":
+{
+"31 January 2012": "5.4%",
+"31 December 2010": "5.75%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "7.26%",
+"31 December 2016": "8.24%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$4.945 billion",
+"31 December 2016": "$4.251 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2016": "$4.945 billion",
+"31 December 2016": "$4.251 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$24.51 billion",
+"31 December 2016": "$21.18 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2012": "$2.825 billion",
+"31 December 2011": "$2.021 billion",
+"31 December 2010": "$1.996 billion",
+},
+"current_account_balance":
+{
+"2017": "$857 million",
+"2016": "$1.556 billion",
+},
+"exports":
+{
+"2017": "$4.957 billion",
+"2016": "$4.483 billion",
+},
+"exports_partners": "Netherlands 25.5%, Spain 13.6%, UK 9.4%, Germany 7.6%, US 7%, France 6.3%, Norway 4.9%",
+"exports_commodities": "fish and fish products (42%), aluminum (38%), agricultural products, medicinal and medical products, ferro-silicon (2015)",
+"imports":
+{
+"2017": "$6.525 billion",
+"2016": "$5.315 billion",
+},
+"imports_commodities": "machinery and equipment, petroleum products, foodstuffs, textiles",
+"imports_partners": "Germany 10.7%, Norway 9.2%, China 7%, Netherlands 6.7%, US 6.4%, Denmark 6.2%, UK 5.7%, Sweden 4.1%",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$6.567 billion",
+"31 December 2016": "$7.226 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$21.7 billion",
+"31 December 2016": "$25.02 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$6.666 billion",
+"31 December 2016": "$13.89 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$11.24 billion",
+"31 December 2016": "$17.64 billion",
+},
+"exchange_rates": 
+{
+"currency": "Icelandic kronur (ISK) per US dollar -",
+"exchange_rates":
+{
+"2017": "111.7",
+"2016": "120.81",
+"2015": "120.81",
+"2014": "131.92",
+"2013": "116.77",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "18.17 billion kWh (2016 est.)",
+"electricity_consumption": "17.68 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "2.772 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "4% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "71% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "25% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2017 est.)",
+"crude_oil_imports": "0 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "20,850 bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "2,530 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "20,220 bbl/day (2017 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "3.228 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "146,213",
+"subscriptions_per_100_inhabitants": "43 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "410,662",
+"subscriptions_per_100_inhabitants": "121 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "telecommunications infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network; LTE licenses providing 99% population coverage (2018)",
+"domestic": "liberalization of the telecommunications sector beginning in the late 1990s has led to increased competition especially in the mobile services segment of the market; 43 per 100 for fixed line and 121 per 100 for mobile-cellular subscriptions (2018)",
+"international": "country code - 354; the CANTAT-3, FARICE-1, Greenland Connect and DANICE&amp;nbsp;submarine cable system provides connectivity to Canada, the Faroe Islands, Greenland, UK, Denmark, and Germany;&amp;nbsp;satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) (2019)",
+}, 
+"broadcast_media": "&lt;p&gt;state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV and RUV 2, though RUV 2 is used less frequently);&amp;nbsp; RUV broadcasts nationally, every household in Iceland is required to have RUV as it doubles as the emergency broadcast network; RUV also operates stringer offices in the north (Akureyri) and the east (Egilsstadir) but operations are all run out of RUV headquarters in Reykjavik;&amp;nbsp; there are 3 privately owned TV stations;&amp;nbsp; Stod 2 (Channel 2) is owned by Syn, following 365 Media and Vodafone merger, and is headquartered in Reykjavik;&amp;nbsp; Syn also operates 4 sports channels under Stod 2;&amp;nbsp; N4 is the only television station headquartered outside of Reykjavik, in Akureyri, with local programming for the north, south, and east of Iceland;&amp;nbsp; Hringbraut is the newest station and is headquartered in Reykjavik;&amp;nbsp; all of these television stations have nationwide penetration as 100% of households have multi-channel services though digital and/or fiber-optic connections&lt;/p&gt; &lt;p&gt;RUV operates 3 radio stations (RAS 1, RAS2, and Rondo) as well as 4 regional stations (but they mostly act as range extenders for RUV radio broadcasts nationwide);&amp;nbsp; there is 1 privately owned radio conglomerate, Syn (4 stations), that broadcasts nationwide, and 3 other radio stations that broadcast to the most densely populated regions of the country.&amp;nbsp; In addition there are upwards of 20 radio stations that operate regionally&lt;/p&gt; (2019)",
+"internet_country_code": ".is",
+"internet_users": 
+{
+"total": "329,967",
+"percent_of_population": "98.2% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "133,574",
+"subscriptions_per_100_inhabitants": "39 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.3% of GDP",
+"2017": "0.3% of GDP",
+"2016": "0.3% of GDP",
+"2015": "0.3% of GDP",
+"2014": "0.5% of GDP",
+},
+"military_and_security_forces": "no regular military forces; Icelandic Coast Guard; Icelandic National Police (2019)",
+"military_note": "Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU) (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "5 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "43 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "3,413,950 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "102,356,809 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "TF (2016)",
+"airports": "96 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "7 (2017)",
+"over_3_047_m": "1 (2017)",
+"1_524_to_2_437_m": "3 (2017)",
+"914_to_1_523_m": "3 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "89 (2013)",
+"1_524_to_2_437_m": "3 (2013)",
+"914_to_1_523_m": "26 (2013)",
+"under_914_m": "60 (2013)",
+}, 
+"roadways": 
+{
+"total": "12,898 km (2012)",
+"paved_oiled_gravel": "5,647 km (excludes urban roads) (2012)",
+"unpaved": "7,251 km (2012)",
+}, 
+"merchant_marine": 
+{
+"total": "33",
+"by_type": "general cargo 5, oil tanker 1, other 27 (2018)",
+}, 
+"ports_and_terminals": "Grundartangi, Hafnarfjordur, Reykjavik",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Iceland, the UK, and Ireland dispute Denmark&#39;s claim that the Faroe Islands&#39; continental shelf extends beyond 200 nm; the European Free Trade Association Surveillance Authority filed a suit against Iceland, claiming the country violated the Agreement on the European Economic Area in failing to pay minimum compensation to Icesave depositors&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "69 (2018)",
+}
+}

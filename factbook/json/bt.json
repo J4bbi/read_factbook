@@ -1,0 +1,500 @@
+{
+"name": "Bhutan",
+"code": "BT",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Following Britain&amp;rsquo;s victory in the 1865 Duar War, Britain and Bhutan signed the Treaty of Sinchulu, under which Bhutan would receive an annual subsidy in exchange for ceding land to British India. Ugyen WANGCHUCK - who had served as the de facto ruler of an increasingly unified Bhutan and had improved relations with the British toward the end of the 19th century - was named king in 1907. Three years later, a treaty was signed whereby the British agreed not to interfere in Bhutanese internal affairs, and Bhutan allowed Britain to direct its foreign affairs. Bhutan negotiated a similar arrangement with independent India in 1949. The Indo-Bhutanese Treaty of Friendship returned to Bhutan a small piece of the territory annexed by the British, formalized the annual subsidies the country received, and defined India&#39;s responsibilities in defense and foreign relations. Under a succession of modernizing monarchs beginning in the 1950s, Bhutan joined the UN in 1971 and slowly continued its engagement beyond its borders.&lt;/p&gt; &lt;p&gt;In 2005, King Jigme Singye WANGCHUCK unveiled the draft of Bhutan&#39;s first constitution - which introduced major democratic reforms - and held a national referendum for its approval. The King abdicated the throne in 2006 in favor of his son, Jigme Khesar Namgyel WANGCHUCK. In 2007, India and Bhutan renegotiated their treaty, eliminating the clause that stated that Bhutan would be &quot;guided by&quot; India in conducting its foreign policy, although Thimphu continues to coordinate closely with New Delhi. In 2008, Bhutan held its first parliamentary election in accordance with the constitution. Bhutan experienced a peaceful turnover of power following a parliamentary election in 2013, which resulted in the defeat of the incumbent party. In 2018, the incumbent party again lost the parliamentary election. Of the more than 100,000 ethnic Nepali - predominantly Lhotshampa - refugees who fled or were forced out of Bhutan in the 1990s, about 6,500 remain displaced in Nepal. &lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southern Asia, between China and India",
+"geographic_coordinates": "27 30 N, 90 30 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "38,394 sq km",
+"land": "38,394 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly larger than Maryland; about one-half the size of Indiana",
+"land_boundaries": 
+{
+"total": "1,136 km",
+"border_countries": "China 477 km, India 659 km",
+}, 
+"coastline": "0 km (landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas",
+"terrain": "mostly mountainous with some fertile valleys and savanna",
+"elevation": 
+{
+"mean_elevation": "2,220 m",
+"lowest_point": "Drangeme Chhu 97 m",
+"highest_point": "Gangkar Puensum 7,570 m",
+}, 
+"natural_resources": "timber, hydropower, gypsum, calcium carbonate",
+"land_use": 
+{
+"agricultural_land": "13.6% (2011 est.)",
+"agricultural_land_arable_land": "2.6% (2011 est.)",
+"agricultural_land_permanent_crops": "0.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "10.7% (2011 est.)",
+"forest": "85.5% (2011 est.)",
+"other": "0.9% (2011 est.)",
+}, 
+"irrigated_land": "320 sq km (2012)",
+"natural_hazards": "violent storms from the Himalayas are the source of the country&#39;s Bhutanese name, which translates as Land of the Thunder Dragon; frequent landslides during the rainy season",
+"environment_current_issues": "soil erosion; limited access to potable water; wildlife conservation; industrial pollution; waste disposal",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection",
+"signed_but_not_ratified": "Law of the Sea",
+}, 
+"geography_note": "landlocked; strategic location between China and India; controls several key Himalayan mountain passes",
+}, 
+"people_and_society": 
+{
+"population": "766,397 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Bhutanese (singular and plural)",
+"adjective": "Bhutanese",
+}, 
+"ethnic_groups": "Ngalop (also known as Bhote) 50%, ethnic Nepali 35% (predominantly Lhotshampas), indigenous or migrant tribes 15%",
+"languages": "Sharchhopka 28%, Dzongkha (official) 24%, Lhotshamkha 22%, other 26% (includes foreign languages) (2005 est.)",
+"religions": "Lamaistic Buddhist 75.3%, Indian- and Nepali-influenced Hinduism 22.1%, other 2.6% (2005 est.)",
+"age_structure": 
+{
+"0_14_years": "25.35% (male 99,325 /female 94,985)",
+"15_24_years": "18.4% (male 71,790 /female 69,205)",
+"25_54_years": "43.73% (male 177,436 /female 157,729)",
+"55_64_years": "6.13% (male 25,160 /female 21,817)",
+"65_years_and_over": "6.39% (male 25,492 /female 23,458) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "47.3 (2015 est.)",
+"youth_dependency_ratio": "40.4 (2015 est.)",
+"elderly_dependency_ratio": "6.9 (2015 est.)",
+"potential_support_ratio": "14.5 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "28.1 years (2018 est.)",
+"male": "28.6 years",
+"female": "27.6 years",
+}, 
+"population_growth_rate": "1.05% (2018 est.)",
+"birth_rate": "17 births/1,000 population (2018 est.)",
+"death_rate": "6.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"urbanization": 
+{
+"urban_population": "41.6% of total population (2019)",
+"rate_of_urbanization": "2.98% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "203,000 THIMPHU (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.12 male(s)/female",
+"55_64_years": "1.15 male(s)/female",
+"65_years_and_over": "1.09 male(s)/female",
+"total_population": "1.09 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "183 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "30.3 deaths/1,000 live births (2018 est.)",
+"male": "30.4 deaths/1,000 live births",
+"female": "30.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "71.1 years (2018 est.)",
+"male": "70.1 years",
+"female": "72.2 years",
+}, 
+"total_fertility_rate": "1.87 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "65.6% (2010)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.5% (2016)",
+"physicians_density": "0.37 physicians/1,000 population (2017)",
+"hospital_bed_density": "1.7 beds/1,000 population (2012)",
+"sanitation_facility_access": 
+{
+"improved_urban": "77.9% of population (2015 est.)",
+"improved_rural": "33.1% of population (2015 est.)",
+"improved_total": "50.4% of population (2015 est.)",
+"unimproved_urban": "22.1% of population (2015 est.)",
+"unimproved_rural": "66.9% of population (2015 est.)",
+"unimproved_total": "49.6% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.3% (2018)",
+"hiv_aids_people_living_with_hiv_aids": "1,300 (2018)",
+"hiv_aids_deaths": " &lt;100 (2018)",
+"obesity_adult_prevalence_rate": "6.4% (2016)",
+"children_under_the_age_of_5_years_underweight": "12.7% (2010)",
+"education_expenditures": "6.6% of GDP (2018)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "64.9%",
+"male": "73.1%",
+"female": "55% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "12 years",
+"male": "12 years",
+"female": "12 years (2013)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "10.7%",
+"male": "8.2%",
+"female": "12.7% (2015 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Kingdom of Bhutan",
+"conventional_short_form": "Bhutan",
+"local_long_form": "Druk Gyalkhap",
+"local_short_form": "Druk Yul",
+"etymology": "named after the Bhotia, the ethnic Tibetans who migrated from Tibet to Bhutan; &quot;Bod&quot; is the Tibetan name for their land; the Bhutanese name &quot;Druk Yul&quot; means &quot;Land of the Thunder Dragon&quot;",
+}, 
+"government_type": "constitutional monarchy",
+"capital": 
+{
+"name": "Thimphu",
+"geographic_coordinates": "27 28 N, 89 38 E",
+"time_difference": "UTC+6 (11 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "20 districts (dzongkhag, singular and plural); Bumthang, Chhukha, Dagana, Gasa, Haa, Lhuentse, Mongar, Paro, Pemagatshel, Punakha, Samdrup Jongkhar, Samtse, Sarpang, Thimphu, Trashigang, Trashi Yangtse, Trongsa, Tsirang, Wangdue Phodrang, Zhemgang",
+"independence": "17 December 1907 (became a unified kingdom under its first hereditary king); 8 August 1949 (Treaty of Friendship with India maintains Bhutanese independence)",
+"national_holiday": "National Day (Ugyen WANGCHUCK became first hereditary king), 17 December (1907)",
+"constitution": 
+{
+"history": "previous governing documents were various royal decrees; first constitution drafted November 2001 to March 2005, ratified 18 July 2008",
+"amendments": "proposed as a motion by simple majority vote in a joint session of Parliament; passage requires at least a three-fourths majority vote in a joint session of the next Parliament and assent by the king",
+}, 
+"legal_system": "civil law based on Buddhist religious law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "the father must be a citizen of Bhutan",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "King Jigme Khesar Namgyel WANGCHUCK (since 14 December 2006); note - King Jigme Singye WANGCHUCK abdicated the throne on 14 December 2006 to his son",
+"head_of_government": "Prime Minister Lotay TSHERING (since 7 November 2018)",
+"cabinet": "Council of Ministers or Lhengye Zhungtshog members nominated by the monarch in consultation with the prime minister and approved by the National Assembly; members serve 5-year terms",
+"elections_appointments": "the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Chi Tshog consists of:&lt;br /&gt;non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)&lt;br /&gt;National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies by proportional representation vote to serve 5-year terms)",
+"elections": "&lt;br /&gt;National Council election last held on 20 April 2018 (next to be held in 2023)&lt;br /&gt;National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in 2023)",
+"election_results": "&lt;br /&gt;National Council - seats by party - independent 20 (all candidates ran as independents); composition - men 23, women 2, percent of women 8%&lt;br /&gt;National Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party -&amp;nbsp; NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament percent of women 12.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court has sole jurisdiction in constitutional matters",
+"judge_selection_and_term_of_office": "Supreme Court chief justice appointed by the monarch upon the advice of the National Judicial Commission, a 4-member body to include the Legislative Committee of the National Assembly, the attorney general, the Chief Justice of Bhutan and the senior Associate Justice of the Supreme Court; other judges (drangpons) appointed by the monarch from among the High Court judges selected by the National Judicial Commission; chief justice serves a 5-year term or until reaching age 65 years, whichever is earlier; the 4 other judges serve 10-year terms or until age 65, whichever is earlier",
+"subordinate_courts": "High Court (first appellate court); District or Dzongkhag Courts; sub-district or Dungkhag Courts",
+}, 
+"political_parties_and_leaders": "Bhutan Kuen-Nyam Party or BKP&lt;br /&gt;Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT [Pema GYAMTSHO] (Druk Chirwang Tshogpa or DCT merged with&amp;nbsp;DPT in March 2018)&lt;br /&gt;People&#39;s Democratic Party or PDP [Tshering TOBGAY]&lt;br /&gt;United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT [Lotay TSHERING]",
+"international_organization_participation": "ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "none; note - the Permanent Mission to the UN for Bhutan has consular jurisdiction in the US; the permanent representative to the UN is&amp;nbsp;Doma TSHERING&amp;nbsp;(since&amp;nbsp;13&amp;nbsp;September&amp;nbsp;2017); address: 343 East 43rd Street, New York, NY 10017; telephone [1] (212) 682-2268; FAX [1] (212) 661-0551",
+"consulate_s_general": "New York",
+}, 
+"diplomatic_representation_from_the_us": "the US and Bhutan have no formal diplomatic relations, although frequent informal contact is maintained via the US embassy in New Delhi (India) and Bhutan&#39;s Permanent Mission to the UN", 
+"flag_description": "divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side; the dragon, called the Druk (Thunder Dragon), is the emblem of the nation; its white color stands for purity and the jewels in its claws symbolize wealth; the background colors represent spiritual and secular powers within Bhutan: the orange is associated with Buddhism, while the yellow denotes the ruling dynasty",
+"national_symbol_s": "thunder dragon known as Druk Gyalpo; national colors: orange, yellow",
+"national_anthem": 
+{
+"name": "&quot;Druk tsendhen&quot; (The Thunder Dragon Kingdom)",
+"lyrics_music": "Gyaldun Dasho Thinley DORJI/Aku TONGMI",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Bhutan&#39;s small economy is based largely on hydropower, agriculture, and forestry, which provide the main livelihood for more than half the population. Because rugged mountains dominate the terrain and make the building of roads and other infrastructure difficult and expensive, industrial production is primarily of the cottage industry type. The economy is closely aligned with India&#39;s through strong trade and monetary links and is dependent on India for financial assistance and migrant laborers for development projects, especially for road construction. Bhutan signed a pact in December 2014 to expand duty-free trade with Bangladesh.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Multilateral development organizations administer most educational, social, and environment programs, and take into account the government&#39;s desire to protect the country&#39;s environment and cultural traditions. For example, the government is cautious in its expansion of the tourist sector, restricing visits to environmentally conscientious tourists. Complicated controls and uncertain policies in areas such as industrial licensing, trade, labor, and finance continue to hamper foreign investment.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Bhutan’s largest export - hydropower to India - could spur sustainable growth in the coming years if Bhutan resolves chronic delays in construction. Bhutan’s hydropower exports comprise 40% of total exports and 25% of the government’s total revenue. Bhutan currently taps only 6.5% of its 24,000-megawatt hydropower potential and is behind schedule in building 12 new hydropower dams with a combined capacity of 10,000 megawatts by 2020 in accordance with a deal signed in 2008 with India. The high volume of imported materials to build hydropower plants has expanded Bhutan&#39;s trade and current account deficits. Bhutan also signed a memorandum of understanding with Bangladesh and India in July 2017 to jointly construct a new hydropower plant for exporting electricity to Bangladesh.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$7.205 billion",
+"2016": "$6.71 billion",
+"2015": "$6.252 billion",
+},
+"gdp_official_exchange_rate": "$2.405 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "7.4%",
+"2016": "7.3%",
+"2015": "6.2%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$9,000",
+"2016": "$8,500",
+"2015": "$8,000",
+},
+"gross_national_saving":
+{
+"2017": "40.4% of GDP",
+"2016": "33.3% of GDP",
+"2015": "32% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "58% (2017 est.)",
+"government_consumption": "16.8% (2017 est.)",
+"investment_in_fixed_capital": "47.2% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "26% (2017 est.)",
+"imports_of_goods_and_services": "-48% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "16.2% (2017 est.)",
+"industry": "41.8% (2017 est.)",
+"services": "42% (2017 est.)",
+}, 
+"agriculture_products": "rice, corn, root crops, citrus; dairy products, eggs",
+"industries": "cement, wood products, processed fruits, alcoholic beverages, calcium carbide, tourism",
+"industrial_production_growth_rate": "6.3% (2017 est.)",
+"labor_force": "397,900 (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "58%",
+"industry": "20%",
+"services": "22% (2015 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "3.2%",
+"2016": "3.2%",
+},
+"population_below_poverty_line": "12% (2012 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.8%",
+"highest_10": "30.6% (2012)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2012": "38.8",
+"2007": "38.1",
+},
+"budget": 
+{
+"revenues": "655.3 million (2017 est.)",
+"expenditures": "737.4 million (2017 est.)",
+}, 
+"taxes_and_other_revenues": "27.2% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3.4% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "106.3% of GDP",
+"2016": "114.2% of GDP",
+},
+"fiscal_year": "1 July - 30 June",
+"inflation_rate_consumer_prices":
+{
+"2017": "5.8%",
+"2016": "7.6%",
+},
+"central_bank_discount_rate":
+{
+"2017": "6%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "15%",
+"31 December 2016": "14.15%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$993.5 million",
+"31 December 2016": "$769 million",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$993.5 million",
+"31 December 2016": "$769 million",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$1.535 billion",
+"31 December 2016": "$1.17 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$401.4 million",
+"31 December 2016": "$340.5 million",
+"31 December 2015": "$359.3 million",
+},
+"current_account_balance":
+{
+"2017": "-$547 million",
+"2016": "-$621 million",
+},
+"exports":
+{
+"2017": "$554.6 million",
+"2016": "$495.3 million",
+},
+"exports_partners": "India 95.3% (2017)",
+"exports_commodities": "electricity (to India), ferrosilicon, cement, cardamom, calcium carbide, steel rods/bars, dolomite, gypsum",
+"imports":
+{
+"2017": "$1.025 billion",
+"2016": "$1.03 billion",
+},
+"imports_commodities": "fuel and lubricants, airplanes, machinery and parts, rice, motor vehicles",
+"imports_partners": "India 89.5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$1.206 billion",
+"31 December 2016": "$1.127 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$2.671 billion",
+"31 December 2016": "$2.355 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$160.4 million",
+"31 December 2016": "$168.4 million",
+},
+"exchange_rates": 
+{
+"currency": "ngultrum (BTN) per US dollar -",
+"exchange_rates":
+{
+"2017": "64.97",
+"2016": "67.2",
+"2015": "67.2",
+"2014": "64.15",
+"2013": "61.03",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "7.883 billion kWh (2016 est.)",
+"electricity_consumption": "2.184 billion kWh (2016 est.)",
+"electricity_exports": "5.763 billion kWh (2016 est.)",
+"electricity_imports": "84 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "1.632 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "1% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "99% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "3,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "3,120 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (2016 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "604,900 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "21,364",
+"subscriptions_per_100_inhabitants": "3 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "730,623",
+"subscriptions_per_100_inhabitants": "96 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "urban towns and district headquarters have telecommunications services; telecom sector has been continuing on a steady development path; fixed broadband penetration remains very low, due to the&amp;nbsp;preeminence of the mobile platform; in the next five years to 2023 low to moderate growth is expected from this small base (2018)",
+"domestic": "domestic service inadequate,&amp;nbsp;notably in rural areas; mobile-cellular service, begun in 2003, is now widely available; 3 to 100 fixed-line, 96 to 100 mobile cellular (2018)",
+"international": "country code - 975; international telephone and telegraph service via landline and microwave relay through India; satellite earth station - 1 Intelsat",
+}, 
+"broadcast_media": "state-owned TV station established in 1999; cable TV service offers dozens of Indian and other international channels; first radio station, privately launched in 1973, is now state-owned; 5 private radio stations are currently broadcasting (2012)",
+"internet_country_code": ".bt",
+"internet_users": 
+{
+"total": "313,347",
+"percent_of_population": "41.8% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "16,707",
+"subscriptions_per_100_inhabitants": "2 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "Royal Bhutan Army (includes Royal Bodyguard and Royal Bhutan Police, plus militia) (2018)",
+"military_service_age_and_obligation": "18 years of age for voluntary military service; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period (2012)",
+"military_note": "Bhutan does not have an air force.&amp;nbsp; India is responsible for military training, arms supplies, and the air defense of Bhutan. (2018)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "2 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "6 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "162,864 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "538,041 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "A5 (2016)",
+"airports": "2 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "2 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+"914_to_1_523_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "1 (2012)",
+"914_to_1_523_m": "1 (2012)",
+}, 
+"roadways": 
+{
+"total": "12,205 km (2017)",
+"urban": "437 km (2017)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan&#39;s west along China’s Chumbi salient&lt;/p&gt;",
+}
+}

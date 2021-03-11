@@ -1,0 +1,561 @@
+{
+"name": "Israel",
+"code": "IS",
+"publish_date": "December 26, 2019",
+"introduction": 
+{
+"background": "The State of Israel was declared in 1948, after Britain withdrew from its mandate of Palestine. The UN proposed partitioning the area into Arab and Jewish states, and Arab armies that rejected the UN plan were defeated. Israel was admitted as a member of the UN in 1949 and saw rapid population growth, primarily due to migration from Europe and the Middle East, over the following years. Israel fought wars against its Arab neighbors in 1967 and 1973, followed by peace treaties with Egypt in 1979 and Jordan in 1994. Israel took control of the West Bank and Gaza Strip in the 1967 war, and subsequently administered those territories through military authorities. Israel and Palestinian officials signed a number of interim agreements in the 1990s that created an interim period of Palestinian self-rule in the West Bank and Gaza. Israel withdrew from Gaza in 2005. While the most recent formal efforts to negotiate final status issues occurred in 2013-2014, the US continues its efforts to advance peace. Immigration to Israel continues, with 28,600 new immigrants, mostly Jewish, in 2016. The Israeli economy has undergone a dramatic transformation in the last 25 years, led by cutting-edge, high-tech sectors. Offshore gas discoveries in the Mediterranean, most notably in the Tamar and Leviathan gas fields, place Israel at the center of a potential regional natural gas market. However, longer-term structural issues such as low labor force participation among minority populations, low workforce productivity, high costs for housing and consumer staples, and a lack of competition, remain a concern for many Israelis and an important consideration for Israeli politicians. Prime Minister Benjamin NETANYAHU has led the Israeli Government since 2009; he formed a center-right coalition following the 2015 elections. In December 2018 the Knesset voted to dissolve itself, leading to an election in April 2019. When that election failed to result in formation of a government, Israel held a second election in September 2019, which also failed to result in the formation of a government. On 11 December 2019, the Knesset voted to hold a third election on 2 March 2020.",
+}, 
+"geography": 
+{
+"location": "Middle East, bordering the Mediterranean Sea, between Egypt and Lebanon",
+"geographic_coordinates": "31 30 N, 34 45 E",
+"map_references": "Middle East",
+"area": 
+{
+"total": "21,937 sq km",
+"land": "21,497 sq km",
+"water": "440 sq km",
+}, 
+"area_comparative": "slightly larger than New Jersey",
+"land_boundaries": 
+{
+"total": "1,065 km",
+"border_countries": "Egypt 206 km, Gaza Strip 59 km, Jordan 336 km (20 km are within the Dead Sea), Lebanon 107 km, Syria 79 km, West Bank 278 km",
+}, 
+"coastline": "273 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"continental_shelf": " to depth of exploitation",
+}, 
+"climate": "temperate; hot and dry in southern and eastern desert areas",
+"terrain": "Negev desert in the south; low coastal plain; central mountains; Jordan Rift Valley",
+"elevation": 
+{
+"mean_elevation": "508 m note - does not include elevation data from the Golan Heights",
+"lowest_point": "Dead Sea -431 m",
+"highest_point": "Mitspe Shlagim 2,224 m; note - this is the highest named point, the actual highest point is an unnamed dome slightly to the west of Mitspe Shlagim at 2,236 m; both points are on the northeastern border of Israel, along the southern end of the Anti-Lebanon mountain range",
+}, 
+"natural_resources": "timber, potash, copper ore, natural gas, phosphate rock, magnesium bromide, clays, sand",
+"land_use": 
+{
+"agricultural_land": "23.8% (2011 est.)",
+"agricultural_land_arable_land": "13.7% (2011 est.)",
+"agricultural_land_permanent_crops": "3.8% (2011 est.)",
+"agricultural_land_permanent_pasture": "6.3% (2011 est.)",
+"forest": "7.1% (2011 est.)",
+"other": "69.1% (2011 est.)",
+}, 
+"irrigated_land": "2,250 sq km (2012)",
+"population_distribution": "population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba",
+"natural_hazards": "sandstorms may occur during spring and summer; droughts; periodic earthquakes",
+"environment_current_issues": "limited arable land and restricted natural freshwater resources; desertification; air pollution from industrial and vehicle emissions; groundwater pollution from industrial and domestic waste, chemical fertilizers, and pesticides",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+"signed_but_not_ratified": "Marine Life Conservation",
+}, 
+"geography_note": "&lt;strong&gt;note 1:&lt;/strong&gt; Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti)&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;note 2:&amp;nbsp;&lt;/strong&gt;the Malham Cave in Mount Sodom is the world&#39;s longest salt cave at 10 km (6 mi); its survey is not complete and its length will undoubtedly increase; Mount Sodom is actually a hill some 220 m (722 ft) high that is 80% salt (multiple salt layers covered by a veneer of rock) &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;note 3:&lt;/strong&gt; in March 2019, there were 380 Israeli settlements,to include 213 settlements and 132 outposts in the West Bank, and 35 settlements in East Jerusalem; there are no Israeli settlements in the Gaza Strip, as all were evacuated in 2005 (2019)"
+}, 
+"people_and_society": 
+{
+"population": "8,424,904 (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967) (July 2018 est.)",
+"nationality": 
+{
+"noun": "Israeli(s)",
+"adjective": "Israeli",
+}, 
+"ethnic_groups": "Jewish 74.4% (of which Israel-born 76.9%, Europe/America/Oceania-born 15.9%, Africa-born 4.6%, Asia-born 2.6%), Arab 20.9%, other 4.7% (2018 est.)",
+"languages": "Hebrew (official), Arabic (special status under Israeli law), English (most commonly used foreign language)",
+"religions": "Jewish 74.3%, Muslim 17.8%, Christian 1.9%, Druze 1.6%, other 4.4% (2018 est.)",
+"age_structure": 
+{
+"0_14_years": "27.26% (male 1,175,106 /female 1,121,309)",
+"15_24_years": "15.58% (male 670,121 /female 642,155)",
+"25_54_years": "37.19% (male 1,601,516 /female 1,531,849)",
+"55_64_years": "8.42% (male 350,050 /female 359,578)",
+"65_years_and_over": "11.55% (male 437,511 /female 535,709) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "64.2 (2015 est.)",
+"youth_dependency_ratio": "45.7 (2015 est.)",
+"elderly_dependency_ratio": "18.4 (2015 est.)",
+"potential_support_ratio": "5.4 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "30.1 years (2018 est.)",
+"male": "29.5 years",
+"female": "30.7 years",
+}, 
+"population_growth_rate": "1.49% (2018 est.)",
+"birth_rate": "17.9 births/1,000 population (2018 est.)",
+"death_rate": "5.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "2.1 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba",
+"urbanization": 
+{
+"urban_population": "92.5% of total population (2019)",
+"rate_of_urbanization": "1.64% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "4.097 million Tel Aviv-Yafo, 1.141 million Haifa, 919,000 JERUSALEM (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.05 male(s)/female",
+"55_64_years": "0.97 male(s)/female",
+"65_years_and_over": "0.82 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "27.6 years (2015 est.)",
+"maternal_mortality_rate": "3 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "3.4 deaths/1,000 live births (2018 est.)",
+"male": "3.4 deaths/1,000 live births",
+"female": "3.4 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "82.7 years (2018 est.)",
+"male": "80.8 years",
+"female": "84.7 years",
+}, 
+"total_fertility_rate": "2.63 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "7.3% (2016)",
+"physicians_density": "3.22 physicians/1,000 population (2016)",
+"hospital_bed_density": "3.1 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "100% of population (2015 est.)",
+"improved_rural": "100% of population (2015 est.)",
+"improved_total": "100% of population (2015 est.)",
+"unimproved_urban": "0% of population (2015 est.)",
+"unimproved_rural": "0% of population (2015 est.)",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.2% (2018)",
+"hiv_aids_people_living_with_hiv_aids": "9,000 (2018)",
+"hiv_aids_deaths": " &lt;100 (2018)",
+"obesity_adult_prevalence_rate": "26.1% (2016)",
+"education_expenditures": "5.8% of GDP (2016)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "97.8%",
+"male": "98.7%",
+"female": "96.8% (2011)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "16 years",
+"male": "15 years",
+"female": "17 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "7.3%",
+"male": "6.7%",
+"female": "7.8% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "State of Israel",
+"conventional_short_form": "Israel",
+"local_long_form": "Medinat Yisra&#39;el",
+"local_short_form": "Yisra&#39;el",
+"etymology": "named after the ancient Kingdom of Israel; according to Biblical tradition, the Jewish patriarch Jacob received the name &quot;Israel&quot; (&quot;He who struggles with God&quot;) after he wrestled an entire night with an angel of the Lord; Jacob&#39;s 12 sons became the ancestors of the Israelites, also known as the Twelve Tribes of Israel, who formed the Kingdom of Israel",
+}, 
+"government_type": "parliamentary democracy",
+"capital": 
+{
+"name": "Jerusalem; note - the US recognized Jerusalem as Israel&amp;rsquo;s capital in December 2017 without taking a position on the specific boundaries of Israeli sovereignty",
+"geographic_coordinates": "31 46 N, 35 14 E",
+"time_difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, Friday before the last Sunday in March; ends the last Sunday in October",
+}, 
+"administrative_divisions": "6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv",
+"independence": "14 May 1948 (following League of Nations mandate under British administration)",
+"national_holiday": "Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May",
+"constitution": 
+{
+"history": "no formal constitution; some functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended)",
+"amendments": "proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review; 11 of the 13 Basic Laws have been amended at least once, latest in 2018 (2018)",
+}, 
+"legal_system": "mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; withdrew acceptance of ICCt jurisdiction in 2002",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Israel",
+"dual_citizenship_recognized": "yes, but naturalized citizens are not allowed to maintain dual citizenship",
+"residency_requirement_for_naturalization": "3 out of the 5 years preceding the application for naturalization",
+}, 
+"suffrage": "18 years of age; universal; 17 years of age for municipal elections",
+"executive_branch": 
+{
+"chief_of_state": "President Reuben RIVLIN (since 27 July 2014)",
+"head_of_government": "Prime Minister Binyamin NETANYAHU&amp;nbsp;(since 31 March 2009); note - on 23 October 2019, following the inconclusive 25 September Knesset election, President RIVLIN tasked Benny GANTZ with forming a new government after Prime Minister NETANYAHU was unable to do so",
+"cabinet": "Cabinet selected by prime minister and approved by the Knesset",
+"elections_appointments": "president indirectly elected by the Knesset for a 7-year term (limited to 1 term); election last held on 10 June 2014 (next to be held on 9 April 2019); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a government",
+"election_results": "Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% threshold to gain representation; members serve 4-year terms)",
+"elections": "last held on 17 September 2019; note - on 11 December, the Knesset failed to submit a name for a new prime minister and dissolved itself; new elections are called for 2 March 2020",
+"election_results": "percent by party - Blue and White 26%, Likud 25.1%, Joint List 10.6%, Shas 7.4%, Yisrael Beiteinu 7%, United Torah Judaism 6.1%, Yamina 5.9%, Labor-Gesher 4.8%, Democratic Union 4.3%, other 2.8%; seats by party - Blue and White 33, Likud 32, Joint List 13, Shas 9, Yisrael Beiteinu 8, United Torah Judaism 7, Yamina 7, Labor-Gesher 6, Democratic Union 5; composition - men 92, women 28, percent of women 23%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the chief justice and 14 judges)",
+"judge_selection_and_term_of_office": "judges selected by the Judicial Selection Committee, consisting of 3 Supreme Court judges, 2 Cabinet members including the Minister of Justice as chairman, 2 Knesset members, and 2 representatives from the Israel Bar Association; judges can serve up to mandatory retirement at age 70",
+"subordinate_courts": "Court for Administrative Matters; district and magistrate courts; national and regional labor courts; special and religious courts",
+}, 
+"political_parties_and_leaders": "&lt;p&gt;Democratic Union [Nitzan HOROWITZ] (alliance includes Democratic Israel, Meretz, Green Movement)&lt;br /&gt; Joint List [Ayman ODEH] (alliance includes Hadash, Ta&amp;rsquo;al, United Arab List, Balad)&lt;br /&gt;Kahol Lavan [Benny GANTZ] (alliance includes Israeli Resilience, Yesh Atid, Telem)&lt;br /&gt;Labor-Gesher [Amir PERETZ]&lt;br /&gt; Likud [Binyamin NETANYAHU]&lt;br /&gt;Otzma Yehudit [Itamar BEN-GVIR]&lt;br /&gt; SHAS [Arye DERI]&lt;br /&gt; United Torah Judaism, or UTJ [Yaakov LITZMAN] (alliance includes Agudat Israel and Degel HaTorah)&lt;br /&gt;Yamina [Ayelet SHAKED]&lt;br /&gt; Yisrael Beiteinu [Avigdor LIEBERMAN]&lt;br /&gt;Zehut [Moshe FEIGLIN]&lt;/p&gt;",
+"international_organization_participation": "BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Ron DERMER (since 3 December 2013)",
+"chancery": "3514 International Drive NW, Washington, DC 20008",
+"telephone": "[1] (202) 364-5500",
+"fax": "[1] (202) 364-5607",
+"consulate_s_general": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador David M. FRIEDMAN (since 23 May 2017)",
+"telephone": "[972] (2) 630-4000",
+"embassy": "David Flusser St.14, Jerusalem, 9378322",
+"fax": "NA",
+}, 
+"flag_description": "white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times",
+"national_symbol_s": "Star of David (Magen David), menorah (seven-branched lampstand); national colors: blue, white",
+"national_anthem": 
+{
+"name": "&quot;Hatikvah&quot; (The Hope)",
+"lyrics_music": "Naftali Herz IMBER/traditional, arranged by Samuel COHEN",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Israel has a technologically advanced free market economy. Cut diamonds, high-technology equipment, and pharmaceuticals are among its leading exports. Its major imports include crude oil, grains, raw materials, and military equipment. Israel usually posts sizable trade deficits, which are offset by tourism and other service exports, as well as significant foreign investment inflows.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Between 2004 and 2013, growth averaged nearly 5% per year, led by exports. The global financial crisis of 2008-09 spurred a brief recession in Israel, but the country entered the crisis with solid fundamentals, following years of prudent fiscal policy and a resilient banking sector. Israel&#39;s economy also weathered the 2011 Arab Spring because strong trade ties outside the Middle East insulated the economy from spillover effects.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Slowing domestic and international demand and decreased investment resulting from Israel’s uncertain security situation reduced GDP growth to an average of roughly 2.8% per year during the period 2014-17. Natural gas fields discovered off Israel&#39;s coast since 2009 have brightened Israel&#39;s energy security outlook. The Tamar and Leviathan fields were some of the world&#39;s largest offshore natural gas finds in the last decade. Political and regulatory issues have delayed the development of the massive Leviathan field, but production from Tamar provided a 0.8% boost to Israel&#39;s GDP in 2013 and a 0.3% boost in 2014. One of the most carbon intense OECD countries, Israel generates about 57% of its power from coal and only 2.6% from renewable sources.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Income inequality and high housing and commodity prices continue to be a concern for many Israelis. Israel&#39;s income inequality and poverty rates are among the highest of OECD countries, and there is a broad perception among the public that a small number of &quot;tycoons&quot; have a cartel-like grip over the major parts of the economy. Government officials have called for reforms to boost the housing supply and to increase competition in the banking sector to address these public grievances. Despite calls for reforms, the restricted housing supply continues to impact younger Israelis seeking to purchase homes. Tariffs and non-tariff barriers, coupled with guaranteed prices and customs tariffs for farmers kept food prices high in 2016. Private consumption is expected to drive growth through 2018, with consumers benefitting from low inflation and a strong currency.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In the long term, Israel faces structural issues including low labor participation rates for its fastest growing social segments - the ultraorthodox and Arab-Israeli communities. Also, Israel&#39;s progressive, globally competitive, knowledge-based technology sector employs only about 8% of the workforce, with the rest mostly employed in manufacturing and services - sectors which face downward wage pressures from global competition. Expenditures on educational institutions remain low compared to most other OECD countries with similar GDP per capita.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$317.1 billion",
+"2016": "$307 billion",
+"2015": "$295.3 billion",
+},
+"gdp_official_exchange_rate": "$350.7 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.3%",
+"2016": "4%",
+"2015": "2.6%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$36,400",
+"2016": "$35,900",
+"2015": "$35,200",
+},
+"gross_national_saving":
+{
+"2017": "23.6% of GDP",
+"2016": "24.2% of GDP",
+"2015": "25% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "55.1% (2017 est.)",
+"government_consumption": "22.8% (2017 est.)",
+"investment_in_fixed_capital": "20.1% (2017 est.)",
+"investment_in_inventories": "0.7% (2017 est.)",
+"exports_of_goods_and_services": "28.9% (2017 est.)",
+"imports_of_goods_and_services": "-27.5% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "2.4% (2017 est.)",
+"industry": "26.5% (2017 est.)",
+"services": "69.5% (2017 est.)",
+}, 
+"agriculture_products": "citrus, vegetables, cotton; beef, poultry, dairy products",
+"industries": "high-technology products (including aviation, communications, computer-aided design and manufactures, medical electronics, fiber optics), wood and paper products, potash and phosphates, food, beverages, and tobacco, caustic soda, cement, pharmaceuticals, construction, metal products, chemical products, plastics, cut diamonds, textiles, footwear",
+"industrial_production_growth_rate": "3.5% (2017 est.)",
+"labor_force": "4.021 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "1.1%",
+"industry": "17.3%",
+"services": "81.6% (2015 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "4.2%",
+"2016": "4.8%",
+},
+"population_below_poverty_line": "22% (2014 est.) (2014 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.7%",
+"highest_10": "31.3% (2010)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2013": "42.8",
+"2008": "39.2",
+},
+"budget": 
+{
+"revenues": "93.11 billion (2017 est.)",
+"expenditures": "100.2 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "26.5% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-2% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "60.9% of GDP",
+"2016": "62.3% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.2%",
+"2016": "-0.5%",
+},
+"central_bank_discount_rate":
+{
+"15 December 2015": "0.1%",
+"31 December 2014": "0.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "3.5%",
+"31 December 2016": "3.42%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$100.4 billion",
+"31 December 2016": "$79.58 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$100.4 billion",
+"31 December 2016": "$79.58 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$290.7 billion",
+"31 December 2016": "$257.4 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$243.9 billion",
+"31 December 2014": "$200.5 billion",
+"31 December 2013": "$203.3 billion",
+},
+"current_account_balance":
+{
+"2017": "$10.12 billion",
+"2016": "$11.94 billion",
+},
+"exports":
+{
+"2017": "$58.67 billion",
+"2016": "$56.17 billion",
+},
+"exports_partners": "US 28.8%, UK 8.2%, Hong Kong 7%, China 5.4%, Belgium 4.5% (2017)",
+"exports_commodities": "machinery and equipment, software, cut diamonds, agricultural products, chemicals, textiles and apparel",
+"imports":
+{
+"2017": "$68.61 billion",
+"2016": "$63.9 billion",
+},
+"imports_commodities": "raw materials, military equipment, investment goods, rough diamonds, fuels, grain, consumer goods",
+"imports_partners": "US 11.7%, China 9.5%, Switzerland 8%, Germany 6.8%, UK 6.2%, Belgium 5.9%, Netherlands 4.2%, Turkey 4.2%, Italy 4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$113 billion",
+"31 December 2016": "$95.45 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$88.66 billion",
+"31 December 2016": "$87.96 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$129.1 billion",
+"31 December 2016": "$107.3 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$100.3 billion",
+"31 December 2016": "$98.11 billion",
+},
+"exchange_rates": 
+{
+"currency": "new Israeli shekels (ILS) per US dollar -",
+"exchange_rates":
+{
+"2017": "3.606",
+"2016": "3.8406",
+"2015": "3.8406",
+"2014": "3.8869",
+"2013": "3.5779",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "63.09 billion kWh (2016 est.)",
+"electricity_consumption": "55 billion kWh (2016 est.)",
+"electricity_exports": "5.2 billion kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "17.59 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "95% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "5% of total installed capacity (2017 est.)",
+"crude_oil_production": "390 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2017 est.)",
+"crude_oil_imports": "231,600 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "12.73 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "294,300 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "242,200 bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "111,700 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "98,860 bbl/day (2017 est.)",
+"natural_gas_production": "9.826 billion cu m (2017 est.)",
+"natural_gas_consumption": "9.995 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "509.7 million cu m (2017 est.)",
+"natural_gas_proved_reserves": "176 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "73.82 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "3.24 million",
+"subscriptions_per_100_inhabitants": "39 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "10.54 million",
+"subscriptions_per_100_inhabitants": "127 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "most highly developed system in the Middle East; mobile broadband 100% population penetration; consumers enjoy inexpensive 3G services; 4G cellular service;&amp;nbsp;fixed broadband available to 99% of all households (2019)",
+"domestic": "good system of coaxial cable and microwave radio relay; all systems are digital; competition among both fixed-line and mobile cellular providers results in good coverage countrywide; fixed-line 39 per 100 and 127 per 100 for mobile-cellular subscriptions (2019)",
+"international": "country code - 972; landing points for the MedNautilus Submarine System, Tameres North, Jonah and Lev Submarine System submarine cables provide links to Europe, Cyprus, and parts of the Middle East; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)",
+}, 
+"broadcast_media": "the Israel Broadcasting Corporation (est 2015) broadcasts on&amp;nbsp;3 channels,&amp;nbsp;two in Hebrew and the other in Arabic; multi-channel satellite and cable TV packages provide access to foreign channels; the Israeli Broadcasting Corporation broadcasts on 8 radio networks with multiple repeaters and Israel Defense Forces Radio broadcasts over multiple stations; about 15 privately owned radio stations; overall more than 100 stations and repeater stations (2019)",
+"internet_country_code": ".il",
+"internet_users": 
+{
+"total": "6,521,539",
+"percent_of_population": "79.8% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "2.342 million",
+"subscriptions_per_100_inhabitants": "28 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2017": "5.1% of GDP",
+"2016": "5.3% of GDP",
+"2015": "5.3% of GDP",
+"2014": "5.6% of GDP",
+"2013": "5.6% of GDP",
+},
+"military_and_security_forces": "Israel Defense Forces (IDF); Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense) (2019)",
+"military_service_age_and_obligation": "18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9-year service; reserve obligation to age 41-51 (men), age 24 (women) (2015)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "6 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "60 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "6,064,478 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "758,633,996 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "4X (2016)",
+"airports": "47 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "29 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "5 (2017)",
+"1_524_to_2_437_m": "6 (2017)",
+"914_to_1_523_m": "11 (2017)",
+"under_914_m": "5 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "18 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "3 (2013)",
+"under_914_m": "14 (2013)",
+}, 
+"heliports": "3 (2013)",
+"pipelines": "763 km gas, 442 km oil, 261 km refined products (2013)",
+"railways": 
+{
+"total": "1,384 km (2014)",
+"standard_gauge": "1,384 km 1.435-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "19,555 km (2017)",
+"paved": "19,555 km (includes 449 km of expressways) (2017)",
+}, 
+"merchant_marine": 
+{
+"total": "42",
+"by_type": "container ship 5, general cargo 5, oil tanker 3, other 29 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Ashdod, Elat (Eilat), Hadera, Haifa",
+"container_port_s_teus": "Ashdod (1,443,000) (2016)",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_home_based": "&lt;strong&gt;aim(s):&lt;/strong&gt; expel Arabs from Israel&#39;s biblical lands and, ultimately, restore the biblical state of Israel&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; Israel and West Bank settlements&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; considered to be operationally inactive in recent years ( 2018)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;West Bank and Gaza Strip are Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; Israel continues construction of a &quot;seam line&quot; separation barrier along parts of the Green Line and within the West Bank; Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005; Golan Heights is Israeli-controlled (Lebanon claims the Shab&#39;a Farms area of Golan Heights); since 1948, about 350 peacekeepers from the UN Truce Supervision Organization headquartered in Jerusalem monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "14,516 (Eritrea) (2018), 7,857 (Ukraine) (2019)",
+"stateless_persons": "42 (2018)",
+}, 
+"illicit_drugs": "increasingly concerned about ecstasy, cocaine, and heroin abuse; drugs arrive in country from Lebanon and, increasingly, from Jordan; money-laundering center",
+}
+}

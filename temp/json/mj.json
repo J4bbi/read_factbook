@@ -1,0 +1,532 @@
+{
+"name": "Montenegro",
+"code": "MJ",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "The use of the name Crna Gora or Black Mountain (Montenegro) began in the 13th century in reference to a highland region in the Serbian province of Zeta. The later medieval state of Zeta maintained its existence until 1496 when Montenegro finally fell under Ottoman rule. Over subsequent centuries, Montenegro managed to maintain a level of autonomy within the Ottoman Empire. From the 16th to 19th centuries, Montenegro was a theocracy ruled by a series of bishop princes; in 1852, it transformed into a secular principality. Montenegro was recognized as an independent sovereign principality at the Congress of Berlin in 1878. After World War I, during which Montenegro fought on the side of the Allies, Montenegro was absorbed by the Kingdom of Serbs, Croats, and Slovenes, which became the Kingdom of Yugoslavia in 1929. At the conclusion of World War II, it became a constituent republic of the Socialist Federal Republic of Yugoslavia. When the latter dissolved in 1992, Montenegro joined with Serbia, creating the Federal Republic of Yugoslavia and, after 2003, shifting to a looser State Union of Serbia and Montenegro. In May 2006, Montenegro invoked its right under the Constitutional Charter of Serbia and Montenegro to hold a referendum on independence from the two-state union. The vote for severing ties with Serbia barely exceeded 55% - the threshold set by the EU - allowing Montenegro to formally restore its independence on 3 June 2006. In 2017, Montenegro joined NATO and is currently completing its EU accession process, having officially applied to join the EU in December 2008.",
+}, 
+"geography": 
+{
+"location": "Southeastern Europe, between the Adriatic Sea and Serbia",
+"geographic_coordinates": "42 30 N, 19 18 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "13,812 sq km",
+"land": "13,452 sq km",
+"water": "360 sq km",
+}, 
+"area_comparative": "slightly smaller than Connecticut; slightly larger than twice the size of Delaware",
+"land_boundaries": 
+{
+"total": "680 km",
+"border_countries": "Albania 186 km, Bosnia and Herzegovina 242 km, Croatia 19 km, Kosovo 76 km, Serbia 157 km",
+}, 
+"coastline": "293.5 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"continental_shelf": " defined by treaty",
+}, 
+"climate": "Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland",
+"terrain": "highly indented coastline with narrow coastal plain backed by rugged high limestone mountains and plateaus",
+"elevation": 
+{
+"mean_elevation": "1,086 m",
+"lowest_point": "Adriatic Sea 0 m",
+"highest_point": "Bobotov Kuk 2,522 m",
+}, 
+"natural_resources": "bauxite, hydroelectricity",
+"land_use": 
+{
+"agricultural_land": "38.2% (2011 est.)",
+"agricultural_land_arable_land": "12.9% (2011 est.)",
+"agricultural_land_permanent_crops": "1.2% (2011 est.)",
+"agricultural_land_permanent_pasture": "24.1% (2011 est.)",
+"forest": "40.4% (2011 est.)",
+"other": "21.4% (2011 est.)",
+}, 
+"irrigated_land": "24 sq km (2012)",
+"population_distribution": "highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area",
+"natural_hazards": "destructive earthquakes",
+"environment_current_issues": "pollution of coastal waters from sewage outlets, especially in tourist-related areas such as Kotor; serious air pollution in Podgorica, Pljevlja and Niksie; air pollution in Pljevlja is caused by the nearby lignite power plant and the domestic use of coal and wood for household heating",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "strategic location along the Adriatic coast",
+}, 
+"people_and_society": 
+{
+"population": "614,249 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Montenegrin(s)",
+"adjective": "Montenegrin",
+}, 
+"ethnic_groups": "Montenegrin 45%, Serbian 28.7%, Bosniak 8.7%, Albanian 4.9%, Muslim 3.3%, Romani 1%, Croat 1%, other 2.6%, unspecified 4.9% (2011 est.)",
+"languages": "Serbian 42.9%, Montenegrin (official) 37%, Bosnian 5.3%, Albanian 5.3%, Serbo-Croat 2%, other 3.5%, unspecified 4% (2011 est.)",
+"religions": "Orthodox 72.1%, Muslim 19.1%, Catholic 3.4%, atheist 1.2%, other 1.5%, unspecified 2.6% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "18.22% (male 58,219 /female 53,718)",
+"15_24_years": "13.05% (male 41,406 /female 38,755)",
+"25_54_years": "40.16% (male 122,940 /female 123,746)",
+"55_64_years": "13.47% (male 40,661 /female 42,089)",
+"65_years_and_over": "15.09% (male 39,899 /female 52,816) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "47.8 (2015 est.)",
+"youth_dependency_ratio": "27.3 (2015 est.)",
+"elderly_dependency_ratio": "20.5 (2015 est.)",
+"potential_support_ratio": "4.9 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "38.9 years (2018 est.)",
+"male": "37.4 years",
+"female": "40.4 years",
+}, 
+"population_growth_rate": "-0.34% (2018 est.)",
+"birth_rate": "11.9 births/1,000 population (2018 est.)",
+"death_rate": "10.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-4.9 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area",
+"urbanization": 
+{
+"urban_population": "67.2% of total population (2019)",
+"rate_of_urbanization": "0.54% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "177,000 PODGORICA (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.04 male(s)/female",
+"0_14_years": "1.08 male(s)/female",
+"15_24_years": "1.07 male(s)/female",
+"25_54_years": "0.99 male(s)/female",
+"55_64_years": "0.97 male(s)/female",
+"65_years_and_over": "0.76 male(s)/female",
+"total_population": "0.97 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "26.3 years (2010 est.)",
+"maternal_mortality_rate": "6 deaths/100,000 live births (2017 est.)",
+"contraceptive_prevalence_rate": "23.3% (2013)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "99.2% of population",
+"improved_total": "99.7% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0.8% of population",
+"unimproved_total": "0.3% of population (2015 est.)",
+}, 
+"current_health_expenditure": "7.6% (2016)",
+"physicians_density": "2.33 physicians/1,000 population (2015)",
+"hospital_bed_density": "4 beds/1,000 population (2012)",
+"sanitation_facility_access": 
+{
+"improved_urban": "98% of population (2015 est.)",
+"improved_rural": "92.2% of population (2015 est.)",
+"improved_total": "95.9% of population (2015 est.)",
+"unimproved_urban": "2% of population (2015 est.)",
+"unimproved_rural": "7.8% of population (2015 est.)",
+"unimproved_total": "4.1% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": " &lt;500 (2018 est.)",
+"hiv_aids_deaths": " &lt;100 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "intermediate (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea (2016)",
+"vectorborne_diseases": "Crimean-Congo hemorrhagic fever (2016)",
+}, 
+"obesity_adult_prevalence_rate": "23.3% (2016)",
+"children_under_the_age_of_5_years_underweight": "1% (2013)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "98.7%",
+"male": "99.5%",
+"female": "98% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "15 years",
+"female": "15 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "31.7%",
+"male": "30.7%",
+"female": "33.1% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Montenegro",
+"local_long_form": "none",
+"local_short_form": "Crna Gora",
+"former": "People&#39;s Republic of Montenegro, Socialist Republic of Montenegro, Republic of Montenegro",
+"etymology": "the country&#39;s name locally as well as in most Western European languages means &quot;black mountain&quot; and refers to the dark coniferous forests on Mount Lovcen and the surrounding area",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Podgorica; note - Cetinje retains the status of &quot;Old Royal Capital&quot;",
+"geographic_coordinates": "42 26 N, 19 16 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1 hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "24 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg-Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnijica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Tuzi, Ulcinj, Zabljak",
+"independence": "3 June 2006 (from the State Union of Serbia and Montenegro); notable earlier dates: 13 March 1852 (Principality of Montenegro established); 13 July 1878 (Congress of Berlin recognizes Montenegrin independence); 28 August 1910 (Kingdom of Montenegro established)",
+"national_holiday": "National Day, 13 July (1878, the day the Berlin Congress recognized Montenegro as the 27th independent state in the world, and 1941, the day the Montenegrins staged an uprising against fascist occupiers and sided with the partisan communist movement)",
+"constitution": 
+{
+"history": "several previous; latest adopted 22 October 2007",
+"amendments": "proposed by the president of Montenegro, by the government, or by at least 25 members of the Assembly; passage of draft proposals requires two-thirds majority vote of the Assembly, followed by a public hearing; passage of draft amendments requires two-thirds majority vote of the Assembly; changes to certain constitutional articles, such as sovereignty, state symbols, citizenship, and constitutional change procedures, require three-fifths majority vote in a referendum; amended 2013, 2014 (2016)",
+}, 
+"legal_system": "civil law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Montenegro",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Milo DJUKANOVIC (since 20 May 2018)",
+"head_of_government": "Prime Minister Dusko MARKOVIC (since 28 November 2016)",
+"cabinet": "Ministers act as cabinet",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 15 April 2018 (next to be held in 2023); prime minister nominated by the president, approved by the Assembly",
+"election_results": "Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)",
+"elections": "last held on 16 October 2016 (next to be held by October 2020)",
+"election_results": "percent of vote by party/coalition - DPS 41.4%, DF 20.3%, Key Coalition, 11.1%, DCG 10.0%, SDP 5.2%, SD 3.3%, BS, 3.2%, Albanians Decisively 1.3%, HGI .5%, other 3.7%; seats by party/coalition - DPS 36, DF 18, Key Coalition 9, DCG 8, SDP 4, SD 2, BS 2, Albanians Decisively 1, HGI 1; composition - men 62, women 19, percent of women 23.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)",
+"judge_selection_and_term_of_office": "Supreme Court president proposed by general session of the Supreme Court and elected by the Judicial Council, a 9-member body consisting of judges, lawyers designated by the Assembly, and the minister of judicial affairs; Supreme Court president elected for a single renewable, 5-year term; other judges elected by the Judicial Council for life; Constitutional Court judges - 2 proposed by the president of Montenegro and 5 by the Assembly, and elected by the Assembly; court president elected from among the court members; court president elected for a 3-year term, other judges serve 9-year terms",
+"subordinate_courts": "Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts",
+}, 
+"political_parties_and_leaders": "Albanians Decisively [Genci NIMANBEGU] (electoral coalition included FORCA, AA, DUA)&lt;br /&gt;Albanian Alternative or AA [Nik DJELOSAJ]&lt;br /&gt;Bosniak Party or BS [Rafet HUSOVIC]&lt;br /&gt;Croatian Civic Initiative or HGI [Marija VUCINOVIC]&lt;br /&gt;Democratic Alliance or DEMOS [Miodrag LEKIC]&lt;br /&gt;Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)&lt;br /&gt;Democratic Montenegro or DCG [Aleksa BECIC]&lt;br /&gt;Democratic Party of Socialists or DPS [Milo DJUKANOVIC]&lt;br /&gt;Democratic People&#39;s Party or DNP [Milan KNEZEVIC]&lt;br /&gt;Democratic Union of Albanians or DUA [Mehmet ZENKA]&lt;br /&gt;Key Coalition [Miodrag LEKIC] (includes DEMOS, SNP, URA]&lt;br /&gt;Liberal Party or LP [Andrija POPOVIC]&lt;br /&gt;Movement for Change or PZP [Nebojsa MEDOJEVIC]&lt;br /&gt;New Democratic Power or FORCA [Nazif CUNGU]&lt;br /&gt;New Serb Democracy or NOVA [Andrija MANDIC]&lt;br /&gt;Social Democratic Party or SDP [Ranko KRIVOKAPIC]&lt;br /&gt;Social Democrats or SD [Ivan BRAJOVIC]&lt;br /&gt;Socialist People&#39;s Party or SNP [Vladimir JOKOVIC]&lt;br /&gt;True Montenegro or PRAVA [Marko MILACIC]&lt;br /&gt;United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)&lt;br /&gt;United Reform Action or URA [Dritan ABAZOVIC]&lt;br /&gt;Workers&#39; Party or RP [Janko VUCINIC]",
+"international_organization_participation": "CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Nebojsa KALUDEROVIC (since 18 January 2017)",
+"chancery": "1610 New Hampshire Avenue NW, Washington, DC, 20009",
+"telephone": "[1] (202) 234-6108",
+"fax": "[1] (202) 234-6109",
+"consulate_s_general": "New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Judy Rising REINKE (since 20 December 2018)",
+"telephone": "[382]&amp;nbsp; 20-410-500",
+"embassy": "Dzona Dzeksona 2, 81000 Podgorica, Montenegro",
+"mailing_address": "use embassy street address",
+"fax": "[382]&amp;nbsp; 20-241-358",
+}, 
+"flag_description": "a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered; the arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is a symbol of episcopal authority and harkens back to the three and a half centuries when Montenegro was ruled as a theocracy",
+"national_symbol_s": "double-headed eagle; national colors: red, gold",
+"national_anthem": 
+{
+"name": "&quot;Oj, svijetla majska zoro&quot; (Oh, Bright Dawn of May)",
+"lyrics_music": "Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Montenegro&#39;s economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$11.08 billion",
+"2016": "$10.63 billion",
+"2015": "$10.32 billion",
+},
+"gdp_official_exchange_rate": "$4.784 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.3%",
+"2016": "2.9%",
+"2015": "3.4%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$17,800",
+"2016": "$17,100",
+"2015": "$16,600",
+},
+"gross_national_saving":
+{
+"2017": "13.2% of GDP",
+"2016": "9.9% of GDP",
+"2015": "9.1% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "76.8% (2016 est.)",
+"government_consumption": "19.6% (2016 est.)",
+"investment_in_fixed_capital": "23.2% (2016 est.)",
+"investment_in_inventories": "2.9% (2016 est.)",
+"exports_of_goods_and_services": "40.5% (2016 est.)",
+"imports_of_goods_and_services": "-63% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "7.5% (2016 est.)",
+"industry": "15.9% (2016 est.)",
+"services": "76.6% (2016 est.)",
+}, 
+"agriculture_products": "tobacco, potatoes, citrus fruits, olives and related products, grapes; sheep, wine",
+"industries": "steelmaking, aluminum, agricultural processing, consumer goods, tourism",
+"industrial_production_growth_rate": "-4.2% (2017 est.)",
+"labor_force": "273,200 (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "7.9%",
+"industry": "17.1%",
+"services": "75% (2017 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "16.1%",
+"2016": "17.1%",
+},
+"population_below_poverty_line": "8.6% (2013 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.5%",
+"highest_10": "25.7% (2014 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2014": "31.9",
+"2013": "32.3",
+},
+"budget": 
+{
+"revenues": "1.78 billion (2017 est.)",
+"expenditures": "2.05 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "37.2% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-5.6% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "67.2% of GDP",
+"2016": "66.4% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "2.4%",
+"2016": "-0.3%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "6.81%",
+"31 December 2016": "7.45%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2016": "$1.284 billion",
+"31 December 2015": "$1.072 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2016": "$2.37 billion",
+"31 December 2015": "$2.235 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$3.239 billion",
+"31 December 2016": "$2.547 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$3.425 billion",
+"31 December 2016": "$3.027 billion",
+"31 December 2015": "$3.246 billion",
+},
+"current_account_balance":
+{
+"2017": "-$780 million",
+"2016": "-$710 million",
+},
+"exports":
+{
+"2017": "$422.2 million",
+"2016": "$362 million",
+},
+"imports":
+{
+"2017": "$2.618 billion",
+"2016": "$2.29 billion",
+},
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$1.077 billion",
+"31 December 2016": "$846.5 million",
+},
+"debt_external":
+{
+"31 December 2017": "$2.516 billion",
+"31 December 2016": "$2.224 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$737.7 million",
+"31 December 2016": "$763.4 million",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$39.77 million",
+"31 December 2016": "$213.1 million",
+},
+"exchange_rates": 
+{
+"currency": "euros (EUR) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.885",
+"2016": "0.903",
+"2015": "0.9214",
+"2014": "0.885",
+"2013": "0.7634",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "3.045 billion kWh (2016 est.)",
+"electricity_consumption": "2.808 billion kWh (2016 est.)",
+"electricity_exports": "914 million kWh (2016 est.)",
+"electricity_imports": "1.21 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "890,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "23% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "69% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "8% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "6,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "357 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "6,448 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (2016 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "2.287 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "152,155",
+"subscriptions_per_100_inhabitants": "24 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "1,044,674",
+"subscriptions_per_100_inhabitants": "163 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern telecommunications system with access to European satellites; telecom sector in-line with EU norms which means competition, access and tariff structures; DSL, cable, leased line, fiber and wireless; seasonal tourist have boosted mobile penetration; LTE technologies available (2018)",
+"domestic": "GSM mobile-cellular service, available through multiple providers with national coverage, is growing; fixed-line 24 per 100 and mobile-cellular 163 per 100 persons (2018)",
+"international": "country code - 382; 2 international switches connect the national system",
+}, 
+"broadcast_media": "state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks;&amp;nbsp;4 local public TV stations and 14 private TV stations; 14 local public radio stations, 35 private radio stations, and&amp;nbsp;several on-line media (2019)",
+"internet_country_code": ".me",
+"internet_users": 
+{
+"total": "450,442",
+"percent_of_population": "69.9% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "137,426",
+"subscriptions_per_100_inhabitants": "21 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "1.66% of GDP",
+"2018": "1.39% of GDP",
+"2017": "1.35% of GDP",
+"2016": "1.42% of GDP",
+"2015": "1.4% of GDP",
+},
+"military_and_security_forces": "Armed Forces of the Republic of Montenegro: Army of Montenegro (includes Ground Troops (Kopnena Vojska), Montenegrin Navy (Mornarica Crne Gore, MCG)), Air Force (2019)",
+"military_service_age_and_obligation": "18 is the legal minimum age for voluntary military service; no conscription (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "6 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "526,980 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "4O (2016)",
+"airports": "5 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "5 (2017)",
+"2_438_to_3_047_m": "2 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+"914_to_1_523_m": "1 (2017)",
+"under_914_m": "1 (2017)",
+}, 
+"heliports": "1 (2012)",
+"railways": 
+{
+"total": "250 km (2017)",
+"standard_gauge": "250 km 1.435-m gauge (224 km electrified) (2017)",
+}, 
+"roadways": 
+{
+"total": "7,762 km (2010)",
+"paved": "7,141 km (2010)",
+"unpaved": "621 km (2010)",
+}, 
+"merchant_marine": 
+{
+"total": "12",
+"by_type": "bulk carrier 4, other 8 (2018)",
+}, 
+"ports_and_terminals": "Bar",
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": "&lt;br /&gt;&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its networks in Montenegro for recruitment and fundraising&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains a limited presence; membership drastically depleted in March 2016 when authorities expelled 58 foreign members (2018)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Kosovo ratified the border demarcation agreement with Montenegro in March 2018, but the actual demarcation has not been completed&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "145 (2018)",
+}
+}

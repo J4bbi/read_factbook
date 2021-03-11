@@ -1,0 +1,217 @@
+Country Comparison :: Roadways
+
+1       United States                                                6,586,610        2012
+2       China                                                        4,960,600        2017
+3       India                                                        4,699,024        2015
+4       Brazil                                                       2,000,000        2018
+5       Russia                                                       1,283,387        2012
+6       Japan                                                        1,218,772        2015
+7       France                                                       1,053,215        2011
+8       Canada                                                       1,042,300        2011
+9       Australia                                                      873,573        2015
+10      South Africa                                                   750,000        2016
+11      Spain                                                          683,175        2011
+12      Germany                                                        625,000        2017
+13      Sweden                                                         573,134        2016
+14      Indonesia                                                      496,607        2011
+15      Italy                                                          487,700        2007
+16      Finland                                                        454,000        2012
+17      Poland                                                         420,000        2016
+18      Mexico                                                         398,148        2017
+19      United Kingdom                                                 394,428        2009
+20      Bangladesh                                                     369,105        2018
+21      Argentina                                                      281,290        2017
+22      Pakistan                                                       263,775        2019
+23      Iran                                                           223,485        2018
+24      Saudi Arabia                                                   221,372        2006
+25      Philippines                                                    216,387        2014
+26      Colombia                                                       206,500        2016
+27      Hungary                                                        203,601        2014
+28      Vietnam                                                        195,468        2013
+29      Nigeria                                                        195,000        2017
+30      Thailand                                                       180,053        2006
+31      Kenya                                                          177,800        2018
+32      Ukraine                                                        169,694        2012
+33      Burma                                                          157,000        2013
+34      Congo, Democratic Republic of the                              152,373        2015
+35      Malaysia                                                       144,403        2010
+36      Peru                                                           140,672        2012
+37      Netherlands                                                    139,124        2016
+38      Mali                                                           139,107        2018
+39      Austria                                                        137,039        2018
+40      Ethiopia                                                       120,171        2018
+41      Belgium                                                        118,414        2015
+42      Greece                                                         117,000        2018
+43      Sri Lanka                                                      114,093        2010
+44      Mongolia                                                       113,200        2017
+45      Ghana                                                          109,515        2009
+46      Algeria                                                        104,000        2015
+47      Korea, South                                                   100,428        2016
+48      Ireland                                                         99,830        2018
+49      Zimbabwe                                                        97,267        2019
+50      Venezuela                                                       96,189        2014
+51      Kazakhstan                                                      95,409        2017
+52      Norway                                                          94,902        2018
+53      New Zealand                                                     94,000        2017
+54      Bolivia                                                         90,568        2017
+55      Tanzania                                                        87,581        2015
+56      Belarus                                                         86,600        2017
+57      Uzbekistan                                                      86,496        2000
+58      Romania                                                         84,185        2012
+59      Lithuania                                                       84,166        2012
+60      Portugal                                                        82,900        2008
+61      Cote d'Ivoire                                                   81,996        2007
+62      Chile                                                           77,801        2016
+63      Uruguay                                                         77,732        2010
+64      Cameroon                                                        77,589        2016
+65      Paraguay                                                        74,676        2017
+66      Denmark                                                         74,558        2017
+67      Switzerland                                                     71,557        2017
+68      Yemen                                                           71,300        2005
+69      Latvia                                                          70,244        2018
+70      Syria                                                           69,873        2010
+71      Zambia                                                          67,671        2018
+72      Turkey                                                          67,333        2018
+73      Egypt                                                           65,050        2017
+74      Oman                                                            60,230        2012
+75      Cuba                                                            60,000        2015
+76      Iraq                                                            59,623        2012
+77      Turkmenistan                                                    58,592        2002
+78      Estonia                                                         58,412        2011
+79      Morocco                                                         57,300        2018
+80      Slovakia                                                        56,926        2016
+81      Czechia                                                         55,744        2019
+82      Namibia                                                         48,875        2018
+83      Cambodia                                                        47,263        2013
+84      Guinea                                                          44,301        2018
+85      Serbia                                                          44,248        2016
+86      Ecuador                                                         43,216        2015
+87      Taiwan                                                          43,206        2017
+88      Chad                                                            40,000        2018
+89      Laos                                                            39,586        2009
+90      Slovenia                                                        38,985        2012
+91      Libya                                                           37,000        2010
+92      Afghanistan                                                     34,903        2017
+93      Kyrgyzstan                                                      34,000        2018
+94      Botswana                                                        31,747        2017
+95      Madagascar                                                      31,640        2018
+96      Mozambique                                                      31,083        2015
+97      Tajikistan                                                      30,000        2018
+98      Nepal                                                           27,990        2016
+99      Croatia                                                         26,958        2015
+100     Puerto Rico                                                     26,862        2012
+101     Angola                                                          26,000        2018
+102     Korea, North                                                    25,554        2006
+103     Azerbaijan                                                      24,981        2013
+104     Central African Republic                                        24,000        2018
+105     Nicaragua                                                       23,897        2014
+106     Congo, Republic of the                                          23,324        2017
+107     Bosnia and Herzegovina                                          22,926        2010
+108     Jamaica                                                         22,121        2011
+109     Lebanon                                                         21,705        2017
+110     Uganda                                                          20,544        2017
+111     Georgia                                                         20,295        2018
+112     Cyprus                                                          19,901        2016
+113     Dominican Republic                                              19,705        2002
+114     Israel                                                          19,555        2017
+115     Bulgaria                                                        19,512        2011
+116     Niger                                                           18,949        2010
+117     Guatemala                                                       17,621        2016
+118     Senegal                                                         16,665        2017
+119     Benin                                                           16,000        2006
+120     Eritrea                                                         16,000        2018
+121     Malawi                                                          15,452        2015
+122     Burkina Faso                                                    15,304        2014
+123     Honduras                                                        14,742        2012
+124     Gabon                                                           14,300        2001
+125     Macedonia                                                       14,182        2017
+126     Iceland                                                         12,898        2012
+127     Burundi                                                         12,322        2016
+128     Mauritania                                                      12,253        2018
+129     Bhutan                                                          12,205        2017
+130     Liberia                                                         10,600        2018
+131     Moldova                                                          9,352        2012
+132     Papua New Guinea                                                 9,349        2011
+133     El Salvador                                                      9,012        2017
+134     Montenegro                                                       7,762        2010
+135     Armenia                                                          7,700        2014
+136     Jordan                                                           7,203        2011
+137     Qatar                                                            7,039        2016
+138     South Sudan                                                      7,000        2012
+139     Timor-Leste                                                      6,040        2008
+140     Lesotho                                                          5,940        2011
+141     Kuwait                                                           5,749        2018
+142     New Caledonia                                                    5,622        2006
+143     Costa Rica                                                       5,035        2017
+144     Rwanda                                                           4,700        2012
+145     West Bank                                                        4,686        2010
+146     Guinea-Bissau                                                    4,400        2018
+147     Suriname                                                         4,304        2003
+148     Haiti                                                            4,266        2009
+149     Bahrain                                                          4,122        2010
+150     United Arab Emirates                                             4,080        2008
+151     Guyana                                                           3,995        2019
+152     Albania                                                          3,945        2018
+153     Eswatini                                                         3,769        2019
+154     Singapore                                                        3,500        2017
+155     Fiji                                                             3,440        2011
+156     Belize                                                           3,281        2017
+157     Gambia, The                                                      2,977        2011
+158     Brunei                                                           2,976        2014
+159     Djibouti                                                         2,893        2013
+160     Equatorial Guinea                                                2,880        2017
+161     Luxembourg                                                       2,875        2019
+162     Bahamas, The                                                     2,700        2011
+163     French Polynesia                                                 2,590        1999
+164     Mauritius                                                        2,428        2015
+165     Malta                                                            2,254        2001
+166     Hong Kong                                                        2,107        2017
+167     Marshall Islands                                                 2,028        2007
+168     Kosovo                                                           2,012        2015
+169     Barbados                                                         1,700        2015
+170     Dominica                                                         1,512        2018
+171     Solomon Islands                                                  1,390        2011
+172     Cabo Verde                                                       1,350        2013
+173     Virgin Islands                                                   1,260        2008
+174     Saint Lucia                                                      1,210        2011
+175     Antigua and Barbuda                                              1,170        2011
+176     Grenada                                                          1,127        2017
+177     Vanuatu                                                          1,070        2000
+178     Guam                                                             1,045        2008
+179     Aruba                                                            1,000        2010
+180     Faroe Islands                                                      960        2017
+181     Comoros                                                            880        2002
+182     Cayman Islands                                                     785        2007
+183     Tonga                                                              680        2011
+184     Kiribati                                                           670        2017
+185     Liechtenstein                                                      630        2019
+186     Jersey                                                             576        2010
+187     Curacao                                                            550        
+188     Northern Mariana Islands                                           536        2008
+189     Seychelles                                                         526        2015
+190     Isle of Man                                                        500        2008
+191     Bermuda                                                            447        2010
+192     Falkland Islands (Islas Malvinas)                                  440        2008
+193     Macau                                                              428        2017
+194     Saint Kitts and Nevis                                              383        2002
+195     Andorra                                                            320        2019
+196     Cook Islands                                                       295        2018
+197     San Marino                                                         292        2006
+198     Guernsey                                                           260        2017
+199     American Samoa                                                     241        2008
+200     Niue                                                               234        2017
+201     British Virgin Islands                                             200        2007
+202     Saint Helena, Ascension, and Tristan da Cunha                      198        2002
+203     Anguilla                                                           175        2004
+204     Christmas Island                                                   140        2011
+205     Palau                                                              125        2018
+206     Turks and Caicos Islands                                           121        2003
+207     Saint Pierre and Miquelon                                          117        2009
+208     Maldives                                                            93        2018
+209     Norfolk Island                                                      80        2008
+210     Sint Maarten                                                        53        
+211     Nauru                                                               30        2002
+212     Gibraltar                                                           29        2007
+213     Cocos (Keeling) Islands                                             22        2007
+214     Tuvalu                                                               8        2011
+215     Pitcairn Islands                                                     0        

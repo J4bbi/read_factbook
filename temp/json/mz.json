@@ -1,0 +1,557 @@
+{
+"name": "Mozambique",
+"code": "MZ",
+"publish_date": "December 31, 2019",
+"introduction": 
+{
+"background": "Almost five centuries as a Portuguese colony came to a close with independence in 1975. Large-scale emigration, economic dependence on South Africa, a severe drought, and a prolonged civil war hindered the country&#39;s development until the mid-1990s. The ruling Front for the Liberation of Mozambique (FRELIMO) party formally abandoned Marxism in 1989, and a new constitution the following year provided for multiparty elections and a free market economy. A UN-negotiated peace agreement between FRELIMO and rebel Mozambique National Resistance (RENAMO) forces ended the fighting in 1992. In 2004, Mozambique underwent a delicate transition as Joaquim CHISSANO stepped down after 18 years in office. His elected successor, Armando GUEBUZA, served two terms and then passed executive power to Filipe NYUSI in 2015. RENAMO&amp;rsquo;s residual armed forces have intermittently engaged in a low-level insurgency since 2012, although a late December 2016 ceasefire held throughout 2018 and has facilitated efforts toward a peacebuilding initiative and a constitutional amendment to devolve some governance to the provinces. Since October 2017, the northern province of Cabo Delgado has experienced violent extremist attacks.",
+}, 
+"geography": 
+{
+"location": "Southeastern Africa, bordering the Mozambique Channel, between South Africa and Tanzania",
+"geographic_coordinates": "18 15 S, 35 00 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "799,380 sq km",
+"land": "786,380 sq km",
+"water": "13,000 sq km",
+}, 
+"area_comparative": "slightly more than five times the size of Georgia; slightly less than twice the size of California",
+"land_boundaries": 
+{
+"total": "4,783 km",
+"border_countries": "Malawi 1498 km, South Africa 496 km, Eswatini 108 km, Tanzania 840 km, Zambia 439 km, Zimbabwe 1402 km",
+}, 
+"coastline": "2,470 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "tropical to subtropical",
+"terrain": "mostly coastal lowlands, uplands in center, high plateaus in northwest, mountains in west",
+"elevation": 
+{
+"mean_elevation": "345 m",
+"lowest_point": "Indian Ocean 0 m",
+"highest_point": "Monte Binga 2,436 m",
+}, 
+"natural_resources": "coal, titanium, natural gas, hydropower, tantalum, graphite",
+"land_use": 
+{
+"agricultural_land": "56.3% (2011 est.)",
+"agricultural_land_arable_land": "6.4% (2011 est.)",
+"agricultural_land_permanent_crops": "0.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "49.6% (2011 est.)",
+"forest": "43.7% (2011 est.)",
+"other": "0% (2011 est.)",
+}, 
+"irrigated_land": "1,180 sq km (2012)",
+"population_distribution": "three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas",
+"natural_hazards": "severe droughts; devastating cyclones and floods in central and southern provinces",
+"environment_current_issues": "increased migration of the population to urban and coastal areas with adverse environmental consequences; desertification; soil erosion; deforestation; water pollution caused by artisanal mining; pollution of surface and coastal waters; wildlife preservation (elephant poaching for ivory)",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "the Zambezi River flows through the north-central and most fertile part of the country",
+}, 
+"people_and_society": 
+{
+"population": "27,233,789 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Mozambican(s)",
+"adjective": "Mozambican",
+}, 
+"ethnic_groups": "African 99.66% (Makhuwa, Tsonga, Lomwe, Sena, and others), Euro-African 0.2%, Indian 0.08%, European 0.06%",
+"languages": "Emakhuwa 26.1%, Portuguese (official) 16.6%, Xichangana 8.6%, Cinyanja 8.1, Cisena 7.1%, Elomwe 7.1%, Echuwabo 4.7%, Cindau 3.8%, Xitswa 3.8%, other Mozambican languages 11.8%, other 0.5%, unspecified 1.8% (2017 est.)",
+"religions": "Roman Catholic 27.2%, Muslim 18.9%, Zionist Christian 15.6%, Evangelical/Pentecostal 15.3%, Anglican 1.7%, other 4.8%, none 13.9%, unspecified 2.5% (2017 est.)",
+"demographic_profile": "&lt;p&gt;Mozambique is a poor, sparsely populated country with high fertility and mortality rates and a rapidly growing youthful population – 45% of the population is younger than 15. Mozambique’s high poverty rate is sustained by natural disasters, disease, high population growth, low agricultural productivity, and the unequal distribution of wealth. The country’s birth rate is among the world’s highest, averaging around more than 5 children per woman (and higher in rural areas) for at least the last three decades. The sustained high level of fertility reflects gender inequality, low contraceptive use, early marriages and childbearing, and a lack of education, particularly among women. The high population growth rate is somewhat restrained by the country’s high HIV/AIDS and overall mortality rates. Mozambique ranks among the worst in the world for HIV/AIDS prevalence, HIV/AIDS deaths, and life expectancy at birth.&lt;/p&gt;&lt;p&gt;Mozambique is predominantly a country of emigration, but internal, rural-urban migration has begun to grow. Mozambicans, primarily from the country’s southern region, have been migrating to South Africa for work for more than a century. Additionally, approximately 1.7 million Mozambicans fled to Malawi, South Africa, and other neighboring countries between 1979 and 1992 to escape from civil war. Labor migrants have usually been men from rural areas whose crops have failed or who are unemployed and have headed to South Africa to work as miners; multiple generations of the same family often become miners. Since the abolition of apartheid in South Africa in 1991, other job opportunities have opened to Mozambicans, including in the informal and manufacturing sectors, but mining remains their main source of employment.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "44.52% (male 6,097,116 /female 6,028,416)",
+"15_24_years": "21.6% (male 2,905,254 /female 2,977,732)",
+"25_54_years": "27.62% (male 3,525,755 /female 3,995,264)",
+"55_64_years": "3.37% (male 442,990 /female 475,900)",
+"65_years_and_over": "2.88% (male 359,624 /female 425,738) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "93.5 (2015 est.)",
+"youth_dependency_ratio": "87.5 (2015 est.)",
+"elderly_dependency_ratio": "6.1 (2015 est.)",
+"potential_support_ratio": "16.5 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "17.3 years (2018 est.)",
+"male": "16.7 years",
+"female": "17.8 years",
+}, 
+"population_growth_rate": "2.46% (2018 est.)",
+"birth_rate": "37.8 births/1,000 population (2018 est.)",
+"death_rate": "11.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-1.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas",
+"urbanization": 
+{
+"urban_population": "36.5% of total population (2019)",
+"rate_of_urbanization": "4.35% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.669 million Matola, 1.104 million MAPUTO (capital), 811,000 Nampula (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.02 male(s)/female",
+"0_14_years": "1.01 male(s)/female",
+"15_24_years": "0.98 male(s)/female",
+"25_54_years": "0.88 male(s)/female",
+"55_64_years": "0.93 male(s)/female",
+"65_years_and_over": "0.84 male(s)/female",
+"total_population": "0.96 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "18.9 years (2011 est.)",
+"maternal_mortality_rate": "289 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "64 deaths/1,000 live births (2018 est.)",
+"male": "66 deaths/1,000 live births",
+"female": "62 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "54.1 years (2018 est.)",
+"male": "53.3 years",
+"female": "54.9 years",
+}, 
+"total_fertility_rate": "5.02 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "27.1% (2015)",
+"drinking_water_source": 
+{
+"improved_urban": "80.6% of population",
+"improved_rural": "37% of population",
+"improved_total": "51.1% of population",
+"unimproved_urban": "19.4% of population",
+"unimproved_rural": "63% of population",
+"unimproved_total": "48.9% of population (2015 est.)",
+}, 
+"current_health_expenditure": "5.1% (2016)",
+"physicians_density": "0.07 physicians/1,000 population (2017)",
+"hospital_bed_density": "0.7 beds/1,000 population (2011)",
+"sanitation_facility_access": 
+{
+"improved_urban": "42.4% of population (2015 est.)",
+"improved_rural": "10.1% of population (2015 est.)",
+"improved_total": "20.5% of population (2015 est.)",
+"unimproved_urban": "57.6% of population (2015 est.)",
+"unimproved_rural": "89.9% of population (2015 est.)",
+"unimproved_total": "79.5% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "12.6% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "2.2 million (2018 est.)",
+"hiv_aids_deaths": "53,900 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria and dengue fever (2016)",
+"water_contact_diseases": "schistosomiasis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+}, 
+"obesity_adult_prevalence_rate": "7.2% (2016)",
+"children_under_the_age_of_5_years_underweight": "15.6% (2011)",
+"education_expenditures": "6.5% of GDP (2013)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "56%",
+"male": "70.8%",
+"female": "43.1% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "10 years",
+"male": "10 years",
+"female": "9 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "7.4%",
+"male": "7.7%",
+"female": "7.1% (2015 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Mozambique",
+"conventional_short_form": "Mozambique",
+"local_long_form": "Republica de Mocambique",
+"local_short_form": "Mocambique",
+"former": "Portuguese East Africa, People&#39;s Republic of Mozambique",
+"etymology": "named for the offshore island of Mozambique; the island was apparently named after Mussa al-BIK, an influential Arab slave trader who set himself up as sultan on the island in the 15th century",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Maputo",
+"geographic_coordinates": "25 57 S, 32 35 E",
+"time_difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "10 provinces (provincias, singular - provincia), 1 city (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia",
+"independence": "25 June 1975 (from Portugal)",
+"national_holiday": "Independence Day, 25 June (1975)",
+"constitution": 
+{
+"history": "previous 1975, 1990; latest adopted 16 November 2004, effective 21 December 2004",
+"amendments": "proposed by the president of the republic or supported by at least one third of the Assembly of the Republic membership; passage of amendments affecting constitutional provisions, including the independence and sovereignty of the state, the republican form of government, basic rights and freedoms, and universal suffrage, requires at least a two-thirds majority vote by the Assembly and approval in a referendum; referenda not required for passage of other amendments; amended 2007, 2018 (2018)",
+}, 
+"legal_system": "mixed legal system of Portuguese civil law and customary law; note - in rural, apply where applicable predominantly Muslim villages with no formal legal system, Islamic law may be applied",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Mozambique",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Filipe Jacinto NYUSI (since 15 January 2015, re-elected 15 Oct 2019) (2019)",
+"head_of_government": "President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Carlos Agostinho DO ROSARIO (since 17 January 2015) (2019)",
+"cabinet": "Cabinet appointed by the president",
+"elections_appointments": "president elected directly by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 15 October 2024); prime minister appointed by the president (2019)",
+"election_results": "Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%,&amp;nbsp;Ossufo MOMADE&amp;nbsp;(RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1% (2019)",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional&amp;nbsp;representation vote and 2 single members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms) (2019)",
+"elections": "last held on 15 October 2019 (next to be held on 15 October 2024) (2019)",
+"election_results": "percent of vote by party - FRELIMO 58%, RENAMO 36%, MDM 7%; seats by party - FRELIMO 144, RENAMO 89, MDM 17; composition - men 151, women 99, percent of women 39.6% (2019)",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges); note - the Higher Council of the Judiciary Magistracy is responsible for judiciary management and discipline",
+"judge_selection_and_term_of_office": "Supreme Court president appointed by the president of the republic; vice president appointed by the president in consultation with the Higher Council of the Judiciary (CSMJ) and ratified by the Assembly of the Republic; other judges elected by the Assembly; judges serve 5-year renewable terms; Constitutional Council judges appointed - 1 by the president, 5 by the Assembly, and 1 by the CSMJ; judges serve 5-year nonrenewable terms",
+"subordinate_courts": "Administrative Court (capital city only); provincial courts or Tribunais Judicias de Provincia; District Courts or Tribunais Judicias de Districto; customs courts; maritime courts; courts marshal; labor courts; community courts",
+}, 
+"political_parties_and_leaders": "Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Daviz SIMANGO]&lt;br /&gt;Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]&lt;br /&gt;Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO&amp;nbsp;[Ossufo MOMADE]&lt;br /&gt;Optimistic Party for the Development of Mozambique&amp;nbsp;or Podemos [Helder Mendonca]",
+"international_organization_participation": "ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Carlos DOS SANTOS (since 28 January 2016)",
+"chancery": "1525 New Hampshire Avenue NW, Washington, DC 20036",
+"telephone": "[1] (202) 293-7146",
+"fax": "[1] (202) 835-0245",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador&amp;nbsp;Dennis W. HEARNE&amp;nbsp;(since&amp;nbsp;22 February 2019)",
+"telephone": "[258] (21) 49 2797",
+"embassy": "Avenida Kenneth Kuanda 193, Caixa Postal, 783, Maputo",
+"mailing_address": "P.O. Box 783, Maputo",
+"fax": "[258] (21) 49 0114",
+}, 
+"flag_description": "three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book; green represents the riches of the land, white peace, black the African continent, yellow the country&#39;s minerals, and red the struggle for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country&#39;s agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism",
+"national_symbol_s": "national colors: green, black, yellow, white, red",
+"national_anthem": 
+{
+"name": "&quot;Patria Amada&quot; (Lovely Fatherland)",
+"lyrics_music": "Salomao J. MANHICA/unknown",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;At independence in 1975, Mozambique was one of the world&#39;s poorest countries. Socialist policies, economic mismanagement, and a brutal civil war from 1977 to 1992 further impoverished the country. In 1987, the government embarked on a series of macroeconomic reforms designed to stabilize the economy. These steps, combined with donor assistance and with political stability since the multi-party elections in 1994, propelled the country’s GDP, in purchasing power parity terms, from $4 billion in 1993 to about $37 billion in 2017. Fiscal reforms, including the introduction of a value-added tax and reform of the customs service, have improved the government&#39;s revenue collection abilities. In spite of these gains, about half the population remains below the poverty line and subsistence agriculture continues to employ the vast majority of the country&#39;s work force.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Mozambique&#39;s once substantial foreign debt was reduced through forgiveness and rescheduling under the IMF&#39;s Heavily Indebted Poor Countries (HIPC) and Enhanced HIPC initiatives. However, in 2016, information surfaced revealing that the Mozambican Government was responsible for over $2 billion in government-backed loans secured between 2012-14 by state-owned defense and security companies without parliamentary approval or national budget inclusion; this prompted the IMF and international donors to halt direct budget support to the Government of Mozambique. An international audit was performed on Mozambique’s debt in 2016-17, but debt restructuring and resumption of donor support have yet to occur.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Mozambique grew at an average annual rate of 6%-8% in the decade leading up to 2015, one of Africa&#39;s strongest performances, but the sizable external debt burden, donor withdrawal, elevated inflation, and currency depreciation contributed to slower growth in 2016-17.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Two major International consortiums, led by American companies ExxonMobil and Anadarko, are seeking approval to develop massive natural gas deposits off the coast of Cabo Delgado province, in what has the potential to become the largest infrastructure project in Africa. . The government predicts sales of liquefied natural gas from these projects could generate several billion dollars in revenues annually sometime after 2022.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$37.09 billion",
+"2016": "$35.76 billion",
+"2015": "$34.46 billion",
+},
+"gdp_official_exchange_rate": "$12.59 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.7%",
+"2016": "3.8%",
+"2015": "6.6%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$1,300",
+"2016": "$1,200",
+"2015": "$1,200",
+},
+"gross_national_saving":
+{
+"2017": "16.8% of GDP",
+"2016": "-1.2% of GDP",
+"2015": "5% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "69.7% (2017 est.)",
+"government_consumption": "27.2% (2017 est.)",
+"investment_in_fixed_capital": "21.7% (2017 est.)",
+"investment_in_inventories": "13.9% (2017 est.)",
+"exports_of_goods_and_services": "38.3% (2017 est.)",
+"imports_of_goods_and_services": "-70.6% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "23.9% (2017 est.)",
+"industry": "19.3% (2017 est.)",
+"services": "56.8% (2017 est.)",
+}, 
+"agriculture_products": "cotton, cashew nuts, sugarcane, tea, cassava (manioc, tapioca), corn, coconuts, sisal, citrus and tropical fruits, potatoes, sunflowers; beef, poultry",
+"industries": "aluminum, petroleum products, chemicals (fertilizer, soap, paints), textiles, cement, glass, asbestos, tobacco, food, beverages",
+"industrial_production_growth_rate": "4.9% (2017 est.)",
+"labor_force": "12.9 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "74.4%",
+"industry": "3.9%",
+"services": "21.7% (2015 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "24.5%",
+"2016": "25%",
+},
+"population_below_poverty_line": "46.1% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.9%",
+"highest_10": "36.7% (2008)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2008": "45.6",
+"2002": "47.3",
+},
+"budget": 
+{
+"revenues": "3.356 billion (2017 est.)",
+"expenditures": "4.054 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "26.7% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-5.6% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "102.1% of GDP",
+"2016": "121.6% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "15.3%",
+"2016": "19.2%",
+},
+"central_bank_discount_rate":
+{
+"4 November 2017": "19%",
+"31 December 2016": "23.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "27.86%",
+"31 December 2016": "21.18%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$3.817 billion",
+"31 December 2016": "$3.411 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$3.817 billion",
+"31 December 2016": "$3.411 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$4.337 billion",
+"31 December 2016": "$4.242 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$2.824 billion",
+"2016": "-$4.28 billion",
+},
+"exports":
+{
+"2017": "$4.725 billion",
+"2016": "$3.328 billion",
+},
+"exports_partners": "India 28.1%, Netherlands 24.4%, South Africa 16.7% (2017)",
+"exports_commodities": "aluminum, prawns, cashews, cotton, sugar, citrus, timber; bulk electricity",
+"imports":
+{
+"2017": "$5.223 billion",
+"2016": "$4.733 billion",
+},
+"imports_commodities": "machinery and equipment, vehicles, fuel, chemicals, metal products, foodstuffs, textiles",
+"imports_partners": "South Africa 36.8%, China 7%, UAE 6.8%, India 6.2%, Portugal 4.4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$3.361 billion",
+"31 December 2016": "$2.081 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$10.91 billion",
+"31 December 2016": "$10.48 billion",
+},
+"exchange_rates": 
+{
+"currency": "meticais (MZM) per US dollar -",
+"exchange_rates":
+{
+"2017": "64.4",
+"2016": "63.067",
+"2015": "63.067",
+"2014": "39.983",
+"2013": "31.367",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "21 million (2017)",
+"electrification_total_population": "24.2% (2016)",
+"electrification_urban_areas": "64.2% (2016)",
+"electrification_rural_areas": "5% (2016)",
+}, 
+"electricity_production": "18.39 billion kWh (2016 est.)",
+"electricity_consumption": "11.57 billion kWh (2016 est.)",
+"electricity_exports": "12.88 billion kWh (2015 est.)",
+"electricity_imports": "9.928 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "2.626 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "16% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "83% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "1% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "26,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "25,130 bbl/day (2015 est.)",
+"natural_gas_production": "6.003 billion cu m (2017 est.)",
+"natural_gas_consumption": "1.841 billion cu m (2017 est.)",
+"natural_gas_exports": "4.162 billion cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "2.832 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "11.12 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "80,545",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "11,875,506",
+"subscriptions_per_100_inhabitants": "45 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "the mobile segment has shown strong growth given competition; poor fixed-line infrastructure means most Internet access is through mobile accounts;&amp;nbsp;DSL, cable broadband, WiMAX (broadband over long distances), 3G and some fibre broadband available; LTE services launched (2018)",
+"domestic": "extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and 45 per 100&amp;nbsp;mobile-cellular teledensity (2018)",
+"international": "country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerous&amp;nbsp;east African&amp;nbsp;countries, the Middle East and Asia&amp;nbsp;; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean) (2019)",
+}, 
+"broadcast_media": "1 state-run TV station supplemented by private TV station; Portuguese state TV&#39;s African service, RTP Africa, and Brazilian-owned TV Miramar are available; state-run radio provides nearly 100% territorial coverage and broadcasts in multiple languages; a number of privately owned and community-operated stations; transmissions of multiple international broadcasters are available (2019)",
+"internet_country_code": ".mz",
+"internet_users": 
+{
+"total": "4,543,284",
+"percent_of_population": "17.5% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "41,653",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.99% of GDP",
+"2017": "1.02% of GDP",
+"2016": "1.03% of GDP",
+"2015": "0.81% of GDP",
+"2014": "1.02% of GDP",
+},
+"military_and_security_forces": "Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM) (2019)",
+"military_service_age_and_obligation": "registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "3 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "16 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "686,892 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "5,138,916 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "C9 (2016)",
+"airports": "98 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "21 (2017)",
+"over_3_047_m": "1 (2017)",
+"2_438_to_3_047_m": "2 (2017)",
+"1_524_to_2_437_m": "9 (2017)",
+"914_to_1_523_m": "5 (2017)",
+"under_914_m": "4 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "77 (2013)",
+"2_438_to_3_047_m": "1 (2013)",
+"1_524_to_2_437_m": "9 (2013)",
+"914_to_1_523_m": "29 (2013)",
+"under_914_m": "38 (2013)",
+}, 
+"pipelines": "972 km gas, 278 km refined products (2013)",
+"railways": 
+{
+"total": "4,787 km (2014)",
+"narrow_gauge": "4,787 km 1.067-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "31,083 km (2015)",
+"paved": "7,365 km (2015)",
+"unpaved": "23,718 km (2015)",
+}, 
+"waterways": "460 km (Zambezi River navigable to Tete and along Cahora Bassa Lake) (2010)",
+"merchant_marine": 
+{
+"total": "27",
+"by_type": "general cargo 10, other 17 (2018)",
+}, 
+"ports_and_terminals": "Beira, Maputo, Nacala",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "9,850 (Democratic Republic of Congo) (refugees and asylum seekers), 7,841 (Burundi) (refugees and asylum seekers) (2019)",
+"idps": "14,000 (violence between the government and an opposition group, violence associated with extremists groups in 2018) (2018)",
+}, 
+"illicit_drugs": "southern African transit point for South Asian hashish and heroin, and South American cocaine probably destined for the European and South African markets; producer of cannabis (for local consumption) and methaqualone (for export to South Africa); corruption and poor regulatory capability make the banking system vulnerable to money laundering, but the lack of a well-developed financial infrastructure limits the country&#39;s utility as a money-laundering center",
+}
+}

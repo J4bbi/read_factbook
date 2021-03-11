@@ -1,0 +1,100 @@
+{
+"name": "Wake Island",
+"code": "WQ",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "The US annexed Wake Island in 1899 for a cable station. An important air and naval base was constructed in 1940-41. In December 1941, the island was captured by the Japanese and held until the end of World War II. In subsequent years, Wake became a stopover and refueling site for military and commercial aircraft transiting the Pacific. Since 1974, the island&#39;s airstrip has been used by the US military, as well as for emergency landings. Operations on the island were temporarily suspended and all personnel evacuated in 2006 with the approach of super typhoon IOKE (category 5), but resultant damage was comparatively minor. A US Air Force repair team restored full capability to the airfield and facilities, and the island remains a vital strategic link in the Pacific region.",
+}, 
+"geography": 
+{
+"location": "Oceania, atoll in the North Pacific Ocean, about two-thirds of the way from Hawaii to the Northern Mariana Islands",
+"geographic_coordinates": "19 17 N, 166 39 E",
+"map_references": "Oceania",
+"area": 
+{
+"total": "6.5 sq km",
+"land": "6.5 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "about 11 times the size of the National Mall in Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "19.3 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "tropical",
+"terrain": "atoll of three low coral islands, Peale, Wake, and Wilkes, built up on an underwater volcano; central lagoon is former crater, islands are part of the rim",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "unnamed location 8 m",
+}, 
+"natural_resources": "none",
+"land_use": 
+{
+"agricultural_land": "0% (2011 est.)",
+"agricultural_land_arable_land": "0% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "0% (2011 est.)",
+"other": "100% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"natural_hazards": "subject to occasional typhoons",
+"environment_current_issues": "potable water obtained through a catchment rainwater system and a desalinization plant for brackish ground water; hazardous wastes moved to an accumulation site for storage and eventual transport off site via barge",
+"geography_note": "strategic location in the North Pacific Ocean; emergency landing location for transpacific flights",
+}, 
+"people_and_society": 
+{
+"population": " no indigenous inhabitants (2018 est.)",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Wake Island",
+"etymology": "although first discovered by British Captain William WAKE in 1792, the island is named after British Captain Samuel WAKE, who rediscovered the island in 1796",
+}, 
+"dependency_status": "unincorporated unorganized territory of the US; administered from Washington, DC, by the Department of the Interior; activities in the atoll are currently conducted by the 11th US Air Force and managed from Pacific Air Force Support Center",
+"independence": "none (territory of the US)",
+"legal_system": "US common law",
+"citizenship": "see United States", 
+"flag_description": "the flag of the US is used",
+}, 
+"economy": 
+{
+"economy_overview": "Economic activity is limited to providing services to military personnel and contractors located on the island. All food and manufactured goods must be imported.",
+}, 
+"energy": 
+{
+"crude_oil_production": "0 bbl/day (2018 est.)",
+}, 
+"communications": 
+{
+"telephone_system": "satellite communications; 2 Defense Switched Network circuits off the Overseas Telephone System (OTS); located in the Hawaii area code - 808 (2018)",
+"broadcast_media": "American Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)",
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of the US; the US Air Force is responsible for overall administration and operation of the island facilities; the launch support facility is administered by the US Missile Defense Agency (MDA)",
+}, 
+"transportation": 
+{
+"airports": "1 (2018)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2018)",
+"2_438_to_3_047_m": "1 (2018)",
+}, 
+"ports_and_terminals": "none; two offshore anchorages for large ships", 
+"transportation_note": "there are no commercial or civilian flights to and from Wake Island, except in direct support of island missions; emergency landing is available",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;claimed by Marshall Islands&lt;/p&gt;",
+}
+}

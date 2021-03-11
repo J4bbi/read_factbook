@@ -1,0 +1,554 @@
+{
+"name": "Guinea",
+"code": "GV",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "Guinea is at a turning point after decades of authoritarian rule since gaining its independence from France in 1958. Sekou TOURE ruled the country as president from independence to his death in 1984. Lansana CONTE came to power in 1984 when the military seized the government after TOURE&#39;s death. Gen. CONTE organized and won presidential elections in 1993, 1998, and 2003, though results were questionable due to a lack in transparency and neutrality in the electoral process. Upon CONTE&#39;s death in December 2008, Capt. Moussa Dadis CAMARA led a military coup, seizing power and suspending the constitution. His unwillingness to yield to domestic and international pressure to step down led to heightened political tensions that peaked in September 2009 when presidential guards opened fire on an opposition rally killing more than 150 people. In early December 2009, CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. A transitional government led by Gen. Sekouba KONATE paved the way for Guinea&#39;s transition to a fledgling democracy. The country held its first free and competitive democratic presidential and legislative elections in 2010 and 2013 respectively, and in October 2015 held a second consecutive presidential election. Alpha CONDE was reelected to a second five-year term as president in 2015, and the National Assembly was seated in January 2014. CONDE&#39;s first cabinet is the first all-civilian government in Guinea. The country held a successful political dialogue in August and September 2016 that brought together the government and opposition to address long-standing tensions. Local elections were held in February 2018, and disputed results in some of the races resulted in ongoing protests against CONDE&#39;s government.",
+}, 
+"geography": 
+{
+"location": "Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Sierra Leone",
+"geographic_coordinates": "11 00 N, 10 00 W",
+"map_references": "Africa",
+"area": 
+{
+"total": "245,857 sq km",
+"land": "245,717 sq km",
+"water": "140 sq km",
+}, 
+"area_comparative": "slightly smaller than Oregon; slightly larger than twice the size of Pennsylvania",
+"land_boundaries": 
+{
+"total": "4,046 km",
+"border_countries": "Cote d&#39;Ivoire 816 km, Guinea-Bissau 421 km, Liberia 590 km, Mali 1062 km, Senegal 363 km, Sierra Leone 794 km",
+}, 
+"coastline": "320 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds",
+"terrain": "generally flat coastal plain, hilly to mountainous interior",
+"elevation": 
+{
+"mean_elevation": "472 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Mont Nimba 1,752 m",
+}, 
+"natural_resources": "bauxite, iron ore, diamonds, gold, uranium, hydropower, fish, salt",
+"land_use": 
+{
+"agricultural_land": "58.1% (2011 est.)",
+"agricultural_land_arable_land": "11.8% (2011 est.)",
+"agricultural_land_permanent_crops": "2.8% (2011 est.)",
+"agricultural_land_permanent_pasture": "43.5% (2011 est.)",
+"forest": "26.5% (2011 est.)",
+"other": "15.4% (2011 est.)",
+}, 
+"irrigated_land": "950 sq km (2012)",
+"population_distribution": "areas of highest density are in the west and south; interior is sparsely populated",
+"natural_hazards": "hot, dry, dusty harmattan haze may reduce visibility during dry season",
+"environment_current_issues": "deforestation; inadequate potable water; desertification; soil contamination and erosion; overfishing, overpopulation in forest region; poor mining practices lead to environmental damage; water pollution; improper waste disposal",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "the Niger and its important tributary the Milo River have their sources in the Guinean highlands",
+}, 
+"people_and_society": 
+{
+"population": "11,855,411 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Guinean(s)",
+"adjective": "Guinean",
+}, 
+"ethnic_groups": "Fulani (Peuhl) 33.4%, Malinke 29.4%, Susu 21.2%, Guerze 7.8%, Kissi 6.2%, Toma 1.6%, other/foreign .4% (2018 est.)",
+"languages": "French (official), Pular, Maninka, Susu, other native languages",
+"religions": "Muslim 89.1%, Christian 6.8%, animist 1.6%, other .1%, none 2.4% (2014 est.)",
+"demographic_profile": "&lt;p&gt;Guinea’s strong population growth is a result of declining mortality rates and sustained elevated fertility. The population growth rate was somewhat tempered in the 2000s because of a period of net outmigration. Although life expectancy and mortality rates have improved over the last two decades, the nearly universal practice of female genital cutting continues to contribute to high infant and maternal mortality rates. Guinea’s total fertility remains high at about 5 children per woman because of the ongoing preference for larger families, low contraceptive usage and availability, a lack of educational attainment and empowerment among women, and poverty. A lack of literacy and vocational training programs limit job prospects for youths, but even those with university degrees often have no option but to work in the informal sector. About 60% of the country’s large youth population is unemployed.&lt;/p&gt;&lt;p&gt;Tensions and refugees have spilled over Guinea’s borders with Sierra Leone, Liberia, and Cote d’Ivoire. During the 1990s Guinea harbored as many as half a million refugees from Sierra Leone and Liberia, more refugees than any other African country for much of that decade. About half sought refuge in the volatile &quot;Parrot’s Beak&quot; region of southwest Guinea, a wedge of land jutting into Sierra Leone near the Liberian border. Many were relocated within Guinea in the early 2000s because the area suffered repeated cross-border attacks from various government and rebel forces, as well as anti-refugee violence.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "41.4% (male 2,473,486 /female 2,435,139)",
+"15_24_years": "19.23% (male 1,145,488 /female 1,134,103)",
+"25_54_years": "30.8% (male 1,827,246 /female 1,824,162)",
+"55_64_years": "4.72% (male 269,995 /female 289,164)",
+"65_years_and_over": "3.85% (male 203,754 /female 252,874) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "84.2 (2015 est.)",
+"youth_dependency_ratio": "78.6 (2015 est.)",
+"elderly_dependency_ratio": "5.6 (2015 est.)",
+"potential_support_ratio": "17.8 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "19 years (2018 est.)",
+"male": "18.8 years",
+"female": "19.3 years",
+}, 
+"population_growth_rate": "2.75% (2018 est.)",
+"birth_rate": "36.4 births/1,000 population (2018 est.)",
+"death_rate": "8.9 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "areas of highest density are in the west and south; interior is sparsely populated",
+"urbanization": 
+{
+"urban_population": "36.5% of total population (2019)",
+"rate_of_urbanization": "3.54% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.889 million CONAKRY (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1.02 male(s)/female",
+"15_24_years": "1.01 male(s)/female",
+"25_54_years": "1 male(s)/female",
+"55_64_years": "0.93 male(s)/female",
+"65_years_and_over": "0.81 male(s)/female",
+"total_population": "1 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "19.5 years (2018 est.)",
+"maternal_mortality_rate": "576 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "55.3 deaths/1,000 live births (2018 est.)",
+"male": "60.4 deaths/1,000 live births",
+"female": "50.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "62.1 years (2018 est.)",
+"male": "60.4 years",
+"female": "64 years",
+}, 
+"total_fertility_rate": "4.98 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "8.7% (2016)",
+"drinking_water_source": 
+{
+"improved_urban": "92.7% of population",
+"improved_rural": "67.4% of population",
+"improved_total": "76.8% of population",
+"unimproved_urban": "7.3% of population",
+"unimproved_rural": "32.6% of population",
+"unimproved_total": "23.2% of population (2015 est.)",
+}, 
+"current_health_expenditure": "5.5% (2016)",
+"physicians_density": "0.08 physicians/1,000 population (2016)",
+"hospital_bed_density": "0.3 beds/1,000 population (2011)",
+"sanitation_facility_access": 
+{
+"improved_urban": "34.1% of population (2015 est.)",
+"improved_rural": "11.8% of population (2015 est.)",
+"improved_total": "20.1% of population (2015 est.)",
+"unimproved_urban": "65.9% of population (2015 est.)",
+"unimproved_rural": "88.2% of population (2015 est.)",
+"unimproved_total": "79.9% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "1.4% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "120,000 (2018 est.)",
+"hiv_aids_deaths": "4,300 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria, dengue fever, and yellow fever (2016)",
+"water_contact_diseases": "schistosomiasis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+"aerosolized_dust_or_soil_contact_diseases": "Lassa fever (2016)",
+}, 
+"obesity_adult_prevalence_rate": "7.7% (2016)",
+"children_under_the_age_of_5_years_underweight": "18.3% (2016)",
+"education_expenditures": "2.2% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "30.4%",
+"male": "38.1%",
+"female": "22.8% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "9 years",
+"male": "10 years",
+"female": "8 years (2014)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "1%",
+"male": "1.5%",
+"female": "0.6% (2012 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Guinea",
+"conventional_short_form": "Guinea",
+"local_long_form": "Republique de Guinee",
+"local_short_form": "Guinee",
+"former": "French Guinea",
+"etymology": "the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Conakry",
+"geographic_coordinates": "9 30 N, 13 42 W",
+"time_difference": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "7 regions administrative and 1 gouvenorat*; Boke, Conakry*, Faranah, Kankan, Kindia, Labe, Mamou, N&#39;Zerekore",
+"independence": "2 October 1958 (from France)",
+"national_holiday": "Independence Day, 2 October (1958)",
+"constitution": 
+{
+"history": "previous 1958, 1990; latest promulgated 19 April 2010, approved 7 May 2010; note - in late December 2019, President CONDE announced a new draft constitution",
+"amendments": "proposed by the National Assembly or by the president of the republic; consideration of proposals requires approval by simple majority vote by the Assembly; passage requires approval in referendum; the president can opt to submit amendments directly to the Assembly, in which case approval requires at least two-thirds majority vote (2017)",
+}, 
+"legal_system": "civil law system based on the French model",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Guinea",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "na",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Alpha CONDE (since 21 December 2010)",
+"head_of_government": "Prime Minister Ibrahima FOFANA (since 22 May 2018)",
+"cabinet": "Council of Ministers appointed by the president",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 11 October 2015 (next to be held in 2020); prime minister appointed by the president",
+"election_results": "Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 57.8%, Cellou Dalein DIALLO (UFDG) 31.4%, other 10.8%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral People&#39;s National Assembly or Assemblee Nationale Populaire (114 seats; 76 members directly elected in a single nationwide constituency by proportional representation vote and 38 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)",
+"elections": "last held on 28 September 2013 (next was schelduled for January 2019, but postponed indefinitely)",
+"election_results": "percent of vote by party - NA; seats by party - RPG 53, UFDG 37, UFR 10, PEDN 2, UPG 2, other 10; composition - men 89, women 25, percent of women 21.9%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents,&amp;nbsp;10 councilors, the solicitor general, and NA deputies); Constitutional Court (consists of 9 members)",
+"judge_selection_and_term_of_office": "Supreme Court first president appointed by the national president after consultation with the National Assembly; other members appointed by presidential decree; members serve until age 65; Constitutional Court member appointments - 2 by the National Assembly and the president of the republic, 3 experienced judges designated by their peers, 1 experienced lawyer, 1 university professor with expertise in public law designated by peers, and 2 experienced representatives of the Independent National Institution of Human Rights; members serve single 9-year terms",
+"subordinate_courts": "Court of Appeal or Cour d&#39;Appel; High Court of Justice or Cour d&#39;Assises; Court of Account (Court of Auditors); Courts of First Instance (Tribunal de Premiere Instance); labor court; military tribunal; justices of the peace; specialized courts",
+}, 
+"political_parties_and_leaders": "Bloc Liberal or BL [Faya MILLIMONO]&lt;br /&gt;National Party for Hope and Development or PEDN [Lansana KOUYATE]&lt;br /&gt;Rally for the Guinean People or RPG [Alpha CONDE]&lt;br /&gt;Union for the Progress of Guinea or UPG&lt;br /&gt;Union of Democratic Forces of Guinea or UFDG [Cellou Dalein DIALLO]&lt;br /&gt;Union of Republican Forces or UFR [Sidya TOURE]",
+"international_organization_participation": "ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Kerfalla YANSANE (since 24 January 2018)",
+"chancery": "2112 Leroy Place NW, Washington, DC 20008",
+"telephone": "[1] (202) 986-4300",
+"fax": "[1] (202) 986-3800",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Simon HENSHAW (since 4 March 2019)",
+"telephone": "[224] 655-10-40-00",
+"embassy": "Transversale #2, Center Administratif de Koloma, Commune de Ratoma, Conakry",
+"mailing_address": "P.O. Box 603, Transversale No. 2, Centre Administratif de Koloma, Commune de Ratoma, Conakry",
+"fax": "[224] 655-10-42-97",
+}, 
+"flag_description": "three equal vertical bands of red (hoist side), yellow, and green; red represents the people&#39;s sacrifice for liberation and work; yellow stands for the sun, for the riches of the earth, and for justice; green symbolizes the country&#39;s vegetation and unity",
+"national_symbol_s": "elephant; national colors: red, yellow, green",
+"national_anthem": 
+{
+"name": "&quot;Liberte&quot; (Liberty)",
+"lyrics_music": "unknown/Fodeba KEITA",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Guinea is a poor country of approximately 12.9 million people in 2016 that possesses the world&#39;s largest reserves of bauxite and largest untapped high-grade iron ore reserves, as well as gold and diamonds. In addition, Guinea has fertile soil, ample rainfall, and is the source of several West African rivers, including the Senegal, Niger, and Gambia. Guinea&#39;s hydro potential is enormous and the country could be a major exporter of electricity. The country also has tremendous agriculture potential. Gold, bauxite, and diamonds are Guinea’s main exports. International investors have shown interest in Guinea&#39;s unexplored mineral reserves, which have the potential to propel Guinea&#39;s future growth.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Following the death of long-term President Lansana CONTE in 2008 and the coup that followed, international donors, including the G-8, the IMF, and the World Bank, significantly curtailed their development programs in Guinea. However, the IMF approved a 3-year Extended Credit Facility arrangement in 2012, following the December 2010 presidential elections. In September 2012, Guinea achieved Heavily Indebted Poor Countries completion point status. Future access to international assistance and investment will depend on the government’s ability to be transparent, combat corruption, reform its banking system, improve its business environment, and build infrastructure. In April 2013, the government amended its mining code to reduce taxes and royalties. In 2014, Guinea complied with requirements of the Extractive Industries Transparency Initiative by publishing its mining contracts. Guinea completed its program with the IMF in October 2016 even though some targeted reforms have been delayed. Currently Guinea is negotiating a new IMF program which will be based on Guinea’s new five-year economic plan, focusing on the development of higher value-added products, including from the agro-business sector and development of the rural economy.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Political instability, a reintroduction of the Ebola virus epidemic, low international commodity prices, and an enduring legacy of corruption, inefficiency, and lack of government transparency are factors that could impact Guinea’s future growth. Economic recovery will be a long process while the government adjusts to lower inflows of international donor aid following the surge of Ebola-related emergency support. Ebola stalled promising economic growth in the 2014-15 period and impeded several projects, such as offshore oil exploration and the Simandou iron ore project. The economy, however, grew by 6.6% in 2016 and 6.7% in 2017, mainly due to growth from bauxite mining and thermal energy generation as well as the resiliency of the agricultural sector. The 240-megawatt Kaleta Dam, inaugurated in September 2015, has expanded access to electricity for residents of Conakry. An combined with fears of Ebola virus, continue to undermine Guinea&#39;s economic viability.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Guinea’s iron ore industry took a hit in 2016 when investors in the Simandou iron ore project announced plans to divest from the project. In 2017, agriculture output and public investment boosted economic growth, while the mining sector continued to play a prominent role in economic performance.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Successive governments have failed to address the country&#39;s crumbling infrastructure. Guinea suffers from chronic electricity shortages; poor roads, rail lines and bridges; and a lack of access to clean water - all of which continue to plague economic development. The present government, led by President Alpha CONDE, is working to create an environment to attract foreign investment and hopes to have greater participation from western countries and firms in Guinea&#39;s economic development.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$27.97 billion",
+"2016": "$25.84 billion",
+"2015": "$23.39 billion",
+},
+"gdp_official_exchange_rate": "$10.25 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "8.2%",
+"2016": "10.5%",
+"2015": "3.8%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$2,200",
+"2016": "$2,000",
+"2015": "$1,900",
+},
+"gross_national_saving":
+{
+"2017": "5.1% of GDP",
+"2016": "-6.3% of GDP",
+"2015": "-5.3% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "80.8% (2017 est.)",
+"government_consumption": "6.6% (2017 est.)",
+"investment_in_fixed_capital": "9.1% (2017 est.)",
+"investment_in_inventories": "18.5% (2017 est.)",
+"exports_of_goods_and_services": "21.9% (2017 est.)",
+"imports_of_goods_and_services": "-36.9% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "19.8% (2017 est.)",
+"industry": "32.1% (2017 est.)",
+"services": "48.1% (2017 est.)",
+}, 
+"agriculture_products": "rice, coffee, pineapples, mangoes, palm kernels, cocoa, cassava (manioc, tapioca), bananas, potatoes, sweet potatoes; cattle, sheep, goats; timber",
+"industries": "bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing",
+"industrial_production_growth_rate": "11% (2017 est.)",
+"labor_force": "5.558 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "76%",
+"industry": "24% (2006 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "2.7%",
+"2016": "2.8%",
+},
+"population_below_poverty_line": "47% (2006 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.7%",
+"highest_10": "30.3% (2007)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2007": "39.4",
+"1994": "40.3",
+},
+"budget": 
+{
+"revenues": "1.7 billion (2017 est.)",
+"expenditures": "1.748 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "16.6% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-0.5% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "37.9% of GDP",
+"2016": "41.8% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "8.9%",
+"2016": "8.2%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2005": "22.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "22.2%",
+"31 December 2016": "22.2%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$1.84 billion",
+"31 December 2016": "$1.61 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$1.84 billion",
+"31 December 2016": "$1.61 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$1.762 billion",
+"31 December 2016": "$1.931 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$705 million",
+"2016": "-$2.705 billion",
+},
+"exports":
+{
+"2017": "$3.514 billion",
+"2016": "$1.954 billion",
+},
+"exports_partners": "China 35.8%, Ghana 20.1%, UAE 11.6%, India 4.3% (2017)",
+"exports_commodities": "bauxite, gold, diamonds, coffee, fish, agricultural products",
+"imports":
+{
+"2017": "$4.799 billion",
+"2016": "$4.43 billion",
+},
+"imports_commodities": "petroleum products, metals, machinery, transport equipment, textiles, grain and other foodstuffs",
+"imports_partners": "Netherlands 17.2%, China 13.2%, India 11.8%, Belgium 10%, France 6.9%, UAE 4.5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$331.8 million",
+"31 December 2016": "$383.4 million",
+},
+"debt_external":
+{
+"31 December 2017": "$1.458 billion",
+"31 December 2016": "$1.462 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$3.174 billion",
+"31 December 2016": "$2.391 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$1.8 million",
+"31 December 2016": "$69.19 million",
+},
+"exchange_rates": 
+{
+"currency": "Guinean francs (GNF) per US dollar -",
+"exchange_rates":
+{
+"2017": "9,230",
+"2016": "9,085",
+"2015": "9,085",
+"2014": "7,485.5",
+"2013": "7,014.1",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "11 million (2017)",
+"electrification_total_population": "33.5% (2016)",
+"electrification_urban_areas": "82.2% (2016)",
+"electrification_rural_areas": "6.9% (2016)",
+}, 
+"electricity_production": "598 million kWh (2016 est.)",
+"electricity_consumption": "556.1 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "550,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "33% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "67% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "19,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "18,460 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "2.794 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "0",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "10.8 million",
+"subscriptions_per_100_inhabitants": "87 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "huge improvement over the last ten years; in May 2019, 4G wifi was launched in the capital; the capital and the regional administrative centers have 3G access; in 2018&amp;nbsp;the set up of an IXP (Internet Exchange Point)&amp;nbsp;will reduce cost of Internet bandwidth and improve infrastructure (2018)",
+"domestic": "there is national coverage and Conakry is reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity less than 1 per 100 persons; mobile-cellular subscribership is expanding rapidly and now approaches 90 per 100 persons (2018)",
+"international": "country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019)",
+}, 
+"broadcast_media": "&lt;p&gt;government maintains marginal control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a dozen private television stations; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services&amp;nbsp;&lt;/p&gt; (2019)",
+"internet_country_code": ".gn",
+"internet_users": 
+{
+"total": "1,185,148",
+"percent_of_population": "9.8% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,100",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "2.47% of GDP",
+"2017": "2.71% of GDP",
+"2016": "2.49% of GDP",
+"2015": "3.31% of GDP",
+"2014": "2.97% of GDP",
+},
+"military_and_security_forces": "National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne, includes Marines), Guinean Air Force (Force Aerienne de Guinee), Republican Guard, Gendarmerie, People&#39;s Militia (Reserves) (2019)",
+"military_service_age_and_obligation": "no compulsory military service (2017)",
+}, 
+"transportation": 
+{
+"civil_aircraft_registration_country_code_prefix": "3X (2016)",
+"airports": "16 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "4 (2017)",
+"over_3_047_m": "1 (2017)",
+"1_524_to_2_437_m": "3 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "12 (2013)",
+"1_524_to_2_437_m": "7 (2013)",
+"914_to_1_523_m": "3 (2013)",
+"under_914_m": "2 (2013)",
+}, 
+"railways": 
+{
+"total": "1,086 km (2017)",
+"standard_gauge": "279 km 1.435-m gauge (2017)",
+"narrow_gauge": "807 km 1.000-m gauge (2017)",
+}, 
+"roadways": 
+{
+"total": "44,301 km (2018)",
+"paved": "3,346 km (2018)",
+"unpaved": "40,955 km (2018)",
+}, 
+"waterways": "1,300 km (navigable by shallow-draft native craft in the northern part of the Niger River system) (2011)",
+"merchant_marine": 
+{
+"total": "1",
+"by_type": "other 1 (2018)",
+}, 
+"ports_and_terminals": "Conakry, Kamsar",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Sierra Leone considers Guinea&#39;s definition of the flood plain limits to define the left bank boundary of the Makona and Moa Rivers excessive and protests Guinea&#39;s continued occupation of these lands, including the hamlet of Yenga, occupied since 1998&lt;/p&gt;",
+"trafficking_in_persons": 
+{
+"current_situation": "Guinea is a source, transit, and, to a lesser extent, a destination country for men, women, and children subjected to forced labor and sex trafficking; the majority of trafficking victims are Guinean children, and trafficking is more prevalent among Guineans than foreign national migrants; Guinean girls are subjected to domestic servitude and commercial sexual exploitation, while boys are forced to beg or to work as street vendors, shoe shiners, or miners; Guinea is a source country and transit point for West African children forced to work as miners in the region; Guinean women and girls are subjected to domestic servitude and sex trafficking in West Africa, the Middle East, the US, and increasingly Europe, while Thai, Chinese, and Vietnamese women are forced into prostitution and some West Africans are forced into domestic servitude in Guinea",
+"tier_rating": "Tier 2 Watch List – Guinea does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Guinea was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; no new investigations were conducted in 2014, and the one ongoing case led to the prosecution of four offenders for forced child labor, three of whom were convicted but given inadequate sentences for the crime; the government did not identify or provide protective services to victims and did not support NGOs that assisted victims but continued to refer child victims to NGOs on an ad hoc basis; Guinean law does not prohibit all forms of trafficking, excluding, for example, debt bondage; the 2014 Ebolavirus outbreak negatively affected Guinea’s ability to address human trafficking (2015)",
+}, 
+}
+}

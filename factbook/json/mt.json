@@ -1,0 +1,536 @@
+{
+"name": "Malta",
+"code": "MT",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta’s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic ten years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008.",
+}, 
+"geography": 
+{
+"location": "Southern Europe, islands in the Mediterranean Sea, south of Sicily (Italy)",
+"geographic_coordinates": "35 50 N, 14 35 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "316 sq km",
+"land": "316 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly less than twice the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "196.8 km (excludes 56 km for the island of Gozo)",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": " 200-m depth or to the depth of exploitation",
+"exclusive_fishing_zone": "25 nm",
+}, 
+"climate": "Mediterranean; mild, rainy winters; hot, dry summers",
+"terrain": "mostly low, rocky, flat to dissected plains; many coastal cliffs",
+"elevation": 
+{
+"lowest_point": "Mediterranean Sea 0 m",
+"highest_point": "Ta&#39;Dmejrek on Dingli Cliffs 253 m",
+}, 
+"natural_resources": "limestone, salt, arable land",
+"land_use": 
+{
+"agricultural_land": "32.3% (2011 est.)",
+"agricultural_land_arable_land": "28.4% (2011 est.)",
+"agricultural_land_permanent_crops": "3.9% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "0.9% (2011 est.)",
+"other": "66.8% (2011 est.)",
+}, 
+"irrigated_land": "35 sq km (2012)",
+"population_distribution": "most of the population lives on the eastern half of Malta, the largest of the three inhabited islands",
+"natural_hazards": "occasional droughts",
+"environment_current_issues": "limited natural freshwater resources; increasing reliance on desalination; deforestation; wildlife preservation",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing oil exploration on the continental shelf between their countries, although no commercially viable reserves have been found as of 2017",
+}, 
+"people_and_society": 
+{
+"population": "449,043 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Maltese (singular and plural)",
+"adjective": "Maltese",
+}, 
+"ethnic_groups": "Maltese (descendants of ancient Carthaginians and Phoenicians with strong elements of Italian and other Mediterranean stock)",
+"languages": "Maltese (official) 90.1%, English (official) 6%, multilingual 3%, other 0.9% (2005 est.)",
+"religions": "Roman Catholic (official) more than 90% (2006 est.)",
+"age_structure": 
+{
+"0_14_years": "14.29% (male 33,156 /female 31,012)",
+"15_24_years": "11.03% (male 25,713 /female 23,815)",
+"25_54_years": "40.92% (male 95,162 /female 88,602)",
+"55_64_years": "13.25% (male 29,787 /female 29,703)",
+"65_years_and_over": "20.51% (male 41,900 /female 50,193) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "48.8 (2015 est.)",
+"youth_dependency_ratio": "21.4 (2015 est.)",
+"elderly_dependency_ratio": "27.3 (2015 est.)",
+"potential_support_ratio": "3.7 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "41.8 years (2018 est.)",
+"male": "40.6 years",
+"female": "43.1 years",
+}, 
+"population_growth_rate": "0.99% (2018 est.)",
+"birth_rate": "10 births/1,000 population (2018 est.)",
+"death_rate": "7.9 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "7.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most of the population lives on the eastern half of Malta, the largest of the three inhabited islands",
+"urbanization": 
+{
+"urban_population": "94.7% of total population (2019)",
+"rate_of_urbanization": "0.38% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "213,000 VALLETTA (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.04 male(s)/female",
+"0_14_years": "1.07 male(s)/female",
+"15_24_years": "1.08 male(s)/female",
+"25_54_years": "1.07 male(s)/female",
+"55_64_years": "1 male(s)/female",
+"65_years_and_over": "0.83 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "26.9 years (2010 est.)",
+"maternal_mortality_rate": "6 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "4.7 deaths/1,000 live births (2018 est.)",
+"male": "4.6 deaths/1,000 live births",
+"female": "4.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "82.7 years (2018 est.)",
+"male": "80.6 years",
+"female": "84.8 years",
+}, 
+"total_fertility_rate": "1.48 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "9.3% (2016)",
+"physicians_density": "3.83 physicians/1,000 population (2015)",
+"hospital_bed_density": "4.7 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "100% of population (2015 est.)",
+"improved_rural": "100% of population (2015 est.)",
+"improved_total": "100% of population (2015 est.)",
+"unimproved_urban": "0% of population (2015 est.)",
+"unimproved_rural": "0% of population (2015 est.)",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.1% (2016 est.)",
+"hiv_aids_people_living_with_hiv_aids": " &lt;500 (2016 est.)",
+"hiv_aids_deaths": " &lt;100 (2016 est.)",
+"obesity_adult_prevalence_rate": "28.9% (2016)",
+"education_expenditures": "5.3% of GDP (2015)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "94.4%",
+"male": "93.1%",
+"female": "95.8% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "16 years",
+"male": "15 years",
+"female": "16 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "11.3%",
+"male": "12.2%",
+"female": "10.2% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Malta",
+"conventional_short_form": "Malta",
+"local_long_form": "Repubblika ta&#39; Malta",
+"local_short_form": "Malta",
+"etymology": "the ancient Greeks called the island &quot;Melite&quot; meaning &quot;honey-sweet&quot; from the Greek word &quot;meli&quot; meaning &quot;honey&quot; and referring to the island&#39;s honey production",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Valletta",
+"geographic_coordinates": "35 53 N, 14 30 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul&#39;s Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta&#39; Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq",
+"independence": "21 September 1964 (from the UK)",
+"national_holiday": "Independence Day, 21 September (1964); Republic Day, 13 December (1974)",
+"constitution": 
+{
+"history": "many previous; latest adopted 21 September 1964",
+"amendments": "proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of Acts requires majority vote by referendum, followed by final majority vote by the House and assent of the president of the republic; amended many times, last in 2016 (2017)",
+}, 
+"legal_system": "mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes; subject to European Union law",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Malta",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age (16 in local council elections); universal",
+"executive_branch": 
+{
+"chief_of_state": "President George VELLA (since 4 April 2019)",
+"head_of_government": "Prime Minister Joseph MUSCAT (since 11 March 2013)",
+"cabinet": "Cabinet appointed by the president on the advice of the prime minister",
+"elections_appointments": "president indirectly elected by the House of Representatives for a single 5-year term; election last held on 2 April 2019 (next to be held by April 2024); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister",
+"election_results": "George VELLA (PL) elected president; House of Representatives vote - unanimous; Joseph MUSCAT (PL) reappointed prime minister",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 had 69 seats; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process",
+"elections": "last held on 3 June 2017 (next to be held in 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations",
+"election_results": "percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)",
+"judge_selection_and_term_of_office": "Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65",
+"subordinate_courts": "Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)",
+}, 
+"political_parties_and_leaders": "Democratic Party (Partit Demokratiku) or PD [Godfrey FARRUGIA]&lt;br /&gt;Labor Party (Partit Laburista) or PL [Joseph MUSCAT]&lt;br /&gt;Nationalist Party (Partit Nazzjonalista) or PN [Adrian DELIA]",
+"international_organization_participation": "Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Keith AZZOPARDI (since 17 September 2018)",
+"chancery": "2017 Connecticut Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 462-3611 through 3612",
+"fax": "[1] (202) 387-5470",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant); Charge d&#39;Affaires Mark A. SCHAPIRO (since 29 September 2018)",
+"telephone": "[356] 2561-4000",
+"embassy": "Ta&#39; Qali National Park, Attard, ATD 4000",
+"mailing_address": "5800 Valletta Place, Dulles, VA 20189",
+"fax": "[356] 2561-4183",
+}, 
+"flag_description": "two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field",
+"national_symbol_s": "Maltese eight-pointed cross; national colors: red, white",
+"national_anthem": 
+{
+"name": "&quot;L-Innu Malti&quot; (The Maltese Anthem)",
+"lyrics_music": "Dun Karm PSAILA/Robert SAMMUT",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Malta’s free market economy – the smallest economy in the euro-zone – relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta&#39;s economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Malta’s services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Malta’s financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Malta’s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$19.26 billion",
+"2016": "$18.05 billion",
+"2015": "$17.16 billion",
+},
+"gdp_official_exchange_rate": "$12.58 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "6.7%",
+"2016": "5.2%",
+"2015": "9.5%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$41,900",
+"2016": "$40,100",
+"2015": "$39,000",
+},
+"gross_national_saving":
+{
+"2017": "33.5% of GDP",
+"2016": "31.8% of GDP",
+"2015": "31.2% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "45.2% (2017 est.)",
+"government_consumption": "15.3% (2017 est.)",
+"investment_in_fixed_capital": "21.1% (2017 est.)",
+"investment_in_inventories": "0.3% (2017 est.)",
+"exports_of_goods_and_services": "136.1% (2017 est.)",
+"imports_of_goods_and_services": "-117.9% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "1.1% (2017 est.)",
+"industry": "10.2% (2017 est.)",
+"services": "88.7% (2017 est.)",
+}, 
+"agriculture_products": "potatoes, cauliflower, grapes, wheat, barley, tomatoes, citrus, cut flowers, green peppers; pork, milk, poultry, eggs",
+"industries": "tourism, electronics, ship building and repair, construction, food and beverages, pharmaceuticals, footwear, clothing, tobacco, aviation services, financial services, information technology services",
+"industrial_production_growth_rate": "-3.3% (2016 est.)",
+"labor_force": "206,300 (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "1.6%",
+"industry": "20.7%",
+"services": "77.7% (2016 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "4.6%",
+"2016": "5.3%",
+},
+"population_below_poverty_line": "16.3% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2015": "28.1",
+"2014": "27.7",
+},
+"budget": 
+{
+"revenues": "5.076 billion (2017 est.)",
+"expenditures": "4.583 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "40.4% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "3.9% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "50.7% of GDP",
+"2016": "56.3% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.3%",
+"2016": "0.9%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2016": "-0.35%",
+"31 December 2015": "-0.2%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "3.7%",
+"31 December 2016": "5.06%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$17.93 billion",
+"31 December 2016": "$14.28 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$17.93 billion",
+"31 December 2016": "$14.28 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$13.97 billion",
+"31 December 2016": "$11.99 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2016": "$4.632 billion",
+"31 December 2015": "$4.468 billion",
+"31 December 2014": "$3.353 billion",
+},
+"current_account_balance":
+{
+"2017": "$1.712 billion",
+"2016": "$788 million",
+},
+"exports":
+{
+"2017": "$3.272 billion",
+"2016": "$2.493 billion",
+},
+"exports_partners": "Germany 17.3%, France 10.2%, Italy 9.4%, Singapore 5.9%, Hong Kong 5.8%, US 5.7%, Japan 4.9%, Libya 4.5% (2017)",
+"exports_commodities": "machinery and mechanical appliances; mineral fuels, oils and petroleum products; pharmaceutical products; books and newspapers; aircraft/spacecraft and parts; toys, games, and sports equipment",
+"imports":
+{
+"2017": "$4.996 billion",
+"2016": "$4.965 billion",
+},
+"imports_commodities": "mineral fuels, oils and products; electrical machinery; aircraft/spacecraft and parts thereof; machinery and mechanical appliances; plastic and other semi-manufactured goods; vehicles and parts",
+"imports_partners": "Italy 23%, Germany 7.9%, UK 7.7%, Spain 5%, Canada 4.5%, US 4.3%, France 4.2% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$833 million",
+"31 December 2016": "$677.1 million",
+},
+"debt_external":
+{
+"September 2016": "$90.98 billion",
+"31 December 2015": "$99.02 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"1 June 2016": "$166.1 million",
+"1 June 2015": "$155.5 million",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"June 2015": "$65.49 million",
+"31 June 2014": "$64.77 million",
+},
+"exchange_rates": 
+{
+"currency": "euros (EUR) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.885",
+"2016": "0.903",
+"2015": "0.9214",
+"2014": "0.885",
+"2013": "0.7634",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "813 million kWh (2016 est.)",
+"electricity_consumption": "2.122 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "1.525 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "575,100 kW (2016 est.)",
+"electricity_from_fossil_fuels": "81% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "19% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "45,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "10,400 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "52,290 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "283.2 million cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "311.5 million cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "8.141 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "240,280",
+"subscriptions_per_100_inhabitants": "58 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "560,010",
+"subscriptions_per_100_inhabitants": "135 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "automatic system featuring submarine cable and microwave radio relay between islands; one of the most advanced telecoms in Europe, high penetration of mobile and broadband, and a way forward to expand e-commerce opportunities; &#39;5G ready&#39; and LTE network; regulatory system that encourages&amp;nbsp;investors (2018)",
+"domestic": "fixed-line&amp;nbsp; 58 per 100&amp;nbsp; persons and mobile-cellular subscribership&amp;nbsp; 135 per 100 persons (2018)",
+"international": "country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)",
+"internet_country_code": ".mt",
+"internet_users": 
+{
+"total": "320,902",
+"percent_of_population": "77.3% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "181,318",
+"subscriptions_per_100_inhabitants": "44 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.49% of GDP",
+"2017": "0.51% of GDP",
+"2016": "0.54% of GDP",
+"2015": "0.5% of GDP",
+"2014": "0.5% of GDP",
+},
+"military_and_security_forces": "Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Volunteer Reserve Force) (2019)",
+"military_service_age_and_obligation": "18-30 years of age for voluntary military service; no conscription (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "9 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "28 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "1,583,046 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "3.352 million mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "9H (2016)",
+"airports": "1 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2017)",
+"over_3_047_m": "1 (2017)",
+}, 
+"heliports": "2 (2013)",
+"roadways": 
+{
+"total": "2,254 km (2001)",
+"paved": "1,973 km (2001)",
+"unpaved": "281 km (2001)",
+"urban": "1,422 km (2001)",
+"non_urban": "832 km (2001)",
+}, 
+"merchant_marine": 
+{
+"total": "2,205",
+"by_type": "bulk carrier 645, container ship 283, general cargo 288, oil tanker 391, other 598 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Marsaxlokk (Malta Freeport), Valletta",
+"container_port_s_teus": "Marsaxlokk (3,150,000) (2017)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "11 (2018)",
+"illicit_drugs": "minor transshipment point for hashish from North Africa to Western Europe",
+}
+}

@@ -1,0 +1,426 @@
+{
+"name": "Palau",
+"code": "PS",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "After three decades as part of the UN Trust Territory of the Pacific under US administration, this westernmost cluster of the Caroline Islands opted for independence in 1978 rather than join the Federated States of Micronesia. A Compact of Free Association with the US was approved in 1986 but not ratified until 1993. It entered into force the following year when the islands gained independence.",
+}, 
+"geography": 
+{
+"location": "Oceania, group of islands in the North Pacific Ocean, southeast of the Philippines",
+"geographic_coordinates": "7 30 N, 134 30 E",
+"map_references": "Oceania",
+"area": 
+{
+"total": "459 sq km",
+"land": "459 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly more than 2.5 times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "1,519 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": "200 nm",
+}, 
+"climate": "tropical; hot and humid; wet season May to November",
+"terrain": "varying topography from the high, mountainous main island of Babelthuap to low, coral islands usually fringed by large barrier reefs",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "Mount Ngerchelchuus 242 m",
+}, 
+"natural_resources": "forests, minerals (especially gold), marine products, deep-seabed minerals",
+"land_use": 
+{
+"agricultural_land": "10.8% (2011 est.)",
+"agricultural_land_arable_land": "2.2% (2011 est.)",
+"agricultural_land_permanent_crops": "4.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "4.3% (2011 est.)",
+"forest": "87.6% (2011 est.)",
+"other": "1.6% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "most of the population is located on the southern end of the main island of Babelthuap",
+"natural_hazards": "typhoons (June to December)",
+"environment_current_issues": "inadequate facilities for disposal of solid waste; threats to the marine ecosystem from sand and coral dredging, illegal and destructive fishing practices, and overfishing; climate change contributes to rising sea level and coral bleaching; drought",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "westernmost archipelago in the Caroline chain, consists of six island groups totaling more than 300 islands; includes World War II battleground of Beliliou (Peleliu) and world-famous Rock Islands",
+}, 
+"people_and_society": 
+{
+"population": "21,516 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Palauan(s)",
+"adjective": "Palauan",
+}, 
+"ethnic_groups": "Palauan (Micronesian with Malayan and Melanesian admixtures) 73%, Carolinian 2%, Asian 21.7%, caucasian 1.2%, other 2.1% (2015 est.)",
+"languages": "Palauan (official on most islands) 65.2%, other Micronesian 1.9%, English (official) 19.1%, Filipino 9.9%, Chinese 1.2%, other 2.8% (2015 est.)",
+"religions": "Roman Catholic 45.3%, Protestant 34.9% (includes Evangelical 26.4%, Seventh Day Adventist 6.9%, Assembly of God .9%, Baptist .7%), Modekngei 5.7% (indigenous to Palau), Muslim 3%, Mormon 1.5%, other 9.7% (2015 est.)",
+"age_structure": 
+{
+"0_14_years": "19.37% (male 2,149 /female 2,019)",
+"15_24_years": "16.4% (male 1,768 /female 1,760)",
+"25_54_years": "45.74% (male 6,016 /female 3,826)",
+"55_64_years": "9.99% (male 765 /female 1,384)",
+"65_years_and_over": "8.5% (male 464 /female 1,365) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "33.6 years (2018 est.)",
+"male": "32.8 years",
+"female": "35.3 years",
+}, 
+"population_growth_rate": "0.4% (2018 est.)",
+"birth_rate": "11.3 births/1,000 population (2018 est.)",
+"death_rate": "8.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most of the population is located on the southern end of the main island of Babelthuap",
+"urbanization": 
+{
+"urban_population": "80.5% of total population (2019)",
+"rate_of_urbanization": "1.77% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "277 NGERULMUD (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.06 male(s)/female",
+"15_24_years": "1 male(s)/female",
+"25_54_years": "1.57 male(s)/female",
+"55_64_years": "0.55 male(s)/female",
+"65_years_and_over": "0.34 male(s)/female",
+"total_population": "1.08 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "10.3 deaths/1,000 live births (2018 est.)",
+"male": "11.8 deaths/1,000 live births",
+"female": "8.8 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "73.6 years (2018 est.)",
+"male": "70.4 years",
+"female": "77 years",
+}, 
+"total_fertility_rate": "1.7 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "97% of population",
+"improved_rural": "86% of population",
+"improved_total": "95.3% of population",
+"unimproved_urban": "3% of population",
+"unimproved_rural": "14% of population",
+"unimproved_total": "4.7% of population (2011 est.)",
+}, 
+"current_health_expenditure": "11.7% (2016)",
+"physicians_density": "1.19 physicians/1,000 population (2014)",
+"hospital_bed_density": "4.8 beds/1,000 population (2010)",
+"sanitation_facility_access": 
+{
+"improved_urban": "100% of population (2015 est.)",
+"improved_rural": "100% of population (2015 est.)",
+"improved_total": "100% of population (2015 est.)",
+"unimproved_urban": "0% of population (2015 est.)",
+"unimproved_rural": "0% of population (2015 est.)",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "55.3% (2016)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "96.6%",
+"male": "96.8%",
+"female": "96.3% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "17 years",
+"male": "16 years",
+"female": "18 years (2013)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Palau",
+"conventional_short_form": "Palau",
+"local_long_form": "Beluu er a Belau",
+"local_short_form": "Belau",
+"former": "Trust Territory of the Pacific Islands, Palau District",
+"etymology": "from the Palauan name for the islands, Belau, which likely derives from the Palauan word &quot;beluu&quot; meaning &quot;village&quot;",
+}, 
+"government_type": "presidential republic in free association with the US",
+"capital": 
+{
+"name": "Ngerulmud",
+"geographic_coordinates": "7 30 N, 134 37 E",
+"time_difference": "UTC+9 (14 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "16 states; Aimeliik, Airai, Angaur, Hatohobei, Kayangel, Koror, Melekeok, Ngaraard, Ngarchelong, Ngardmau, Ngatpang, Ngchesar, Ngeremlengui, Ngiwal, Peleliu, Sonsorol",
+"independence": "1 October 1994 (from the US-administered UN trusteeship)",
+"national_holiday": "Constitution Day, 9 July (1981), day of a national referendum to pass the new constitution; Independence Day, 1 October (1994)",
+"constitution": 
+{
+"history": "ratified 9 July 1980, effective 1 January 1981",
+"amendments": "proposed by a constitutional convention (held at least once every 15 years with voter approval), by public petition of at least 25% of eligible voters, or by a resolution adopted by at least three fourths of National Congress members; passage requires approval by a majority of votes in at least three fourths of the states in the next regular general election; amended 1992, 2004, 2008 (2017)",
+}, 
+"legal_system": "mixed legal system of civil, common, and customary law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Palau",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "note - no procedure for naturalization",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Tommy REMENGESAU (since 17 January 2013); Vice President Raynold OILUCH (since 19 January 2017); note - the president is both chief of state and head of government",
+"head_of_government": "President Tommy REMENGESAU (since 17 January 2013); Vice President Raynold OILUCH (since 19 January 2017)",
+"cabinet": "Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws of Palau",
+"elections_appointments": "president and vice president directly elected on separate ballots by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 1 November 2016 (next to be held in November 2020)",
+"election_results": "Tommy REMENGESAU reelected president; percent of vote - Tommy REMENGESAU (independent) 51.3%, Surangel WHIPPS, Jr.(independent) 48.7%; Raynold OILUCH elected vice president",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral National Congress or Olbiil Era Kelulau consists of:&lt;br /&gt;Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)&lt;br /&gt; House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)",
+"elections": "&lt;br /&gt; Senate - last held on 1 November 2016 (next to be held in November 2020)&lt;br /&gt; House of Delegates - last held on 1 November 2016 (next to be held in November 2020)",
+"election_results": "&lt;br /&gt; Senate - percent of vote - NA; seats - independent 13; composition - men 11, women 2, percent of women 15.4%&lt;br /&gt; House of Delegates - percent of vote - NA; seats - independent 16; composition - men 14, women 2, percent of women 12.5%; note - total National Congress percent of women 13.8%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)",
+"judge_selection_and_term_of_office": "justices nominated by a 7-member independent body consisting of judges, presidential appointees, and lawyers and appointed by the president; judges can serve until mandatory retirement at age 65",
+"subordinate_courts": "National Court and other &#39;inferior&#39; courts",
+}, 
+"political_parties_and_leaders": "none",
+"international_organization_participation": "ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IPU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNAMID, UNCTAD, UNESCO, WHO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Hersey KYOTA (since 12 November 1997)",
+"chancery": "1701 Pennsylvania Avenue NW, Suite 300, Washington, DC 20036",
+"telephone": "[1] (202) 452-6814",
+"fax": "[1] (202) 452-6281",
+"consulate_s": "Tamuning (Guam)",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Amy HYATT (since 9 March 2015)",
+"telephone": "[680] 587-2920",
+"embassy": "Omsangel/Beklelachieb, Airai, Palau 96940",
+"mailing_address": "P. O. Box 6028, Koror, Republic of Palau 96940",
+"fax": "[680] 587-2911",
+}, 
+"flag_description": "light blue with a large yellow disk shifted slightly to the hoist side; the blue color represents the ocean, the disk represents the moon; Palauans consider the full moon to be the optimum time for human activity; it is also considered a symbol of peace, love, and tranquility",
+"national_symbol_s": "bai (native meeting house); national colors: blue, yellow",
+"national_anthem": 
+{
+"name": "&quot;Belau rekid&quot; (Our Palau)",
+"lyrics_music": "multiple/Ymesei O. EZEKIEL",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The economy is dominated by tourism, fishing, and subsistence agriculture. Government is a major employer of the work force relying on financial assistance from the US under the Compact of Free Association (Compact) with the US that took effect after the end of the UN trusteeship on 1 October 1994. The US provided Palau with roughly $700 million in aid for the first 15 years following commencement of the Compact in 1994 in return for unrestricted access to its land and waterways for strategic purposes. The population enjoys a per capita income roughly double that of the Philippines and much of Micronesia.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Business and leisure tourist arrivals reached a record 167,966 in 2015, a 14.4% increase over the previous year, but fell to 138,408 in 2016. Long-run prospects for tourism have been bolstered by the expansion of air travel in the Pacific, the rising prosperity of industrial East Asia, and the willingness of foreigners to finance infrastructure development. Proximity to Guam, the region&#39;s major destination for tourists from East Asia, and a regionally competitive tourist infrastructure enhance Palau&#39;s advantage as a destination.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$264 million",
+"2016": "$274.2 million",
+"2015": "$274.1 million",
+},
+"gdp_official_exchange_rate": "$292 million (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "-3.7%",
+"2016": "0%",
+"2015": "10.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$14,700",
+"2016": "$15,200",
+"2015": "$15,200",
+},
+"gross_national_saving":
+{
+"2016": "48.7% of GDP",
+"2015": "50.1% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "60.5% (2016 est.)",
+"government_consumption": "27.2% (2016 est.)",
+"investment_in_fixed_capital": "22.7% (2016 est.)",
+"investment_in_inventories": "1.9% (2016 est.)",
+"exports_of_goods_and_services": "55.2% (2016 est.)",
+"imports_of_goods_and_services": "-67.6% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "3% (2016 est.)",
+"industry": "19% (2016 est.)",
+"services": "78% (2016 est.)",
+}, 
+"agriculture_products": "coconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs, bananas, papaya, breadfruit, calamansi, soursop, Polynesian chestnuts, Polynesian almonds, mangoes, taro, guava, beans, cucumbers, squash/pumpkins (various), eggplant, green onions, kangkong (watercress), cabbages (various), radishes, betel nuts, melons, peppers, noni, okra",
+"industries": "tourism, fishing, subsistence agriculture",
+"industrial_production_growth_rate": " NA",
+"labor_force": "11,610 (2016)",
+"labor_force_by_occupation": 
+{
+"agriculture": "1.2%",
+"industry": "12.4%",
+"services": "86.4% (2016)",
+}, 
+"unemployment_rate":
+{
+"2015": "1.7%",
+"2012": "4.1%",
+},
+"population_below_poverty_line": "24.9% NA (2006)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "193 million (2012 est.)",
+"expenditures": "167.3 million (2012 est.)",
+}, 
+"taxes_and_other_revenues": "66.1% (of GDP) (2016 est.)",
+"budget_surplus_or_deficit": "8.8% (of GDP) (2016 est.)",
+"public_debt":
+{
+"2016": "24.1% of GDP",
+"2015": "21.6% of GDP",
+},
+"fiscal_year": "1 October - 30 September",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.9%",
+"2016": "-1%",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$53 million",
+"2016": "-$36 million",
+},
+"exports":
+{
+"2017": "$23.17 billion",
+"2015": "$14.8 million",
+},
+"exports_partners": "Japan 51.3%, US 15.8%, India 13.8%, Guam 8% (2017)",
+"exports_commodities": "shellfish, tuna, other fish (many species)",
+"imports":
+{
+"2018": "$4.715 billion",
+"2017": "$4.079 billion",
+},
+"imports_commodities": "machinery and equipment, fuels, metals; foodstuffs",
+"imports_partners": "US 33.4%, Guam 15.8%, Japan 15.7%, China 13.5%, South Korea 5.3% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$0",
+"31 December 2015": "$580.9 million",
+},
+"debt_external":
+{
+"31 December 2014": "$18.38 billion",
+"31 December 2013": "$16.47 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2009": "",
+},
+"exchange_rates": "&lt;p&gt;the US dollar is used&lt;/p&gt;", 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"electrification_total_population": "99.3% (2016)",
+"electrification_urban_areas": "99.6% (2016)",
+"electrification_rural_areas": "97.2% (2016)",
+}, 
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "7,204",
+"subscriptions_per_100_inhabitants": "34 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "24,000",
+"subscriptions_per_100_inhabitants": "112 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "well-developed mobile sector recently boosted by satellite network capacity upgrades; 3G services available with satellite; lack of telecom regulations; (2018)",
+"domestic": "fixed-line&amp;nbsp; 34 per 100 and mobile-cellular services 112 per 100 persons (2018)",
+"international": "country code - 680; landing point for the SEA-US submarine cable linking Palau, Philippines, Micronesia, Indonesia, Hawaii (US), Guam (US) and&amp;nbsp;California (US); satellite earth station - 1 Intelsat (Pacific Ocean) (2019)",
+}, 
+"broadcast_media": "no broadcast TV stations; a cable TV network covers the major islands and provides access to 4 local cable stations, rebroadcasts (on a delayed basis) of a number of US stations, as well as access to a number of real-time satellite TV channels; about a half dozen radio stations (1 government-owned) (2019)",
+"internet_country_code": ".pw",
+"internet_users": 
+{
+"total": "7,650",
+"percent_of_population": "36% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular military forces; the Ministry of Justice includes divisions/bureaus for public security, police functions, and maritime law enforcement. (2019)",
+"military_note": "Under a 1994 Compact of Free Association between Palau and the US, the US until 2044 is responsible for the defense of Palaus and the US military is granted access to the islands, but it has not stationed any military forces there. (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "1 (2015)",
+}, 
+"airports": "3 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "2 (2013)",
+"1_524_to_2_437_m": "2 (2013)",
+}, 
+"roadways": 
+{
+"total": "125 km (2018)",
+"paved": "89 km (2018)",
+"unpaved": "36 km (2018)",
+}, 
+"ports_and_terminals": "Koror",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;maritime delineation negotiations continue with Philippines, Indonesia&lt;/p&gt;",
+}
+}

@@ -1,0 +1,308 @@
+{
+"name": "Wallis and Futuna",
+"code": "WF",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "The Futuna island group was discovered by the Dutch in 1616 and Wallis by the British in 1767, but it was the French who declared a protectorate over the islands in 1842, and took official control of them between 1886 and 1888. Notably, Wallis and Futuna was the only French colony to side with the Vichy regime during World War II, a phase that ended in May of 1942 with the arrival of 2,000 American troops. In 1959, the inhabitants of the islands voted to become a French overseas territory and officially assumed that status in 1961. In 2003, Wallis and Futuna&#39;s designation changed to that of an overseas collectivity.",
+}, 
+"geography": 
+{
+"location": "Oceania, islands in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand",
+"geographic_coordinates": "13 18 S, 176 12 W",
+"map_references": "Oceania",
+"area": 
+{
+"total": "142 sq km",
+"land": "142 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "1.5 times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "129 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "tropical; hot, rainy season (November to April); cool, dry season (May to October); rains 250-300 cm per year (80% humidity); average temperature 26.6 degrees Celsius",
+"terrain": "volcanic origin; low hills",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "Mont Singavi (on Futuna) 522 m",
+}, 
+"natural_resources": "NEGL",
+"land_use": 
+{
+"agricultural_land": "42.8% (2011 est.)",
+"agricultural_land_arable_land": "7.1% (2011 est.)",
+"agricultural_land_permanent_crops": "35.7% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "41.9% (2011 est.)",
+"other": "15.3% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"natural_hazards": "cyclones; tsunamis",
+"environment_current_issues": "deforestation (only small portions of the original forests remain) largely as a result of the continued use of wood as the main fuel source; as a consequence of cutting down the forests, the mountainous terrain of Futuna is particularly prone to erosion; there are no permanent settlements on Alofi because of the lack of natural freshwater resources; lack of soil fertility on the islands of Uvea and Futuna negatively impacts agricultural producitivity",
+"geography_note": "both island groups have fringing reefs; Wallis contains several prominent crater lakes",
+}, 
+"people_and_society": 
+{
+"population": "15,763 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Wallisian(s), Futunan(s), or Wallis and Futuna Islanders",
+"adjective": "Wallisian, Futunan, or Wallis and Futuna Islander",
+}, 
+"ethnic_groups": "Polynesian",
+"languages": "Wallisian (indigenous Polynesian language) 58.9%, Futunian 30.1%, French (official) 10.8%, other 0.2% (2003 census)",
+"religions": "Roman Catholic 99%, other 1%",
+"age_structure": 
+{
+"0_14_years": "21.28% (male 1,749 /female 1,606)",
+"15_24_years": "15.87% (male 1,336 /female 1,165)",
+"25_54_years": "42.65% (male 3,391 /female 3,332)",
+"55_64_years": "9.76% (male 752 /female 787)",
+"65_years_and_over": "10.44% (male 782 /female 863) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "32.8 years (2018 est.)",
+"male": "31.9 years",
+"female": "34 years",
+}, 
+"population_growth_rate": "0.3% (2018 est.)",
+"birth_rate": "13 births/1,000 population (2018 est.)",
+"death_rate": "5.5 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-4.6 migrant(s)/1,000 population (2018 est.)",
+"urbanization": 
+{
+"urban_population": "0% of total population (2019)",
+"rate_of_urbanization": "0% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1,000 MATA-UTU (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.09 male(s)/female",
+"15_24_years": "1.15 male(s)/female",
+"25_54_years": "1.02 male(s)/female",
+"55_64_years": "0.96 male(s)/female",
+"65_years_and_over": "0.91 male(s)/female",
+"total_population": "1.03 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "4.3 deaths/1,000 live births (2018 est.)",
+"male": "4.5 deaths/1,000 live births",
+"female": "4 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "80 years (2018 est.)",
+"male": "77 years",
+"female": "83.1 years",
+}, 
+"total_fertility_rate": "1.72 children born/woman (2018 est.)",
+"sanitation_facility_access": 
+{
+"improved_rural": "96% of population (2008 est.)",
+"improved_total": "96% of population (2008 est.)",
+"unimproved_rural": "4% of population (2008 est.)",
+"unimproved_total": "4% of population (2008 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"education_expenditures": " NA",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Territory of the Wallis and Futuna Islands",
+"conventional_short_form": "Wallis and Futuna",
+"local_long_form": "Territoire des Iles Wallis et Futuna",
+"local_short_form": "Wallis et Futuna",
+"former": "Hoorn Islands is the former name of the Futuna Islands",
+"etymology": "Wallis Island is named after British Captain Samuel WALLIS, who discovered it in 1767; Futuna is derived from the native word &quot;futu,&quot; which is the name of the fish-poison tree found on the island",
+}, 
+"dependency_status": "overseas collectivity of France",
+"government_type": "parliamentary democracy (Territorial Assembly); overseas collectivity of France",
+"capital": 
+{
+"name": "Mata-Utu (on Ile Uvea)",
+"geographic_coordinates": "13 57 S, 171 56 W",
+"time_difference": "UTC+12 (17 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "3 administrative precincts (circonscriptions, singular - circonscription) Alo, Sigave, Uvea",
+"independence": "none (overseas collectivity of France)",
+"national_holiday": "Bastille Day, 14 July (1789)",
+"constitution": 
+{
+"history": "4 October 1958 (French Constitution)",
+"amendments": "French constitution amendment procedures apply",
+}, 
+"legal_system": "French civil law",
+"citizenship": "see France", 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Emmanuel MACRON (since 14 May 2017); represented by High Administrator Jean-Francis TREFFEL (since 6 February 2017)",
+"head_of_government": "President of the Territorial Assembly David VERGE (since 4 April 2017)",
+"cabinet": "Council of the Territory appointed by the high administrator on the advice of the Territorial Assembly",
+"elections_appointments": "French president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high administrator appointed by the French president on the advice of the French Ministry of the Interior; the presidents of the Territorial Government and the Territorial Assembly elected by assembly members; 20 December Thierry Queffelec is appointed high administrator and will take office 7 January 2019",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Territorial Assembly or Assemblee Territoriale (20 seats - Wallis 13, Futuna 7; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms)&lt;br /&gt;Wallis and Futuna indirectly elects 1 senator to the French Senate by an electoral college by absolute majority vote in 2 rounds if needed for a 6-year term, and directly elects 1 deputy to the French National Assembly by absolute majority vote for a 5-year term",
+"elections": "Territorial Assembly - last held on 26 March 2017 (next to be held in March 2022)&lt;br /&gt;French Senate - last held on 28 September 2014 (next to be held by September 2020)&lt;br /&gt;French National Assembly - last held on 11 June 2017 (next to be held in June 2022)",
+"election_results": "Territorial Assembly - percent of vote by party - NA; seats by party - 2 members are elected from the list Fia gaue fakatahi kihe kaha&#39;u e lelei and 1 each from 18 other lists; composition - men 14, women 6, percent of women 30%&lt;br /&gt; French Senate - LR 1&lt;br /&gt;French National Assembly - independent 1",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Assizes or Cour d&#39;Assizes (consists of 1 judge; court hears primarily serious criminal cases); note - appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d&#39;Appel (in Noumea, New Caledonia)",
+"judge_selection_and_term_of_office": "NA",
+"subordinate_courts": "courts of first instance; labor court; note - justice generally administered under French law by the high administrator, but the 3 traditional kings administer customary law, and there is a magistrate in Mata-Utu",
+}, 
+"political_parties_and_leaders": "Left Radical Party or PRG [Sylvia PINEL] (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)&lt;br /&gt;Lua Kae Tahi (Giscardians) (leader NA)&lt;br /&gt;Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR [Clovis LOGOLOGOFOLAU]&lt;br /&gt;Socialist Party or PS&lt;br /&gt;Taumu&#39;a Lelei [Soane Muni UHILA]&lt;br /&gt;Union Pour la Democratie Francaise or UDF",
+"international_organization_participation": "PIF (observer), SPC, UPU",
+"diplomatic_representation_in_the_us": "none (overseas&amp;nbsp;collectivity of France)", 
+"diplomatic_representation_from_the_us": "none (overseas collectivity of France)", 
+"flag_description": "unofficial, local flag has a red field with four white isosceles triangles in the middle, representing the three native kings of the islands and the French administrator; the apexes of the triangles are oriented inward and at right angles to each other; the flag of France, outlined in white on two sides, is in the upper hoist quadrant",
+"national_symbol_s": "red saltire (Saint Andrew&#39;s Cross) on a white square on a red field; national colors: red, white",
+"national_anthem": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; as a territory of France, &quot;La Marseillaise&quot; is official (see France)&lt;/p&gt;", 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The economy is limited to traditional subsistence agriculture, with about 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. However, roughly 70% of the labor force is employed in the public sector, although only about a third of the population is in salaried employment.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector and health-care and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and health-care facilities.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live on the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2004": "$60 million",
+},
+"gdp_official_exchange_rate": "$195 million (2005) (2005)",
+"gdp_real_growth_rate": "&lt;p&gt;NA&lt;/p&gt;", 
+"gdp_per_capita_ppp":
+{
+"2004": "$3,800",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "26% (2005)",
+"government_consumption": "54% (2005)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": " NA",
+"industry": " NA",
+"services": " NA",
+}, 
+"agriculture_products": "coconuts, breadfruit, yams, taro, bananas; pigs, goats; fish",
+"industries": "copra, handicrafts, fishing, lumber",
+"industrial_production_growth_rate": " NA",
+"labor_force": "4,482 (2013)",
+"labor_force_by_occupation": 
+{
+"agriculture": "74%",
+"industry": "3%",
+"services": "23% (2015 est.)",
+}, 
+"unemployment_rate":
+{
+"2013": "8.8%",
+"2008": "12.2%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "32.54 million NA (2015 est.)",
+"expenditures": "34.18 million NA (2015 est.)",
+}, 
+"taxes_and_other_revenues": "16.7% (of GDP) NA (2015 est.)",
+"budget_surplus_or_deficit": "-0.8% (of GDP) NA (2015 est.)",
+"public_debt":
+{
+"2004": "5.6% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2015": "0.9%",
+"2005": "2.8%",
+},
+"exports":
+{
+"2004": "$47,450",
+},
+"exports_commodities": "copra, chemicals, construction materials",
+"imports":
+{
+"2004": "$61.17 million",
+},
+"imports_commodities": "chemicals, machinery, consumer goods",
+"debt_external":
+{
+"2004": "$3.67 million",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2009": "",
+},
+"exchange_rates": 
+{
+"currency": "Comptoirs Francais du Pacifique francs (XPF) per US dollar -",
+"exchange_rates":
+{
+"2015": "110.2",
+"2014": "89.8",
+"2013": "89.85",
+"2012": "90.56",
+},
+}, 
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "3,132",
+"subscriptions_per_100_inhabitants": "20 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "bandwidth is limited and broadband is expensive; mobile subscriber numbers are higher than fixed-line and better suited for islands; good mobile coverage in the capital cities and also reasonable coverage across more remote atolls; new satellite broadband access and speeds (2018)",
+"international": "country code - 681",
+}, 
+"broadcast_media": "the publicly owned French Overseas Network (RFO), which broadcasts to France&#39;s overseas departments, collectivities, and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2019)",
+"internet_country_code": ".wf",
+"internet_users": 
+{
+"total": "3,450",
+"percent_of_population": "22.1% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of France",
+}, 
+"transportation": 
+{
+"airports": "2 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "2 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "1 (2013)",
+}, 
+"ports_and_terminals": "Leava, Mata-Utu",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

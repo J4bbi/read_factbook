@@ -1,0 +1,560 @@
+{
+"name": "Germany",
+"code": "GM",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;As Europe&#39;s largest economy and second most populous nation (after Russia), Germany is a key member of the continent&#39;s economic, political, and defense organizations. European power struggles immersed Germany in two devastating world wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949: the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key western economic and security organizations, the EC (now the EU) and NATO, while the communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the USSR and the end of the Cold War allowed for German reunification in 1990. Since then, Germany has expended considerable funds to bring eastern productivity and wages up to western standards. In January 1999, Germany and 10 other EU countries introduced a common European exchange currency, the euro.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Central Europe, bordering the Baltic Sea and the North Sea, between the Netherlands and Poland, south of Denmark",
+"geographic_coordinates": "51 00 N, 9 00 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "357,022 sq km",
+"land": "348,672 sq km",
+"water": "8,350 sq km",
+}, 
+"area_comparative": "three times the size of Pennsylvania; slightly smaller than Montana",
+"land_boundaries": 
+{
+"total": "3,714 km",
+"border_countries": "Austria 801 km, Belgium 133 km, Czech Republic 704 km, Denmark 140 km, France 418 km, Luxembourg 128 km, Netherlands 575 km, Poland 467 km, Switzerland 348 km",
+}, 
+"coastline": "2,389 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"continental_shelf": " 200-m depth or to the depth of exploitation",
+}, 
+"climate": "temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind",
+"terrain": "lowlands in north, uplands in center, Bavarian Alps in south",
+"elevation": 
+{
+"mean_elevation": "263 m",
+"lowest_point": "Neuendorf bei Wilster -3.5 m",
+"highest_point": "Zugspitze 2,963 m",
+}, 
+"natural_resources": "coal, lignite, natural gas, iron ore, copper, nickel, uranium, potash, salt, construction materials, timber, arable land",
+"land_use": 
+{
+"agricultural_land": "48% (2011 est.)",
+"agricultural_land_arable_land": "34.1% (2011 est.)",
+"agricultural_land_permanent_crops": "0.6% (2011 est.)",
+"agricultural_land_permanent_pasture": "13.3% (2011 est.)",
+"forest": "31.8% (2011 est.)",
+"other": "20.2% (2011 est.)",
+}, 
+"irrigated_land": "6,500 sq km (2012)",
+"population_distribution": "most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia",
+"natural_hazards": "flooding",
+"environment_current_issues": "emissions from coal-burning utilities and industries contribute to air pollution; acid rain, resulting from sulfur dioxide emissions, is damaging forests; pollution in the Baltic Sea from raw sewage and industrial effluents from rivers in eastern Germany; hazardous waste disposal; government established a mechanism for ending the use of nuclear power by 2022; government working to meet EU commitment to identify nature preservation areas in line with the EU&#39;s Flora, Fauna, and Habitat directive",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "strategic location on North European Plain and along the entrance to the Baltic Sea; most major rivers in Germany - the Rhine, Weser, Oder, Elbe - flow northward; the Danube, which originates in the Black Forest, flows eastward",
+}, 
+"people_and_society": 
+{
+"population": "80,457,737 (July 2018 est.)",
+"nationality": 
+{
+"noun": "German(s)",
+"adjective": "German",
+}, 
+"ethnic_groups": "German 87.2%, Turkish 1.8%, Polish 1%, Syrian 1%, other 9% (2017 est.)",
+"languages": "German (official)",
+"religions": "Roman Catholic 27.7%, Protestant 25.5%, Muslim 5.1%, Orthodox 1.9%, other Christian 1.1%, other .9%, none 37.8% (2018 est.)",
+"age_structure": 
+{
+"0_14_years": "12.83% (male 5,299,798 /female 5,024,184)",
+"15_24_years": "9.98% (male 4,092,901 /female 3,933,997)",
+"25_54_years": "39.87% (male 16,181,931 /female 15,896,528)",
+"55_64_years": "14.96% (male 5,989,111 /female 6,047,449)",
+"65_years_and_over": "22.36% (male 7,930,590 /female 10,061,248) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "52.1 (2015 est.)",
+"youth_dependency_ratio": "19.9 (2015 est.)",
+"elderly_dependency_ratio": "32.1 (2015 est.)",
+"potential_support_ratio": "3.1 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "47.4 years (2018 est.)",
+"male": "46.2 years",
+"female": "48.5 years",
+}, 
+"population_growth_rate": "-0.17% (2018 est.)",
+"birth_rate": "8.6 births/1,000 population (2018 est.)",
+"death_rate": "11.8 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "1.5 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia",
+"urbanization": 
+{
+"urban_population": "77.4% of total population (2019)",
+"rate_of_urbanization": "0.27% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "3.557 million BERLIN (capital), 1.791 million Hamburg, 1.521 million Munich, 1.108 million Cologne (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.02 male(s)/female",
+"55_64_years": "0.99 male(s)/female",
+"65_years_and_over": "0.79 male(s)/female",
+"total_population": "0.96 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "29.4 years (2015 est.)",
+"maternal_mortality_rate": "7 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "3.4 deaths/1,000 live births (2018 est.)",
+"male": "3.7 deaths/1,000 live births",
+"female": "3.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "80.9 years (2018 est.)",
+"male": "78.6 years",
+"female": "83.4 years",
+}, 
+"total_fertility_rate": "1.46 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "80.3% (2011)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "11.1% (2016)",
+"physicians_density": "4.21 physicians/1,000 population (2016)",
+"hospital_bed_density": "8.3 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "99.3% of population (2015 est.)",
+"improved_rural": "99% of population (2015 est.)",
+"improved_total": "99.2% of population (2015 est.)",
+"unimproved_urban": "0.7% of population (2015 est.)",
+"unimproved_rural": "1% of population (2015 est.)",
+"unimproved_total": "0.8% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "87,000 (2018 est.)",
+"hiv_aids_deaths": " &lt;500 (2018 est.)",
+"obesity_adult_prevalence_rate": "22.3% (2016)",
+"education_expenditures": "4.8% of GDP (2016)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "17 years",
+"male": "17 years",
+"female": "17 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "6.8%",
+"male": "7.6%",
+"female": "5.8% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Federal Republic of Germany",
+"conventional_short_form": "Germany",
+"local_long_form": "Bundesrepublik Deutschland",
+"local_short_form": "Deutschland",
+"former": "German Reich",
+"etymology": "the Gauls (Celts) of Western Europe may have referred to the newly arriving Germanic tribes who settled in neighboring areas east of the Rhine during the first centuries B.C. as &quot;Germani,&quot; a term the Romans adopted as &quot;Germania&quot;; the native designation &quot;Deutsch&quot; comes from the Old High German &quot;diutisc&quot; meaning &quot;of the people&quot;",
+}, 
+"government_type": "federal parliamentary republic",
+"capital": 
+{
+"name": "Berlin",
+"geographic_coordinates": "52 31 N, 13 24 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat), while Bremen calls itself a Free Hanseatic City (Freie Hansestadt) and Hamburg considers itself a Free and Hanseatic City (Freie und Hansestadt)",
+"independence": "18 January 1871 (establishment of the German Empire); divided into four zones of occupation (UK, US, USSR, and France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed on 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed on 7 October 1949 and included the former USSR zone; West Germany and East Germany unified on 3 October 1990; all four powers formally relinquished rights on 15 March 1991; notable earlier dates: 10 August 843 (Eastern Francia established from the division of the Carolingian Empire); 2 February 962 (crowning of OTTO I, recognized as the first Holy Roman Emperor)",
+"national_holiday": "German Unity Day, 3 October (1990)",
+"constitution": 
+{
+"history": "previous 1919 (Weimar Constitution); latest drafted 10-23 August 1948, approved 12 May 1949, promulgated 23 May 1949, entered into force 24 May 1949",
+"amendments": "proposed by Parliament; passage and enactment into law require two-thirds majority vote by both the Bundesrat (upper house) and the Bundestag (lower house) of Parliament; articles including those on basic human rights and freedoms cannot be amended; amended many times, last in 2017 (2018)",
+}, 
+"legal_system": "civil law system",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a German citizen or a resident alien who has lived in Germany at least 8 years",
+"dual_citizenship_recognized": "yes, but requires prior permission from government",
+"residency_requirement_for_naturalization": "8 years",
+}, 
+"suffrage": "18 years of age; universal; age 16 for some state and municipal elections",
+"executive_branch": 
+{
+"chief_of_state": "President Frank-Walter STEINMEIER (since 19 March 2017)",
+"head_of_government": "Chancellor Angela MERKEL (since 22 November 2005)",
+"cabinet": "Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president",
+"elections_appointments": "president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 12 February 2017 (next to be held in February 2022); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor (Angela Merkel since 2005) and appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 14 March 2018 (next to be held after the Bundestag elections in 2021)",
+"election_results": "Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 364 to 315",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Parlament consists of:&lt;br /&gt;Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)&lt;br /&gt; Federal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)",
+"elections": "&lt;br /&gt; Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election&lt;br /&gt; Bundestag - last held on 24 September 2017 (next to be held in 2021); most postwar German governments have been coalitions",
+"election_results": "&lt;br /&gt; Bundesrat - composition - men 50, women 19, percent of women 27.5%&lt;br /&gt;Bundestag - percent of vote by party - CDU/CSU 33%, SPD 20.5%, AfD 12.6%, FDP 10.7%, The Left 9.2%, Alliance &#39;90/Greens 8.9%, other 5%; seats by party - CDU/CSU 246, SPD 152, AfD 91, FDP 80, The Left 69, Alliance &#39;90/Greens 67; composition - men 490, women 219, percent of women 30.5%; note - total Parliament percent of women 30.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)",
+"judge_selection_and_term_of_office": "Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated states and 16 members appointed by the Federal Parliament; judges appointed by the president; judges serve until mandatory retirement at age 65; Federal Constitutional Court judges - one-half elected by the House of Representatives and one-half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68",
+"subordinate_courts": "Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts",
+}, 
+"political_parties_and_leaders": "Alliance &#39;90/Greens [Annalena BAERBOCK and Robert HABECK]&lt;br /&gt;Alternative for Germany or AfD [Alexander GAULAND and Joerg MEUTHEN]&lt;br /&gt;Christian Democratic Union or CDU [Annegret KRAMP-KARRENBAUER]&lt;br /&gt;Christian Social Union or CSU [Markus SOEDER]&lt;br /&gt;Free Democratic Party or FDP [Christian LINDNER]&lt;br /&gt;The Left or Die Linke [Katja KIPPING and Bernd RIEXINGER]&lt;br /&gt;Social Democratic Party or SPD [Andrea NAHLES]",
+"international_organization_participation": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMISS, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Emily Margarethe HABER (since 22 June 2018)",
+"chancery": "4645 Reservoir Road NW, Washington, DC 20007",
+"telephone": "[1] (202) 298-4000",
+"fax": "[1] (202) 298-4249",
+"consulate_s_general": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Richard GRENELL (since 8 May 2018)",
+"telephone": "[49] (30) 8305-0",
+"embassy": "Clayallee 170, 14191 Berlin",
+"mailing_address": "Clayallee 170, 14191 Berlin",
+"fax": "[49] (30) 8305-1215",
+"consulate_s_general": "Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich",
+}, 
+"flag_description": "three equal horizontal bands of black (top), red, and gold; these colors have played an important role in German history and can be traced back to the medieval banner of the Holy Roman Emperor - a black eagle with red claws and beak on a gold field",
+"national_symbol_s": "eagle; national colors: black, red, yellow",
+"national_anthem": 
+{
+"name": "&quot;Das Lied der Deutschen&quot; (Song of the Germans)",
+"lyrics_music": "August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The German economy - the fifth largest economy in the world in PPP terms and Europe&#39;s largest - is a leading exporter of machinery, vehicles, chemicals, and household equipment. Germany benefits from a highly skilled labor force, but, like its Western European neighbors, faces significant demographic challenges to sustained long-term growth. Low fertility rates and a large increase in net immigration are increasing pressure on the country&#39;s social welfare system and necessitate structural reforms.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Reforms launched by the government of Chancellor Gerhard SCHROEDER (1998-2005), deemed necessary to address chronically high unemployment and low average growth, contributed to strong economic growth and falling unemployment. These advances, as well as a government subsidized, reduced working hour scheme, help explain the relatively modest increase in unemployment during the 2008-09 recession - the deepest since World War II. The German Government introduced a minimum wage in 2015 that increased to $9.79 (8.84 euros) in January 2017.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Stimulus and stabilization efforts initiated in 2008 and 2009 and tax cuts introduced in Chancellor Angela MERKEL&#39;s second term increased Germany&#39;s total budget deficit - including federal, state, and municipal - to 4.1% in 2010, but slower spending and higher tax revenues reduced the deficit to 0.8% in 2011 and in 2017 Germany reached a budget surplus of 0.7%. A constitutional amendment approved in 2009 limits the federal government to structural deficits of no more than 0.35% of GDP per annum as of 2016, though the target was already reached in 2012.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Following the March 2011 Fukushima nuclear disaster, Chancellor Angela MERKEL announced in May 2011 that eight of the country&#39;s 17 nuclear reactors would be shut down immediately and the remaining plants would close by 2022. Germany plans to replace nuclear power largely with renewable energy, which accounted for 29.5% of gross electricity consumption in 2016, up from 9% in 2000. Before the shutdown of the eight reactors, Germany relied on nuclear power for 23% of its electricity generating capacity and 46% of its base-load electricity production.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The German economy suffers from low levels of investment, and a government plan to invest 15 billion euros during 2016-18, largely in infrastructure, is intended to spur needed private investment. Domestic consumption, investment, and exports are likely to drive German GDP growth in 2018, and the country’s budget and trade surpluses are likely to remain high.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$4.199 trillion",
+"2016": "$4.099 trillion",
+"2015": "$4.012 trillion",
+},
+"gdp_official_exchange_rate": "$3.701 trillion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "2.5%",
+"2016": "2.2%",
+"2015": "1.5%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$50,800",
+"2016": "$49,800",
+"2015": "$49,100",
+},
+"gross_national_saving":
+{
+"2017": "28% of GDP",
+"2016": "28.2% of GDP",
+"2015": "28.1% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "53.1% (2017 est.)",
+"government_consumption": "19.5% (2017 est.)",
+"investment_in_fixed_capital": "20.4% (2017 est.)",
+"investment_in_inventories": "-0.5% (2017 est.)",
+"exports_of_goods_and_services": "47.3% (2017 est.)",
+"imports_of_goods_and_services": "-39.7% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "0.7% (2017 est.)",
+"industry": "30.7% (2017 est.)",
+"services": "68.6% (2017 est.)",
+}, 
+"agriculture_products": "potatoes, wheat, barley, sugar beets, fruit, cabbages; milk products; cattle, pigs, poultry",
+"industries": "among the world&#39;s largest and most technologically advanced producers of iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles",
+"industrial_production_growth_rate": "3.3% (2017 est.)",
+"labor_force": "45.9 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "1.4%",
+"industry": "24.2%",
+"services": "74.3% (2016)",
+}, 
+"unemployment_rate":
+{
+"2017": "3.8%",
+"2016": "4.2%",
+},
+"population_below_poverty_line": "16.7% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.6%",
+"highest_10": "24% (2000)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2006": "27",
+"1994": "30",
+},
+"budget": 
+{
+"revenues": "1.665 trillion (2017 est.)",
+"expenditures": "1.619 trillion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "45% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "1.3% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "63.9% of GDP",
+"2016": "67.9% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.7%",
+"2016": "0.4%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "0%",
+"31 December 2010": "0%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "1.67%",
+"31 December 2016": "1.78%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$2.453 trillion",
+"31 December 2016": "$2.016 trillion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$2.453 trillion",
+"31 December 2016": "$2.016 trillion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$5.033 trillion",
+"31 December 2016": "$4.433 trillion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$1.716 trillion",
+"31 December 2014": "$1.739 trillion",
+"31 December 2013": "$1.936 trillion",
+},
+"current_account_balance":
+{
+"2017": "$291 billion",
+"2016": "$297.5 billion",
+},
+"exports":
+{
+"2017": "$1.434 trillion",
+"2016": "$1.322 trillion",
+},
+"exports_partners": "US 8.8%, France 8.2%, China 6.8%, Netherlands 6.7%, UK 6.6%, Italy 5.1%, Austria 4.9%, Poland 4.7%, Switzerland 4.2% (2017)",
+"exports_commodities": "motor vehicles, machinery, chemicals, computer and electronic products, electrical equipment, pharmaceuticals, metals, transport equipment, foodstuffs, textiles, rubber and plastic products",
+"imports":
+{
+"2017": "$1.135 trillion",
+"2016": "$1.022 trillion",
+},
+"imports_commodities": "machinery, data processing equipment, vehicles, chemicals, oil and gas, metals, electric equipment, pharmaceuticals, foodstuffs, agricultural products",
+"imports_partners": "Netherlands 13.8%, China 7%, France 6.6%, Belgium 5.9%, Italy 5.4%, Poland 5.4%, Czechia 4.8%, US 4.5%, Austria 4.3%, Switzerland 4.2% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$200.1 billion",
+"31 December 2015": "$173.7 billion",
+},
+"debt_external":
+{
+"31 March 2016": "$5.326 trillion",
+"31 March 2015": "$5.21 trillion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$1.653 trillion",
+"31 December 2016": "$1.391 trillion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$2.298 trillion",
+"31 December 2016": "$1.981 trillion",
+},
+"exchange_rates": 
+{
+"currency": "euros (EUR) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.885",
+"2016": "0.903",
+"2015": "0.9214",
+"2014": "0.885",
+"2013": "0.7634",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "612.8 billion kWh (2016 est.)",
+"electricity_consumption": "536.5 billion kWh (2016 est.)",
+"electricity_exports": "78.86 billion kWh (2016 est.)",
+"electricity_imports": "28.34 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "208.5 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "41% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "5% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "2% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "52% of total installed capacity (2017 est.)",
+"crude_oil_production": "41,000 bbl/day (2018 est.)",
+"crude_oil_exports": "6,569 bbl/day (2017 est.)",
+"crude_oil_imports": "1.836 million bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "129.6 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "2.158 million bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "2.46 million bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "494,000 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "883,800 bbl/day (2017 est.)",
+"natural_gas_production": "7.9 billion cu m (2017 est.)",
+"natural_gas_consumption": "93.36 billion cu m (2017 est.)",
+"natural_gas_exports": "34.61 billion cu m (2017 est.)",
+"natural_gas_imports": "119.5 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "39.5 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "847.6 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "44.4 million",
+"subscriptions_per_100_inhabitants": "55 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "106 million",
+"subscriptions_per_100_inhabitants": "132 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "one of the world&#39;s most technologically advanced telecommunications systems; as a result of intensive capital expenditures since reunification, the formerly backward system of the eastern part of the country, dating back to World War II, has been modernized and integrated with that of the western part; universal 3G available infrastructure and LTE networks; penetration in broadband and mobile sectors average for region (2018)",
+"domestic": "extensive system of automatic telephone exchanges connected by modern networks of fiber-optic cable, coaxial cable, microwave radio relay, and a domestic satellite system; cellular telephone service is widely available, expanding rapidly, and includes roaming service to many foreign countries; 55 per 100 for fixed-line and 132 per 100 for mobile-cellular (2018)",
+"international": "country code - 49;&amp;nbsp;landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, C-Lion1,&amp;nbsp;GC1, GlobalConnect-KPN, and Germany-Denmark 2 &amp;amp; 3&amp;nbsp;-&amp;nbsp;submarine&amp;nbsp;cables to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2019)",
+}, 
+"broadcast_media": "a mixture of publicly operated and privately owned TV and radio stations; 70 national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations including multiple national radio networks, regional radio networks, and a large number of local radio stations",
+"internet_country_code": ".de",
+"internet_users": 
+{
+"total": "72,365,643",
+"percent_of_population": "89.6% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "33.217 million",
+"subscriptions_per_100_inhabitants": "41 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "1.38% of GDP",
+"2018": "1.24% of GDP",
+"2017": "1.23% of GDP",
+"2016": "1.19% of GDP",
+"2015": "1.18% of GDP",
+},
+"military_and_security_forces": "Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe), includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber- und Informationsraum, Kdo CIR) (2019)",
+"military_service_age_and_obligation": "17-23 years of age for male and female voluntary military service; conscription ended 1 July 2011; service obligation 8-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2013)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "20 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "1,113 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "115,540,886 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "6,985,007,915 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "D (2016)",
+"airports": "539 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "318 (2017)",
+"over_3_047_m": "14 (2017)",
+"2_438_to_3_047_m": "49 (2017)",
+"1_524_to_2_437_m": "60 (2017)",
+"914_to_1_523_m": "70 (2017)",
+"under_914_m": "125 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "221 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "35 (2013)",
+"under_914_m": "185 (2013)",
+}, 
+"heliports": "23 (2013)",
+"pipelines": "37 km condensate, 26985 km gas, 2400 km oil, 4479 km refined products, 8 km water (2013)",
+"railways": 
+{
+"total": "33,590 km (2017)",
+"standard_gauge": "33,331 km 1.435-m gauge (19,973 km electrified) (2015)",
+"narrow_gauge": "220 km 1.000-m gauge (79 km electrified)",
+}, 
+"roadways": 
+{
+"total": "625,000 km (2017)",
+"paved": "625,000 km (includes 12,996 km of expressways) (2017)",
+}, 
+"waterways": "7,467 km (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea) (2012)",
+"merchant_marine": 
+{
+"total": "629",
+"by_type": "bulk carrier 1, container ship 107, general cargo 92, oil tanker 36, other 393 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Baltic Sea - Rostock",
+"oil_terminal_s": "Brunsbuttel Canal terminals",
+"container_port_s_teus": "Bremen/Bremerhaven (5,510,000), Hamburg (8,860,000) (2017)",
+"lng_terminal_s_import": "Hamburg",
+"river_port_s": "Bremen (Weser)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "532,065 (Syria), 136,463 (Iraq), 126,018 (Afghanistan), 55,334 (Eritrea), 41,150 (Iran), 24,036 (Turkey), 23,581 (Somalia),&amp;nbsp;9,155 (Serbia and Kosovo), 8,119 (Russia), 7,454 (Pakistan), 6,453 (Nigeria) (2018)",
+"stateless_persons": "14,779 (2018)",
+}, 
+"illicit_drugs": "source of precursor chemicals for South American cocaine processors; transshipment point for and consumer of Southwest Asian heroin, Latin American cocaine, and European-produced synthetic drugs; major financial center",
+}
+}

@@ -1,0 +1,549 @@
+{
+"name": "Finland",
+"code": "FI",
+"publish_date": "December 19, 2019",
+"introduction": 
+{
+"background": "Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in 1917. During World War II, Finland successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the EU since 1995, Finland was the only Nordic state to join the euro single currency at its initiation in January 1999. In the 21st century, the key features of Finland&#39;s modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy.",
+}, 
+"geography": 
+{
+"location": "Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Sweden and Russia",
+"geographic_coordinates": "64 00 N, 26 00 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "338,145 sq km",
+"land": "303,815 sq km",
+"water": "34,330 sq km",
+}, 
+"area_comparative": "slightly more than two times the size of Georgia; slightly smaller than Montana",
+"land_boundaries": 
+{
+"total": "2,563 km",
+"border_countries": "Norway 709 km, Sweden 545 km, Russia 1309 km",
+}, 
+"coastline": "1,250 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm (in the Gulf of Finland - 3 nm)",
+"contiguous_zone": "24 nm",
+"continental_shelf": " 200 m depth or to the depth of exploitation",
+"exclusive_fishing_zone": "12 nm; extends to continental shelf boundary with Sweden, Estonia, and Russia",
+}, 
+"climate": "cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes",
+"terrain": "mostly low, flat to rolling plains interspersed with lakes and low hills",
+"elevation": 
+{
+"mean_elevation": "164 m",
+"lowest_point": "Baltic Sea 0 m",
+"highest_point": "Halti (alternatively Haltia, Haltitunturi, Haltiatunturi) 1,328 m",
+}, 
+"natural_resources": "timber, iron ore, copper, lead, zinc, chromite, nickel, gold, silver, limestone",
+"land_use": 
+{
+"agricultural_land": "7.5% (2011 est.)",
+"agricultural_land_arable_land": "7.4% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "0.1% (2011 est.)",
+"forest": "72.9% (2011 est.)",
+"other": "19.6% (2011 est.)",
+}, 
+"irrigated_land": "690 sq km (2012)",
+"population_distribution": "the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated",
+"natural_hazards": "severe winters in the north",
+"environment_current_issues": "limited air pollution in urban centers; some water pollution from industrial wastes, agricultural chemicals; habitat loss threatens wildlife populations",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "long boundary with Russia; Helsinki is northernmost national capital on European continent; population concentrated on small southwestern coastal plain",
+}, 
+"people_and_society": 
+{
+"population": "5,537,364 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Finn(s)",
+"adjective": "Finnish",
+}, 
+"ethnic_groups": "Finn, Swede, Russian, Estonian, Romani, Sami",
+"languages": "Finnish (official) 87.6%, Swedish (official) 5.2%, Russian 1.4%, other 5.8% (2018 est.)",
+"religions": "Lutheran 69.8%, Greek Orthodox 1.1%, other 1.7%, unspecified 27.4% (2018 est.)",
+"age_structure": 
+{
+"0_14_years": "16.44% (male 465,298 /female 445,186)",
+"15_24_years": "11.21% (male 317,500 /female 303,326)",
+"25_54_years": "37.64% (male 1,064,751 /female 1,019,748)",
+"55_64_years": "13.19% (male 359,434 /female 370,993)",
+"65_years_and_over": "21.51% (male 519,775 /female 671,353) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "57.9 (2015 est.)",
+"youth_dependency_ratio": "25.9 (2015 est.)",
+"elderly_dependency_ratio": "32 (2015 est.)",
+"potential_support_ratio": "3.1 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "42.6 years (2018 est.)",
+"male": "41 years",
+"female": "44.3 years",
+}, 
+"population_growth_rate": "0.33% (2018 est.)",
+"birth_rate": "10.7 births/1,000 population (2018 est.)",
+"death_rate": "10.1 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "2.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated",
+"urbanization": 
+{
+"urban_population": "85.4% of total population (2019)",
+"rate_of_urbanization": "0.42% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.292 million HELSINKI (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.05 male(s)/female",
+"25_54_years": "1.04 male(s)/female",
+"55_64_years": "0.97 male(s)/female",
+"65_years_and_over": "0.77 male(s)/female",
+"total_population": "0.97 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "28.8 years (2015 est.)",
+"maternal_mortality_rate": "3 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "2.5 deaths/1,000 live births (2018 est.)",
+"male": "2.7 deaths/1,000 live births",
+"female": "2.4 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "81.1 years (2018 est.)",
+"male": "78.1 years",
+"female": "84.2 years",
+}, 
+"total_fertility_rate": "1.75 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "85.5% (2015)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "9.5% (2016)",
+"physicians_density": "3.81 physicians/1,000 population (2016)",
+"hospital_bed_density": "4.4 beds/1,000 population (2015)",
+"sanitation_facility_access": 
+{
+"improved_urban": "99.4% of population (2015 est.)",
+"improved_rural": "88% of population (2015 est.)",
+"improved_total": "97.6% of population (2015 est.)",
+"unimproved_urban": "0.6% of population (2015 est.)",
+"unimproved_rural": "12% of population (2015 est.)",
+"unimproved_total": "2.4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.1% (2018)",
+"hiv_aids_people_living_with_hiv_aids": "4,000 (2018)",
+"hiv_aids_deaths": " &lt;100 (2018)",
+"obesity_adult_prevalence_rate": "22.2% (2016)",
+"education_expenditures": "6.9% of GDP (2016)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "19 years",
+"male": "19 years",
+"female": "20 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "20.1%",
+"male": "20.9%",
+"female": "19.3% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Finland",
+"conventional_short_form": "Finland",
+"local_long_form": "Suomen tasavalta/Republiken Finland",
+"local_short_form": "Suomi/Finland",
+"etymology": "name may derive from the ancient Fenni peoples who are first described as living in northeastern Europe in the first centuries A.D.",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Helsinki",
+"geographic_coordinates": "60 10 N, 24 56 E",
+"time_difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "19 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Pohjanmaa (Finnish), Osterbotten (Swedish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland]",
+"independence": "6 December 1917 (from Russia)",
+"national_holiday": "Independence Day, 6 December (1917)",
+"constitution": 
+{
+"history": "previous 1906, 1919; latest drafted 17 June 1997, approved by Parliament 11 June 1999, entered into force 1 March 2000",
+"amendments": "proposed by Parliament; passage normally requires simple majority vote in two readings in the first parliamentary session and at least two-thirds majority vote in a single reading by the newly elected Parliament; proposals declared &quot;urgent&quot; by five-sixths of Parliament members can be passed by at least two-thirds majority vote in the first parliamentary session only; amended several times, last in 2012 (2016)",
+}, 
+"legal_system": "civil law system based on the Swedish model",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Finland",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "6 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Sauli NIINISTO (since 1 March 2012)",
+"head_of_government": "Prime Minister Sanna MARIN (since 10 December 2019)",
+"cabinet": "Council of State or Valtioneuvosto appointed by the president, responsible to Parliament",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament",
+"election_results": "Sauli NIINISTO reelected president; percent of vote Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)",
+"elections": "last held on 14 April 2019 (next to be held on April 2023) (e.g. 2019)",
+"election_results": "percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&amp;nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities",
+"judge_selection_and_term_of_office": "Supreme Court and Supreme Administrative Court judges appointed by the president of the republic; judges serve until mandatory retirement at age 68",
+"subordinate_courts": "6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights",
+}, 
+"political_parties_and_leaders": "Aland Coalition (a coalition of several political parties on the Aland Islands)&lt;br /&gt;Center Party or Kesk [Juha SIPILA]&lt;br /&gt;Christian Democrats or KD [Sari ESSAYAH]&lt;br /&gt;Finns Party or PS [Jussi HALLA-AHO]&lt;br /&gt;Green League or Vihr [Pekka HAAVISTO]&lt;br /&gt;Left Alliance or Vas [Li ANDERSSON]]&lt;br /&gt;National Coalition Party or Kok [Petteri ORPO]&lt;br /&gt;Social Democratic Party or SDP [Antti RINNE]&lt;br /&gt;Swedish People&#39;s Party or SFP [Anna-Maja HENRIKSSON]",
+"international_organization_participation": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Kirsti KAUPPI (since 17 September 2015)",
+"chancery": "3301 Massachusetts Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 298-5800",
+"fax": "[1] (202) 298-6030",
+"consulate_s_general": "Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Robert &quot;Bob&quot; Frank PENCE (since 24 May 2018)",
+"telephone": "[358] (9) 6162-50",
+"embassy": "Itainen Puistotie 14B, 00140 Helsinki",
+"mailing_address": "APO AE 09723",
+"fax": "[358] (9) 6162-5135",
+}, 
+"flag_description": "white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue represents the thousands of lakes scattered across the country, while the white is for the snow that covers the land in winter",
+"national_symbol_s": "lion; national colors: blue, white",
+"national_anthem": 
+{
+"name": "&quot;Maamme&quot; (Our Land)",
+"lyrics_music": "Johan Ludvig RUNEBERG/Fredrik PACIUS",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Finland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Finland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland’s economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Finland&#39;s main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$244.9 billion",
+"2016": "$238.2 billion",
+"2015": "$232.4 billion",
+},
+"gdp_official_exchange_rate": "$252.8 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "2.8%",
+"2016": "2.5%",
+"2015": "0.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$44,500",
+"2016": "$43,400",
+"2015": "$42,500",
+},
+"gross_national_saving":
+{
+"2017": "23.3% of GDP",
+"2016": "21.7% of GDP",
+"2015": "20% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "54.4% (2017 est.)",
+"government_consumption": "22.9% (2017 est.)",
+"investment_in_fixed_capital": "22.1% (2017 est.)",
+"investment_in_inventories": "0.4% (2017 est.)",
+"exports_of_goods_and_services": "38.5% (2017 est.)",
+"imports_of_goods_and_services": "-38.2% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "2.7% (2017 est.)",
+"industry": "28.2% (2017 est.)",
+"services": "69.1% (2017 est.)",
+}, 
+"agriculture_products": "barley, wheat, sugar beets, potatoes; dairy cattle; fish",
+"industries": "metals and metal products, electronics, machinery and scientific instruments, shipbuilding, pulp and paper, foodstuffs, chemicals, textiles, clothing",
+"industrial_production_growth_rate": "6.2% (2017 est.)",
+"labor_force": "2.473 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "4%",
+"industry": "20.7%",
+"services": "75.3% (2017 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "8.5%",
+"2016": "8.8%",
+},
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "6.7%",
+"highest_10": "45.2% (2013)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2016": "27.2",
+"1995": "22.2",
+},
+"budget": 
+{
+"revenues": "134.2 billion (2017 est.)",
+"expenditures": "135.6 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "53.1% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-0.6% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "61.3% of GDP",
+"2016": "62.9% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.8%",
+"2016": "0.4%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "1.25%",
+"31 December 2010": "0%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "1.61%",
+"31 December 2016": "1.79%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$152.6 billion",
+"31 December 2016": "$124 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$152.6 billion",
+"31 December 2016": "$124 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$323.9 billion",
+"31 December 2016": "$351.6 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2016": "$231 billion",
+"31 December 2015": "$207.5 billion",
+"31 December 2014": "$208.7 billion",
+},
+"current_account_balance":
+{
+"2017": "$1.806 billion",
+"2016": "-$819 million",
+},
+"exports":
+{
+"2017": "$67.73 billion",
+"2016": "$51.9 billion",
+},
+"exports_partners": "Germany 14.2%, Sweden 10.1%, US 7%, Netherlands 6.8%, China 5.7%, Russia 5.7%, UK 4.5% (2017)",
+"exports_commodities": "electrical and optical equipment, machinery, transport equipment, paper and pulp, chemicals, basic metals; timber",
+"imports":
+{
+"2017": "$65.26 billion",
+"2016": "$58.18 billion",
+},
+"imports_commodities": "foodstuffs, petroleum and petroleum products, chemicals, transport equipment, iron and steel, machinery, computers, electronic industry products, textile yarn and fabrics, grains",
+"imports_partners": "Germany 17.7%, Sweden 15.8%, Russia 13.1%, Netherlands 8.7% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$10.51 billion",
+"31 December 2016": "$11.2 billion",
+},
+"debt_external":
+{
+"31 December 2016": "$150.6 billion",
+"31 December 2015": "$147.8 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$135.2 billion",
+"31 December 2016": "$84.8 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$185.6 billion",
+"2016": "$116.7 billion",
+},
+"exchange_rates": 
+{
+"currency": "euros (EUR) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.885",
+"2016": "0.903",
+"2015": "0.9214",
+"2014": "0.885",
+"2013": "0.7634",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "66.54 billion kWh (2016 est.)",
+"electricity_consumption": "82.79 billion kWh (2016 est.)",
+"electricity_exports": "3.159 billion kWh (2016 est.)",
+"electricity_imports": "22.11 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "16.27 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "41% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "17% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "20% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "23% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "236,700 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "310,600 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "217,100 bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "166,200 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "122,200 bbl/day (2017 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "2.35 billion cu m (2017 est.)",
+"natural_gas_exports": "4 million cu m (2017 est.)",
+"natural_gas_imports": "2.322 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": " NA cu m (1 January 2016 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "46.01 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "378,200",
+"subscriptions_per_100_inhabitants": "7 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "7,307,800",
+"subscriptions_per_100_inhabitants": "132 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern system with excellent service; one of the most progressive in Europe; one of the highest broadband and mobile penetrations rates in the region; forefront in testing 5G networks; for 2025 and 2030 FttP (fiber to the home) and DOCSIS3.1&amp;nbsp;(new generation of cable services for high speed connections)&amp;nbsp;technologies (2018)",
+"domestic": "digital fiber-optic, fixed-line 7 per 100 subscription; 132 per 100 mobile-cellular (2018)",
+"international": "country code - 358; landing points for Botnia, BCS North-1 &amp;amp; 2, SFL, SFS-4, C-Lion1, Eastern Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 &amp;amp; 3 submarine cables provide links to many&amp;nbsp;Finland points, Estonia, Sweden, Germany, and Russia; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2019)",
+}, 
+"broadcast_media": "a mix of 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are broadcast digitally; Internet television, such as Netflix and others, is available; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters and access to Internet radio",
+"internet_country_code": ".finote - Aland Islands assigned .ax",
+"internet_users": 
+{
+"total": "4,822,132",
+"percent_of_population": "87.7% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,709,400",
+"subscriptions_per_100_inhabitants": "31 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "1.29% of GDP",
+"2018": "1.23% of GDP",
+"2017": "1.26% of GDP",
+"2016": "1.31% of GDP",
+"2015": "1.29% of GDP",
+},
+"military_and_security_forces": "Finnish Defense Forces (FDF): Army (Puolustusvoimat), Navy (Merivoimat), Air Force (Ilmavoimat) (2019)",
+"military_service_age_and_obligation": "all Finnish men are called-up for military service the year they turn 18; at 18, women may volunteer for military service; service obligation 6-12 months; individuals enter the reserve upon completing their initial obligation; military obligation to age 60 (2016)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "3 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "73 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "9,972,333 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "713.484 million mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "OH (2016)",
+"airports": "148 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "74 (2017)",
+"over_3_047_m": "3 (2017)",
+"2_438_to_3_047_m": "26 (2017)",
+"1_524_to_2_437_m": "10 (2017)",
+"914_to_1_523_m": "21 (2017)",
+"under_914_m": "14 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "74 (2013)",
+"914_to_1_523_m": "3 (2013)",
+"under_914_m": "71 (2013)",
+}, 
+"pipelines": "1288 km gas transmission pipes, 1976 km distribution pipes (2016)",
+"railways": 
+{
+"total": "5,926 km (2016)",
+"broad_gauge": "5,926 km 1.524-m gauge (3,270 km electrified) (2016)",
+}, 
+"roadways": 
+{
+"total": "454,000 km (2012)",
+"highways": "78,000 km (50,000 paved, including 700 km of expressways; 28,000 unpaved) (2012)",
+"private_and_forest_roads": "350,000 km (2012)",
+"urban": "26,000 km (2012)",
+}, 
+"waterways": "8,000 km (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways (2013)",
+"merchant_marine": 
+{
+"total": "259",
+"by_type": "bulk carrier 7, container ship 1, general cargo 88, oil tanker 4, other 159 (2018)",
+}, 
+"ports_and_terminals": "Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "8,523 (Iraq) (2018)",
+"stateless_persons": "2,759 (2018)",
+}, 
+}
+}

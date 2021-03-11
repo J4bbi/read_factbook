@@ -1,0 +1,113 @@
+{
+"name": "British Indian Ocean Territory",
+"code": "IO",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Formerly administered as part of the British Crown Colony of Mauritius, the British Indian Ocean Territory (BIOT) was established as an overseas territory of the UK in 1965. A number of the islands of the territory were later transferred to the Seychelles when it attained independence in 1976. Subsequently, BIOT has consisted only of the six main island groups comprising the Chagos Archipelago. Only Diego Garcia, the largest and most southerly of the islands, is inhabited. It contains a joint UK-US naval support facility and hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Kwajalein (Marshall Islands), at Cape Canaveral, Florida (US), and on Ascension Island (Saint Helena, Ascension, and Tristan da Cunha)). The US Air Force also operates a telescope array on Diego Garcia as part of the Ground-Based Electro-Optical Deep Space Surveillance System (GEODSS) for tracking orbital debris, which can be a hazard to spacecraft and astronauts.&lt;/p&gt; &lt;p&gt;Between 1967 and 1973, former agricultural workers, earlier residents in the islands, were relocated primarily to Mauritius, but also to the Seychelles. Negotiations between 1971 and 1982 resulted in the establishment of a trust fund by the British Government as compensation for the displaced islanders, known as Chagossians. Beginning in 1998, the islanders pursued a series of lawsuits against the British Government seeking further compensation and the right to return to the territory. In 2006 and 2007, British court rulings invalidated the immigration policies contained in the 2004 BIOT Constitution Order that had excluded the islanders from the archipelago, but upheld the special military status of Diego Garcia. In 2008, the House of Lords, as the final court of appeal in the UK, ruled in favor of the British Government by overturning the lower court rulings and finding no right of return for the Chagossians. In March 2015, the Permanent Court of Arbitration unanimously held that the marine protected area (MPA) that the UK declared around the Chagos Archipelago in April 2010 was in violation of the UN Convention on the Law of the Sea.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "archipelago in the Indian Ocean, south of India, about halfway between Africa and Indonesia",
+"geographic_coordinates": "6 00 S, 71 30 E;note - Diego Garcia 7 20 S, 72 25 E",
+"map_references": "Political Map of the World",
+"area": 
+{
+"total": "60 sq km",
+"land": "60 sq km (44 Diego Garcia)",
+"water": "54,340 sq km",
+}, 
+"area_comparative": "land area is about one-third the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "698 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"environment_protection_and_preservation_zone": "200 nm",
+}, 
+"climate": "tropical marine; hot, humid, moderated by trade winds",
+"terrain": "flat and low (most areas do not exceed two m in elevation)",
+"elevation": 
+{
+"lowest_point": "Indian Ocean 0 m",
+"highest_point": "ocean-side dunes on Diego Garcia 9 m",
+}, 
+"natural_resources": "coconuts, fish, sugarcane",
+"land_use": 
+{
+"agricultural_land": "0% (2011 est.)",
+"agricultural_land_arable_land": "0% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "0% (2011 est.)",
+"other": "100% (2011 est.)",
+}, 
+"natural_hazards": "none; located outside routes of Indian Ocean cyclones",
+"environment_current_issues": "wastewater discharge into the lagoon on Diego Garcia",
+"geography_note": "&lt;p&gt;&lt;strong&gt;note 1:&lt;/strong&gt; archipelago of 55 islands; Diego Garcia, the largest and southernmost island, occupies a strategic location in the central Indian Ocean; the island is the site of a joint US-UK military facility&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 2:&lt;/strong&gt; Diego Garcia is the only inhabited island of the BIOT and one of only two British territories where traffic drives on the right, the other being Gibraltar&lt;/p&gt;"
+}, 
+"people_and_society": 
+{
+"population": " no indigenous inhabitants",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "British Indian Ocean Territory",
+"conventional_short_form": "none",
+"abbreviation": "BIOT",
+"etymology": "self-descriptive name specifying the territory&#39;s affiliation and location",
+}, 
+"dependency_status": "overseas territory of the UK; administered by a commissioner, resident in the Foreign and Commonwealth Office in London",
+"legal_system": "the laws of the UK apply where applicable",
+"executive_branch": 
+{
+"chief_of_state": "Queen ELIZABETH II (since 6 February 1952)",
+"head_of_government": "Commissioner Dr. Peter HAYES (since 17 October 2012); Administrator John MCMANUS (since April 2011); note - both reside in the UK and are represented by the officer commanding British Forces on Diego Garcia",
+"cabinet": "NA",
+"elections_appointments": "the monarchy is hereditary; commissioner and administrator appointed by the monarch",
+}, 
+"international_organization_participation": "UPU",
+"diplomatic_representation_in_the_us": "none (overseas territory of the UK)", 
+"diplomatic_representation_from_the_us": "none (overseas territory of the UK)", 
+"flag_description": "white with six blue wavy horizontal stripes; the flag of the UK is in the upper hoist-side quadrant; the striped section bears a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago",
+}, 
+"economy": 
+{
+"economy_overview": "All economic activity is concentrated on the largest island of Diego Garcia, where a joint UK-US military facility is located. Construction projects and various services needed to support the military installation are performed by military and contract employees from the UK, Mauritius, the Philippines, and the US. Some of the natural resources found in this territory include coconuts, fish, and sugarcane.",
+"exchange_rates": "&lt;p&gt;the US dollar is used&lt;/p&gt;", 
+}, 
+"communications": 
+{
+"telephone_system": 
+{
+"general_assessment": "separate facilities for military and public needs are available (2018)",
+"domestic": "all commercial telephone services are available, including connection to the Internet (2018)",
+"international": "country code (Diego Garcia) - 246; landing point for the SAFE submarine cable that provides direct connectivity to Africa, Asia and near-by Indian Ocean&amp;nbsp;island countries;&amp;nbsp;international telephone service is carried by satellite (2019)",
+}, 
+"broadcast_media": "Armed Forces Radio and Television Service (AFRTS) broadcasts over 3 separate frequencies for US and UK military personnel stationed on the islands",
+"internet_country_code": ".io",
+"communications_note": "Diego Garcia hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Kwajalein (Marshall Islands), at Cape Canaveral, Florida (US), and on Ascension Island (Saint Helena, Ascension, and Tristan da Cunha))",
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular military forces (2014)",
+"military_note": "defense is the responsibility of the UK; in November 2016, the UK extended the US lease on Diego Garcia for 20 years; the lease now expires in December 2036 (2016)",
+}, 
+"transportation": 
+{
+"airports": "1 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2019)",
+"over_3_047_m": "1",
+}, 
+"roadways": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; short section of paved road between port and airfield on Diego Garcia&lt;/p&gt;", 
+"ports_and_terminals": "Diego Garcia",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Mauritius and Seychelles claim the Chagos Islands; negotiations between 1971 and 1982 resulted in the establishment of a trust fund by the British Government as compensation for the displaced islanders, known as Chagossians, who were evicted between 1967-73; in 2001, the former inhabitants of the archipelago were granted UK citizenship and the right of return; in 2006 and 2007, British court rulings invalidated the immigration policies contained in the 2004 BIOT Constitution Order that had excluded the islanders from the archipelago; in 2008 a House of Lords&#39; decision overturned lower court rulings, once again denying the right of return to Chagossians; in addition, the UK created the world&#39;s largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein&lt;/p&gt;",
+}
+}

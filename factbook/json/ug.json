@@ -1,0 +1,559 @@
+{
+"name": "Uganda",
+"code": "UG",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "The colonial boundaries created by Britain to delimit Uganda grouped together a wide range of ethnic groups with different political systems and cultures. These differences complicated the establishment of a working political community after independence was achieved in 1962. The dictatorial regime of Idi AMIN (1971-79) was responsible for the deaths of some 300,000 opponents; guerrilla war and human rights abuses under Milton OBOTE (1980-85) claimed at least another 100,000 lives. The rule of Yoweri MUSEVENI since 1986 has brought relative stability and economic growth to Uganda. In December 2017, parliament approved the removal of presidential age limits, thereby making it possible for MUSEVENI to continue standing for office. Uganda faces numerous challenges, however, that could affect future stability, including explosive population growth, power and infrastructure constraints, corruption, underdeveloped democratic institutions, and human rights deficits.",
+}, 
+"geography": 
+{
+"location": "East-Central Africa, west of Kenya, east of the Democratic Republic of the Congo",
+"geographic_coordinates": "1 00 N, 32 00 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "241,038 sq km",
+"land": "197,100 sq km",
+"water": "43,938 sq km",
+}, 
+"area_comparative": "slightly more than two times the size of Pennsylvania; slightly smaller than Oregon",
+"land_boundaries": 
+{
+"total": "2,729 km",
+"border_countries": "Democratic Republic of the Congo 877 km, Kenya 814 km, Rwanda 172 km, South Sudan 475 km, Tanzania 391 km",
+}, 
+"coastline": "0 km (landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast",
+"terrain": "mostly plateau with rim of mountains",
+"elevation": 
+{
+"lowest_point": "Albert Nile 614 m",
+"highest_point": "Margherita Peak on Mount Stanley 5,110 m",
+}, 
+"natural_resources": "copper, cobalt, hydropower, limestone, salt, arable land, gold",
+"land_use": 
+{
+"agricultural_land": "71.2% (2011 est.)",
+"agricultural_land_arable_land": "34.3% (2011 est.)",
+"agricultural_land_permanent_crops": "11.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "25.6% (2011 est.)",
+"forest": "14.5% (2011 est.)",
+"other": "14.3% (2011 est.)",
+}, 
+"irrigated_land": "140 sq km (2012)",
+"population_distribution": "population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated",
+"natural_hazards": "droughts; floods; earthquakes; landslides; hailstorms",
+"environment_current_issues": "draining of wetlands for agricultural use; deforestation; overgrazing; soil erosion; water pollution from industrial discharge and water hyacinth infestation in Lake Victoria; widespread poaching",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands",
+"signed_but_not_ratified": "Environmental Modification",
+}, 
+"geography_note": "landlocked; fertile, well-watered country with many lakes and rivers; Lake Victoria, the world&#39;s largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda",
+}, 
+"people_and_society": 
+{
+"population": "40,853,749 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Ugandan(s)",
+"adjective": "Ugandan",
+}, 
+"ethnic_groups": "Baganda 16.5%, Banyankole 9.6%, Basoga 8.8%, Bakiga 7.1%, Iteso 7%, Langi 6.3%, Bagisu 4.9%, Acholi 4.4%, Lugbara 3.3%, other 32.1% (2014 est.)",
+"languages": "English (official language, taught in schools, used in courts of law and by most newspapers and some radio broadcasts), Ganda or Luganda (most widely used of the Niger-Congo languages and the language used most often in the capital), other Niger-Congo languages, Nilo-Saharan languages, Swahili (official), Arabic",
+"religions": "Protestant 45.1% (Anglican 32.0%, Pentecostal/Born Again/Evangelical 11.1%, Seventh Day Adventist 1.7%, Baptist .3%), Roman Catholic 39.3%, Muslim 13.7%, other 1.6%, none 0.2% (2014 est.)",
+"demographic_profile": "&lt;p&gt;Uganda has one of the youngest and most rapidly growing populations in the world; its total fertility rate is among the world’s highest at 5.8 children per woman. Except in urban areas, actual fertility exceeds women’s desired fertility by one or two children, which is indicative of the widespread unmet need for contraception, lack of government support for family planning, and a cultural preference for large families. High numbers of births, short birth intervals, and the early age of childbearing contribute to Uganda’s high maternal mortality rate. Gender inequities also make fertility reduction difficult; women on average are less-educated, participate less in paid employment, and often have little say in decisions over childbearing and their own reproductive health. However, even if the birth rate were significantly reduced, Uganda’s large pool of women entering reproductive age ensures rapid population growth for decades to come.&lt;/p&gt;&lt;p&gt;Unchecked, population increase will further strain the availability of arable land and natural resources and overwhelm the country’s limited means for providing food, employment, education, health care, housing, and basic services. The country’s north and northeast lag even further behind developmentally than the rest of the country as a result of long-term conflict (the Ugandan Bush War 1981-1986 and more than 20 years of fighting between the Lord’s Resistance Army (LRA) and Ugandan Government forces), ongoing inter-communal violence, and periodic natural disasters.&lt;/p&gt;&lt;p&gt;Uganda has been both a source of refugees and migrants and a host country for refugees. In 1972, then President Idi AMIN, in his drive to return Uganda to Ugandans, expelled the South Asian population that composed a large share of the country’s business people and bankers. Since the 1970s, thousands of Ugandans have emigrated, mainly to southern Africa or the West, for security reasons, to escape poverty, to search for jobs, and for access to natural resources. The emigration of Ugandan doctors and nurses due to low wages is a particular concern given the country’s shortage of skilled health care workers. Africans escaping conflicts in neighboring states have found refuge in Uganda since the 1950s; the country currently struggles to host tens of thousands from the Democratic Republic of the Congo, South Sudan, and other nearby countries.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "47.84% (male 9,753,880 /female 9,789,455)",
+"15_24_years": "21.04% (male 4,250,222 /female 4,347,313)",
+"25_54_years": "26.52% (male 5,422,096 /female 5,412,112)",
+"55_64_years": "2.64% (male 522,637 /female 554,287)",
+"65_years_and_over": "1.96% (male 351,481 /female 450,266) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "101.6 (2015 est.)",
+"youth_dependency_ratio": "97.2 (2015 est.)",
+"elderly_dependency_ratio": "4.4 (2015 est.)",
+"potential_support_ratio": "22.8 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "15.9 years (2018 est.)",
+"male": "15.8 years",
+"female": "16 years",
+}, 
+"population_growth_rate": "3.18% (2018 est.)",
+"birth_rate": "42.4 births/1,000 population (2018 est.)",
+"death_rate": "9.9 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-0.7 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated",
+"urbanization": 
+{
+"urban_population": "24.4% of total population (2019)",
+"rate_of_urbanization": "5.7% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "3.318 million KAMPALA (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1 male(s)/female",
+"15_24_years": "0.98 male(s)/female",
+"25_54_years": "1 male(s)/female",
+"55_64_years": "0.94 male(s)/female",
+"65_years_and_over": "0.78 male(s)/female",
+"total_population": "0.99 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "18.9 years (2011 est.)",
+"maternal_mortality_rate": "375 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "54.6 deaths/1,000 live births (2018 est.)",
+"male": "63.3 deaths/1,000 live births",
+"female": "45.7 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "56.3 years (2018 est.)",
+"male": "54.8 years",
+"female": "57.8 years",
+}, 
+"total_fertility_rate": "5.62 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "41.8% (2018)",
+"drinking_water_source": 
+{
+"improved_urban": "95.5% of population",
+"improved_rural": "75.8% of population",
+"improved_total": "79% of population",
+"unimproved_urban": "4.5% of population",
+"unimproved_rural": "24.2% of population",
+"unimproved_total": "21% of population (2015 est.)",
+}, 
+"current_health_expenditure": "6.2% (2016)",
+"physicians_density": "0.09 physicians/1,000 population (2015)",
+"hospital_bed_density": "0.5 beds/1,000 population (2010)",
+"sanitation_facility_access": 
+{
+"improved_urban": "28.5% of population (2015 est.)",
+"improved_rural": "17.3% of population (2015 est.)",
+"improved_total": "19.1% of population (2015 est.)",
+"unimproved_urban": "71.5% of population (2015 est.)",
+"unimproved_rural": "82.7% of population (2015 est.)",
+"unimproved_total": "80.9% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "5.7% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "1.4 million (2018 est.)",
+"hiv_aids_deaths": "23,000 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea, hepatitis A and E, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria, dengue fever, and trypanosomiasis-Gambiense (African sleeping sickness) (2016)",
+"water_contact_diseases": "schistosomiasis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+}, 
+"obesity_adult_prevalence_rate": "5.3% (2016)",
+"children_under_the_age_of_5_years_underweight": "10.4% (2016)",
+"education_expenditures": "2.6% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "78.4%",
+"male": "85.3%",
+"female": "71.5% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "10 years",
+"male": "10 years",
+"female": "10 years (2011)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "14.8%",
+"male": "12.7%",
+"female": "17.3% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Uganda",
+"conventional_short_form": "Uganda",
+"etymology": "from the name &quot;Buganda,&quot; adopted by the British as the designation for their East African colony in 1894; Buganda had been a powerful East African state during the 18th and 19th centuries",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Kampala",
+"geographic_coordinates": "0 19 N, 32 33 E",
+"time_difference": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "121 districts and 1 capital city*; Abim, Adjumani, Agago, Alebtong, Amolatar, Amudat, Amuria, Amuru, Apac, Arua, Budaka, Bududa, Bugiri, Buhweju, Buikwe, Bukedea, Bukomansimbi, Bukwa, Bulambuli, Buliisa, Bundibugyo, Bunyangabu, Bushenyi, Busia, Butaleja, Butambala, Butebo, Buvuma, Buyende, Dokolo, Gomba, Gulu, Hoima, Ibanda, Iganga, Isingiro, Jinja, Kaabong, Kabale, Kabarole, Kaberamaido, Kagadi, Kakumiro, Kalangala, Kaliro, Kalungu, Kampala*, Kamuli, Kamwenge, Kanungu, Kapchorwa, Kasese, Katakwi, Kayunga, Kibaale, Kiboga, Kibuku, Kiruhura, Kiryandongo, Kisoro, Kitgum, Koboko, Kole, Kotido, Kumi, Kween, Kyankwanzi, Kyegegwa, Kyenjojo, Kyotera, Lamwo, Lira, Luuka, Luwero, Lwengo, Lyantonde, Manafwa, Maracha, Masaka, Masindi, Mayuge, Mbale, Mbarara, Mitooma, Mityana, Moroto, Moyo, Mpigi, Mubende, Mukono, Nakapiripirit, Nakaseke, Nakasongola, Namayingo, Namisindwa, Namutumba, Napak, Nebbi, Ngora, Ntoroko, Ntungamo, Nwoya, Omoro, Otuke, Oyam, Pader, Pakwach, Pallisa, Rakai, Rubanda, Rubirizi, Rukiga, Rukungiri, Sembabule, Serere, Sheema, Sironko, Soroti, Tororo, Wakiso, Yumbe, Zombo",
+"independence": "9 October 1962 (from the UK)",
+"national_holiday": "Independence Day, 9 October (1962)",
+"constitution": 
+{
+"history": "several previous; latest adopted 27 September 1995, promulgated 8 October 1995",
+"amendments": "proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership in the second and third readings; proposals affecting &quot;entrenched clauses,&quot; including the sovereignty of the people, supremacy of the constitution, human rights and freedoms, the democratic and multiparty form of government, presidential term of office, independence of the judiciary, and the institutions of traditional or cultural leaders, also requires passage by referendum, ratification by at least two-thirds majority vote of district council members in at least two thirds of Uganda&#39;s districts, and assent ofthe president of the republic; amended several times, last in 2017 (2019)",
+}, 
+"legal_system": "mixed legal system of English common law and customary law",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent or grandparent must be a native-born citizen of Uganda",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "an aggregate of 20 years and continuously for the last 2 years prior to applying for citizenship",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"head_of_government": "President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Edward SSEKANDI (since 24 May 2011); Prime Minister Ruhakana RUGUNDA (since 19 September 2014); First Deputy Prime Minister Moses ALI (since 6 June 2016); Second Deputy Prime Minister Kirunda KIVEJINJA (since 6 June 2016)",
+"cabinet": "Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 18 February 2016 (next scheduled to be held February 2021)",
+"election_results": "Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%",
+"head_of_state": "President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Edward SSEKANDI (since 24 May 2011); note - the president is both head of state and head of government",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Parliament (445 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 112 for women directly elected in single-seat districts by simple majority vote, and 25 &quot;representatives&quot; reserved for special interest groups - army 10, disabled 5, youth 5, labor 5; up to 18 ex officio members appointed by the president; members serve 5-year terms)",
+"elections": "last held on 18 February 2016 (next to be held in February 2021)",
+"election_results": "percent of vote by party - NA; seats by party - NRM 292, FDC 37, DP 5, UPDF 10, UPC 6, independent 66 (excludes 19 ex-officio members)",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Uganda (consists of the chief justice and at least 6 justices)",
+"judge_selection_and_term_of_office": "justices appointed by the president of the republic in consultation with the Judicial Service Commission, an 8-member independent advisory body, and approved by the National Assembly; justices serve until mandatory retirement at age 70",
+"subordinate_courts": "Court of Appeal (also acts as the Constitutional Court); High Court (includes 12 High Court Circuits and 8 High Court Divisions); Industrial Court; Chief Magistrate Grade One and Grade Two Courts throughout the country; qadhis courts; local council courts; family and children courts",
+}, 
+"political_parties_and_leaders": "Alliance for National Transformation or ANT [Gregory Mugisha MUNTU]&lt;br /&gt;Democratic Party or DP [Norbert MAO]&lt;br /&gt;Forum for Democratic Change or FDC [Patrick Oboi AMURIAT]&lt;br /&gt;Justice Forum or JEEMA [Asuman BASALIRWA]&lt;br /&gt;National Resistance Movement or NRM [Yoweri MUSEVENI]&lt;br /&gt;Uganda People&#39;s Congress or UPC [James AKENA]",
+"international_organization_participation": "ACP, AfDB, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Mull Sebujja KATENDE (since 8 September 2017)",
+"chancery": "5911 16th Street NW, Washington, DC 20011",
+"telephone": "[1] (202) 726-7100",
+"fax": "[1] (202) 726-1727",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Deborah R. MALAC (since 27 February 2016)",
+"telephone": "[256] 414-306001",
+"embassy": "1577 Ggaba Road, Kampala",
+"mailing_address": "P.O. Box 7007, Kampala",
+"fax": "[256] 414-306-009",
+}, 
+"flag_description": "six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is superimposed at the center and depicts a grey crowned crane (the national symbol) facing the hoist side; black symbolizes the African people, yellow sunshine and vitality, red African brotherhood; the crane was the military badge of Ugandan soldiers under the UK",
+"national_symbol_s": "grey crowned crane; national colors: black, yellow, red",
+"national_anthem": 
+{
+"name": "Oh Uganda, Land of Beauty!",
+"lyrics_music": "George Wilberforce KAKOMOA",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Uganda has substantial natural resources, including fertile soils, regular rainfall, substantial reserves of recoverable oil, and small deposits of copper, gold, and other minerals. Agriculture is one of the most important sectors of the economy, employing 72% of the work force. The country’s export market suffered a major slump following the outbreak of conflict in South Sudan, but has recovered lately, largely due to record coffee harvests, which account for 16% of exports, and increasing gold exports, which account for 10% of exports. Uganda has a small industrial sector that is dependent on imported inputs such as refined oil and heavy equipment. Overall, productivity is hampered by a number of supply-side constraints, including insufficient infrastructure, lack of modern technology in agriculture, and corruption.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Uganda’s economic growth has slowed since 2016 as government spending and public debt has grown. Uganda’s budget is dominated by energy and road infrastructure spending, while Uganda relies on donor support for long-term drivers of growth, including agriculture, health, and education. The largest infrastructure projects are externally financed through concessional loans, but at inflated costs. As a result, debt servicing for these loans is expected to rise.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Oil revenues and taxes are expected to become a larger source of government funding as oil production starts in the next three to 10 years. Over the next three to five years, foreign investors are planning to invest $9 billion in production facilities projects, $4 billion in an export pipeline, as well as in a $2-3 billion refinery to produce petroleum products for the domestic and East African Community markets. Furthermore, the government is looking to build several hundred million dollars’ worth of highway projects to the oil region.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Uganda faces many economic challenges. Instability in South Sudan has led to a sharp increase in Sudanese refugees and is disrupting Uganda&#39;s main export market. Additional economic risks include: poor economic management, endemic corruption, and the government’s failure to invest adequately in the health, education, and economic opportunities for a burgeoning young population. Uganda has one of the lowest electrification rates in Africa - only 22% of Ugandans have access to electricity, dropping to 10% in rural areas.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$89.19 billion",
+"2016": "$85.07 billion",
+"2015": "$83.14 billion",
+},
+"gdp_official_exchange_rate": "$26.62 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.8%",
+"2016": "2.3%",
+"2015": "5.7%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$2,400",
+"2016": "$2,300",
+"2015": "$2,300",
+},
+"gross_national_saving":
+{
+"2017": "20.6% of GDP",
+"2016": "21.5% of GDP",
+"2015": "17.7% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "74.3% (2017 est.)",
+"government_consumption": "8% (2017 est.)",
+"investment_in_fixed_capital": "23.9% (2017 est.)",
+"investment_in_inventories": "0.3% (2017 est.)",
+"exports_of_goods_and_services": "18.8% (2017 est.)",
+"imports_of_goods_and_services": "-25.1% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "28.2% (2017 est.)",
+"industry": "21.1% (2017 est.)",
+"services": "50.7% (2017 est.)",
+}, 
+"agriculture_products": "coffee, tea, cotton, tobacco, cassava (manioc, tapioca), potatoes, corn, millet, pulses, cut flowers; beef, goat meat, milk, poultry, and fish",
+"industries": "sugar processing, brewing, tobacco, cotton textiles; cement, steel production",
+"industrial_production_growth_rate": "4.4% (2017 est.)",
+"labor_force": "15.84 million (2015 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "71%",
+"industry": "7%",
+"services": "22% (2013 est.)",
+}, 
+"unemployment_rate":
+{
+"2014": "9.4%",
+},
+"population_below_poverty_line": "21.4% (2017 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.4%",
+"highest_10": "36.1% (2009 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2013": "39.5",
+"2002": "45.7",
+},
+"budget": 
+{
+"revenues": "3.848 billion (2017 est.)",
+"expenditures": "4.928 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "14.5% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-4.1% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "40% of GDP",
+"2016": "37.4% of GDP",
+},
+"fiscal_year": "1 July - 30 June",
+"inflation_rate_consumer_prices":
+{
+"2017": "5.6%",
+"2016": "5.5%",
+},
+"central_bank_discount_rate":
+{
+"February 2018": "9%",
+"December 2017": "9.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "21.28%",
+"31 December 2016": "23.89%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$2.519 billion",
+"31 December 2016": "$2.167 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$2.519 billion",
+"31 December 2016": "$2.167 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$4.297 billion",
+"31 December 2016": "$3.989 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2012": "$7.294 billion",
+"31 December 2011": "$7.727 billion",
+"31 December 2011": "$1.788 billion",
+},
+"current_account_balance":
+{
+"2017": "-$1.212 billion",
+"2016": "-$707 million",
+},
+"exports":
+{
+"2017": "$3.339 billion",
+"2016": "$2.921 billion",
+},
+"exports_partners": "Kenya 17.7%, UAE 16.7%, Democratic Republic of the Congo 6.6%, Rwanda 6.1%, Italy 4.8% (2017)",
+"exports_commodities": "coffee, fish and fish products, tea, cotton, flowers, horticultural products; gold",
+"imports":
+{
+"2017": "$5.036 billion",
+"2016": "$4.424 billion",
+},
+"imports_commodities": "capital equipment, vehicles, petroleum, medical supplies; cereals",
+"imports_partners": "China 17.4%, India 13.4%, UAE 12.2%, Kenya 7.9%, Japan 6.4%, Saudi Arabia 6.3%, Indonesia 4.4%, South Africa 4.1% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$3.654 billion",
+"31 December 2016": "$3.034 billion",
+},
+"debt_external":
+{
+"22 March 2018": "$10.8 billion",
+"31 December 2017": "$11.54 billion",
+"31 December 2016": "$6.241 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"2017": "$541 million",
+},
+"stock_of_direct_foreign_investment_abroad": "&lt;p&gt;NA&lt;/p&gt;", 
+"exchange_rates": 
+{
+"currency": "Ugandan shillings (UGX) per US dollar -",
+"exchange_rates":
+{
+"2017": "3,695",
+"2016": "3,420.1",
+"2015": "3,420.1",
+"2014": "3,234.1",
+"2013": "2,599.8",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "34 million (2017)",
+"electrification_total_population": "20% (2017)",
+"electrification_urban_areas": "23% (2017)",
+"electrification_rural_areas": "19% (2017)",
+}, 
+"electricity_production": "3.463 billion kWh (2016 est.)",
+"electricity_consumption": "3.106 billion kWh (2016 est.)",
+"electricity_exports": "121 million kWh (2015 est.)",
+"electricity_imports": "50 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "1.02 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "19% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "68% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "12% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "2.5 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "32,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "31,490 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "14.16 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "4.703 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "262,286",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "24,948,878",
+"subscriptions_per_100_inhabitants": "63 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "in recent years, telecommunications infrastructure has developed through private partnerships; private companies have laid over 1,800 km of fiber optics in Uganda since 2015; as of 2018, fixed fiber backbone infrastructure is available in over half of Uganda&amp;rsquo;s districts; mobile phone companies now provide 4G networks across all major cities and national parks, while offering 3G coverage in second-tier cities and most rural areas with road access; between 2016 and 2018, commercial Internet services dropped in price from $300/Mbps to $80/Mbps. (2018)",
+"domestic": "intercity traffic by wire, microwave radio relay, and radiotelephone communication stations, fixed-line&amp;nbsp;1 per 100 and mobile- cellular systems&amp;nbsp;&amp;nbsp;teledensity about 63 per 100 persons (2018)",
+"international": "country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania",
+}, 
+"broadcast_media": "public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; 31 Free-To-Air (FTA) TV stations, 2 digital terrestrial TV stations, 3 cable TV stations, and 5 digital satellite TV stations; 258 operational FM stations",
+"internet_country_code": ".ug",
+"internet_users": 
+{
+"total": "18,148,923",
+"percent_of_population": "45.9% (September 2017)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "145,765",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.43% of GDP",
+"2017": "1.29% of GDP",
+"2016": "1.26% of GDP",
+"2015": "1.21% of GDP",
+"2014": "1.17% of GDP",
+},
+"military_and_security_forces": "Uganda People&#39;s Defense Force (UPDF): Land Forces, Air Forces, Marine Forces, Special Operations Command, Reserve Force (2019)",
+"military_service_age_and_obligation": "18-25 years of age for voluntary military duty (must be single, no children); 9-year service obligation (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "1 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "41,812 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "23,472 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "5X (2016)",
+"airports": "47 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "5 (2013)",
+"over_3_047_m": "3 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "1 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "42 (2013)",
+"over_3_047_m": "1 (2013)",
+"1_524_to_2_437_m": "8 (2013)",
+"914_to_1_523_m": "26 (2013)",
+"under_914_m": "7 (2013)",
+}, 
+"railways": 
+{
+"total": "1,244 km (2014)",
+"narrow_gauge": "1,244 km 1.000-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "20,544 km (excludes local roads) (2017)",
+"paved": "4,257 km (2017)",
+"unpaved": "16,287 km (2017)",
+}, 
+"waterways": " (there are no long navigable stretches of river in Uganda; parts of the Albert Nile that flow out of Lake Albert in the northwestern part of the country are navigable; several lakes including Lake Victoria and Lake Kyoga have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores) (2011)",
+"merchant_marine": 
+{
+"total": "1",
+"by_type": "bulk carrier 1 (2017)",
+}, 
+"ports_and_terminals": "Entebbe, Jinja, Port Bell (Lake Victoria)",
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": "&lt;strong&gt;aim(s):&lt;/strong&gt; punish Ugandan Government for participating in African Union military operations against al-Shabaab; compel Uganda to withdraw forces from Somalia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; aspires to renew attacks in Kampala; no permanent presence (2018)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders; Ugandan refugees as well as members of the Lord&#39;s Resistance Army (LRA) seek shelter in southern Sudan and the Democratic Republic of the Congo&#39;s Garamba National Park; LRA forces have also attacked Kenyan villages across the border&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "857,268 (South Sudan) (refugees and asylum seekers),&amp;nbsp;389,276 (Democratic Republic of the Congo) (refugees and asylum seekers),&amp;nbsp;45,437 (Burundi), 37,155 (Somalia) (refugees and asylum seekers),&amp;nbsp;16,272 (Rwanda) (refugees and asylum seekers),&amp;nbsp;13,563 (Eritrea) (refugees and asylum seekers) (2019)",
+"idps": "32,000 (displaced in northern Uganda because of fighting between government forces and the Lord&#39;s Resistance Army; as of 2011, most of the 1.8 million people displaced to IDP camps at the height of the conflict had returned home or resettled, but many had not found durable solutions; intercommunal violence, land disputes, and cattle raids) (2018)",
+}, 
+}
+}

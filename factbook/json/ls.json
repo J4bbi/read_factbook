@@ -1,0 +1,351 @@
+{
+"name": "Liechtenstein",
+"code": "LS",
+"publish_date": "December 31, 2019",
+"introduction": 
+{
+"background": "The Principality of Liechtenstein was established within the Holy Roman Empire in 1719. Occupied by both French and Russian troops during the Napoleonic Wars, it became a sovereign state in 1806 and joined the German Confederation in 1815. Liechtenstein became fully independent in 1866 when the Confederation dissolved. Until the end of World War I, it was closely tied to Austria, but the economic devastation caused by that conflict forced Liechtenstein to enter into a customs and monetary union with Switzerland. Since World War II (in which Liechtenstein remained neutral), the country&#39;s low taxes have spurred outstanding economic growth. In 2000, shortcomings in banking regulatory oversight resulted in concerns about the use of financial institutions for money laundering. However, Liechtenstein implemented anti-money laundering legislation and a Mutual Legal Assistance Treaty with the US that went into effect in 2003.",
+}, 
+"geography": 
+{
+"location": "Central Europe, between Austria and Switzerland",
+"geographic_coordinates": "47 16 N, 9 32 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "160 sq km",
+"land": "160 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "about 0.9 times the size of Washington, DC",
+"land_boundaries": 
+{
+"total": "75 km",
+"border_countries": "Austria 34 km, Switzerland 41 km",
+}, 
+"coastline": "0 km (doubly landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers",
+"terrain": "mostly mountainous (Alps) with Rhine Valley in western third",
+"elevation": 
+{
+"lowest_point": "Ruggeller Riet 430 m",
+"highest_point": "Vorder-Grauspitz 2,599 m",
+}, 
+"natural_resources": "hydroelectric potential, arable land",
+"land_use": 
+{
+"agricultural_land": "37.6% (2011 est.)",
+"agricultural_land_arable_land": "18.8% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "18.8% (2011 est.)",
+"forest": "43.1% (2011 est.)",
+"other": "19.3% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "most of the population is found in the western half of the country along the Rhine River",
+"natural_hazards": "avalanches, landslides",
+"environment_current_issues": "some air pollution generated locally, some transfered from surrounding countries",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands",
+"signed_but_not_ratified": "Law of the Sea",
+}, 
+"geography_note": "along with Uzbekistan, one of only two doubly landlocked countries in the world; variety of microclimatic variations based on elevation",
+}, 
+"people_and_society": 
+{
+"population": "38,547 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Liechtensteiner(s)",
+"adjective": "Liechtenstein",
+}, 
+"ethnic_groups": "Liechtensteiner 66%, Swiss 9.6%, Austrian 5.8%, German 4.3%, Italian 3.1%, other 11.2% (2017 est.)",
+"languages": "German 91.5% (official) (Alemannic is the main dialect), Italian 1.5%, Turkish 1.3%, Portuguese 1.1%, other 4.6% (2015 est.)",
+"religions": "Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%,&amp;nbsp; Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant .7%, other Christian .3%, other .8%, none 7%, unspecified 3.3% (2015 est.)",
+"age_structure": 
+{
+"0_14_years": "15.23% (male 3,179 /female 2,692)",
+"15_24_years": "11.53% (male 2,256 /female 2,190)",
+"25_54_years": "41.18% (male 7,923 /female 7,951)",
+"55_64_years": "14.14% (male 2,640 /female 2,811)",
+"65_years_and_over": "17.91% (male 3,171 /female 3,734) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "43.4 years (2018 est.)",
+"male": "41.8 years",
+"female": "44.8 years",
+}, 
+"population_growth_rate": "0.78% (2018 est.)",
+"birth_rate": "10.4 births/1,000 population (2018 est.)",
+"death_rate": "7.6 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "5 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most of the population is found in the western half of the country along the Rhine River",
+"urbanization": 
+{
+"urban_population": "14.4% of total population (2019)",
+"rate_of_urbanization": "0.81% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "5,000 VADUZ (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.26 male(s)/female",
+"0_14_years": "1.18 male(s)/female",
+"15_24_years": "1.03 male(s)/female",
+"25_54_years": "1 male(s)/female",
+"55_64_years": "0.94 male(s)/female",
+"65_years_and_over": "0.85 male(s)/female",
+"total_population": "0.99 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "4.2 deaths/1,000 live births (2018 est.)",
+"male": "4.5 deaths/1,000 live births",
+"female": "3.8 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "82 years (2018 est.)",
+"male": "79.8 years",
+"female": "84.8 years",
+}, 
+"total_fertility_rate": "1.69 children born/woman (2018 est.)",
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"education_expenditures": "2.6% of GDP (2011)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "16 years",
+"female": "13 years (2016)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Principality of Liechtenstein",
+"conventional_short_form": "Liechtenstein",
+"local_long_form": "Fuerstentum Liechtenstein",
+"local_short_form": "Liechtenstein",
+"etymology": "named after the Liechtenstein dynasty that purchased and united the counties of Schellenburg and Vaduz and that was allowed by the Holy Roman Emperor in 1719 to rename the new property after their family; the name in German means &quot;light (bright) stone&quot;",
+}, 
+"government_type": "constitutional monarchy",
+"capital": 
+{
+"name": "Vaduz",
+"geographic_coordinates": "47 08 N, 9 31 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "11 communes (Gemeinden, singular - Gemeinde); Balzers, Eschen, Gamprin, Mauren, Planken, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz",
+"independence": "23 January 1719 (Principality of Liechtenstein established); 12 July 1806 (independence from the Holy Roman Empire); 24 August 1866 (independence from the German Confederation)",
+"national_holiday": "National Day, 15 August (1940); note - a National Day was originally established in 1940 to combine celebrations for the Feast of the Assumption (15 August) with those honoring the birthday of former Prince FRANZ JOSEF II (1906-1989) whose birth fell on 16 August; after the prince&#39;s death, National Day became the official national holiday by law in 1990",
+"constitution": 
+{
+"history": "previous 1862; latest adopted 5 October 1921",
+"amendments": "proposed by Parliament, by the reigning prince (in the form of &quot;Government&quot; proposals), by petition of at least 1,500 qualified voters, or by at least four communes; passage requires unanimous approval of Parliament members in one sitting or three-quarters majority vote in two successive sittings; referendum required only if petitioned by at least 1,500 voters or by at least four communes; passage by referendum requires absolute majority of votes cast; amended several times, last in 2011 (2019)",
+}, 
+"legal_system": "civil law system influenced by Swiss, Austrian, and German law",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "the father must be a citizen of Liechtenstein; in the case of a child born out of wedlock, the mother must be a citizen",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "Prince HANS-ADAM II (since 13 November 1989, assumed executive powers on 26 August 1984); Heir Apparent and Regent of Liechtenstein Prince ALOIS (son of the monarch, born 11 June 1968); note - 15 August 2004, HANS-ADAM II transferred the official duties of the ruling prince to ALOIS, but HANS-ADAM II retains status of chief of state",
+"head_of_government": "Prime Minister Adrian HASLER (since 27 March 2013)",
+"cabinet": "Cabinet elected by the Parliament, confirmed by the monarch",
+"elections_appointments": "the monarchy is hereditary; following legislative elections, the leader of the majority party in the Parliament usually appointed the head of government by the monarch, and the leader of the largest minority party in the Landtag usually appointed the deputy head of government by the monarch if there is a coalition government",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by proportional representation vote to serve 4-year terms)",
+"elections": "last held on 5 February 2017 (next to be held in February 2021)",
+"election_results": "percent of vote by party - FBP 35.2%, VU 33.7%, DU 18.4% FL 12.6%; seats by party - FBP 9, VU 8, DU 5, FL 3; composition - men 22, women 3, percent of women 12%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Oberster Gerichtshof (consists of 5 judges); Constitutional Court or Verfassungsgericht (consists of 5 judges and 5 alternates)",
+"judge_selection_and_term_of_office": "judges of both courts elected by the Landtag and appointed by the monarch; Supreme Court judges serve 4-year renewable terms; Constitutional Court judges appointed for renewable 5-year terms",
+"subordinate_courts": "Court of Appeal or Obergericht (second instance), Court of Justice (first instance), Administrative Court, county courts",
+}, 
+"political_parties_and_leaders": "Fatherland Union (Vaterlaendische Union) or VU [Guenther FRITZ]&lt;br /&gt;Progressive Citizens&#39; Party (Fortschrittliche Buergerpartei) or FBP [Thomas BANZER]&lt;br /&gt;The Free List (Die Freie Liste) or FL [Pepo FRICK and Conny BUECHEL BRUEHWILER]&lt;br /&gt;The Independents (Die Unabhaengigen) or DU [Harry QUADERER]",
+"international_organization_participation": "CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UPU, WIPO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Kurt JAEGER (since 16 September 2016)",
+"chancery": "2900 K Street NW, Suite 602B, Washington, DC 20007",
+"telephone": "[1] (202) 331-0590",
+"fax": "[1] (202) 331-3221",
+}, 
+"diplomatic_representation_from_the_us": "the US does not have an embassy in Liechtenstein; the US Ambassador to Switzerland is accredited to Liechtenstein",
+"flag_description": "two equal horizontal bands of blue (top) and red with a gold crown on the hoist side of the blue band; the colors may derive from the blue and red livery design used in the principality&#39;s household in the 18th century; the prince&#39;s crown was introduced in 1937 to distinguish the flag from that of Haiti",
+"national_symbol_s": "princely hat (crown); national colors: blue, red",
+"national_anthem": 
+{
+"name": "&quot;Oben am jungen Rhein&quot; (High Above the Young Rhine)",
+"lyrics_music": "Jakob Joseph JAUCH/Josef FROMMELT",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Despite its small size and lack of natural resources, Liechtenstein has developed into a prosperous, highly industrialized, free-enterprise economy with a vital financial services sector and one of the highest per capita income levels in the world. The Liechtenstein economy is widely diversified with a large number of small and medium-sized businesses, particularly in the services sector. Low business taxes - a flat tax of 12.5% on income is applied - and easy incorporation rules have induced many holding companies to establish nominal offices in Liechtenstein, providing 30% of state revenues.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The country participates in a customs union with Switzerland and uses the Swiss franc as its national currency. It imports more than 90% of its energy requirements. Liechtenstein has been a member of the European Economic Area (an organization serving as a bridge between the European Free Trade Association and the EU) since May 1995. The government is working to harmonize its economic policies with those of an integrated EU. As of 2015, 54% of Liechtenstein’s workforce consisted of cross-border commuters, largely from Austria, Germany, and Switzerland.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Since 2008, Liechtenstein has faced renewed international pressure - particularly from Germany and the US - to improve transparency in its banking and tax systems. In December 2008, Liechtenstein signed a Tax Information Exchange Agreement with the US. Upon Liechtenstein&#39;s conclusion of 12 bilateral information-sharing agreements, the OECD in October 2009 removed the principality from its &quot;grey list&quot; of countries that had yet to implement the organization&#39;s Model Tax Convention. By the end of 2010, Liechtenstein had signed 25 Tax Information Exchange Agreements or Double Tax Agreements. In 2011, Liechtenstein joined the Schengen area, which allows passport-free travel across 26 European countries. In 2015, Liechtenstein and the EU agreed to clamp down on tax fraud and evasion and in 2018 will start automatically exchanging information on the bank accounts of each other’s residents.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2014": "$4.978 billion",
+"2009": "$3.2 billion",
+"2008": "$3.216 billion",
+},
+"gdp_official_exchange_rate": "$6.672 billion (2014 est.) (2014 est.)",
+"gdp_real_growth_rate":
+{
+"2012": "1.8%",
+"2011": "-0.5%",
+"2007": "3.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2009": "$139,100",
+"2008": "$90,100",
+"2007": "$91,300",
+},
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "7% (2014)",
+"industry": "41% (2014)",
+"services": "52% (2014)",
+}, 
+"agriculture_products": "wheat, barley, corn, potatoes; livestock, dairy products",
+"industries": "electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, food products, precision instruments, tourism, optical instruments",
+"industrial_production_growth_rate": " NA",
+"labor_force": "38,520 (2012) (2015 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "0.8%",
+"industry": "36.9%",
+"services": "62.3% (2015)",
+}, 
+"unemployment_rate":
+{
+"2015": "2.4%",
+"2014": "2.4%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "995.3 million (2012 est.)",
+"expenditures": "890.4 million (2011 est.)",
+}, 
+"taxes_and_other_revenues": "14.9% (of GDP) (2012 est.)",
+"budget_surplus_or_deficit": "1.6% (of GDP) (2012 est.)",
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2016": "-0.4%",
+"2013": "-0.2%",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"exports":
+{
+"2015": "$3.217 billion",
+"2014": "$3.774 billion",
+},
+"exports_commodities": "small specialty machinery, connectors for audio and video, parts for motor vehicles, dental products, hardware, prepared foodstuffs, electronic equipment, optical products",
+"imports":
+{
+"2015": " NA",
+"2014": "$2.23 billion",
+},
+"imports_commodities": "agricultural products, raw materials, energy products, machinery, metal goods, textiles, foodstuffs, motor vehicles",
+"debt_external":
+{
+"2015": "$0",
+},
+"exchange_rates": 
+{
+"currency": "Swiss francs (CHF) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.9875",
+"2016": "0.9852",
+"2015": "0.9852",
+"2014": "0.9627",
+"2013": "0.9152",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "68.43 million kWh (2015 est.)",
+"electricity_consumption": "393.6 million kWh (2015 est.)",
+"electricity_exports": "0 kWh (2015 est.) (2015 est.)",
+"electricity_imports": "325.2 million kWh (2015 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "15,852",
+"subscriptions_per_100_inhabitants": "41 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "46,625",
+"subscriptions_per_100_inhabitants": "122 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "automatic telephone system; 44 Internet service providers in Liechtenstein and Switzerland combined (2018)",
+"domestic": "fixed-line 41 per 100 and mobile-cellular services 122 per 100; widely available (2018)",
+"international": "country code - 423; linked to&amp;nbsp;Swiss networks by cable and microwave radio relay",
+}, 
+"broadcast_media": "relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established August 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station in Liechtenstein",
+"internet_country_code": ".li",
+"internet_users": 
+{
+"total": "37,214",
+"percent_of_population": "98.1% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "15,935",
+"subscriptions_per_100_inhabitants": "42 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular military forces; National Police maintain close relations with neighboring forces (2019)",
+}, 
+"transportation": 
+{
+"civil_aircraft_registration_country_code_prefix": "HB (2016)",
+"pipelines": "434.5 km gas (2018)",
+"railways": 
+{
+"total": "9 km (2018)",
+"standard_gauge": "9 km 1.435-m gauge (electrified) (2018)",
+}, 
+"roadways": "630 km (2019)",
+"waterways": "28 km (2010)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+"illicit_drugs": "has strengthened money laundering controls, but money laundering remains a concern due to Liechtenstein&#39;s sophisticated offshore financial services sector",
+}
+}

@@ -1,0 +1,541 @@
+{
+"name": "Nicaragua",
+"code": "NU",
+"publish_date": "December 31, 2019",
+"introduction": 
+{
+"background": "The Pacific coast of Nicaragua was settled as a Spanish colony from Panama in the early 16th century. Independence from Spain was declared in 1821 and the country became an independent republic in 1838. Britain occupied the Caribbean Coast in the first half of the 19th century, but gradually ceded control of the region in subsequent decades. Violent opposition to governmental manipulation and corruption spread to all classes by 1978 and resulted in a short-lived civil war that brought a civic-military coalition, spearheaded by the Marxist Sandinista guerrillas led by Daniel ORTEGA Saavedra to power in 1979. Nicaraguan aid to leftist rebels in El Salvador prompted the US to sponsor anti-Sandinista contra guerrillas through much of the 1980s. After losing free and fair elections in 1990, 1996, and 2001, former Sandinista President Daniel ORTEGA was elected president in 2006, 2011, and most recently in 2016. Municipal, regional, and national-level elections since 2008 have been marred by widespread irregularities. Democratic institutions have weakened under the ORTEGA administration as the president has garnered full control over all branches of government,&amp;nbsp;especially after cracking down on a nationwide antigovernment protest movement in 2018.",
+}, 
+"geography": 
+{
+"location": "Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Costa Rica and Honduras",
+"geographic_coordinates": "13 00 N, 85 00 W",
+"map_references": "Central America and the Caribbean",
+"area": 
+{
+"total": "130,370 sq km",
+"land": "119,990 sq km",
+"water": "10,380 sq km",
+}, 
+"area_comparative": "slightly larger than Pennsylvania; slightly smaller than New York state",
+"land_boundaries": 
+{
+"total": "1,253 km",
+"border_countries": "Costa Rica 313 km, Honduras 940 km",
+}, 
+"coastline": "910 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": " natural prolongation",
+}, 
+"climate": "tropical in lowlands, cooler in highlands",
+"terrain": "extensive Atlantic coastal plains rising to central interior mountains; narrow Pacific coastal plain interrupted by volcanoes",
+"elevation": 
+{
+"mean_elevation": "298 m",
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "Mogoton 2,085 m",
+}, 
+"natural_resources": "gold, silver, copper, tungsten, lead, zinc, timber, fish",
+"land_use": 
+{
+"agricultural_land": "42.2% (2011 est.)",
+"agricultural_land_arable_land": "12.5% (2011 est.)",
+"agricultural_land_permanent_crops": "2.5% (2011 est.)",
+"agricultural_land_permanent_pasture": "27.2% (2011 est.)",
+"forest": "25.3% (2011 est.)",
+"other": "32.5% (2011 est.)",
+}, 
+"irrigated_land": "1,990 sq km (2012)",
+"population_distribution": "the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters",
+"natural_hazards": "&lt;p&gt;destructive earthquakes; volcanoes; landslides; extremely susceptible to hurricanes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; significant volcanic activity; Cerro Negro (728 m), which last erupted in 1999, is one of Nicaragua&#39;s most active volcanoes; its lava flows and ash have been known to cause significant damage to farmland and buildings; other historically active volcanoes include Concepcion, Cosiguina, Las Pilas, Masaya, Momotombo, San Cristobal, and Telica&lt;/p&gt;",
+"environment_current_issues": "deforestation; soil erosion; water pollution; drought",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "largest country in Central America; contains the largest freshwater body in Central America, Lago de Nicaragua",
+}, 
+"people_and_society": 
+{
+"population": "6,085,213 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Nicaraguan(s)",
+"adjective": "Nicaraguan",
+}, 
+"ethnic_groups": "mestizo (mixed Amerindian and white) 69%, white 17%, black 9%, Amerindian 5%",
+"languages": "Spanish (official) 95.3%, Miskito 2.2%, Mestizo of the Caribbean coast 2%, other 0.5% (2005 est.)",
+"religions": "Roman Catholic 50%, Evangelical 33.2%, other 2.9%, unspecified 13.2%, none 0.7% (2017 est.)",
+"demographic_profile": "&lt;p&gt;Despite being one of the poorest countries in Latin America, Nicaragua has improved its access to potable water and sanitation and has ameliorated its life expectancy, infant and child mortality, and immunization rates. However, income distribution is very uneven, and the poor, agriculturalists, and indigenous people continue to have less access to healthcare services. Nicaragua&#39;s total fertility rate has fallen from around 6 children per woman in 1980 to below replacement level today, but the high birth rate among adolescents perpetuates a cycle of poverty and low educational attainment.&lt;/p&gt;&lt;p&gt;Nicaraguans emigrate primarily to Costa Rica and to a lesser extent the United States. Nicaraguan men have been migrating seasonally to Costa Rica to harvest bananas and coffee since the early 20th century. Political turmoil, civil war, and natural disasters from the 1970s through the 1990s dramatically increased the flow of refugees and permanent migrants seeking jobs, higher wages, and better social and healthcare benefits. Since 2000, Nicaraguan emigration to Costa Rica has slowed and stabilized. Today roughly 300,000 Nicaraguans are permanent residents of Costa Rica - about 75% of the foreign population - and thousands more migrate seasonally for work, many illegally.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "26.65% (male 827,585 /female 794,086)",
+"15_24_years": "20.67% (male 632,847 /female 624,811)",
+"25_54_years": "41.04% (male 1,186,467 /female 1,310,957)",
+"55_64_years": "6.19% (male 173,674 /female 202,765)",
+"65_years_and_over": "5.46% (male 147,324 /female 184,697) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "54.1 (2015 est.)",
+"youth_dependency_ratio": "46.3 (2015 est.)",
+"elderly_dependency_ratio": "7.8 (2015 est.)",
+"potential_support_ratio": "12.8 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "26.2 years (2018 est.)",
+"male": "25.3 years",
+"female": "27.1 years",
+}, 
+"population_growth_rate": "0.97% (2018 est.)",
+"birth_rate": "17.5 births/1,000 population (2018 est.)",
+"death_rate": "5.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-2.6 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters",
+"urbanization": 
+{
+"urban_population": "58.8% of total population (2019)",
+"rate_of_urbanization": "1.45% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.055 million MANAGUA (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.01 male(s)/female",
+"25_54_years": "0.91 male(s)/female",
+"55_64_years": "0.86 male(s)/female",
+"65_years_and_over": "0.8 male(s)/female",
+"total_population": "0.95 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "19.2 years (2011/12 est.)",
+"maternal_mortality_rate": "198 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "17.7 deaths/1,000 live births (2018 est.)",
+"male": "20.4 deaths/1,000 live births",
+"female": "15 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "73.7 years (2018 est.)",
+"male": "71.5 years",
+"female": "76.1 years",
+}, 
+"total_fertility_rate": "1.87 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "80.4% (2011/12)",
+"drinking_water_source": 
+{
+"improved_urban": "99.3% of population",
+"improved_rural": "69.4% of population",
+"improved_total": "87% of population",
+"unimproved_urban": "0.7% of population",
+"unimproved_rural": "30.6% of population",
+"unimproved_total": "13% of population (2015 est.)",
+}, 
+"current_health_expenditure": "8.7% (2016)",
+"physicians_density": "1.01 physicians/1,000 population (2018)",
+"hospital_bed_density": "0.9 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "76.5% of population (2015 est.)",
+"improved_rural": "55.7% of population (2015 est.)",
+"improved_total": "67.9% of population (2015 est.)",
+"unimproved_urban": "23.5% of population (2015 est.)",
+"unimproved_rural": "44.3% of population (2015 est.)",
+"unimproved_total": "32.1% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.2% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "9,400 (2018 est.)",
+"hiv_aids_deaths": "200 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "high (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "dengue fever and malaria (2016)",
+}, 
+"obesity_adult_prevalence_rate": "23.7% (2016)",
+"children_under_the_age_of_5_years_underweight": "4.6% (2012)",
+"education_expenditures": "4.3% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "82.8%",
+"male": "82.4%",
+"female": "83.2% (2015)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "8.5%",
+"male": "6.4%",
+"female": "12.9% (2014 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Nicaragua",
+"conventional_short_form": "Nicaragua",
+"local_long_form": "Republica de Nicaragua",
+"local_short_form": "Nicaragua",
+"etymology": "Nicarao was the name of the largest indigenous settlement at the time of Spanish arrival; conquistador Gil GONZALEZ Davila, who explored the area (1622-23), combined the name of the community with the Spanish word &quot;agua&quot; (water), referring to the two large lakes in the west of the country (Lake Managua and Lake Nicaragua)",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Managua",
+"geographic_coordinates": "12 08 N, 86 15 W",
+"time_difference": "UTC-6 (1 hour behind Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "15 departments (departamentos, singular - departamento) and 2 autonomous regions* (regiones autonomistas, singular - region autonoma); Boaco, Carazo, Chinandega, Chontales, Costa Caribe Norte*, Costa Caribe Sur*, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas",
+"independence": "15 September 1821 (from Spain)",
+"national_holiday": "Independence Day, 15 September (1821)",
+"constitution": 
+{
+"history": "several previous; latest adopted 19 November 1986, effective 9 January 1987",
+"amendments": "proposed by the president of the republic or assent of at least half of the National Assembly membership; passage requires approval by 60% of the membership of the next elected Assembly and promulgation by the president of the republic; amended several times, last in 2014 (2018)",
+}, 
+"legal_system": "civil law system; Supreme Court may review administrative acts",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "yes",
+"citizenship_by_descent_only": "yes",
+"dual_citizenship_recognized": "no, except in cases where bilateral agreements exist",
+"residency_requirement_for_naturalization": "4 years",
+}, 
+"suffrage": "16 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Jose Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Rosario MURILLO Zambrana (since 10 January 2017); note - the president is both chief of state and head of government",
+"head_of_government": "President Jose Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Rosario MURILLO Zambrana (since 10 January 2017)",
+"cabinet": "Council of Ministers appointed by the president",
+"elections_appointments": "president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (no term limits as of 2014); election last held on 6 November 2016 (next to be held by November 2021)",
+"election_results": "Jose Daniel ORTEGA Saavedra reelected president; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Asamblea Nacional (92 seats; 70 members in multi-seat constituencies and 20 members in a single nationwide constituency directly elected by proportional representation vote; 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)",
+"elections": "last held on 6 November 2016 (next to be held by November 2021)",
+"election_results": "percent of vote by party - NA; seats by party - FSLN 71, PLC 14, ALN 2, PLI 2, APRE 1, PC 1, YATAMA 1; composition - men 50, women 42, percent of women 45.7%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)",
+"judge_selection_and_term_of_office": "Supreme Court judges elected by the National Assembly to serve 5-year staggered terms",
+"subordinate_courts": "Appeals Court; first instance civil, criminal, and labor courts; military courts are independent of the Supreme Court",
+}, 
+"political_parties_and_leaders": "Alliance for the Republic or APRE [Carlos CANALES]&lt;br /&gt;Conservative Party or PC [Alfredo CESAR]&lt;br /&gt;Independent Liberal Party or PLI [Jose del Carmen ALVARADO]&lt;br /&gt;Liberal Constitutionalist Party or PLC [Maria Haydee OSUNA]&lt;br /&gt;Nicaraguan Liberal Alliance or ALN [Alejandro MEJIA Ferreti]&lt;br /&gt;Sandinista National Liberation Front or FSLN [Jose Daniel ORTEGA Saavedra]&lt;br /&gt;Sandinista Renovation Movement or MRS [Suyen BARAHONA]&lt;br /&gt;Sons of Mother Earth or YATAMA [Brooklyn RIVERA]",
+"international_organization_participation": "BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Francisco Obadiah CAMPBELL Hooker (since 28 June 2010)",
+"chancery": "1627 New Hampshire Avenue NW, Washington, DC 20009",
+"telephone": "[1] (202) 939-6570, 6573",
+"fax": "[1] (202) 939-6545",
+"consulate_s_general": "Houston, Los Angeles, Miami, New York, San Francisco",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Kevin K. SULLIVAN (since 18 December 2018)",
+"telephone": "[505] 2252-7100, 2252-7888; 2252-7100 or 8767-7100 (after hours)",
+"embassy": "Kilometer 5.5 Carretera Sur, Managua",
+"mailing_address": "American Embassy Managua, APO AA 34021",
+"fax": "[505] 2252-7250",
+}, 
+"flag_description": "three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water",
+"national_symbol_s": "turquoise-browed motmot (bird); national colors: blue, white",
+"national_anthem": 
+{
+"name": "&quot;Salve a ti, Nicaragua&quot; (Hail to Thee, Nicaragua)",
+"lyrics_music": "Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DELGADILLO",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. GDP growth of 4.5% in 2017 was insufficient to make a significant difference. Textiles and agriculture combined account for nearly 50% of Nicaragua&#39;s exports. Beef, coffee, and gold are Nicaragua’s top three export commodities.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Dominican Republic-Central America-United States Free Trade Agreement has been in effect since April 2006 and has expanded export opportunities for many Nicaraguan agricultural and manufactured goods.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In 2013, the government granted a 50-year concession with the option for an additional 50 years to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $50 billion. The canal construction has not started.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$36.4 billion",
+"2016": "$34.71 billion",
+"2015": "$33.17 billion",
+},
+"gdp_official_exchange_rate": "$13.81 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.9%",
+"2016": "4.7%",
+"2015": "4.8%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$5,900",
+"2016": "$5,600",
+"2015": "$5,500",
+},
+"gross_national_saving":
+{
+"2017": "24% of GDP",
+"2016": "23.2% of GDP",
+"2015": "23.6% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "69.9% (2017 est.)",
+"government_consumption": "15.3% (2017 est.)",
+"investment_in_fixed_capital": "28.1% (2017 est.)",
+"investment_in_inventories": "1.7% (2017 est.)",
+"exports_of_goods_and_services": "41.2% (2017 est.)",
+"imports_of_goods_and_services": "-55.4% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "15.5% (2017 est.)",
+"industry": "24.4% (2017 est.)",
+"services": "60% (2017 est.)",
+}, 
+"agriculture_products": "coffee, bananas, sugarcane, rice, corn, tobacco, cotton, sesame, soya, beans, beef, veal, pork, poultry, dairy products, shrimp, lobsters, peanuts",
+"industries": "food processing, chemicals, machinery and metal products, knit and woven apparel, petroleum refining and distribution, beverages, footwear, wood, electric wire harness manufacturing, mining",
+"industrial_production_growth_rate": "3.5% (2017 est.)",
+"labor_force": "3.046 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "31%",
+"industry": "18%",
+"services": "50% (2011 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "6.4%",
+"2016": "6.2%",
+},
+"population_below_poverty_line": "29.6% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.8%",
+"highest_10": "47.1% (2014)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2014": "47.1",
+"2009": "45.8",
+},
+"budget": 
+{
+"revenues": "3.871 billion (2017 est.)",
+"expenditures": "4.15 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "28% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-2% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "33.3% of GDP",
+"2016": "31.2% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "3.9%",
+"2016": "3.5%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "3%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "10.8%",
+"31 December 2016": "11.44%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$1.162 billion",
+"31 December 2016": "$1.043 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$1.162 billion",
+"31 December 2016": "$1.043 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$6.461 billion",
+"31 December 2016": "$6.159 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2016": "$1.568 billion",
+"31 December 2015": "$1.209 billion",
+"31 December 2014": "$995 million",
+},
+"current_account_balance":
+{
+"2017": "-$694 million",
+"2016": "-$989 million",
+},
+"exports":
+{
+"2017": "$3.819 billion",
+"2016": "$3.772 billion",
+},
+"exports_partners": "US 44.2%, El Salvador 6.4%, Venezuela 5.5%, Costa Rica 5.5% (2017)",
+"exports_commodities": "coffee, beef, gold, sugar, peanuts, shrimp and lobster, tobacco, cigars, automobile wiring harnesses, textiles, apparel",
+"imports":
+{
+"2017": "$6.613 billion",
+"2016": "$6.384 billion",
+},
+"imports_commodities": "consumer goods, machinery and equipment, raw materials, petroleum products",
+"imports_partners": "US 20.8%, China 14.3%, Mexico 11.1%, Costa Rica 7.9%, Guatemala 7%, El Salvador 5.6% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$2.758 billion",
+"31 December 2016": "$2.448 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$11.31 billion",
+"31 December 2016": "$10.87 billion",
+},
+"exchange_rates": 
+{
+"currency": "cordobas (NIO) per US dollar -",
+"exchange_rates":
+{
+"2017": "30.11",
+"2016": "28.678",
+"2015": "28.678",
+"2014": "27.257",
+"2013": "26.01",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"electrification_total_population": "81.8% (2016)",
+"electrification_urban_areas": "99.2% (2016)",
+"electrification_rural_areas": "56.6% (2016)",
+}, 
+"electricity_production": "4.454 billion kWh (2016 est.)",
+"electricity_consumption": "3.59 billion kWh (2016 est.)",
+"electricity_exports": "17.87 million kWh (2016 est.)",
+"electricity_imports": "205 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "1.551 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "56% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "9% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "35% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "16,180 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "14,720 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "37,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "460 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "20,120 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2015 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "5.405 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "375,856",
+"subscriptions_per_100_inhabitants": "6 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "8,179,876",
+"subscriptions_per_100_inhabitants": "136 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "system being upgraded by foreign investment; nearly all installed telecommunications capacity now uses digital technology, owing to investments since privatization of the formerly state-owned telecommunications company; lowest fixed-line teledensity and mobile penetration in Central America;&amp;nbsp;a Russian state corporation is operating in the area; LTE service in 60 towns and cities (2018)",
+"domestic": "since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 6 per 100 persons; mobile-cellular telephone subscribership has increased to 136 per 100 persons (2018)",
+"international": "country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "multiple terrestrial TV stations, supplemented by cable TV in most urban areas; nearly all are government-owned or affiliated; more than 300 radio stations, both government-affiliated and privately owned (2019)",
+"internet_country_code": ".ni",
+"internet_users": 
+{
+"total": "1,466,152",
+"percent_of_population": "24.6% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "210,124",
+"subscriptions_per_100_inhabitants": "3 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.61% of GDP",
+"2017": "0.62% of GDP",
+"2016": "0.64% of GDP",
+"2015": "0.78% of GDP",
+"2014": "0.69% of GDP",
+},
+"military_and_security_forces": "Army of Nicaragua (Ejercito de Nicaragua, EN; includes Navy, Air Force) (2019)",
+"military_service_age_and_obligation": "18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "2 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "61,031 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "YN (2016)",
+"airports": "147 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "12 (2017)",
+"2_438_to_3_047_m": "3 (2017)",
+"1_524_to_2_437_m": "2 (2017)",
+"914_to_1_523_m": "3 (2017)",
+"under_914_m": "4 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "135 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "15 (2013)",
+"under_914_m": "119 (2013)",
+}, 
+"pipelines": "54 km oil (2013)",
+"roadways": 
+{
+"total": "23,897 km (2014)",
+"paved": "3,346 km (2014)",
+"unpaved": "20,551 km (2014)",
+}, 
+"waterways": "2,220 km (navigable waterways as well as the use of the large Lake Managua and Lake Nicaragua; rivers serve only the sparsely populated eastern part of the country) (2011)",
+"merchant_marine": 
+{
+"total": "5",
+"by_type": "general cargo 1, oil tanker 1, other 3 (2018)",
+}, 
+"ports_and_terminals": "Bluefields, Corinto",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;the 1992 ICJ ruling for El Salvador and Honduras advised a tripartite resolution to establish a maritime boundary in the Gulf of Fonseca, which considers Honduran access to the Pacific; Nicaragua and Costa Rica regularly file border dispute cases over the delimitations of the San Juan River and the northern tip of Calero Island to the ICJ; there is an ongoing case in the ICJ to determine Pacific and Atlantic ocean maritime borders as well as land borders; in 2009, the ICJ ruled that Costa Rican vessels carrying out police activities could not use the river, but official Costa Rican vessels providing essential services to riverside inhabitants and Costa Rican tourists could travel freely on the river; in 2011, the ICJ provisionally ruled that both countries must remove personnel from the disputed area; in 2013, the ICJ rejected Nicaragua&#39;s 2012 suit to halt Costa Rica&#39;s construction of a highway paralleling the river on the grounds of irreparable environmental damage; in 2013, the ICJ, regarding the disputed territory, ordered that Nicaragua should refrain from dredging or canal construction and refill and repair damage caused by trenches connecting the river to the Caribbean and upheld its 2010 ruling that Nicaragua must remove all personnel; in early 2014, Costa Rica brought Nicaragua to the ICJ over offshore oil concessions in the disputed region; Nicaragua filed a case against Colombia in 2013 over the delimitation of the Continental shelf beyond the 200 nautical miles from the Nicaraguan coast, as well as over the alleged violation by Colombia of Nicaraguan maritime space in the Caribbean Sea&lt;/p&gt;",
+"illicit_drugs": "transshipment point for cocaine destined for the US and transshipment point for arms-for-drugs dealing",
+}
+}

@@ -1,0 +1,544 @@
+{
+"name": "Togo",
+"code": "TO",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "French Togoland became Togo in 1960. Gen. Gnassingbe EYADEMA, installed as military ruler in 1967, ruled Togo with a heavy hand for almost four decades. Despite the facade of multi-party elections instituted in the early 1990s, the government was largely dominated by President EYADEMA, whose Rally of the Togolese People (RPT) party has been in power almost continually since 1967 and its successor, the Union for the Republic, maintains a majority of seats in today&#39;s legislature. Upon EYADEMA&#39;s death in February 2005, the military installed the president&#39;s son, Faure GNASSINGBE, and then engineered his formal election two months later. Democratic gains since then allowed Togo to hold its first relatively free and fair legislative elections in October 2007. Since 2007, President GNASSINGBE has started the country along a gradual path to democratic reform. Togo has since held multiple presidential and legislative elections deemed generally free and fair by international observers. Despite those positive moves, political reconciliation has moved slowly, and the country experiences periodic outbursts of violent protest by frustrated citizens. Recent constitutional changes to institute a runoff system in presidential elections and establish term limits has not reduced the resentment many Togolese feel after over 50 years of one-family rule.",
+}, 
+"geography": 
+{
+"location": "Western Africa, bordering the Bight of Benin, between Benin and Ghana",
+"geographic_coordinates": "8 00 N, 1 10 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "56,785 sq km",
+"land": "54,385 sq km",
+"water": "2,400 sq km",
+}, 
+"area_comparative": "slightly smaller than West Virginia",
+"land_boundaries": 
+{
+"total": "1,880 km",
+"border_countries": "Benin 651 km, Burkina Faso 131 km, Ghana 1098 km",
+}, 
+"coastline": "56 km",
+"maritime_claims": 
+{
+"territorial_sea": "30 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "tropical; hot, humid in south; semiarid in north",
+"terrain": "gently rolling savanna in north; central hills; southern plateau; low coastal plain with extensive lagoons and marshes",
+"elevation": 
+{
+"mean_elevation": "236 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Mont Agou 986 m",
+}, 
+"natural_resources": "phosphates, limestone, marble, arable land",
+"land_use": 
+{
+"agricultural_land": "67.4% (2011 est.)",
+"agricultural_land_arable_land": "45.2% (2011 est.)",
+"agricultural_land_permanent_crops": "3.8% (2011 est.)",
+"agricultural_land_permanent_pasture": "18.4% (2011 est.)",
+"forest": "4.9% (2011 est.)",
+"other": "27.7% (2011 est.)",
+}, 
+"irrigated_land": "70 sq km (2012)",
+"population_distribution": "one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast",
+"natural_hazards": "hot, dry harmattan wind can reduce visibility in north during winter; periodic droughts",
+"environment_current_issues": "deforestation attributable to slash-and-burn agriculture and the use of wood for fuel; very little rain forest still present and what remains is highly degraded; desertification; water pollution presents health hazards and hinders the fishing industry; air pollution increasing in urban areas",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "the country&#39;s length allows it to stretch through six distinct geographic regions; climate varies from tropical to savanna",
+}, 
+"people_and_society": 
+{
+"population": "8,176,449 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Togolese (singular and plural)",
+"adjective": "Togolese",
+}, 
+"ethnic_groups": "Adja-Ewe/Mina 42.4%, Kabye/Tem 25.9%, Para-Gourma/Akan 17.1%, Akposso/Akebu 4.1%, Ana-Ife 3.2%, other Togolese 1.7%, foreigners 5.2%, no response .4% (2013-14 est.)",
+"languages": "French (official, the language of commerce), Ewe and Mina (the two major African languages in the south), Kabye (sometimes spelled Kabiye) and Dagomba (the two major African languages in the north)",
+"religions": "Christian 43.7%, folk 35.6%, Muslim 14%, Hindu &amp;lt;.1%, Buddhist &amp;lt;.1%, Jewish &amp;lt;.1%, other .5%, none 6.2% (2010 est.)",
+"demographic_profile": "&lt;p&gt;Togo’s population is estimated to have grown to four times its size between 1960 and 2010. With nearly 60% of its populace under the age of 25 and a high annual growth rate attributed largely to high fertility, Togo’s population is likely to continue to expand for the foreseeable future. Reducing fertility, boosting job creation, and improving education will be essential to reducing the country’s high poverty rate. In 2008, Togo eliminated primary school enrollment fees, leading to higher enrollment but increased pressure on limited classroom space, teachers, and materials. Togo has a good chance of achieving universal primary education, but educational quality, the underrepresentation of girls, and the low rate of enrollment in secondary and tertiary schools remain concerns.&lt;/p&gt;&lt;p&gt;Togo is both a country of emigration and asylum. In the early 1990s, southern Togo suffered from the economic decline of the phosphate sector and ethnic and political repression at the hands of dictator Gnassingbe EYADEMA and his northern, Kabye-dominated administration. The turmoil led 300,000 to 350,000 predominantly southern Togolese to flee to Benin and Ghana, with most not returning home until relative stability was restored in 1997. In 2005, another outflow of 40,000 Togolese to Benin and Ghana occurred when violence broke out between the opposition and security forces over the disputed election of EYADEMA’s son Faure GNASSINGBE to the presidency. About half of the refugees reluctantly returned home in 2006, many still fearing for their safety. Despite ethnic tensions and periods of political unrest, Togo in September 2017 was home to more than 9,600 refugees from Ghana.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "40.13% (male 1,646,438 /female 1,634,609)",
+"15_24_years": "19.1% (male 779,774 /female 782,192)",
+"25_54_years": "32.96% (male 1,339,150 /female 1,356,020)",
+"55_64_years": "4.34% (male 167,575 /female 187,432)",
+"65_years_and_over": "3.46% (male 122,175 /female 161,084) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "81.2 (2015 est.)",
+"youth_dependency_ratio": "76.2 (2015 est.)",
+"elderly_dependency_ratio": "5.1 (2015 est.)",
+"potential_support_ratio": "19.8 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "19.9 years (2018 est.)",
+"male": "19.6 years",
+"female": "20.1 years",
+}, 
+"population_growth_rate": "2.61% (2018 est.)",
+"birth_rate": "32.8 births/1,000 population (2018 est.)",
+"death_rate": "6.8 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast",
+"urbanization": 
+{
+"urban_population": "42.2% of total population (2019)",
+"rate_of_urbanization": "3.76% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.785 million LOME (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1.01 male(s)/female",
+"15_24_years": "1 male(s)/female",
+"25_54_years": "0.99 male(s)/female",
+"55_64_years": "0.89 male(s)/female",
+"65_years_and_over": "0.76 male(s)/female",
+"total_population": "0.98 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "21 years (2013/14 est.)",
+"maternal_mortality_rate": "396 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "40.8 deaths/1,000 live births (2018 est.)",
+"male": "47.1 deaths/1,000 live births",
+"female": "34.4 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "65.8 years (2018 est.)",
+"male": "63.1 years",
+"female": "68.6 years",
+}, 
+"total_fertility_rate": "4.32 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "19.9% (2013/14)",
+"drinking_water_source": 
+{
+"improved_urban": "91.4% of population",
+"improved_rural": "44.2% of population",
+"improved_total": "63.1% of population",
+"unimproved_urban": "8.6% of population",
+"unimproved_rural": "55.8% of population",
+"unimproved_total": "36.9% of population (2015 est.)",
+}, 
+"current_health_expenditure": "6.6% (2016)",
+"physicians_density": "0.05 physicians/1,000 population (2015)",
+"hospital_bed_density": "0.7 beds/1,000 population (2011)",
+"sanitation_facility_access": 
+{
+"improved_urban": "24.7% of population (2015 est.)",
+"improved_rural": "2.9% of population (2015 est.)",
+"improved_total": "11.6% of population (2015 est.)",
+"unimproved_urban": "75.3% of population (2015 est.)",
+"unimproved_rural": "97.1% of population (2015 est.)",
+"unimproved_total": "88.4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "2.3% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "110,000 (2018 est.)",
+"hiv_aids_deaths": "3,800 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria, dengue fever, and yellow fever (2016)",
+"water_contact_diseases": "schistosomiasis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+"respiratory_diseases": "meningococcal meningitis (2016)",
+}, 
+"obesity_adult_prevalence_rate": "8.4% (2016)",
+"children_under_the_age_of_5_years_underweight": "16.1% (2014)",
+"education_expenditures": "5% of GDP (2016)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "63.7%",
+"male": "77.3%",
+"female": "51.2% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "13 years",
+"male": "14 years NA",
+"female": "11 years NA (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "3.9%",
+"male": "3.7%",
+"female": "4.1% (2015 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Togolese Republic",
+"conventional_short_form": "Togo",
+"local_long_form": "Republique Togolaise",
+"local_short_form": "none",
+"former": "French Togoland",
+"etymology": "derived from the Ewe words &quot;to&quot; (river) and &quot;godo&quot; (on the other side) to give the sense of &quot;on the other side of the river&quot;; originally, this designation applied to the town of Togodo (now Togoville) on the northern shore of Lake Togo, but the name was eventually extended to the entire nation",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Lome",
+"geographic_coordinates": "6 07 N, 1 13 E",
+"time_difference": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "5 regions (regions, singular - region); Centrale, Kara, Maritime, Plateaux, Savanes",
+"independence": "27 April 1960 (from French-administered UN trusteeship)",
+"national_holiday": "Independence Day, 27 April (1960)",
+"constitution": 
+{
+"history": "several previous; latest adopted 27 September 1992, effective 14 October 1992",
+"amendments": "proposed by the president of the republic or supported by at least one fifth of the National Assembly membership; passage requires four-fifths majority vote by the Assembly; a referendum is required if approved by only two-thirds majority of the Assembly or if requested by the president; constitutional articles on the republican and secular form of government cannot be amended; amended 2002, 2007, 2019 when the National Assembly unanimously approved a package of amendments, including setting presidential term limits of two 5-year mandates (2019)",
+}, 
+"legal_system": "customary law system",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Togo",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Faure GNASSINGBE (since 4 May 2005)",
+"head_of_government": "Acting Prime Minister Komi KLASSOU (since 5 June 2015)",
+"cabinet": "Council of Ministers appointed by the president on the advice of the prime minister",
+"elections_appointments": "president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 25 April 2015 (next to be held in 2020); prime minister appointed by the president",
+"election_results": "Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)",
+"elections": "last held on 20 December 2018 (next to be held in 2023)",
+"election_results": "percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 6, NET 3, MPDD 3, other 2, independent 18; composition - men 75, women 16, percent of women 17.6%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)",
+"judge_selection_and_term_of_office": "Supreme Court president appointed by decree of the president of the republic upon the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judicial appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA",
+"subordinate_courts": "Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal",
+}, 
+"political_parties_and_leaders": "Action Committee for Renewal or CAR [Yaovi AGBOYIBO]&lt;br /&gt;Alliance of Democrats for Integral Development or ADDI [Tchaboure GOGUE]&lt;br /&gt;Democratic Convention of African Peoples or CDPA [Brigitte ADJAMAGBO-JOHNSON]&lt;br /&gt;Democratic Forces for the Republic or FDR [Dodji APEVON]&lt;br /&gt;National Alliance for Change or ANC [Jean-Pierre FABRE]&lt;br /&gt;New Togolese Commitment [Gerry TAAMA]&lt;br /&gt;Pan-African National Party or PNP [Tikpi ATCHADAM]&lt;br /&gt;Pan-African Patriotic Convergence or CPP [Edem KODJO]&lt;br /&gt;Patriotic Movement for Democracy and Development or MPDD &lt;br /&gt;Socialist Pact for Renewal or PSR [Abi TCHESSA]&lt;br /&gt;The Togolese Party [Nathaniel OLYMPIO]&lt;br /&gt;Union of Forces for Change or UFC [Gilchrist OLYMPIO]&lt;br /&gt;Union for the Republic or UNIR [Faure GNASSINGBE]",
+"international_organization_participation": "ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Frederic Edem HEGBE (since 24 April 2017)",
+"chancery": "2208 Massachusetts Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 234-4212",
+"fax": "[1] (202) 232-3190",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Eric W. STROHMAYER (since 11 April 2019)",
+"telephone": "[228] 2261-5470",
+"embassy": "4332 Blvd. Gnassingbe Eyadema, Cite OUA, Lome",
+"mailing_address": "B.P. 852, Lome; 2300 Lome Place, Washington, DC 20521-2300",
+"fax": "[228] 2261-5501",
+}, 
+"flag_description": "five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo&#39;s independence",
+"national_symbol_s": "lion; national colors: green, yellow, red, white",
+"national_anthem": 
+{
+"name": "&quot;Salut a toi, pays de nos aieux&quot; (Hail to Thee, Land of Our Forefathers)",
+"lyrics_music": "Alex CASIMIR-DOSSEH",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Togo has enjoyed a period of steady economic growth fueled by political stability and a concerted effort by the government to modernize the country’s commercial infrastructure, but discontent with President Faure GNASSINGBE has led to a rapid rise in protests, creating downside risks. The country completed an ambitious large-scale infrastructure improvement program, including new principal roads, a new airport terminal, and a new seaport. The economy depends heavily on both commercial and subsistence agriculture, providing employment for around 60% of the labor force. Some basic foodstuffs must still be imported. Cocoa, coffee, and cotton and other agricultural products generate about 20% of export earnings with cotton being the most important cash crop. Togo is among the world&#39;s largest producers of phosphate and seeks to develop its carbonate phosphate reserves, which provide more than 20% of export earnings.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Supported by the World Bank and the IMF, the government&#39;s decade-long effort to implement economic reform measures, encourage foreign investment, and bring revenues in line with expenditures has moved slowly. Togo completed its IMF Extended Credit Facility in 2011 and reached a Heavily Indebted Poor Country debt relief completion point in 2010 at which 95% of the country&#39;s debt was forgiven. Togo continues to work with the IMF on structural reforms, and in January 2017, the IMF signed an Extended Credit Facility arrangement consisting of a three-year $238 million loan package. Progress depends on follow through on privatization, increased transparency in government financial operations, progress toward legislative elections, and continued support from foreign donors.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Togo’s 2017 economic growth probably remained steady at 5.0%, largely driven by infusions of foreign aid, infrastructure investment in its port and mineral industry, and improvements in the business climate. Foreign direct investment inflows have slowed in recent years.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$12.97 billion",
+"2016": "$12.42 billion",
+"2015": "$11.82 billion",
+},
+"gdp_official_exchange_rate": "$4.767 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.4%",
+"2016": "5.1%",
+"2015": "5.7%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$1,700",
+"2016": "$1,600",
+"2015": "$1,600",
+},
+"gross_national_saving":
+{
+"2017": "16.1% of GDP",
+"2016": "21.8% of GDP",
+"2015": "21.2% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "84.5% (2017 est.)",
+"government_consumption": "11.4% (2017 est.)",
+"investment_in_fixed_capital": "23.4% (2017 est.)",
+"investment_in_inventories": "-1.4% (2017 est.)",
+"exports_of_goods_and_services": "43.1% (2017 est.)",
+"imports_of_goods_and_services": "-61% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "28.8% (2017 est.)",
+"industry": "21.8% (2017 est.)",
+"services": "49.8% (2017 est.)",
+}, 
+"agriculture_products": "coffee, cocoa, cotton, yams, cassava (manioc, tapioca), corn, beans, rice, millet, sorghum; livestock; fish",
+"industries": "phosphate mining, agricultural processing, cement, handicrafts, textiles, beverages",
+"industrial_production_growth_rate": "5% (2017 est.)",
+"labor_force": "2.595 million (2007 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "65%",
+"industry": "5%",
+"services": "30% (1998 est.)",
+}, 
+"unemployment_rate":
+{
+"2016": "6.9%",
+},
+"population_below_poverty_line": "55.1% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.3%",
+"highest_10": "27.1% (2006)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2011": "46",
+},
+"budget": 
+{
+"revenues": "1.023 billion (2017 est.)",
+"expenditures": "1.203 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "21.5% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3.8% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "75.7% of GDP",
+"2016": "81.6% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "-0.7%",
+"2016": "0.9%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "2.5%",
+"31 December 2009": "4.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2016": "5.3%",
+"31 December 2015": "8.29%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$1.335 billion",
+"31 December 2016": "$1.119 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$1.335 billion",
+"31 December 2016": "$1.119 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$1.95 billion",
+"31 December 2016": "$1.624 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$383 million",
+"2016": "-$416 million",
+},
+"exports":
+{
+"2017": "$1.046 billion",
+"2016": "$967.4 million",
+},
+"exports_partners": "Benin 16.7%, Burkina Faso 15.2%, Niger 8.9%, India 7.3%, Mali 6.7%, Ghana 5.5%, Cote dIvoire 5.4%, Nigeria 4.1% (2017)",
+"exports_commodities": "reexports, cotton, phosphates, coffee, cocoa",
+"imports":
+{
+"2017": "$1.999 billion",
+"2016": "$2 billion",
+},
+"imports_commodities": "machinery and equipment, foodstuffs, petroleum products",
+"imports_partners": "China 27.5%, France 9.1%, Netherlands 4.4%, Japan 4.3% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$77.8 million",
+"31 December 2016": "$42.6 million",
+},
+"debt_external":
+{
+"31 December 2017": "$1.442 billion",
+"31 December 2016": "$1.22 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2009": "",
+},
+"exchange_rates": 
+{
+"currency": "Communaute Financiere Africaine francs (XOF) per US dollar -",
+"exchange_rates":
+{
+"2017": "617.4",
+"2016": "593.01",
+"2015": "593.01",
+"2014": "591.45",
+"2013": "494.42",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "5 million (2017)",
+"electrification_total_population": "36% (2017)",
+"electrification_urban_areas": "64% (2017)",
+"electrification_rural_areas": "16% (2017)",
+}, 
+"electricity_production": "232.6 million kWh (2016 est.)",
+"electricity_consumption": "1.261 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "1.14 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "230,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "70% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "29% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "1% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "15,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "13,100 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "2.651 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "36,111",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "6,219,981",
+"subscriptions_per_100_inhabitants": "78 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "fair system based on a network of microwave radio relay routes supplemented by open-wire lines and a mobile-cellular system; (2018)",
+"domestic": "fixed-line less than 1 per 100 and mobile-cellular 78 telephones per 100 persons with mobile-cellular use predominating (2018)",
+"international": "country code - 228; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie; West Africa Cable System (WACS), linking countries along the west coast of Africa with each other and with Portugal and the United Kingdom; GLO-1, linking countries along the west coast of Africa to each other and to Portugal, Spain and the United Kingdom",
+}, 
+"broadcast_media": "1&amp;nbsp;state-owned TV station with multiple transmission sites; five private TV stations broadcast locally; cable TV service is available; state-owned radio network with two stations (in Lome and Kara); several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)",
+"internet_country_code": ".tg",
+"internet_users": 
+{
+"total": "877,310",
+"percent_of_population": "11.3% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "45,756",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.97% of GDP",
+"2017": "1.89% of GDP",
+"2016": "1.85% of GDP",
+"2015": "1.68% of GDP",
+"2014": "1.8% of GDP",
+},
+"military_and_security_forces": "Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l&#39;Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l&amp;rsquo;Air), National Gendarmerie (2018)",
+"military_service_age_and_obligation": "18 years of age for military service; 2-year service obligation; currently the military is only an all-volunteer force (2017)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "8 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "769,904 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "5V (2016)",
+"airports": "8 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "2 (2013)",
+"2_438_to_3_047_m": "2 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "6 (2013)",
+"914_to_1_523_m": "4 (2013)",
+"under_914_m": "2 (2013)",
+}, 
+"pipelines": "62 km gas",
+"railways": 
+{
+"total": "568 km (2014)",
+"narrow_gauge": "568 km 1.000-m gauge (2014)",
+}, 
+"waterways": "50 km (seasonally navigable by small craft on the Mono River depending on rainfall) (2011)",
+"merchant_marine": 
+{
+"total": "327",
+"by_type": "bulk carrier 7, container ship 4, general cargo 215, oil tanker 42, other 59 (2018)",
+}, 
+"ports_and_terminals": "Kpeme, Lome",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;in 2001, Benin claimed Togo moved boundary monuments - joint commission continues to resurvey the boundary; talks continue between Benin and Togo on funding the Adjrala hydroelectric dam on the Mona River&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "9,768 (Ghana) (2019)",
+"illicit_drugs": "transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem",
+}
+}

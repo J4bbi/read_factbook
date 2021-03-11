@@ -1,0 +1,558 @@
+{
+"name": "Afghanistan",
+"code": "AF",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Ahmad Shah DURRANI unified the Pashtun tribes and founded Afghanistan in 1747. The country served as a buffer between the British and Russian Empires until it won independence from notional British control in 1919. A brief experiment in increased democracy ended in a 1973 coup and a 1978 communist countercoup. The Soviet Union invaded in 1979 to support the tottering Afghan communist regime, touching off a long and destructive war. The USSR withdrew in 1989 under relentless pressure by internationally supported anti-communist mujahidin rebels. A series of subsequent civil wars saw Kabul finally fall in 1996 to the Taliban, a hardline Pakistani-sponsored movement that emerged in 1994 to end the country&#39;s civil war and anarchy. Following the 11 September 2001 terrorist attacks, a US, Allied, and anti-Taliban Northern Alliance military action toppled the Taliban for sheltering Usama BIN LADIN.&lt;/p&gt; &lt;p&gt;A UN-sponsored Bonn Conference in 2001 established a process for political reconstruction that included the adoption of a new constitution, a presidential election in 2004, and National Assembly elections in 2005. In December 2004, Hamid KARZAI became the first democratically elected president of Afghanistan, and the National Assembly was inaugurated the following December. KARZAI was reelected in August 2009 for a second term. The 2014 presidential election was the country&#39;s first to include a runoff, which featured the top two vote-getters from the first round, Abdullah ABDULLAH and Ashraf GHANI. Throughout the summer of 2014, their campaigns disputed the results and traded accusations of fraud, leading to a US-led diplomatic intervention that included a full vote audit as well as political negotiations between the two camps. In September 2014, GHANI and ABDULLAH agreed to form the Government of National Unity, with GHANI inaugurated as president and ABDULLAH elevated to the newly-created position of chief executive officer. The day after the inauguration, the GHANI administration signed the US-Afghan Bilateral Security Agreement and NATO Status of Forces Agreement, which provide the legal basis for the post-2014 international military presence in Afghanistan. After two postponements, the next presidential election was held in September 2019.&lt;/p&gt; &lt;p&gt;The Taliban remains a serious challenge for the Afghan Government in almost every province. The Taliban still considers itself the rightful government of Afghanistan, and it remains a capable and confident insurgent force fighting for the withdrawal of foreign military forces from Afghanistan, establishment of sharia law, and rewriting of the Afghan constitution. In 2019, negotiations between the US and the Taliban in Doha entered their highest level yet, building on momentum that began in late 2018. Underlying the negotiations is the unsettled state of Afghan politics, and prospects for a sustainable political settlement remain unclear.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southern Asia, north and west of Pakistan, east of Iran",
+"geographic_coordinates": "33 00 N, 65 00 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "652,230 sq km",
+"land": "652,230 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "almost six times the size of Virginia; slightly smaller than Texas",
+"land_boundaries": 
+{
+"total": "5,987 km",
+"border_countries": "China 91 km, Iran 921 km, Pakistan 2670 km, Tajikistan 1357 km, Turkmenistan 804 km, Uzbekistan 144 km",
+}, 
+"coastline": "0 km (landlocked)",
+"climate": "arid to semiarid; cold winters and hot summers",
+"terrain": "mostly rugged mountains; plains in north and southwest",
+"elevation": 
+{
+"mean_elevation": "1,884 m",
+"lowest_point": "Amu Darya 258 m",
+"highest_point": "Noshak 7,492 m",
+}, 
+"natural_resources": "natural gas, petroleum, coal, copper, chromite, talc, barites, sulfur, lead, zinc, iron ore, salt, precious and semiprecious stones, arable land",
+"land_use": 
+{
+"agricultural_land": "58.1% (2016 est.)",
+"agricultural_land_arable_land": "11.8% (2016)",
+"agricultural_land_permanent_crops": "0.3% (2016)",
+"agricultural_land_permanent_pasture": "46% (2016)",
+"forest": "2.07% (2016 est.)",
+"other": "39% (2016)",
+}, 
+"irrigated_land": "32,080 sq km (2012)",
+"population_distribution": "populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country&#39;s interior valleys; in general, the east is more densely settled, while the south is sparsely populated",
+"natural_hazards": "damaging earthquakes occur in Hindu Kush mountains; flooding; droughts",
+"environment_current_issues": "limited natural freshwater resources; inadequate supplies of potable water; soil degradation; overgrazing; deforestation (much of the remaining forests are being cut down for fuel and building materials); desertification; air and water pollution in overcrowded urban areas",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Marine Dumping, Ozone Layer Protection",
+"signed_but_not_ratified": "Hazardous Wastes, Law of the Sea, Marine Life Conservation",
+}, 
+"geography_note": "landlocked; the Hindu Kush mountains that run northeast to southwest divide the northern provinces from the rest of the country; the highest peaks are in the northern Vakhan (Wakhan Corridor)",
+}, 
+"people_and_society": 
+{
+"population": "34,940,837 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Afghan(s)",
+"adjective": "Afghan",
+}, 
+"ethnic_groups": "Pashtun, Tajik, Hazara, Uzbek, other (includes smaller numbers of Baloch, Turkmen, Nuristani, Pamiri, Arab, Gujar, Brahui, Qizilbash, Aimaq, Pashai, and Kyrghyz) (2015)",
+"languages": "Afghan Persian or Dari (official) 77% (Dari functions as the lingua franca), Pashto (official) 48%, Uzbek 11%, English 6%, Turkmen 3%, Urdu 3%, Pashayi 1%, Nuristani 1%, Arabic 1%, Balochi 1% (2017 est.)",
+"religions": "Muslim 99.7% (Sunni 84.7 - 89.7%, Shia 10 - 15%), other 0.3% (2009 est.)",
+"age_structure": 
+{
+"0_14_years": "40.92% (male 7,263,716 /female 7,033,427)",
+"15_24_years": "21.85% (male 3,883,693 /female 3,749,760)",
+"25_54_years": "30.68% (male 5,456,305 /female 5,263,332)",
+"55_64_years": "3.95% (male 679,766 /female 699,308)",
+"65_years_and_over": "2.61% (male 420,445 /female 491,085) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "88.8 (2015 est.)",
+"youth_dependency_ratio": "84.1 (2015 est.)",
+"elderly_dependency_ratio": "4.7 (2015 est.)",
+"potential_support_ratio": "21.2 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "19 years (2018 est.)",
+"male": "19 years",
+"female": "19.1 years",
+}, 
+"population_growth_rate": "2.37% (2018 est.)",
+"birth_rate": "37.5 births/1,000 population (2018 est.)",
+"death_rate": "13.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-0.6 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country&#39;s interior valleys; in general, the east is more densely settled, while the south is sparsely populated",
+"urbanization": 
+{
+"urban_population": "25.8% of total population (2019)",
+"rate_of_urbanization": "3.37% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "4.114 million KABUL (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.03 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.04 male(s)/female",
+"55_64_years": "0.97 male(s)/female",
+"65_years_and_over": "0.86 male(s)/female",
+"total_population": "1.03 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "19.9 years (2015 est.)",
+"maternal_mortality_rate": "638 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "108.5 deaths/1,000 live births (2018 est.)",
+"male": "115.7 deaths/1,000 live births",
+"female": "100.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "52.1 years (2018 est.)",
+"male": "50.6 years",
+"female": "53.6 years",
+}, 
+"total_fertility_rate": "5.02 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "22.5% (2015/16)",
+"drinking_water_source": 
+{
+"improved_urban": "78.2% of population",
+"improved_rural": "47% of population",
+"improved_total": "55.3% of population",
+"unimproved_urban": "21.8% of population",
+"unimproved_rural": "53% of population",
+"unimproved_total": "44.7% of population (2015 est.)",
+}, 
+"current_health_expenditure": "10.2% (2016)",
+"physicians_density": "0.28 physicians/1,000 population (2016)",
+"hospital_bed_density": "0.5 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "45.1% of population (2015 est.)",
+"improved_rural": "27% of population (2015 est.)",
+"improved_total": "31.9% of population (2015 est.)",
+"unimproved_urban": "54.9% of population (2015 est.)",
+"unimproved_rural": "73% of population (2015 est.)",
+"unimproved_total": "68.1% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "7,200 (2018 est.)",
+"hiv_aids_deaths": " &lt;500 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "intermediate (2019)",
+"food_or_waterborne_diseases": "bacterial diarrhea, hepatitis A, and typhoid fever (2019)",
+"vectorborne_diseases": "Crimea-Congo hemorrhagic fever, malaria (2019)",
+}, 
+"obesity_adult_prevalence_rate": "5.5% (2016)",
+"children_under_the_age_of_5_years_underweight": "25% (2013)",
+"education_expenditures": "4.1% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "43%",
+"male": "55.5%",
+"female": "29.8% (2018)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "10 years",
+"male": "13 years",
+"female": "8 years (2014)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "17.6%",
+"male": "16.3%",
+"female": "21.4% (2017)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Islamic Republic of Afghanistan",
+"conventional_short_form": "Afghanistan",
+"local_long_form": "Jamhuri-ye Islami-ye Afghanistan",
+"local_short_form": "Afghanistan",
+"former": "Republic of Afghanistan",
+"etymology": "the name &quot;Afghan&quot; originally referred to the Pashtun people (today it is understood to include all the country&#39;s ethnic groups), while the suffix &quot;-stan&quot; means &quot;place of&quot; or &quot;country&quot;; so Afghanistan literally means the &quot;Land of the Afghans&quot;",
+}, 
+"government_type": "presidential Islamic republic",
+"capital": 
+{
+"name": "Kabul",
+"geographic_coordinates": "34 31 N, 69 11 E",
+"time_difference": "UTC+4.5 (9.5 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "does not observe daylight savings time",
+}, 
+"administrative_divisions": "34 provinces (welayat, singular - welayat); Badakhshan, Badghis, Baghlan, Balkh, Bamyan, Daykundi, Farah, Faryab, Ghazni, Ghor, Helmand, Herat, Jowzjan, Kabul, Kandahar, Kapisa, Khost, Kunar, Kunduz, Laghman, Logar, Nangarhar, Nimroz, Nuristan, Paktika, Paktiya, Panjshir, Parwan, Samangan, Sar-e Pul, Takhar, Uruzgan, Wardak, Zabul",
+"independence": "19 August 1919 (from UK control over Afghan foreign affairs)",
+"national_holiday": "Independence Day, 19 August (1919)",
+"constitution": 
+{
+"history": "several previous; latest drafted 14 December 2003 - 4 January 2004, signed 16 January 2004, ratified 26 January 2004",
+"amendments": "proposed by a commission formed by presidential decree followed by the convention of a Grand Council (Loya Jirga) decreed by the president; passage requires at least two-thirds majority vote of the Loya Jirga membership and endorsement by the president (2017)",
+}, 
+"legal_system": "mixed legal system of civil, customary, and Islamic (sharia) law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must have been born in - and continuously lived in - Afghanistan",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "&lt;p&gt;President of the Islamic Republic of Afghanistan Ashraf GHANI Ahmadzai (since 29 September 2014); CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ; note - the president is both chief of state and head of government&lt;/p&gt;",
+"head_of_government": "&lt;p&gt;President of the Islamic Republic of Afghanistan Ashraf GHANI Ahmadzai (since 29 September 2014); CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ&lt;/p&gt;",
+"cabinet": "Cabinet consists of 25 ministers appointed by the president, approved by the National Assembly",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 September 2019 (next to be held in 2024)",
+"election_results": "NA",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral National Assembly consists of:&lt;br /&gt;Meshrano Jirga or House of Elders (102 seats; 34 members indirectly elected by absolute majority vote in 2 rounds if needed by district councils to serve 3-year terms, 34 indirectly elected by absolute majority vote in 2 rounds if needed by provincial councils to serve 4-year terms, and 34 appointed by the president from nominations by civic groups, political parties, and the public, of which 17 must be women, 2 must represent the disabled, and 2 must be Kuchi nomads; presidential appointees serve 5-year terms)&lt;br /&gt; &lt;p&gt;Wolesi Jirga or House of People (250 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)&lt;/p&gt;",
+"elections": "&lt;br /&gt;Meshrano Jirga - district councils - within 5 days of installation; provincial councils - within 15 days of installation; presidential appointees - within 2 weeks after the presidential inauguration&lt;br /&gt; Wolesi Jirga - last held on 20 October 2018) (next to be held in 2023)",
+"election_results": "&lt;br /&gt;Meshrano Jirga - percent of vote by party - NA; seats by party - NA; composition - men 84, women 18, percent of women 17.6%&lt;br /&gt;Wolesi Jirga - percent of vote by party NA; seats by party - NA; composition - NA",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Stera Mahkama (consists of the supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions or dewans)",
+"judge_selection_and_term_of_office": "court chief and justices appointed by the president with the approval of the Wolesi Jirga; court chief and justices serve single 10-year terms",
+"subordinate_courts": "Appeals Courts; Primary Courts; Special Courts for issues including narcotics, security, property, family, and juveniles",
+}, 
+"political_parties_and_leaders": "&lt;p&gt;note - the Ministry of Justice licensed 72 political parties as of April 2019&amp;nbsp;&lt;/p&gt;",
+"international_organization_participation": "ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Roya RAHMANI (since 24 November 2018)",
+"chancery": "2341 Wyoming Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 483-6410",
+"fax": "[1] (202) 483-6488",
+"consulate_s_general": "Los Angeles, New York, Washington, DC",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador John BASS (since December 2017)",
+"telephone": "[00 93] 0700 108 001",
+"embassy": "Bibi Mahru, Kabul",
+"mailing_address": "U.S. Embassy Kabul, APO AE 09806",
+"fax": "[00 93] 0700 108 564",
+}, 
+"flag_description": "three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning &quot;God is great&quot;), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam",
+"national_symbol_s": "lion; national colors: red, green, black",
+"national_anthem": 
+{
+"name": "&quot;Milli Surood&quot; (National Anthem)",
+"lyrics_music": "Abdul Bari JAHANI/Babrak WASA",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Despite improvements in life expectancy, incomes, and literacy since 2001, Afghanistan is extremely poor, landlocked, and highly dependent on foreign aid. Much of the population continues to suffer from shortages of housing, clean water, electricity, medical care, and jobs. Corruption, insecurity, weak governance, lack of infrastructure, and the Afghan Government&#39;s difficulty in extending rule of law to all parts of the country pose challenges to future economic growth. Afghanistan&#39;s living standards are among the lowest in the world. Since 2014, the economy has slowed, in large part because of the withdrawal of nearly 100,000 foreign troops that had artificially inflated the country’s economic growth.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The international community remains committed to Afghanistan&#39;s development, pledging over $83 billion at ten donors&#39; conferences between 2003 and 2016. In October 2016, the donors at the Brussels conference pledged an additional $3.8 billion in development aid annually from 2017 to 2020. Even with this help, Government of Afghanistan still faces number of challenges, including low revenue collection, anemic job creation, high levels of corruption, weak government capacity, and poor public infrastructure.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In 2017 Afghanistan&#39;s growth rate was only marginally above that of the 2014-2016 average. The drawdown of international security forces that started in 2012 has negatively affected economic growth, as a substantial portion of commerce, especially in the services sector, has catered to the ongoing international troop presence in the country. Afghan President Ashraf GHANI Ahmadzai is dedicated to instituting economic reforms to include improving revenue collection and fighting corruption. The government has implemented reforms to the budget process and in some other areas. However, many other reforms will take time to implement and Afghanistan will remain dependent on international donor support over the next several years.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$69.45 billion",
+"2016": "$67.65 billion",
+"2015": "$66.21 billion",
+},
+"gdp_official_exchange_rate": "$20.24 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "2.7%",
+"2016": "2.2%",
+"2015": "1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$2,000",
+"2016": "$2,000",
+"2015": "$2,000",
+},
+"gross_national_saving":
+{
+"2017": "22.7% of GDP",
+"2016": "25.8% of GDP",
+"2015": "21.4% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "81.6% (2016 est.)",
+"government_consumption": "12% (2016 est.)",
+"investment_in_fixed_capital": "17.2% (2016 est.)",
+"investment_in_inventories": "30% (2016 est.)",
+"exports_of_goods_and_services": "6.7% (2016 est.)",
+"imports_of_goods_and_services": "-47.6% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "23% (2016 est.)",
+"industry": "21.1% (2016 est.)",
+"services": "55.9% (2016 est.)",
+}, 
+"agriculture_products": "opium, wheat, fruits, nuts, wool, mutton, sheepskins, lambskins, poppies",
+"industries": "small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, apparel, food products, non-alcoholic beverages, mineral water, cement; handwoven carpets; natural gas, coal, copper",
+"industrial_production_growth_rate": "-1.9% (2016 est.)",
+"labor_force": "8.478 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "44.3%",
+"industry": "18.1%",
+"services": "37.6% (2017 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "23.9%",
+"2016": "22.6%",
+},
+"population_below_poverty_line": "54.5% (2017 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.8%",
+"highest_10": "24% (2008)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2008": "29.4",
+},
+"budget": 
+{
+"revenues": "2.276 billion (2017 est.)",
+"expenditures": "5.328 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "11.2% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-15.1% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "7% of GDP",
+"2016": "7.8% of GDP",
+},
+"fiscal_year": "21 December - 20 December",
+"inflation_rate_consumer_prices":
+{
+"2017": "5%",
+"2016": "4.4%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2016": "15%",
+"31 December 2015": "15%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2014": "$6.644 billion",
+"31 December 2013": "$6.192 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2014": "$6.945 billion",
+"31 December 2013": "$6.544 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2016": "-$240.6 million",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "$1.014 billion",
+"2016": "$1.409 billion",
+},
+"exports":
+{
+"2017": "$784 million",
+"2016": "$614.2 million",
+},
+"exports_partners": "India 56.5%, Pakistan 29.6% (2017)",
+"exports_commodities": "opium, fruits and nuts, handwoven carpets, wool, cotton, hides and pelts, precious and semi-precious gems, and medical herbs",
+"imports":
+{
+"2017": "$7.616 billion",
+"2016": "$6.16 billion",
+},
+"imports_commodities": "machinery and other capital goods, food, textiles, petroleum products",
+"imports_partners": "China 21%, Iran 20.5%, Pakistan 11.8%, Kazakhstan 11%, Uzbekistan 6.8%, Malaysia 5.3% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$7.187 billion",
+"31 December 2015": "$6.901 billion",
+},
+"debt_external":
+{
+"FY/": "$2.84 billion",
+},
+"exchange_rates": 
+{
+"currency": "afghanis (AFA) per US dollar -",
+"exchange_rates":
+{
+"2017": "7.87",
+"2016": "68.03",
+"2015": "67.87",
+"2014": "61.14",
+"2013": "57.25",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "18,999,254 (2012)",
+"electrification_total_population": "84.1% (2016)",
+"electrification_urban_areas": "98% (2016)",
+"electrification_rural_areas": "79% (2016)",
+}, 
+"electricity_production": "1.211 billion kWh (2016 est.)",
+"electricity_consumption": "5.526 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "4.4 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "634,100 kW (2016 est.)",
+"electricity_from_fossil_fuels": "45% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "52% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "4% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "35,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "34,210 bbl/day (2015 est.)",
+"natural_gas_production": "164.2 million cu m (2017 est.)",
+"natural_gas_consumption": "164.2 million cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "49.55 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "9.067 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "118,769 (2017 est.)",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "23,929,713",
+"subscriptions_per_100_inhabitants": "70 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "progress has been made on&amp;nbsp;Afghanistan&#39;s first limited fixed-line telephone service and nationwide optical fibre backbone; aided by the presence of multiple providers, mobile-cellular telephone service continues to improve swiftly; the Afghan Ministry of Communications and Information claims that more than 90% of the population live in areas with access to mobile-cellular services (2018)",
+"domestic": "less than 1 per&amp;nbsp;100 for fixed-line teledensity; 70 per&amp;nbsp;100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2018)",
+"international": "country code - 93; multiple VSAT&#39;s provide international and domestic voice and data connectivity (2019)",
+}, 
+"broadcast_media": "state-owned broadcaster, Radio Television Afghanistan (RTA), operates a series of radio and television stations in Kabul and the provinces; an estimated 174 private radio stations,&amp;nbsp;83 TV stations, and about a dozen international broadcasters are available (2019)",
+"internet_country_code": ".af",
+"internet_users": 
+{
+"total": " 3,531,770",
+"percent_of_population": " 10.6 (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "16,810 (2017 est.)",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.99% of GDP",
+"2017": "0.94% of GDP",
+"2016": "0.89% of GDP",
+"2015": "0.99% of GDP",
+"2014": "1.33% of GDP",
+},
+"military_and_security_forces": "Afghan National Defense and Security Forces (ANDSF) comprised of military, police, and other security elements: Afghan National Army ((ANA), Afghan Air Force, Afghan Special Security Forces, Afghanistan National Army Territorial Forces (ANA-TF)), Afghan National Police (Ministry of Interior), Afghan Local Police (Ministry of Interior), and the National Directorate of Security (2019)",
+"military_service_age_and_obligation": "18 is the legal minimum age for voluntary military service; no conscription (2017)",
+"military_note": "Since early 2015, the NATO-led mission in Afghanistan known as Resolute Support Mission (RSM) has focused on training, advising, and assisting Afghan government forces; RSM includes 17,000 troops, including 8,500 US and 8,700 other troops from 38 countries (September 2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "4 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "20 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "1,929,907 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "33,102,038 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "YA (2016)",
+"airports": "43 (2016)",
+"airports_with_paved_runways": 
+{
+"total": "25 (2017)",
+"over_3_047_m": "4",
+"2_438_to_3_047_m": "4",
+"1_524_to_2_437_m": "14",
+"914_to_1_523_m": "2",
+"under_914_m": "1",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "18 (2016)",
+"2_438_to_3_047_m": "1 (2016)",
+"1_524_to_2_437_m": "8 (2016)",
+"914_to_1_523_m": "4 (2016)",
+"under_914_m": "5 (2016)",
+}, 
+"heliports": "9 (2013)",
+"pipelines": "466 km gas (2013)",
+"roadways": 
+{
+"total": "34,903 km (2017)",
+"paved": "17,903 km (2017)",
+"unpaved": "17,000 km (2017)",
+}, 
+"waterways": "1,200 km (chiefly Amu Darya, which handles vessels up to 500 DWT) (2011)",
+"ports_and_terminals": "Kheyrabad, Shir Khan",
+}, 
+"terrorism": 
+{
+"terrorist_groups_home_based": 
+{
+"al_qa_ida_aq": "&lt;strong&gt;aim(s):&lt;/strong&gt; eject Western influence from the Islamic world, unite the worldwide Muslim community, overthrow governments perceived as un-Islamic, and ultimately, establish a pan-Islamic caliphate under a strict Salafi Muslim interpretation of sharia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains established networks and a longtime operational presence in Afghanistan, especially in the south, northwest, and northeast near the Afghanistan-Pakistan border; continues to view Afghanistan as a safe haven for its leadership (2019)",
+"islamic_jihad_union_iju": "&lt;strong&gt;aim(s):&lt;/strong&gt; drive NATO forces out of Afghanistan and destabilize the country; overthrow the Government of Uzbekistan&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; conducts attacks in collaboration with other extremist groups, including the Taliban and al-Qa&#39;ida, against NATO and Afghan forces across the country, especially in the northern and eastern Paktika, Paktia, and Nangarhar provinces&lt;br /&gt;&lt;strong&gt;note:&amp;nbsp; &lt;/strong&gt;IJU is a splinter movement of the Islamic Movement of Uzbekistan (IMU); IJU emerged in the early 2000s after internal splits over goals; IMU is focused on Central Asia, but the IJU sought a more global focus &lt;div style=&quot;left: 60px; top: 258.16px; font-size: 20px; font-family: serif; transform: scaleX(0.97427);&quot;&gt;&amp;nbsp;&lt;/div&gt; (2019)",
+"islamic_movement_of_uzbekistan_imu": "&lt;br /&gt;&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its networks and secure territory in Afghanistan to establish a secure presence from which it can pursue its historic goal of establishing an Islamic state in the Fergana Valley, a fertile valley spread across eastern Uzbekistan, southern Kyrgyzstan, and northern Tajikistan &lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operates mostly in the north along the Afghanistan-Pakistan border, with its heaviest presence in Badakhshan Province, where IMU has operated paramilitary training camps and bases&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; the IMU is fractured and mostly supports ISIS-K although some members have continued working with the Taliban and al-Qa&#39;ida (2019)",
+"islamic_state_of_iraq_and_ash_sham_khorasan_isis_k": "&lt;br /&gt;&lt;strong&gt;aim(s):&lt;/strong&gt; establish an Islamic caliphate in Afghanistan, Pakistan, and parts of Central Asia; counter Westerners and Shia Muslims&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; strongholds in Nangarhar and Kunar provinces near the Afghanistan-Pakistan border and operating in Laghman, Jowzjan provinces with pockets of support throughout Afghanistan&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; recruits from among the local population, Central Asian extremists in Afghanistan, and other militant groups, such as Tehrik-e Taliban Pakistan, the Afghan Taliban, and the Islamic Movement of Uzbekistan; ISIS-K and Afghan Taliban forces have fought sometimes over control of territory or because of political or differences (2019)",
+"tehrik_e_taliban_pakistan_ttp": "&lt;br /&gt;&lt;strong&gt;aim(s): &lt;/strong&gt;drive foreign troops from Afghanistan; remove Pakistani forces from Pakistan&#39;s Federally Administered Tribal Areas (FATA) and, ultimately, overthrow the Pakistan Government to implement TTP&#39;s strict interpretation of sharia&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; headquartered in several eastern Afghanistan provinces near the Afghanistan-Pakistan border; operates primarily along the northeastern Afghanistan-Pakistan border, especially in Kunar and Paktika provinces, where TTP has established sanctuaries (2019)",
+}, 
+"terrorist_groups_foreign_based": 
+{
+"al_qa_ida_in_the_indian_subcontinent_aqis": "&lt;strong&gt;aim(s):&amp;nbsp;&lt;/strong&gt; unite local jihadist movements in the Indian subcontinent, pursue the overthrow of local governments, exacerbate tensions between Hindus and Muslims, establish an Islamic caliphate in the Indian subcontinent&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; heaviest presence is in Afghanistan, especially in the eastern and southern regions, where most of the Afghan-based leaders are located&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; targets primarily Afghan military and security personnel and US interests (2019)",
+"haqqani_taliban_network_hqn": "&lt;strong&gt;aim(s):&lt;/strong&gt; expel US and Coalition forces and replace the Afghan Government with an Islamic state operating according to a strict Salafi Muslim interpretation of sharia under the Afghan Taliban&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; stages attacks from Kurram and North Waziristan Agency in Pakistan&#39;s Federally Administered Tribal Areas (FATA) across from Afghanistan&#39;s southeastern border; operational throughout the country, especially in Kabul and Paktiya and Khost provinces&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; plays a leading role in planning and executing high-profile attacks against Afghan personnel, NATO&#39;s Resolute Support Mission, US and Coalition Forces, and other US and Western interests; strong ties with al-Qa&#39;ida (2019)",
+"harakat_ul_mujahidin_hum": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its networks and paramilitary training in Afghanistan and, ultimately, incorporate Kashmir into Pakistan; establish an Islamic state in Kashmir&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains paramilitary training camps in eastern Afghanistan (2019)",
+"harakat_ul_jihad_i_islami_huji": "&lt;strong&gt;im(s): &lt;/strong&gt;seeks the annexation of the state of Jammu and Kashmir and the expulsion of foreign forces from Afghanistan; implement sharia in Afghanistan&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operations throughout Afghanistan, targeting primarily Afghan Government personnel and Coalition forces; has supplied fighters to the Taliban (2019)",
+"islamic_revolutionary_guard_corps_qods_force_irgc_qf": "&lt;p&gt;&lt;strong&gt;&lt;u&gt;aim(s):&lt;/u&gt;&lt;/strong&gt;&amp;nbsp; initially supported anti-Taliban initiatives that complemented US goals in 2001, however, it gradually adopted an anti-NATO/anti-Afghan government strategy and began supplying financial assistance, training, and weapons to the Taliban&lt;br /&gt;&lt;strong&gt;&lt;u&gt;area(s) of operations:&lt;/u&gt;&lt;/strong&gt;&amp;nbsp; Taliban-dominated areas of Afghanistan&lt;/p&gt; (2019)",
+"jaish_e_mohammed_jem": "&lt;strong&gt;aim(s):&lt;/strong&gt; annex the state of Jammu and Kashmir to Pakistan and expel international forces from Afghanistan.&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; historically operated in Afghanistan&#39;s eastern provinces (2019)",
+"jaysh_al_adl": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its operational networks and capabilities for staging cross-border attacks into Iran&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operational in the greater Balochistan area, where fighters stage attacks targeting Iranian security forces&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; formerly known as Jundallah (2019)",
+"lashkar_i_jhangvi_lj": "&lt;strong&gt;aim(s): &lt;/strong&gt;enhance its networks and paramilitary training in Afghanistan; exterminate Shia Muslims, rid the Afghanistan-Pakistan region of Western influence&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; headquartered in the east; operates paramilitary training camps near the Afghanistan-Pakistan border across from the central area of Pakistan&#39;s Federally Administered Tribal Areas (FATA) region; operatives conduct operations mostly against targets in Pakistan, but also in Afghanistan; ties with al-Qa&#39;ida and the Taliban (2019)",
+"lashkar_e_tayyiba_lt": "&lt;strong&gt;aim(s): &lt;/strong&gt;annex the Indian state of Jammu and Kashmir to Pakistan and foment Islamic insurgency in India; attack Western, Indian, and Afghan interests in Afghanistan; support the Taliban&#39;s return to power; enhance its recruitment networks and paramilitary training in Afghanistan, and, ultimately, install Islamic rule throughout South Asia&lt;strong&gt;&lt;br /&gt;area(s) of operation: &lt;/strong&gt;mostly focused on Indian troops and civilian targets, particularly in the states of Jammu and Kashmir, but has also targeted Coalition forces in Afghanistan; maintains several facilities, such as paramilitary training camps, medical clinics serving locals, and schools for youths; targets Pashtun youth for recruitment in the Administered Tribal Areas (FATA) region (2019)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps and since 2014 have met to discuss collaboration on the Taliban insurgency and counterterrorism efforts; Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan&#39;s restricting flow of dammed Helmand River tributaries during drought; Pakistan has sent troops across and built fences along some remote tribal areas of its treaty-defined Durand Line border with Afghanistan which serve as bases for foreign terrorists and other illegal activities; Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "72,194 (Pakistan) (2018)",
+"idps": "2.598 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2018)",
+}, 
+"illicit_drugs": "world&#39;s largest producer of opium; poppy cultivation increased 63 percent, to 328,304 hectares in 2017; while eradication increased slightly, it still remains well below levels achieved in 2015; the 2017 crop yielded an estimated 9,000 mt of raw opium, a 88% increase over 2016; the Taliban and other antigovernment groups participate in and profit from the opiate trade, which is a key source of revenue for the Taliban inside Afghanistan; widespread corruption and instability impede counterdrug efforts; most of the heroin consumed in Europe and Eurasia is derived from Afghan opium; Afghanistan is also struggling to respond to a burgeoning domestic opiate addiction problem; a 2015 national drug use survey found that roughly 11% of the population tested positive for one or more illicit drugs; vulnerable to drug money laundering through informal financial networks; illicit cultivation of cannabis and regional source of hashish (2018)",
+}
+}

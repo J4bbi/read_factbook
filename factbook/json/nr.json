@@ -1,0 +1,407 @@
+{
+"name": "Nauru",
+"code": "NR",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "The exact origins of the Nauruans are unclear since their language does not resemble any other in the Pacific region. Germany annexed the island in 1888. A German-British consortium began mining the island&#39;s phosphate deposits early in the 20th century. Australian forces occupied Nauru in World War I; it subsequently became a League of Nations mandate. After the Second World War - and a brutal occupation by Japan - Nauru became a UN trust territory. It achieved independence in 1968 and joined the UN in 1999 as the world&#39;s smallest independent republic.",
+}, 
+"geography": 
+{
+"location": "Oceania, island in the South Pacific Ocean, south of the Marshall Islands",
+"geographic_coordinates": "0 32 S, 166 55 E",
+"map_references": "Oceania",
+"area": 
+{
+"total": "21 sq km",
+"land": "21 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "about 0.1 times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "30 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+}, 
+"climate": "tropical with a monsoonal pattern; rainy season (November to February)",
+"terrain": "sandy beach rises to fertile ring around raised coral reefs with phosphate plateau in center",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "Command Ridge 70 m",
+}, 
+"natural_resources": "phosphates, fish",
+"land_use": 
+{
+"agricultural_land": "20% (2011 est.)",
+"agricultural_land_arable_land": "0% (2011 est.)",
+"agricultural_land_permanent_crops": "20% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "0% (2011 est.)",
+"other": "80% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast",
+"natural_hazards": "periodic droughts",
+"environment_current_issues": "limited natural freshwater resources, roof storage tanks that collect rainwater and desalination plants provide water; a century of intensive phosphate mining beginning in 1906 left the central 90% of Nauru a wasteland; cadmium residue, phosphate dust, and other contaminants have caused air and water pollution with negative impacts on health; climate change has brought on rising sea levels and inland water shortages",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "world&#39;s smallest island country; situated just 53 km south of the Equator; Nauru is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Makatea in French Polynesia",
+}, 
+"people_and_society": 
+{
+"population": "9,692 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Nauruan(s)",
+"adjective": "Nauruan",
+}, 
+"ethnic_groups": "Nauruan 88.9%, part Nauruan 6.6%, I-Kiribati 2%, other 2.5% (2007 est.)",
+"languages": "Nauruan 93% (official, a distinct Pacific Island language), English 2% (widely understood, spoken, and used for most government and commercial purposes), other 5% (includes I-Kiribati 2% and Chinese 2%) (2011 est.)",
+"religions": "Protestant 60.4% (includes Nauru Congregational 35.7%, Assembly of God 13%, Nauru Independent Church 9.5%, Baptist 1.5%, and Seventh Day Adventist 0.7%), Roman Catholic 33%, other 3.7%, none 1.8%, unspecified 1.1% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "31.18% (male 1,323 /female 1,699)",
+"15_24_years": "16.37% (male 764 /female 823)",
+"25_54_years": "43.08% (male 2,112 /female 2,063)",
+"55_64_years": "6.51% (male 249 /female 382)",
+"65_years_and_over": "2.86% (male 101 /female 176) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "26.7 years (2018 est.)",
+"male": "27.4 years",
+"female": "25.8 years",
+}, 
+"population_growth_rate": "0.51% (2018 est.)",
+"birth_rate": "23.2 births/1,000 population (2018 est.)",
+"death_rate": "5.9 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-12.3 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast",
+"urbanization": 
+{
+"urban_population": "100% of total population (2019)",
+"rate_of_urbanization": "-0.06% annual rate of change (2015-20 est.)",
+}, 
+"sex_ratio": 
+{
+"at_birth": "0.84 male(s)/female",
+"0_14_years": "0.78 male(s)/female",
+"15_24_years": "0.93 male(s)/female",
+"25_54_years": "1.02 male(s)/female",
+"55_64_years": "0.65 male(s)/female",
+"65_years_and_over": "0.57 male(s)/female",
+"total_population": "0.88 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "7.7 deaths/1,000 live births (2018 est.)",
+"male": "9.8 deaths/1,000 live births",
+"female": "5.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "67.8 years (2018 est.)",
+"male": "63.6 years",
+"female": "71.2 years",
+}, 
+"total_fertility_rate": "2.76 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "96.5% of population",
+"improved_total": "96.5% of population",
+"unimproved_urban": "3.5% of population",
+"unimproved_total": "3.5% of population (2015 est.)",
+}, 
+"current_health_expenditure": "11.1% (2016)",
+"physicians_density": "1.24 physicians/1,000 population (2015)",
+"hospital_bed_density": "5 beds/1,000 population (2010)",
+"sanitation_facility_access": 
+{
+"improved_urban": "65.6% of population (2015 est.)",
+"improved_total": "65.6% of population (2015 est.)",
+"unimproved_urban": "34.4% of population (2015 est.)",
+"unimproved_total": "34.4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "61% (2016)",
+"education_expenditures": " NA",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "9 years",
+"male": "9 years",
+"female": "10 years (2008)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "26.6%",
+"male": "20.9%",
+"female": "37.5% (2013)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Nauru",
+"conventional_short_form": "Nauru",
+"local_long_form": "Republic of Nauru",
+"local_short_form": "Nauru",
+"former": "Pleasant Island",
+"etymology": "the island name may derive from the Nauruan word &quot;anaoero&quot; meaning &quot;I go to the beach&quot;",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "no official capital; government offices in the Yaren District",
+"time_difference": "UTC+12 (17 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "14 districts; Aiwo, Anabar, Anetan, Anibare, Baitsi, Boe, Buada, Denigomodu, Ewa, Ijuw, Meneng, Nibok, Uaboe, Yaren",
+"independence": "31 January 1968 (from the Australia-, NZ-, and UK-administered UN trusteeship)",
+"national_holiday": "Independence Day, 31 January (1968)",
+"constitution": 
+{
+"history": "effective 29 January 1968",
+"amendments": "proposed by Parliament; passage requires two-thirds majority vote of Parliament; amendments to constitutional articles, such as the republican form of government, protection of fundamental rights and freedoms, the structure and authorities of the executive and legislative branches, also requires two-thirds majority of votes in a referendum; amended 1968, 2009, 2014 (2018)",
+}, 
+"legal_system": "mixed legal system of common law based on the English model and customary law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"suffrage": "20 years of age; universal and compulsory",
+"executive_branch": 
+{
+"chief_of_state": "President Lionel AINGIMEA (since 27 August 2019); note - the president is both chief of state and head of government",
+"head_of_government": "President Lionel AINGIMEA (since 27 August 2019)",
+"cabinet": "Cabinet appointed by the president from among members of Parliament",
+"elections_appointments": "president indirectly elected by Parliament (eligible for a second term); election last held on 27 August 2019 (next to be held in 2022)",
+"election_results": "Lionel AINGIMEA elected president; Parliament vote - Lionel AINGIMEA (independent) 12, David ADEANG (Nauru First) 6",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the &quot;Dowdall&quot; counting system by which voters rank candidates on their ballots; members serve 3-year terms)",
+"elections": "last held on 24 August 2019 (next to be held in 2022)",
+"election_results": "percent of vote - NA; seats - independent 19; composition - men 17, women 2, percent of women 10.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court",
+"judge_selection_and_term_of_office": "judges appointed by the president to serve until age 65",
+"subordinate_courts": "District Court, Family Court",
+}, 
+"political_parties_and_leaders": "Democratic Party [Kennan ADEANG]&lt;br /&gt;Nauru First (Naoero Amo) Party&lt;br /&gt;Nauru Party (informal)",
+"international_organization_participation": "ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Marlene Inemwin MOSES (since 13 March 2006)",
+"chancery": "800 2nd Avenue, Suite 400 D, New York, NY 10017",
+"telephone": "[1] (212) 937-0074",
+"fax": "[1] (212) 937-0079",
+}, 
+"diplomatic_representation_from_the_us": "the US does not have an embassy in Nauru; the US Ambassador to Fiji is accredited to Nauru",
+"flag_description": "blue with a narrow, horizontal, gold stripe across the center and a large white 12-pointed star below the stripe on the hoist side; blue stands for the Pacific Ocean, the star indicates the country&#39;s location in relation to the Equator (the gold stripe) and the 12 points symbolize the 12 original tribes of Nauru; the star&#39;s white color represents phosphate, the basis of the island&#39;s wealth",
+"national_symbol_s": "frigatebird, calophyllum flower; national colors: blue, yellow, white",
+"national_anthem": 
+{
+"name": "&quot;Nauru Bwiema&quot; (Song of Nauru)",
+"lyrics_music": "Margaret HENDRIE/Laurence Henry HICKS",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Revenues of this tiny island - a coral atoll with a land area of 21 square kilometers - traditionally have come from exports of phosphates. Few other resources exist, with most necessities being imported, mainly from Australia, its former occupier and later major source of support. Primary reserves of phosphates were exhausted and mining ceased in 2006, but mining of a deeper layer of &quot;secondary phosphate&quot; in the interior of the island began the following year. The secondary phosphate deposits may last another 30 years. Earnings from Nauru’s export of phosphate remains an important source of income. Few comprehensive statistics on the Nauru economy exist; estimates of Nauru&#39;s GDP vary widely.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The rehabilitation of mined land and the replacement of income from phosphates are serious long-term problems. In anticipation of the exhaustion of Nauru&#39;s phosphate deposits, substantial amounts of phosphate income were invested in trust funds to help cushion the transition and provide for Nauru&#39;s economic future.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Although revenue sources for government are limited, the opening of the Australian Regional Processing Center for asylum seekers since 2012 has sparked growth in the economy. Revenue derived from fishing licenses under the &quot;vessel day scheme&quot; has also boosted government income. Housing, hospitals, and other capital plant are deteriorating. The cost to Australia of keeping the Nauruan government and economy afloat continues to climb.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$160 million",
+"2016": "$153.9 million",
+"2015": "$139.4 million",
+},
+"gdp_official_exchange_rate": "$114 million (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4%",
+"2016": "10.4%",
+"2015": "2.8%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$12,300",
+"2016": "$11,800",
+"2015": "$11,600",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "98% (2016 est.)",
+"government_consumption": "37.6% (2016 est.)",
+"investment_in_fixed_capital": "42.2% (2016 est.)",
+"exports_of_goods_and_services": "11.2% (2016 est.)",
+"imports_of_goods_and_services": "-89.1% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "6.1% (2009 est.)",
+"industry": "33% (2009 est.)",
+"services": "60.8% (2009 est.)",
+}, 
+"agriculture_products": "coconuts",
+"industries": "phosphate mining, offshore banking, coconut products",
+"industrial_production_growth_rate": " NA",
+"labor_force": " NA",
+"labor_force_by_occupation": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; most of the labor force is employed in phosphate mining, public administration, education, and transportation&lt;/p&gt;", 
+"unemployment_rate":
+{
+"2011": "23%",
+"2004": "90%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "103 million (2017 est.)",
+"expenditures": "113.4 million (2017 est.)",
+}, 
+"taxes_and_other_revenues": "90.3% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-9.2% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "62% of GDP",
+"2016": "65% of GDP",
+},
+"fiscal_year": "1 July - 30 June",
+"inflation_rate_consumer_prices":
+{
+"2017": "5.1%",
+"2016": "8.2%",
+},
+"current_account_balance":
+{
+"2017": "$5 million",
+"2016": "$2 million",
+},
+"exports":
+{
+"2013": "$125 million",
+"2012": "$110.3 million",
+},
+"exports_partners": "Nigeria 38.6%, Japan 16.6%, Australia 15.9%, South Korea 13.7%, NZ 5.7% (2017)",
+"exports_commodities": "phosphates",
+"imports":
+{
+"2016": "$64.9 million",
+"2013": "$143.1 million",
+},
+"imports_commodities": "food, fuel, manufactures, building materials, machinery",
+"imports_partners": "Australia 67.5%, Fiji 9.2%, India 8.1%, Singapore 5.4% (2017)",
+"debt_external":
+{
+"2004": "$33.3 million",
+},
+"exchange_rates": 
+{
+"currency": "Australian dollars (AUD) per US dollar -",
+"exchange_rates":
+{
+"2017": "1.311",
+"2016": "1.3452",
+"2015": "1.3452",
+"2014": "1.3291",
+"2013": "1.1094",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_production": "24 million kWh (2016 est.)",
+"electricity_consumption": "22.32 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "7,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "86% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "14% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "470 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "449 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "76,540 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,900",
+"subscriptions_per_100_inhabitants": "14 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "9,900",
+"subscriptions_per_100_inhabitants": "87 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "adequate local and international radiotelephone communication provided via Australian facilities; geography is a challenge for the islands;&amp;nbsp;there is a&amp;nbsp;need to service the tourism sector&amp;nbsp;and thus the&amp;nbsp;South Pacific Islands economy; mobile technology is booming (2018)",
+"domestic": "fixed-line 14 per 100 and mobile-cellular 87 per 100 (2018)",
+"international": "country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)",
+}, 
+"broadcast_media": "1 government-owned TV station broadcasting programs from New Zealand sent via satellite or on videotape; 1 government-owned radio station, broadcasting on AM and FM, utilizes Australian and British programs (2019)",
+"internet_country_code": ".nr",
+"internet_users": 
+{
+"total": "5,100",
+"percent_of_population": "53.5% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular military forces (2019)",
+"military_note": "Nauru maintains no defense forces; under an informal agreement, defense is the responsibility of Australia",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "5 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "38,858 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "7,793,474 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "C2 (2016)",
+"airports": "1 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+}, 
+"roadways": 
+{
+"total": "30 km (2002)",
+"paved": "24 km (2002)",
+"unpaved": "6 km (2002)",
+}, 
+"ports_and_terminals": "Nauru",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

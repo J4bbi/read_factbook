@@ -1,0 +1,580 @@
+{
+"name": "Turkey",
+"code": "TU",
+"publish_date": "December 31, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Modern Turkey was founded in 1923 from the remnants of the defeated Ottoman Empire by national hero Mustafa KEMAL, who was later honored with the title Ataturk or &quot;Father of the Turks.&quot; Under his leadership, the country adopted radical social, legal, and political reforms. After a period of one-party rule, an experiment with multi-party politics led to the 1950 election victory of the opposition Democrat Party and the peaceful transfer of power. Since then, Turkish political parties have multiplied, but democracy has been fractured by periods of instability and military coups (1960, 1971, 1980), which in each case eventually resulted in a return of formal political power to civilians. In 1997, the military again helped engineer the ouster - popularly dubbed a &quot;post-modern coup&quot; - of the then Islamic-oriented government. An unsuccessful coup attempt was made in July 2016 by a faction of the Turkish Armed Forces.&lt;/p&gt; &lt;p&gt;Turkey intervened militarily on Cyprus in 1974 to prevent a Greek takeover of the island and has since acted as patron state to the &quot;Turkish Republic of Northern Cyprus,&quot; which only Turkey recognizes. A separatist insurgency begun in 1984 by the Kurdistan Workers&#39; Party (PKK), a US-designated terrorist organization, has long dominated the attention of Turkish security forces and claimed more than 40,000 lives. In 2013, the Turkish Government and the PKK conducted negotiations aimed at ending the violence, however intense fighting resumed in 2015. Turkey joined the UN in 1945 and in 1952 it became a member of NATO. In 1963, Turkey became an associate member of the European Community; it began accession talks with the EU in 2005. Over the past decade, economic reforms, coupled with some political reforms, have contributed to a growing economy, although economic growth slowed in recent years.&lt;/p&gt; &lt;p&gt;From 2015 and continuing through 2016, Turkey witnessed an uptick in terrorist violence, including major attacks in Ankara, Istanbul, and throughout the predominantly Kurdish southeastern region of Turkey. On 15 July 2016, elements of the Turkish Armed forces attempted a coup that ultimately failed following widespread popular resistance. More than 240 people were killed and over 2,000 injured when Turkish citizens took to the streets en masse to confront the coup forces. The government accused followers of the Fethullah Gulen transnational religious and social movement (&quot;Hizmet&quot;) for allegedly instigating the failed coup and designates the movement&amp;rsquo;s followers as terrorists. Since the attempted coup, Turkish Government authorities arrested, suspended, or dismissed more than 130,000 security personnel, journalists, judges, academics, and civil servants due to their alleged connection to Gulen&#39;s movement. Following the failed coup, the Turkish Government instituted a State of Emergency from July 2016 to July 2018. The Turkish Government conducted a referendum on 16 April 2017 in which voters approved constitutional amendments changing Turkey from a parliamentary to a presidential system. The amendments went into effect fully following the presidential and parliamentary elections in June 2018.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southeastern Europe and Southwestern Asia (that portion of Turkey west of the Bosporus is geographically part of Europe), bordering the Black Sea, between Bulgaria and Georgia, and bordering the Aegean Sea and the Mediterranean Sea, between Greece and Syria",
+"geographic_coordinates": "39 00 N, 35 00 E",
+"map_references": "Middle East",
+"area": 
+{
+"total": "783,562 sq km",
+"land": "769,632 sq km",
+"water": "13,930 sq km",
+}, 
+"area_comparative": "slightly larger than Texas",
+"land_boundaries": 
+{
+"total": "2,816 km",
+"border_countries": "Armenia 311 km, Azerbaijan 17 km, Bulgaria 223 km, Georgia 273 km, Greece 192 km, Iran 534 km, Iraq 367 km, Syria 899 km",
+}, 
+"coastline": "7,200 km",
+"maritime_claims": 
+{
+"territorial_sea": "6 nm in the Aegean Sea",
+"exclusive_economic_zone": " in Black Sea only: to the maritime boundary agreed upon with the former USSR",
+}, 
+"climate": "temperate; hot, dry summers with mild, wet winters; harsher in interior",
+"terrain": "high central plateau (Anatolia); narrow coastal plain; several mountain ranges",
+"elevation": 
+{
+"mean_elevation": "1,132 m",
+"lowest_point": "Mediterranean Sea 0 m",
+"highest_point": "Mount Ararat 5,137 m",
+}, 
+"natural_resources": "coal, iron ore, copper, chromium, antimony, mercury, gold, barite, borate, celestite (strontium), emery, feldspar, limestone, magnesite, marble, perlite, pumice, pyrites (sulfur), clay, arable land, hydropower",
+"land_use": 
+{
+"agricultural_land": "49.7% (2011 est.)",
+"agricultural_land_arable_land": "26.7% (2011 est.)",
+"agricultural_land_permanent_crops": "4% (2011 est.)",
+"agricultural_land_permanent_pasture": "19% (2011 est.)",
+"forest": "14.9% (2011 est.)",
+"other": "35.4% (2011 est.)",
+}, 
+"irrigated_land": "52,150 sq km (2012)",
+"population_distribution": "the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast",
+"natural_hazards": "&lt;p&gt;severe earthquakes, especially in northern Turkey, along an arc extending from the Sea of Marmara to Lake Van; landslides; flooding&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; limited volcanic activity; its three historically active volcanoes; Ararat, Nemrut Dagi, and Tendurek Dagi have not erupted since the 19th century or earlier&lt;/p&gt;",
+"environment_current_issues": "water pollution from dumping of chemicals and detergents; air pollution, particularly in urban areas; deforestation; land degradation; concern for oil spills from increasing Bosporus ship traffic; conservation of biodiversity",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Antarctic Treaty, Biodiversity, Climate Change, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "Environmental Modification",
+}, 
+"geography_note": "strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Dardanelles) that link the Black and Aegean Seas; the 3% of Turkish territory north of the Straits lies in Europe and goes by the names of European Turkey, Eastern Thrace, or Turkish Thrace; the 97% of the country in Asia is referred to as Anatolia; Istanbul, which straddles the Bosporus, is the only metropolis in the world located on two continents; Mount Ararat, the legendary landing place of Noah&#39;s ark, is in the far eastern portion of the country",
+}, 
+"people_and_society": 
+{
+"population": "81,257,239 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Turk(s)",
+"adjective": "Turkish",
+}, 
+"ethnic_groups": "Turkish 70-75%, Kurdish 19%, other minorities 7-12% (2016 est.)",
+"languages": "Turkish (official), Kurdish, other minority languages",
+"religions": "Muslim 99.8% (mostly Sunni), other 0.2% (mostly Christians and Jews)",
+"age_structure": 
+{
+"0_14_years": "24.26% (male 10,085,558 /female 9,627,967)",
+"15_24_years": "15.88% (male 6,589,039 /female 6,311,113)",
+"25_54_years": "43.26% (male 17,798,864 /female 17,349,228)",
+"55_64_years": "8.82% (male 3,557,329 /female 3,606,120)",
+"65_years_and_over": "7.79% (male 2,825,738 /female 3,506,283) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "50.1 (2015 est.)",
+"youth_dependency_ratio": "38.4 (2015 est.)",
+"elderly_dependency_ratio": "11.7 (2015 est.)",
+"potential_support_ratio": "8.5 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "31.4 years (2018 est.)",
+"male": "30.9 years",
+"female": "31.9 years",
+}, 
+"population_growth_rate": "0.49% (2018 est.)",
+"birth_rate": "15.4 births/1,000 population (2018 est.)",
+"death_rate": "6 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-4.5 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast",
+"urbanization": 
+{
+"urban_population": "75.6% of total population (2019)",
+"rate_of_urbanization": "2.04% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "14.968 million Istanbul, 5.018 million ANKARA (capital), 2.964 million Izmir, 1.951 million Bursa, 1.75 million Adana, 1.668 million Gaziantep (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.03 male(s)/female",
+"55_64_years": "0.99 male(s)/female",
+"65_years_and_over": "0.81 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "22.3 years (2010 est.)",
+"maternal_mortality_rate": "17 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "16.9 deaths/1,000 live births (2018 est.)",
+"male": "18.1 deaths/1,000 live births",
+"female": "15.7 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "75.3 years (2018 est.)",
+"male": "72.9 years",
+"female": "77.7 years",
+}, 
+"total_fertility_rate": "2 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "73.5% (2013)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "4.3% (2016)",
+"physicians_density": "1.76 physicians/1,000 population (2014)",
+"hospital_bed_density": "2.7 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "98.3% of population (2015 est.)",
+"improved_rural": "85.5% of population (2015 est.)",
+"improved_total": "94.9% of population (2015 est.)",
+"unimproved_urban": "1.7% of population (2015 est.)",
+"unimproved_rural": "14.5% of population (2015 est.)",
+"unimproved_total": "5.1% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "32.1% (2016)",
+"children_under_the_age_of_5_years_underweight": "2.3% (2013)",
+"education_expenditures": "4.3% of GDP (2015)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "96.2%",
+"male": "98.8%",
+"female": "93.6% (2016)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "18 years",
+"male": "18 years",
+"female": "17 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "20.5%",
+"male": "17.7%",
+"female": "25.6% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Turkey",
+"conventional_short_form": "Turkey",
+"local_long_form": "Turkiye Cumhuriyeti",
+"local_short_form": "Turkiye",
+"etymology": "the name means &quot;Land of the Turks&quot;",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Ankara",
+"geographic_coordinates": "39 56 N, 32 52 E",
+"time_difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "81 provinces (iller, singular - ili); Adana, Adiyaman, Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta, Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mersin, Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond), Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak",
+"independence": "29 October 1923 (republic proclaimed, succeeding the Ottoman Empire)",
+"national_holiday": "Republic Day, 29 October (1923)",
+"constitution": 
+{
+"history": "several previous; latest ratified 9 November 1982",
+"amendments": "proposed by written consent of at least one third of Grand National Assembly of Turkey (TBMM) members; adoption of draft amendments requires two debates in plenary TBMM session and three-fifths majority vote of all GNA members; the president of the republic can request TBMM reconsideration of the amendment and, if readopted by two-thirds majority TBMM vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote; amended several times, last in 2017 (2018)",
+}, 
+"legal_system": "civil law system based on various European legal systems, notably the Swiss civil code",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Turkey",
+"dual_citizenship_recognized": "yes, but requires prior permission from the government",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2019); Vice President Fuat OKTAY (since 9 July 2018); note - the president is both chief of state and head of government",
+"head_of_government": "President Recep Tayyip ERDOGAN (head of government since 9 July 2019; chief of state since 28 August 2014); note - a 2017 constitutional referendum eliminated the post of prime minister after the 2018 general election",
+"cabinet": "Council of Ministers appointed by the president",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2018 (next scheduled for June 2023)",
+"election_results": "Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (600 seats - increased from 550 seats beginning with June 2018 election; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms - increased from 4 to 5 years beginning with June 2018 election)",
+"elections": "last held on 24 June 2018 (next to be held in June 2023)",
+"election_results": "percent of vote by party - People&#39;s Alliance 53.7% (AKP 42.6%, MHP 11.1%), Nation Alliance 33.9% (CHP 22.6%, IYI 10%, SP 1.3%), HDP 11.7%, other 0.7%; seats by party - People&#39;s Alliance 344 (AKP 295, MHP 49), National Alliance 189 (CHP 146, IYI 43), HDP 67; composition - men 496, women 104, percent of women 17.3%; note - only parties surpassing a 10% threshold can win parliamentary seats",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)",
+"judge_selection_and_term_of_office": "Constitutional Court members - 3 appointed by the Grand National Assembly and 12 by the president of the republic; court president and 2 deputy court presidents appointed from among its members for 4-year terms; judges serve 12-year, nonrenewable terms with mandatory retirement at age 65; Court of Cassation judges appointed by the Board of Judges and Prosecutors, a 13-member body of judicial officials; Court of Cassation judges serve until retirement at age 65; Council of State members appointed by the Board and by the president of the republic; members serve renewable, 4-year terms",
+"subordinate_courts": "regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions",
+}, 
+"political_parties_and_leaders": "Democrat Party or DP [Gultekin UYSAL]&lt;br /&gt;Democratic Regions Party or DBP [Sebahat TUNCEL, Mehmet ARSLAN]&lt;br /&gt;Felicity Party or SP [Temel KARAMOLLAOGLU]&lt;br /&gt;Free Cause Party or HUDAPAR [Ishak SAGLAM]&lt;br /&gt;Good Party or TYIi [Meral AKSENER]&lt;br /&gt;Grand Unity Party or BBP [Mustafa DESTICI]&lt;br /&gt;Justice and Development Party or AKP [Recep Tayyip ERDOGAN]&lt;br /&gt;Nation Alliance (CHP, IYI, SP) (electoral alliance)&lt;br /&gt;Nationalist Movement Party or MHP [Devlet BAHCELI]&lt;br /&gt;People&#39;s Alliance (AKP, MHP) (electoral alliance)&lt;br /&gt;Patriotic Party or VP [Dogu PERINCEK]&lt;br /&gt;People&#39;s Democratic Party or HDP [Pervin BULDAN, Sezai TEMELLI]&lt;br /&gt;Republican People&#39;s Party or CHP [Kemal KILICDAROGLU]",
+"international_organization_participation": "ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CERN (observer), CICA, CPLP (associate observer), D-8, EAPC, EBRD, ECO, EU (candidate country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SCO (dialogue member), SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Serdar KILIC (since 21 May 2014)",
+"chancery": "2525 Massachusetts Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 612-6700",
+"fax": "[1] (202) 612-6744",
+"consulate_s_general": "Boston, Chicago, Houston, Los Angeles, Miami, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador&amp;nbsp;David M. SATTERFIELD (since 28 August 2019)",
+"telephone": "[90] (312) 455-5555",
+"embassy": "110 Ataturk Boulevard, Kavaklidere, 06100 Ankara",
+"mailing_address": "PSC 93, Box 5000, APO AE 09823",
+"fax": "[90] (312) 467-0019",
+"consulate_s_general": "Istanbul",
+"consulate_s": "Adana",
+}, 
+"flag_description": "red with a vertical white crescent moon (the closed portion is toward the hoist side) and white five-pointed star centered just outside the crescent opening; the flag colors and designs closely resemble those on the banner of the Ottoman Empire, which preceded modern-day Turkey; the crescent moon and star serve as insignia for Turkic peoples; according to one interpretation, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors",
+"national_symbol_s": "vertical crescent moon with adjacent five-pointed star; national colors: red, white",
+"national_anthem": 
+{
+"name": "&quot;Istiklal Marsi&quot; (Independence March)",
+"lyrics_music": "Mehmet Akif ERSOY/Zeki UNGOR",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Turkey&#39;s largely free-market economy is driven by its industry and, increasingly, service sectors, although its traditional agriculture sector still accounts for about 25% of employment. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Turkey&#39;s export mix. However, the recent period of political stability and economic dynamism has given way to domestic uncertainty and security concerns, which are generating financial market volatility and weighing on Turkey’s economic outlook.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Current government policies emphasize populist spending measures and credit breaks, while implementation of structural economic reforms has slowed. The government is playing a more active role in some strategic sectors and has used economic institutions and regulators to target political opponents, undermining private sector confidence in the judicial system. Between July 2016 and March 2017, three credit ratings agencies downgraded Turkey’s sovereign credit ratings, citing concerns about the rule of law and the pace of economic reforms.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Turkey remains highly dependent on imported oil and gas but is pursuing energy relationships with a broader set of international partners and taking steps to increase use of domestic energy sources including renewables, nuclear, and coal. The joint Turkish-Azerbaijani Trans-Anatolian Natural Gas Pipeline is moving forward to increase transport of Caspian gas to Turkey and Europe, and when completed will help diversify Turkey&#39;s sources of imported gas.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;After Turkey experienced a severe financial crisis in 2001, Ankara adopted financial and fiscal reforms as part of an IMF program. The reforms strengthened the country&#39;s economic fundamentals and ushered in an era of strong growth, averaging more than 6% annually until 2008. An aggressive privatization program also reduced state involvement in basic industry, banking, transport, power generation, and communication. Global economic conditions and tighter fiscal policy caused GDP to contract in 2009, but Turkey&#39;s well-regulated financial markets and banking system helped the country weather the global financial crisis, and GDP growth rebounded to around 9% in 2010 and 2011, as exports and investment recovered following the crisis.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The growth of Turkish GDP since 2016 has revealed the persistent underlying imbalances in the Turkish economy. In particular, Turkey’s large current account deficit means it must rely on external investment inflows to finance growth, leaving the economy vulnerable to destabilizing shifts in investor confidence. Other troublesome trends include rising unemployment and inflation, which increased in 2017, given the Turkish lira’s continuing depreciation against the dollar. Although government debt remains low at about 30% of GDP, bank and corporate borrowing has almost tripled as a percent of GDP during the past decade, outpacing its emerging-market peers and prompting investor concerns about its long-term sustainability.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$2.186 trillion",
+"2016": "$2.034 trillion",
+"2015": "$1.972 trillion",
+},
+"gdp_official_exchange_rate": "$851.5 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "7.4%",
+"2016": "3.2%",
+"2015": "6.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$27,000",
+"2016": "$25,500",
+"2015": "$25,000",
+},
+"gross_national_saving":
+{
+"2017": "25.5% of GDP",
+"2016": "24.5% of GDP",
+"2015": "24.8% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "59.1% (2017 est.)",
+"government_consumption": "14.5% (2017 est.)",
+"investment_in_fixed_capital": "29.8% (2017 est.)",
+"investment_in_inventories": "1.1% (2017 est.)",
+"exports_of_goods_and_services": "24.9% (2017 est.)",
+"imports_of_goods_and_services": "-29.4% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "6.8% (2017 est.)",
+"industry": "32.3% (2017 est.)",
+"services": "60.7% (2017 est.)",
+}, 
+"agriculture_products": "tobacco, cotton, grain, olives, sugar beets, hazelnuts, pulses, citrus; livestock",
+"industries": "textiles, food processing, automobiles, electronics, mining (coal, chromate, copper, boron), steel, petroleum, construction, lumber, paper",
+"industrial_production_growth_rate": "9.1% (2017 est.)",
+"labor_force": "31.3 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "18.4%",
+"industry": "26.6%",
+"services": "54.9% (2016)",
+}, 
+"unemployment_rate":
+{
+"2017": "10.9%",
+"2016": "10.9%",
+},
+"population_below_poverty_line": "21.9% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.1%",
+"highest_10": "30.3% (2008)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2010": "40.2",
+"2003": "43.6",
+},
+"budget": 
+{
+"revenues": "172.8 billion (2017 est.)",
+"expenditures": "185.8 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "20.3% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1.5% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "28.3% of GDP",
+"2016": "28.3% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "11.1%",
+"2016": "7.8%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2011": "5.25%",
+"22 December 2009": "15%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "15.77%",
+"31 December 2016": "14.74%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$119.4 billion",
+"31 December 2016": "$108.7 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$119.4 billion",
+"31 December 2016": "$108.7 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$610.4 billion",
+"31 December 2016": "$549.9 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$188.9 billion",
+"31 December 2014": "$219.8 billion",
+"31 December 2013": "$195.7 billion",
+},
+"current_account_balance":
+{
+"2017": "-$47.44 billion",
+"2016": "-$33.14 billion",
+},
+"exports":
+{
+"2017": "$166.2 billion",
+"2016": "$150.2 billion",
+},
+"exports_partners": "Germany 9.6%, UK 6.1%, UAE 5.9%, Iraq 5.8%, US 5.5%, Italy 5.4%, France 4.2%, Spain 4% (2017)",
+"exports_commodities": "apparel, foodstuffs, textiles, metal manufactures, transport equipment",
+"imports":
+{
+"2017": "$225.1 billion",
+"2016": "$191.1 billion",
+},
+"imports_commodities": "machinery, chemicals, semi-finished goods, fuels, transport equipment",
+"imports_partners": "China 10%, Germany 9.1%, Russia 8.4%, US 5.1%, Italy 4.8% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$107.7 billion",
+"31 December 2016": "$106.1 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$452.4 billion",
+"31 December 2016": "$404.9 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$180.3 billion",
+"31 December 2016": "$133.2 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$47.44 billion",
+"31 December 2016": "$38.31 billion",
+},
+"exchange_rates": 
+{
+"currency": "Turkish liras (TRY) per US dollar -",
+"exchange_rates":
+{
+"2017": "3.628",
+"2016": "3.0201",
+"2015": "3.0201",
+"2014": "2.72",
+"2013": "2.1885",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "261.9 billion kWh (2016 est.)",
+"electricity_consumption": "231.1 billion kWh (2016 est.)",
+"electricity_exports": "1.442 billion kWh (2016 est.)",
+"electricity_imports": "6.33 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "78.5 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "53% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "33% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "14% of total installed capacity (2017 est.)",
+"crude_oil_production": "55,000 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2017 est.)",
+"crude_oil_imports": "521,500 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "341.6 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "657,900 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "989,900 bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "141,600 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "560,000 bbl/day (2017 est.)",
+"natural_gas_production": "368.1 million cu m (2017 est.)",
+"natural_gas_consumption": "53.6 billion cu m (2017 est.)",
+"natural_gas_exports": "622.9 million cu m (2017 est.)",
+"natural_gas_imports": "55.13 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "5.097 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "379.5 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "11,308,444",
+"subscriptions_per_100_inhabitants": "14 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "77,800,170",
+"subscriptions_per_100_inhabitants": "96 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "comprehensive telecommunications network undergoing rapid modernization and expansion, especially in mobile-cellular services; rise in subscribers and increase in bundled packages; DSL has largest share of fixed broadband technologies, but fibre-optic is growing with significant investment; 4G LTE networks well incorporated in Turkey, 87% coverage of the population; 5G trials (2018)",
+"domestic": "additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay, is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; fixed-line 14 per 100&amp;nbsp;and mobile-cellular teledensity is&amp;nbsp;96 telephones per 100 persons (2018)",
+"international": "country code - 90; international service is provided by the SEA-ME-WE-3 submarine cable and by submarine fiber-optic cables in the Mediterranean and Black Seas that link Turkey with Italy, Greece, Israel, Bulgaria, Romania, and Russia; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems",
+}, 
+"broadcast_media": "&lt;p&gt;Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately owned national television stations and 567 private regional and local television stations; multi-channel cable TV subscriptions available; 1,007 private radio broadcast stations&lt;/p&gt; (2019)",
+"internet_country_code": ".tr",
+"internet_users": 
+{
+"total": "46,838,412",
+"percent_of_population": "58.3% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "11,924,905",
+"subscriptions_per_100_inhabitants": "15 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "1.89% of GDP",
+"2018": "1.85% of GDP",
+"2017": "1.52% of GDP",
+"2016": "1.46% of GDP",
+"2015": "1.39% of GDP",
+},
+"military_and_security_forces": "Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish Naval Forces (Turk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Forces (Turk Hava Kuvvetleri); Ministry of Interior: Gendarmerie of the Turkish Republic, Turkish Coast Guard Command (2019)",
+"military_service_age_and_obligation": "&lt;p&gt;President Erdoğan on 25 June 2019 signed a new law cutting the men&amp;rsquo;s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for private and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates will remain 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 will be required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras&lt;/p&gt;",
+"military_note": "The ruling Justice and Development Party (AKP) has actively pursued the goal of asserting civilian control over the military since first taking power in 2002; the Turkish Armed Forces (TSK) role in internal security has been significantly reduced; the TSK leadership continues to be an influential institution within Turkey, but plays a much smaller role in politics; the Turkish military remains focused on the threats emanating from the Syrian civil war, Russia&#39;s actions in Ukraine, and the PKK insurgency; primary domestic threats are listed as fundamentalism (with the definition in some dispute with the civilian government), separatism (Kurdish discontent), and the extreme left wing; Ankara strongly opposed establishment of an autonomous Kurdish region in Iraq; an overhaul of the Turkish Land Forces Command (TLFC) taking place under the &quot;Force 2014&quot; program is to produce 20-30% smaller, more highly trained forces characterized by greater mobility and firepower and capable of joint and combined operations; the TLFC has taken on increasing international peacekeeping responsibilities including in Afghanistan; the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey&#39;s coastal waters; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications; the Turkish Air Force adopted an &quot;Aerospace and Missile Defense Concept&quot; in 2002 and has initiated project work on an integrated missile defense system; in a controversial move, it recently (July 2019) purchased the Russian S-400 air defense system for an estimated $2.5 billion.&amp;nbsp; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system; Turkey is a NATO ally and hosts NATO&#39;s Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "15 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "531 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "96,604,665 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "2,882,162,000 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "TC (2016)",
+"airports": "98 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "91 (2013)",
+"over_3_047_m": "16 (2013)",
+"2_438_to_3_047_m": "38 (2013)",
+"1_524_to_2_437_m": "17 (2013)",
+"914_to_1_523_m": "16 (2013)",
+"under_914_m": "4 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "7 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "4 (2013)",
+"under_914_m": "2 (2013)",
+}, 
+"heliports": "20 (2013)",
+"pipelines": "14,666 km gas, 3,293 km oil (2017)",
+"railways": 
+{
+"total": "12,710 km (2018)",
+"standard_gauge": "11,497 km 1.435-m gauge (1.435 km high speed train) (2018)",
+}, 
+"roadways": 
+{
+"total": "67,333 km (2018)",
+"paved": "24,082 km (includes 2,159 km of expressways) (2018)",
+"unpaved": "43,251 km (2018)",
+}, 
+"waterways": "1,200 km (2010)",
+"merchant_marine": 
+{
+"total": "1,277",
+"by_type": "bulk carrier 61, container ship 70, general cargo 305, oil tanker 139, other 702 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca",
+"container_port_s_teus": "Ambarli (3,131,621), Mersin (Icel) (1,592,000) (2017)",
+"lng_terminal_s_import": "Izmir Aliaga, Marmara Ereglisi",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_home_based": 
+{
+"islamic_state_of_iraq_and_ash_sham_isis_networks_in_turkey": "&lt;strong&gt;aim(s):&lt;/strong&gt; replace the Turkish Government with an Islamic state and implement ISIS&#39;s strict interpretation of sharia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; moves fighters and supplies across the Turkey-Syria border; has periodically conducted attacks against civilian and government security targets (2018)",
+"revolutionary_people_s_liberation_party_front_dhkp_c": "&lt;strong&gt;aim(s):&lt;/strong&gt; install a Marxist-Leninist government in Turkey&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; membership centered in Turkey, leadership primarily spread throughout Europe; in recent years has revived its attacks against Turkish Government elements, primarily in Istanbul; outlawed in Turkey (2018)",
+}, 
+"terrorist_groups_foreign_based": 
+{
+"al_nusrah_front": "&lt;strong&gt;aim(s):&lt;/strong&gt; overthrow Syrian President Bashar al-ASAD&#39;s regime, absorb like-minded Syrian rebel groups, and ultimately, establish a regional Islamic caliphate&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; some facilitation networks (2018)",
+"al_qa_ida_aq": "&lt;strong&gt;aim(s):&lt;/strong&gt; radicalize the Turkish populace and eventually overthrow the Turkish Government as part of a long-term plan to establish a pan-Islamic caliphate under a strict Salafi Muslim interpretation of sharia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains facilitation networks (2018)",
+"kurdistan_workers_party_pkk": "&lt;strong&gt;aim(s):&lt;/strong&gt; advance Kurdish autonomy, political, and cultural rights in Turkey, Iran, Iraq, and Syria&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operational predominantly in the southeast; the group&#39;s primary targets include government, military, and security personnel and facilities; majority of members inside Turkey are Turkish Kurds, along with Kurds from Iran, Iraq, and Syria; the group is outlawed in Turkey (2018)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "3,691,333 (Syria), 170,000 (Afghanistan), 142,000 (Iraq), 39,000 (Iran), 5,700 (Somalia) (2019)",
+"idps": "1.097 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2018)",
+"stateless_persons": "117 (2018)",
+}, 
+"illicit_drugs": "key transit route for Southwest Asian heroin to Western Europe and, to a lesser extent, the US - via air, land, and sea routes; major Turkish and other international trafficking organizations operate out of Istanbul; laboratories to convert imported morphine base into heroin exist in remote regions of Turkey and near Istanbul; government maintains strict controls over areas of legal opium poppy cultivation and over output of poppy straw concentrate; lax enforcement of money-laundering controls",
+}
+}

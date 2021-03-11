@@ -1,0 +1,572 @@
+{
+"name": "Poland",
+"code": "PL",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "Poland&#39;s history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war. Labor turmoil in 1980 led to the formation of the independent trade union &quot;Solidarity&quot; that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A &quot;shock therapy&quot; program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004. With its transformation to a democratic, market-oriented country largely completed and with large investments in defense, energy, and other infrastructure, Poland is an increasingly active member of Euro-Atlantic organizations.",
+}, 
+"geography": 
+{
+"location": "Central Europe, east of Germany",
+"geographic_coordinates": "52 00 N, 20 00 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "312,685 sq km",
+"land": "304,255 sq km",
+"water": "8,430 sq km",
+}, 
+"area_comparative": "about twice the size of Georgia; slightly smaller than New Mexico",
+"land_boundaries": 
+{
+"total": "3,071 km",
+"border_countries": "Belarus 418 km, Czech Republic 796 km, Germany 467 km, Lithuania 104 km, Russia (Kaliningrad Oblast) 210 km, Slovakia 541 km, Ukraine 535 km",
+}, 
+"coastline": "440 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": " defined by international treaties",
+}, 
+"climate": "temperate with cold, cloudy, moderately severe winters with frequent precipitation; mild summers with frequent showers and thundershowers",
+"terrain": "mostly flat plain; mountains along southern border",
+"elevation": 
+{
+"mean_elevation": "173 m",
+"lowest_point": "near Raczki Elblaskie -2 m",
+"highest_point": "Rysy 2,499 m",
+}, 
+"natural_resources": "coal, sulfur, copper, natural gas, silver, lead, salt, amber, arable land",
+"land_use": 
+{
+"agricultural_land": "48.2% (2011 est.)",
+"agricultural_land_arable_land": "36.2% (2011 est.)",
+"agricultural_land_permanent_crops": "1.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "10.7% (2011 est.)",
+"forest": "30.6% (2011 est.)",
+"other": "21.2% (2011 est.)",
+}, 
+"irrigated_land": "970 sq km (2012)",
+"population_distribution": "population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk",
+"natural_hazards": "flooding",
+"environment_current_issues": "decreased emphasis on heavy industry and increased environmental concern by post-communist governments has improved environment; air pollution remains serious because of emissions from burning low-quality coals in homes and from coal-fired power plants; the resulting acid rain causes forest damage; water pollution from industrial and municipal sources is a problem, as is disposal of hazardous wastes",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94",
+}, 
+"geography_note": "historically, an area of conflict because of flat terrain and the lack of natural barriers on the North European Plain",
+}, 
+"people_and_society": 
+{
+"population": "38,420,687 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Pole(s)",
+"adjective": "Polish",
+}, 
+"ethnic_groups": "Polish 96.9%, Silesian 1.1%, German 0.2%, Ukrainian 0.1%, other and unspecified 1.7% (2011 est.)",
+"languages": "Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.3% (2011 est.)",
+"religions": "Catholic 85.9% (includes Roman Catholic 85.6% and Greek Catholic, Armenian Catholic, and Byzantine-Slavic Catholic .3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentacostal), other 0.4% (includes Jehovah&#39;s Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Mormon), unspecified 12.1% (2017 est.)",
+"age_structure": 
+{
+"0_14_years": "14.8% (male 2,924,077 /female 2,762,634)",
+"15_24_years": "10.34% (male 2,040,043 /female 1,932,009)",
+"25_54_years": "43.44% (male 8,431,045 /female 8,260,124)",
+"55_64_years": "13.95% (male 2,538,566 /female 2,819,544)",
+"65_years_and_over": "17.47% (male 2,663,364 /female 4,049,281) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "43.9 (2015 est.)",
+"youth_dependency_ratio": "21.4 (2015 est.)",
+"elderly_dependency_ratio": "22.5 (2015 est.)",
+"potential_support_ratio": "4.5 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "41.1 years (2018 est.)",
+"male": "39.4 years",
+"female": "42.8 years",
+}, 
+"population_growth_rate": "-0.16% (2018 est.)",
+"birth_rate": "9.3 births/1,000 population (2018 est.)",
+"death_rate": "10.5 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-0.4 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk",
+"urbanization": 
+{
+"urban_population": "60% of total population (2019)",
+"rate_of_urbanization": "-0.25% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.776 million WARSAW (capital), 768,000 Krakow (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.06 male(s)/female",
+"15_24_years": "1.06 male(s)/female",
+"25_54_years": "1.02 male(s)/female",
+"55_64_years": "0.9 male(s)/female",
+"65_years_and_over": "0.66 male(s)/female",
+"total_population": "0.94 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "27.4 years (2014 est.)",
+"maternal_mortality_rate": "2 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "4.4 deaths/1,000 live births (2018 est.)",
+"male": "4.7 deaths/1,000 live births",
+"female": "3.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "77.9 years (2018 est.)",
+"male": "74.1 years",
+"female": "82 years",
+}, 
+"total_fertility_rate": "1.36 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "62.3% (2014)",
+"drinking_water_source": 
+{
+"improved_urban": "99.3% of population",
+"improved_rural": "96.9% of population",
+"improved_total": "98.3% of population",
+"unimproved_urban": "0.7% of population",
+"unimproved_rural": "3.1% of population",
+"unimproved_total": "1.7% of population (2015 est.)",
+}, 
+"current_health_expenditure": "6.5% (2016)",
+"physicians_density": "2.4 physicians/1,000 population (2016)",
+"hospital_bed_density": "6.5 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "97.5% of population (2015 est.)",
+"improved_rural": "96.7% of population (2015 est.)",
+"improved_total": "97.2% of population (2015 est.)",
+"unimproved_urban": "2.5% of population (2015 est.)",
+"unimproved_rural": "3.3% of population (2015 est.)",
+"unimproved_total": "2.8% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "intermediate (2016)",
+"vectorborne_diseases": "tickborne encephalitis (2016)",
+}, 
+"obesity_adult_prevalence_rate": "23.1% (2016)",
+"education_expenditures": "4.6% of GDP (2016)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.8%",
+"male": "99.9%",
+"female": "99.7% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "16 years",
+"male": "16 years",
+"female": "17 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "14.8%",
+"male": "14.6%",
+"female": "15.1% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Poland",
+"conventional_short_form": "Poland",
+"local_long_form": "Rzeczpospolita Polska",
+"local_short_form": "Polska",
+"former": "Polish People&#39;s Republic",
+"etymology": "name derives from the Polanians, a west Slavic tribe that united several surrounding Slavic groups (9th-10th centuries A.D.) and who passed on their name to the country; the name of the tribe likely comes from the Slavic &quot;pole&quot; (field or plain), indicating the flat nature of their country",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Warsaw",
+"geographic_coordinates": "52 15 N, 21 00 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "16 voivodships [provinces] (wojewodztwa, singular - wojewodztwo); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie (Lodz), Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie (Opole), Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie (Holy Cross), Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania)",
+"independence": "11 November 1918 (republic proclaimed); notable earlier dates: 966 (adoption of Christianity, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created)",
+"national_holiday": "Constitution Day, 3 May (1791)",
+"constitution": 
+{
+"history": "several previous; latest adopted 2 April 1997, approved by referendum 25 May 1997, effective 17 October 1997",
+"amendments": "proposed by at least one fifth of Sejm deputies, by the Senate, or by the president of the republic; passage requires at least two-thirds majority vote in the Sejm and absolute majority vote in the Senate; amendments to articles relating to sovereignty, personal freedoms, and constitutional amendment procedures also require passage by majority vote in a referendum; amended 2006, 2009 (2019)",
+}, 
+"legal_system": "civil law system; judicial review of legislative, administrative, and other governmental acts; constitutional law rulings of the Constitutional Tribunal are final",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "both parents must be citizens of Poland",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Andrzej DUDA (since 6 August 2015)",
+"head_of_government": "Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI and Jaroslaw GOWIN (since 16 November 2015), Jacek SASIN (since 4 June 2019)",
+"cabinet": "Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 May 2015 with a second round on 24 May 2015 (next to be held in May 2020); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm",
+"election_results": "Andrzej DUDA elected president in runoff; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral legislature consists of:&lt;br /&gt;Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)&lt;br /&gt; Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)",
+"elections": "&lt;br /&gt;Senate - last held on 13 October 2019 (next to be held in October 2023)&lt;br /&gt; Sejm - last held on 13 October 2019 (next to be held in October 2023)",
+"election_results": "&lt;br /&gt;Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13%&lt;br /&gt; Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president)",
+"judge_selection_and_term_of_office": "president of the Supreme Court nominated by the General Assembly of the Supreme Court and selected by the president of Poland; other judges nominated by the 25-member National Judicial Council and appointed by the president of Poland; judges serve until retirement, usually at age 65, but tenure can be extended; Constitutional Tribunal judges chosen by the Sejm for 9-year terms",
+"subordinate_courts": "administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts",
+}, 
+"political_parties_and_leaders": "Civic Coalition or KO [Grzegorz SCHETYNA]&lt;br /&gt;Confederation Liberty and Independence or KWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]&lt;br /&gt;Democratic Left Alliance or SLD [Wlodzimierz CZARZASTY]&lt;br /&gt;German Minority or MN [Ryszard GALLA]&lt;br /&gt;Kukiz 15 or K15 [Pawel KUKIZ]&lt;br /&gt;Law and Justice or PiS [Jaroslaw KACZYNSKI]&lt;br /&gt;TERAZ! (NOW!) [Ryszard PETRU]&lt;br /&gt;Nowoczesna (Modern) or N [Katarzyna LUBNAUER]&lt;br /&gt;Polish People&#39;s Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]&lt;br /&gt;Razem (Together) [collective leadership]&lt;br /&gt;Wiosna (Spring) [Robert BIEDRON]",
+"international_organization_participation": "Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Piotr Antoni WILCZEK (since 18 January 2017)",
+"chancery": "2640 16th Street NW, Washington, DC 20009",
+"telephone": "[1] (202) 499-1700",
+"fax": "[1] (202) 328-6271",
+"consulate_s_general": "Chicago, Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador&amp;nbsp;Georgette MOSBACHER&amp;nbsp;(since&amp;nbsp;6&amp;nbsp;September 2018)",
+"telephone": "[48] (22) 504-2000",
+"embassy": "Aleje Ujazdowskie 29/31 00-540 Warsaw",
+"mailing_address": "American Embassy Warsaw, US Department of State, Washington, DC 20521-5010 (pouch)",
+"fax": "[48] (22) 504-2226",
+"consulate_s_general": "Krakow",
+}, 
+"flag_description": "two equal horizontal bands of white (top) and red; colors derive from the Polish emblem - a white eagle on a red field",
+"national_symbol_s": "white crowned eagle; national colors: white, red",
+"national_anthem": 
+{
+"name": "&quot;Mazurek Dabrowskiego&quot; (Dabrowski&#39;s Mazurka)",
+"lyrics_music": "Jozef WYBICKI/traditional",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government’s loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government’s ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU’s 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland’s economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Poland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland’s energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$1.126 trillion",
+"2016": "$1.076 trillion",
+"2015": "$1.045 trillion",
+},
+"gdp_official_exchange_rate": "$524.8 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.7%",
+"2016": "3%",
+"2015": "3.8%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$29,600",
+"2016": "$28,300",
+"2015": "$27,500",
+},
+"gross_national_saving":
+{
+"2017": "20% of GDP",
+"2016": "19.2% of GDP",
+"2015": "19.9% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "58.6% (2017 est.)",
+"government_consumption": "17.7% (2017 est.)",
+"investment_in_fixed_capital": "17.7% (2017 est.)",
+"investment_in_inventories": "2% (2017 est.)",
+"exports_of_goods_and_services": "54% (2017 est.)",
+"imports_of_goods_and_services": "-49.9% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "2.4% (2017 est.)",
+"industry": "40.2% (2017 est.)",
+"services": "57.4% (2017 est.)",
+}, 
+"agriculture_products": "potatoes, fruits, vegetables, wheat; poultry, eggs, pork, dairy",
+"industries": "machine building, iron and steel, coal mining, chemicals, shipbuilding, food processing, glass, beverages, textiles",
+"industrial_production_growth_rate": "7.5% (2017 est.)",
+"labor_force": "17.6 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "11.5%",
+"industry": "30.4%",
+"services": "57.6% (2015)",
+}, 
+"unemployment_rate":
+{
+"2017": "4.9%",
+"2016": "6.2%",
+},
+"population_below_poverty_line": "17.6% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3%",
+"highest_10": "23.9% (2015 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2015": "30.8",
+"2008": "33.7",
+},
+"budget": 
+{
+"revenues": "207.5 billion (2017 est.)",
+"expenditures": "216.2 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "39.5% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1.7% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "50.6% of GDP",
+"2016": "54.2% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "2%",
+"2016": "-0.6%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "1.5%",
+"31 December 2016": "1.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "4.8%",
+"31 December 2016": "4.74%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$260.4 billion",
+"31 December 2016": "$195.1 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$260.4 billion",
+"31 December 2016": "$195.1 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$419.7 billion",
+"31 December 2016": "$336.6 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$397 billion",
+"31 December 2016": "$265.4 billion",
+"31 December 2015": "$277.4 billion",
+},
+"current_account_balance":
+{
+"2017": "$1.584 billion",
+"2016": "-$1.369 billion",
+},
+"exports":
+{
+"2017": "$224.6 billion",
+"2016": "$195.7 billion",
+},
+"exports_partners": "Germany 27.4%, Czech Republic 6.4%, UK 6.4%, France 5.6%, Italy 4.9%, Netherlands 4.4% (2017)",
+"exports_commodities": "machinery and transport equipment 37.8%, intermediate manufactured goods 23.7%, miscellaneous manufactured goods 17.1%, food and live animals 7.6% (2012 est.)",
+"imports":
+{
+"2017": "$223.8 billion",
+"2016": "$193.2 billion",
+},
+"imports_commodities": "machinery and transport equipment 38%, intermediate manufactured goods 21%, chemicals 15%, minerals, fuels, lubricants, and related materials 9% (2011 est.)",
+"imports_partners": "Germany 27.9%, China 8%, Russia 6.4%, Netherlands 6%, Italy 5.3%, France 4.2%, Czech Republic 4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$113.3 billion",
+"31 December 2016": "$114.4 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$241 billion",
+"31 December 2016": "$347.8 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$282.6 billion",
+"31 December 2016": "$224.5 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$72.87 billion",
+"31 December 2016": "$64.52 billion",
+},
+"exchange_rates": 
+{
+"currency": "zlotych (PLN) per US dollar -",
+"exchange_rates":
+{
+"2017": "3.748",
+"2016": "3.9459",
+"2015": "3.9459",
+"2014": "3.7721",
+"2013": "3.1538",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "156.9 billion kWh (2016 est.)",
+"electricity_consumption": "149.4 billion kWh (2016 est.)",
+"electricity_exports": "12.02 billion kWh (2016)",
+"electricity_imports": "14.02 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "38.11 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "79% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "2% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "19% of total installed capacity (2017 est.)",
+"crude_oil_production": "21,000 bbl/day (2018 est.)",
+"crude_oil_exports": "4,451 bbl/day (2017 est.)",
+"crude_oil_imports": "493,100 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "126 million bbl (1 January 2018)",
+"refined_petroleum_products_production": "554,200 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "649,600 bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "104,800 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "222,300 bbl/day (2017 est.)",
+"natural_gas_production": "5.748 billion cu m (2017 est.)",
+"natural_gas_consumption": "20.1 billion cu m (2017 est.)",
+"natural_gas_exports": "1.246 billion cu m (2017 est.)",
+"natural_gas_imports": "15.72 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "79.79 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "359 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "8,143,145",
+"subscriptions_per_100_inhabitants": "24 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "49,828,596",
+"subscriptions_per_100_inhabitants": "130 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modernization of the telecommunications network has accelerated with market-based competition; fixed-line service, dominated by the former state-owned company, is dwarfed by the growth in mobile-cellular services; regulatory is&amp;nbsp;framed by EU principles of competition; mobile penetration is above European average; 5G trials begin; LTE-B and VoWi-Fi technologies; launch of 1Gb/s cable services (2018)",
+"domestic": "several nation-wide networks provide mobile-cellular service; coverage is generally good; fixed-line 24 per 100 service lags in rural areas, mobile-cellular 130 per 100 persons (2018)",
+"international": "country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)",
+}, 
+"broadcast_media": "state-run public TV operates 2 national channels supplemented by 16 regional channels and several niche channels; privately owned entities operate several national TV networks and a number of special interest channels; many privately owned channels broadcasting locally; roughly half of all households are linked to either satellite or cable TV systems providing access to foreign television networks; state-run public radio operates 5 national networks and 17 regional radio stations; 2 privately owned national radio networks, several commercial stations broadcasting to multiple cities, and many privately owned local radio stations (2019)",
+"internet_country_code": ".pl",
+"internet_users": 
+{
+"total": "28,237,820",
+"percent_of_population": "73.3% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "7,053,333",
+"subscriptions_per_100_inhabitants": "18 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "2% of GDP",
+"2018": "2.02% of GDP",
+"2017": "1.89% of GDP",
+"2016": "1.99% of GDP",
+"2015": "2.22% of GDP",
+},
+"military_and_security_forces": "Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej) (2019)",
+"military_service_age_and_obligation": "18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2019)",
+"military_note": "Coast guard duties fall under the Border Guard, which is controlled by the Ministry of the Interior (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "6 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "92 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "4,841,128 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "120,016,466 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "SP (2016)",
+"airports": "126 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "87 (2017)",
+"over_3_047_m": "5 (2017)",
+"2_438_to_3_047_m": "30 (2017)",
+"1_524_to_2_437_m": "36 (2017)",
+"914_to_1_523_m": "10 (2017)",
+"under_914_m": "6 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "39 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "17 (2013)",
+"under_914_m": "21 (2013)",
+}, 
+"heliports": "6 (2013)",
+"pipelines": "14198 km gas, 1374 km oil, 2483 km refined products (2016)",
+"railways": 
+{
+"total": "19,231 km (2016)",
+"standard_gauge": "18,836 km 1.435-m gauge (11,874 km electrified) (2016)",
+"broad_gauge": "395 km 1.524-m gauge (2016)",
+}, 
+"roadways": 
+{
+"total": "420,000 km (2016)",
+"paved": "291,000 km (includes 1,492 km of expressways, 1,559 of motorways) (2016)",
+"unpaved": "129,000 km (2016)",
+}, 
+"waterways": "3,997 km (navigable rivers and canals) (2009)",
+"merchant_marine": 
+{
+"total": "148",
+"by_type": "bulk carrier 1, container ship 1, general cargo 13, oil tanker 7, other 126 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Gdansk, Gdynia, Swinoujscie",
+"container_port_s_teus": "Gdansk (1,593,761) (2017)",
+"lng_terminal_s_import": "Swinoujscie",
+"river_port_s": "Szczecin (River Oder)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;as a member state that forms part of the EU&#39;s external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "9,893 (Russia) (2018)",
+"stateless_persons": "10,825 (2018)",
+}, 
+"illicit_drugs": "despite diligent counternarcotics measures and international information sharing on cross-border crimes, a major illicit producer of synthetic drugs for the international market; minor transshipment point for Southwest Asian heroin and Latin American cocaine to Western Europe",
+}
+}

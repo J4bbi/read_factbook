@@ -1,0 +1,334 @@
+{
+"name": "Saint Helena, Ascension, and Tristan da Cunha",
+"code": "SH",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Saint Helena is a British Overseas Territory consisting of Saint Helena and Ascension Islands, and the island group of Tristan da Cunha.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Saint Helena:&lt;/strong&gt; Uninhabited when first discovered by the Portuguese in 1502, Saint Helena was garrisoned by the British during the 17th century. It acquired fame as the place of Napoleon BONAPARTE&#39;s exile from 1815 until his death in 1821, but its importance as a port of call declined after the opening of the Suez Canal in 1869. During the Anglo-Boer War in South Africa, several thousand Boer prisoners were confined on the island between 1900 and 1903.;&lt;/p&gt; &lt;p&gt;Saint Helena is one of the most remote populated places in the world. The British Government committed to building an airport on Saint Helena in 2005. After more than a decade of delays and construction, a commercial air service to South Africa via Namibia was inaugurated in October of 2017. The weekly service to Saint Helena from Johannesburg via Windhoek in Namibia takes just over six hours (including the refueling stop in Windhoek) and replaces the mail ship that had made a five-day journey to the island every three weeks.;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Ascension Island:&lt;/strong&gt; This barren and uninhabited island was discovered and named by the Portuguese in 1503. The British garrisoned the island in 1815 to prevent a rescue of Napoleon from Saint Helena. It served as a provisioning station for the Royal Navy&#39;s West Africa Squadron on anti-slavery patrol. The island remained under Admiralty control until 1922, when it became a dependency of Saint Helena. During World War II, the UK permitted the US to construct an airfield on Ascension in support of transatlantic flights to Africa and anti-submarine operations in the South Atlantic. In the 1960s the island became an important space tracking station for the US. In 1982, Ascension was an essential staging area for British forces during the Falklands War. It remains a critical refueling point in the air-bridge from the UK to the South Atlantic.;&lt;/p&gt; &lt;p&gt;The island hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Diego Garcia (British Indian Ocean Territory), Kwajalein (Marshall Islands), and at Cape Canaveral, Florida (US)). NASA and the US Air Force also operate a Meter-Class Autonomous Telescope (MCAT) on Ascension as part of the deep space surveillance system for tracking orbital debris, which can be a hazard to spacecraft and astronauts.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tristan da Cunha:&lt;/strong&gt; The island group consists of Tristan da Cunha, Nightingale, Inaccessible, and Gough Islands. Tristan da Cunha, named after its Portuguese discoverer (1506), was garrisoned by the British in 1816 to prevent any attempt to rescue Napoleon from Saint Helena. Gough and Inaccessible Islands have been designated World Heritage Sites. South Africa leases a site for a meteorological station on Gough Island.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "islands in the South Atlantic Ocean, about midway between South America and Africa; Ascension Island lies 1,300 km (800 mi) northwest of Saint Helena; Tristan da Cunha lies 4,300 km (2,700 mi) southwest of Saint Helena",
+"geographic_coordinates": "&lt;p&gt;&lt;strong&gt;Saint Helena:&lt;/strong&gt; 15 57 S, 5 42 W; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ascension Island:&lt;/strong&gt; 7 57 S, 14 22 W; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tristan da Cunha island group:&lt;/strong&gt; 37 15 S, 12 30 W&lt;/p&gt;",
+"map_references": "Africa",
+"area": 
+{
+"total": "394 sq km",
+"land": "122 sq km Saint Helena Island",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly more than twice the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "&lt;strong&gt;Saint Helena: &lt;/strong&gt;60 km&lt;br /&gt; &lt;strong&gt;Ascension Island: &lt;/strong&gt;NA&lt;br /&gt; &lt;strong&gt;Tristan da Cunha (island only): &lt;/strong&gt;34 km", 
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_fishing_zone": "200 nm",
+}, 
+"climate": "&lt;p&gt;&lt;strong&gt;Saint Helena:&lt;/strong&gt; tropical marine; mild, tempered by trade winds; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ascension Island:&lt;/strong&gt; tropical marine; mild, semi-arid; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tristan da Cunha:&lt;/strong&gt; temperate marine; mild, tempered by trade winds (tends to be cooler than Saint Helena)&lt;/p&gt;",
+"terrain": "&lt;p&gt;the islands of this group are of volcanic origin associated with the Atlantic Mid-Ocean Ridge&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Saint Helena:&lt;/strong&gt; rugged, volcanic; small scattered plateaus and plains; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ascension:&lt;/strong&gt; surface covered by lava flows and cinder cones of 44 dormant volcanoes; terrain rises to the east; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tristan da Cunha:&lt;/strong&gt; sheer cliffs line the coastline of the nearly circular island; the flanks of the central volcanic peak are deeply dissected; narrow coastal plain lies between The Peak and the coastal cliffs&lt;/p&gt;",
+"elevation": 
+{
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Queen Mary&#39;s Peak on Tristan da Cunha 859 m; Green Mountain on Ascension Island 818 m; Mount Actaeon on Saint Helena Island 2,060 m",
+}, 
+"natural_resources": "fish, lobster",
+"land_use": 
+{
+"agricultural_land": "30.8% (2011 est.)",
+"agricultural_land_arable_land": "10.3% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "20.5% (2011 est.)",
+"forest": "5.1% (2011 est.)",
+"other": "64.1% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "Saint Helena - population is concentrated in and around the capital Jamestown in the northwest, with another significant cluster in the interior Longwood area; Ascension - largest settlement, and location of most of the population, is Georgetown; Tristan da Cunha - most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas",
+"natural_hazards": "&lt;p&gt;active volcanism on Tristan da Cunha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; the island volcanoes of Tristan da Cunha (2,060 m) and Nightingale Island (365 m) experience volcanic activity; Tristan da Cunha erupted in 1962 and Nightingale in 2004&lt;/p&gt;",
+"environment_current_issues": "development threatens unique biota on Saint Helena",
+"geography_note": "Saint Helena harbors at least 40 species of plants unknown elsewhere in the world; Ascension is a breeding ground for sea turtles and sooty terns; Queen Mary&#39;s Peak on Tristan da Cunha is the highest island mountain in the South Atlantic and a prominent landmark on the sea lanes around southern Africa",
+}, 
+"people_and_society": 
+{
+"population": "7,841 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Saint Helenian(s)",
+"adjective": "Saint Helenian",
+}, 
+"ethnic_groups": "African descent 50%, white 25%, Chinese 25%",
+"languages": "English",
+"religions": "Protestant 75.9% (includes Anglican 68.9, Baptist 2.1%, Seventh Day Adventist 1.8%, Salvation Army 1.7%, New Apostolic 1.4%), Jehovah&#39;s Witness 4.1%, Roman Catholic 1.2%, other 2.5% (includes Baha&#39;i), unspecified 0.8%, none 6.1%, no response 9.4% (2016 est.)",
+"demographic_profile": "&lt;p&gt;The vast majority of the population of Saint Helena, Ascension, and Tristan da Cunha live on Saint Helena. Ascension has no indigenous or permanent residents and is inhabited only by persons contracted to work on the island (mainly with the UK and US military or in the space and communications industries) or their dependents, while Tristan da Cunha – the main island in a small archipelago – has fewer than 300 residents. The population of Saint Helena consists of the descendants of 17th century British sailors and settlers from the East India Company, African slaves, and indentured servants and laborers from India, Indonesia, and China. Most of the population of Ascension are Saint Helenians, Britons, and Americans, while that of Tristan da Cunha descends from shipwrecked sailors and Saint Helenians.&lt;/p&gt;&lt;p&gt;Change in Saint Helena’s population size is driven by net outward migration. Since the 1980s, Saint Helena’s population steadily has shrunk and aged as the birth rate has decreased and many working-age residents left for better opportunities elsewhere. The restoration of British citizenship in 2002 accelerated family emigration; from 1998 to 2008 alone, population declined by about 20%.&lt;/p&gt;&lt;p&gt;In the last few years, population has experienced some temporary growth, as foreigners and returning Saint Helenians, have come to build an international airport, but numbers are beginning to fade as the project reaches completion and workers depart. In the long term, once the airport is fully operational, increased access to the remote island has the potential to boost tourism and fishing, provide more jobs for Saint Helenians domestically, and could encourage some ex-patriots to return home. In the meantime, however, Saint Helena, Ascension, and Tristan da Cunha have to contend with the needs of an aging population. The elderly population of the islands has risen from an estimated 9.4% in 1998 to 20.4% in 2016.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "15.69% (male 627 /female 603)",
+"15_24_years": "12.21% (male 487 /female 470)",
+"25_54_years": "43.59% (male 1,695 /female 1,723)",
+"55_64_years": "12.86% (male 512 /female 496)",
+"65_years_and_over": "15.66% (male 627 /female 601) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "42.4 years (2018 est.)",
+"male": "42.4 years",
+"female": "42.4 years",
+}, 
+"population_growth_rate": "0.14% (2018 est.)",
+"birth_rate": "9.4 births/1,000 population (2018 est.)",
+"death_rate": "8 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "Saint Helena - population is concentrated in and around the capital Jamestown in the northwest, with another significant cluster in the interior Longwood area; Ascension - largest settlement, and location of most of the population, is Georgetown; Tristan da Cunha - most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas",
+"urbanization": 
+{
+"urban_population": "39.9% of total population (2019)",
+"rate_of_urbanization": "0.73% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1,000 JAMESTOWN (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "0.98 male(s)/female",
+"55_64_years": "1.03 male(s)/female",
+"65_years_and_over": "1.04 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "12.8 deaths/1,000 live births (2018 est.)",
+"male": "15.1 deaths/1,000 live births",
+"female": "10.4 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "79.8 years (2018 est.)",
+"male": "76.8 years",
+"female": "82.9 years",
+}, 
+"total_fertility_rate": "1.59 children born/woman (2018 est.)",
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"education_expenditures": " NA",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Saint Helena, Ascension, and Tristan da Cunha",
+"conventional_short_form": "none",
+"etymology": "Saint Helena was discovered in 1502 by Galician navigator Joao da NOVA, sailing in the service of the Kingdom of Portugal, who named it &quot;Santa Helena&quot;; Ascension was named in 1503 by Portuguese navigator Afonso de ALBUQUERQUE who sighted the island on the Feast Day of the Ascension; Tristan da Cunha was discovered in 1506 by Portuguese explorer Tristao da CUNHA who christened the main island after himself (the name was subsequently anglicized)",
+}, 
+"dependency_status": "overseas territory of the UK",
+"government_type": "parliamentary democracy",
+"capital": 
+{
+"name": "Jamestown",
+"geographic_coordinates": "15 56 S, 5 43 W",
+"time_difference": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "3 administrative areas; Ascension, Saint Helena, Tristan da Cunha",
+"independence": "none (overseas territory of the UK)",
+"national_holiday": "Birthday of Queen ELIZABETH II, third Monday in April (1926)",
+"constitution": "several previous; latest effective 1 September 2009 (St Helena, Ascension and Tristan da Cunha Constitution Order, 2009)",
+"legal_system": "English common law and local statutes",
+"citizenship": "see United Kingdom", 
+"suffrage": "18 years of age",
+"executive_branch": 
+{
+"chief_of_state": "Queen ELIZABETH II (since 6 February 1952)",
+"head_of_government": "Governor Philip RUSHBROOK (since&amp;nbsp;11 May 2019)",
+"cabinet": "Executive Council consists of the governor, 3 ex-officio officers, and 5 elected members of the Legislative Council",
+"elections_appointments": "none; the monarchy is hereditary; governor appointed by the monarch",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Legislative Council (17 seats including the speaker and deputy speaker; 12 members directly elected in a single countrywide constituency by simple majority vote and 3 ex-officio members - the chief secretary, financial secretary, and attorney general; members serve 4-year terms)",
+"elections": "last held on 26 July 2017 (next to be held in 2021)",
+"election_results": "percent of vote - NA; seats by party - independent 12; composition - men 14, women 3, percent women 17.6%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Appeal (consists of the court president and 2 justices); Supreme Court (consists of the chief justice - a nonresident - and NA judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)",
+"judge_selection_and_term_of_office": "Court of Appeal and Supreme Court justices appointed by the governor acting upon the instructions from a secretary of state acting on behalf of Queen ELIZABETH II; justices of both courts serve until retirement at age 70, but terms can be extended",
+"subordinate_courts": "Magistrates&#39; Court; Small Claims Court; Juvenile Court",
+}, 
+"political_parties_and_leaders": "none",
+"international_organization_participation": "UPU",
+"diplomatic_representation_in_the_us": "none (overseas territory of the UK)", 
+"diplomatic_representation_from_the_us": "none (overseas territory of the UK)", 
+"flag_description": "blue with the flag of the UK in the upper hoist-side quadrant and the Saint Helenian shield centered on the outer half of the flag; the upper third of the shield depicts a white plover (wire bird) on a yellow field; the remainder of the shield depicts a rocky coastline on the left, offshore is a three-masted sailing ship with sails furled but flying an English flag",
+"national_symbol_s": "Saint Helena plover (bird)",
+"national_anthem": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; as a territory of the UK, &quot;God Save the Queen&quot; is official (see United Kingdom)&lt;/p&gt;", 
+}, 
+"economy": 
+{
+"economy_overview": "The economy depends largely on financial assistance from the UK, which amounted to about $27 million in FY06/07 or more than twice the level of annual budgetary revenues. The local population earns income from fishing, raising livestock, and sales of handicrafts. Because there are few jobs, 25% of the work force has left to seek employment on Ascension Island, on the Falklands, and in the UK.",
+"gdp_purchasing_power_parity":
+{
+"FY09/10": "$31.1 million",
+},
+"gdp_official_exchange_rate": " NA",
+"gdp_real_growth_rate": "&lt;p&gt;NA&lt;/p&gt;", 
+"gdp_per_capita_ppp":
+{
+"FY09/10": "$7,800",
+},
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": " NA",
+"industry": " NA",
+"services": " NA",
+}, 
+"agriculture_products": "coffee, corn, potatoes, vegetables; fish, lobster; livestock; timber",
+"industries": "construction, crafts (furniture, lacework, fancy woodwork), fishing, collectible postage stamps",
+"industrial_production_growth_rate": " NA",
+"labor_force": "2,486 (1998 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "6%",
+"industry": "48%",
+"services": "46% (1987 est.)",
+}, 
+"unemployment_rate":
+{
+"1998": "14%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "8.427 million (FY06/07 est.)",
+"expenditures": "20.7 million (FY06/07 est.)",
+}, 
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2012": "4%",
+},
+"exports":
+{
+"2004": "$19 million",
+},
+"exports_commodities": "fish (frozen, canned, and salt-dried skipjack, tuna), coffee, handicrafts",
+"imports":
+{
+"2010": "$20.53 million",
+},
+"imports_commodities": "food, beverages, tobacco, fuel oils, animal feed, building materials, motor vehicles and parts, machinery and parts",
+"debt_external": "&lt;p&gt;NA&lt;/p&gt;", 
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2009": "",
+},
+"exchange_rates": 
+{
+"currency": "Saint Helenian pounds (SHP) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.7836",
+"2016": "0.6542",
+"2015": "0.6542",
+"2014": "0.607",
+"2013": "0.6391",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_production": "7 million kWh (2016 est.)",
+"electricity_consumption": "6.51 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "8,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "100% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "70 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "65 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "10,650 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "576",
+"subscriptions_per_100_inhabitants": "35 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "3,018",
+"subscriptions_per_100_inhabitants": "39 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "can communicate worldwide; ADSL- broadband service; LTE service; Wi-Fi hotspots in Jamestown, 1 ISP, many services are not offered locally but made available for visitors (2018)",
+"domestic": "automatic digital network; fixed-line 35 per 100 and moblie-cellular 39 per 100 persons (2018)",
+"international": "country code (Saint Helena) - 290, (Ascension Island) - 247; landing point for the SaEx1 submarine cable providing connectivity to South Africa, Brazil, Virginia Beach (US) and islands in Saint Helena, Ascension and Tristan de Cunha; international direct dialing; satellite voice and data communications; satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1) (2019)",
+}, 
+"broadcast_media": "Saint Helena has no local TV station; 2 local radio stations, one of which is relayed to Ascension Island; satellite TV stations rebroadcast terrestrially; Ascension Island has no local TV station but has 1 local radio station and receives relays of broadcasts from 1 radio station on Saint Helena; broadcasts from the British Forces Broadcasting Service (BFBS) are available, as well as TV services for the US military; Tristan da Cunha has 1 local radio station and receives BFBS TV and radio broadcasts",
+"internet_country_code": ".sh; note - Ascension Island assigned .ac",
+"internet_users": 
+{
+"total": "1,800",
+"percent_of_population": "23.1% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,347",
+"subscriptions_per_100_inhabitants": "17 (2017 est.)",
+}, 
+"communications_note": "Ascension Island hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Diego Garcia (British Indian Ocean Territory), Kwajalein (Marshall Islands), and at Cape Canaveral, Florida (US)); South Africa maintains a meteorological station on Gough Island in the Tristan da Cunha archipelago",
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of the UK",
+}, 
+"transportation": 
+{
+"civil_aircraft_registration_country_code_prefix": "VQ-H (2016)",
+"airports": "2 (2015)",
+"airports_with_paved_runways": 
+{
+"total": "2 (2017)",
+"over_3_047_m": "1 Ascension Island - Wideawake Field (ASI) (2017)",
+"1_524_to_2_437_m": "1 Saint Helena (HLE); (2017)",
+}, 
+"roadways": 
+{
+"total": "198 km (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km) (2002)",
+"paved": "168 km (Saint Helena 118 km, Ascension 40 km, Tristan da Cunha 10 km) (2002)",
+"unpaved": "30 km (Saint Helena 20 km, Tristan da Cunha 10 km) (2002)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Saint Helena",
+"saint_helena": "Jamestown",
+"ascension_island": "Georgetown",
+"tristan_da_cunha": "Calshot Harbor (Edinburgh)",
+}, 
+"transportation_note": "the new airport on Saint Helena opened for limited operations in July 2016, and the first commercial flight took place on 14 October 2017, marking the start of weekly air service between Saint Helena and South Africa via Namibia; the military airport on Ascension Island is closed to civilian traffic; there is no air connection to Tristan da Cunha and very limited sea connections making it one of the most isolated communities on the planet",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

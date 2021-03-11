@@ -1,0 +1,545 @@
+{
+"name": "Benin",
+"code": "BN",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Present day Benin was the site of Dahomey, a West African kingdom that rose to prominence in about 1600 and over the next two and a half centuries became a regional power, largely based on its slave trade. France began to control the coastal areas of Dahomey in the second half of the 19th century; the entire kingdom was conquered by 1894. French Dahomey achieved independence in 1960; it changed its name to the Republic of Benin in 1975.&lt;/p&gt; &lt;p&gt;A succession of military governments ended in 1972 with the rise to power of Mathieu KEREKOU and the establishment of a government based on Marxist-Leninist principles. A move to representative government began in 1989. Two years later, free elections ushered in former Prime Minister Nicephore SOGLO as president, marking the first successful transfer of power in Africa from a dictatorship to a democracy. KEREKOU was returned to power by elections held in 1996 and 2001, though some irregularities were alleged. KEREKOU stepped down at the end of his second term in 2006 and was succeeded by Thomas YAYI Boni, a political outsider and independent, who won a second five-year term in March 2011. Patrice TALON, a wealthy businessman, took office in 2016 after campaigning to restore public confidence in the government.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Western Africa, bordering the Bight of Benin, between Nigeria and Togo",
+"geographic_coordinates": "9 30 N, 2 15 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "112,622 sq km",
+"land": "110,622 sq km",
+"water": "2,000 sq km",
+}, 
+"area_comparative": "slightly smaller than Pennsylvania",
+"land_boundaries": 
+{
+"total": "2,123 km",
+"border_countries": "Burkina Faso 386 km, Niger 277 km, Nigeria 809 km, Togo 651 km",
+}, 
+"coastline": "121 km",
+"maritime_claims": 
+{
+"territorial_sea": "200 nm",
+"continental_shelf": "200 nm",
+"exclusive_fishing_zone": "200 nm",
+}, 
+"climate": "tropical; hot, humid in south; semiarid in north",
+"terrain": "mostly flat to undulating plain; some hills and low mountains",
+"elevation": 
+{
+"mean_elevation": "273 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Mont Sokbaro 658 m",
+}, 
+"natural_resources": "small offshore oil deposits, limestone, marble, timber",
+"land_use": 
+{
+"agricultural_land": "31.3% (2011 est.)",
+"agricultural_land_arable_land": "22.9% (2011 est.)",
+"agricultural_land_permanent_crops": "3.5% (2011 est.)",
+"agricultural_land_permanent_pasture": "4.9% (2011 est.)",
+"forest": "40% (2011 est.)",
+"other": "28.7% (2011 est.)",
+}, 
+"irrigated_land": "230 sq km (2012)",
+"population_distribution": "the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west",
+"natural_hazards": "hot, dry, dusty harmattan wind may affect north from December to March",
+"environment_current_issues": "inadequate supplies of potable water; water pollution; poaching threatens wildlife populations; deforestation; desertification (the spread of the desert into agricultural lands in the north is accelerated by regular droughts)",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "sandbanks create difficult access to a coast with no natural harbors, river mouths, or islands",
+}, 
+"people_and_society": 
+{
+"population": "11,340,504 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Beninese (singular and plural)",
+"adjective": "Beninese",
+}, 
+"ethnic_groups": "Fon and related 38.4%, Adja and related 15.1%, Yoruba and related 12%, Bariba and related 9.6%, Fulani and related 8.6%, Ottamari and related 6.1%, Yoa-Lokpa and related 4.3%, Dendi and related 2.9%, other 0.9%, foreigner 1.9% (2013 est.)",
+"languages": "French (official), Fon and Yoruba (most common vernaculars in south), tribal languages (at least six major ones in north)",
+"religions": "Muslim 27.7%, Roman Catholic 25.5%, Protestant 13.5% (Celestial 6.7%, Methodist 3.4%, other Protestant 3.4%), Vodoun 11.6%, other Christian 9.5%, other traditional religions 2.6%, other 2.6%, none 5.8% (2013 est.)",
+"demographic_profile": "&lt;p&gt;Benin has a youthful age structure – almost 65% of the population is under the age of 25 – which is bolstered by high fertility and population growth rates. Benin’s total fertility has been falling over time but remains high, declining from almost 7 children per women in 1990 to 4.8 in 2016. Benin’s low contraceptive use and high unmet need for contraception contribute to the sustained high fertility rate. Although the majority of Beninese women use skilled health care personnel for antenatal care and delivery, the high rate of maternal mortality indicates the need for more access to high quality obstetric care.&lt;/p&gt;&lt;p&gt;Poverty, unemployment, increased living costs, and dwindling resources increasingly drive the Beninese to migrate. An estimated 4.4 million, more than 40%, of Beninese live abroad. Virtually all Beninese emigrants move to West African countries, particularly Nigeria and Cote d’Ivoire. Of the less than 1% of Beninese emigrants who settle in Europe, the vast majority live in France, Benin’s former colonial ruler.&lt;/p&gt;&lt;p&gt;With about 40% of the population living below the poverty line, many desperate parents resort to sending their children to work in wealthy households as domestic servants (a common practice known as vidomegon), mines, quarries, or agriculture domestically or in Nigeria and other neighboring countries, often under brutal conditions. Unlike in other West African countries, where rural people move to the coast, farmers from Benin’s densely populated southern and northwestern regions move to the historically sparsely populated central region to pursue agriculture. Immigrants from West African countries came to Benin in increasing numbers between 1992 and 2002 because of its political stability and porous borders.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "42.26% (male 2,445,265 /female 2,347,091)",
+"15_24_years": "20.53% (male 1,184,977 /female 1,143,605)",
+"25_54_years": "30.66% (male 1,759,834 /female 1,717,467)",
+"55_64_years": "3.65% (male 184,453 /female 229,945)",
+"65_years_and_over": "2.89% (male 128,920 /female 198,947) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "86.1 (2015 est.)",
+"youth_dependency_ratio": "80.1 (2015 est.)",
+"elderly_dependency_ratio": "6 (2015 est.)",
+"potential_support_ratio": "16.6 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "18.4 years (2018 est.)",
+"male": "18.1 years",
+"female": "18.7 years",
+}, 
+"population_growth_rate": "2.68% (2018 est.)",
+"birth_rate": "34.5 births/1,000 population (2018 est.)",
+"death_rate": "7.7 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west",
+"urbanization": 
+{
+"urban_population": "47.9% of total population (2019)",
+"rate_of_urbanization": "3.89% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "285,000 PORTO-NOVO (capital) (2018); 991,000 Abomey-Calavi, 688,000 COTONOU (seat of government) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.02 male(s)/female",
+"55_64_years": "0.8 male(s)/female",
+"65_years_and_over": "0.65 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "20.4 years (2017/18 est.)",
+"maternal_mortality_rate": "397 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "51.5 deaths/1,000 live births (2018 est.)",
+"male": "54.5 deaths/1,000 live births",
+"female": "48.3 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "62.7 years (2018 est.)",
+"male": "61.2 years",
+"female": "64.2 years",
+}, 
+"total_fertility_rate": "4.67 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "15.5% (2017/18)",
+"drinking_water_source": 
+{
+"improved_urban": "85.2% of population",
+"improved_rural": "72.1% of population",
+"improved_total": "77.9% of population",
+"unimproved_urban": "14.8% of population",
+"unimproved_rural": "27.9% of population",
+"unimproved_total": "22.1% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.9% (2016)",
+"physicians_density": "0.16 physicians/1,000 population (2016)",
+"hospital_bed_density": "0.5 beds/1,000 population (2010)",
+"sanitation_facility_access": 
+{
+"improved_urban": "35.6% of population (2015 est.)",
+"improved_rural": "7.3% of population (2015 est.)",
+"improved_total": "19.7% of population (2015 est.)",
+"unimproved_urban": "64.4% of population (2015 est.)",
+"unimproved_rural": "92.7% of population (2015 est.)",
+"unimproved_total": "80.3% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "73,000 (2018 est.)",
+"hiv_aids_deaths": "2,200 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2019)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2019)",
+"vectorborne_diseases": "dengue fever and&amp;nbsp;malaria (2019)",
+"animal_contact_diseases": "rabies (2019)",
+"respiratory_diseases": "meningococcal meningitis (2019)",
+}, 
+"obesity_adult_prevalence_rate": "9.6% (2016)",
+"children_under_the_age_of_5_years_underweight": "16.8% (2018)",
+"education_expenditures": "4% of GDP (2016)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "38.4%",
+"male": "49.9%",
+"female": "27.3% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "13 years",
+"male": "14 years",
+"female": "11 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "5.6%",
+"male": "5.2%",
+"female": "5.9% (2011 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Benin",
+"conventional_short_form": "Benin",
+"local_long_form": "Republique du Benin",
+"local_short_form": "Benin",
+"former": "Dahomey, People&#39;s Republic of Benin",
+"etymology": "named for the Bight of Benin, the body of water on which the country lies",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Porto-Novo (constitutional capital); Cotonou (seat of government)",
+"geographic_coordinates": "6 29 N, 2 37 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "12 departments; Alibori, Atacora, Atlantique, Borgou, Collines, Couffo, Donga, Littoral, Mono, Oueme, Plateau, Zou",
+"independence": "1 August 1960 (from France)",
+"national_holiday": "Independence Day, 1 August (1960)",
+"constitution": 
+{
+"history": "previous 1946, 1958 (preindependence); latest adopted by referendum 2 December 1990, promulgated 11 December 1990",
+"amendments": "proposed concurrently by the president of the republic (after a decision in the Council of Ministers) and the National Assembly; consideration of drafts or proposals requires at least three-fourths majority vote of the Assembly membership; passage requires approval in a referendum unless approved by at least four-fifths majority vote of the Assembly membership; constitutional articles affecting territorial sovereignty, the republican form of government, and secularity of Benin cannot be amended (2017)",
+}, 
+"legal_system": "civil law system modeled largely on the French system and some customary law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Benin",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Patrice TALON (since 6 April 2016); note - the president is both chief of state and head of government",
+"head_of_government": "President Patrice TALON (since 6 April 2016); prime minister position abolished",
+"cabinet": "Council of Ministers appointed by the president",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 6 March and 20 March 2016 (next to be held in 2021)",
+"election_results": "Patrice TALON elected president in second round; percent of vote in first round - Lionel ZINSOU (FCBE) 28.4%, Patrice TALON (independent) 24.8%, Sebastien AJAVON (independent) 23.%, Abdoulaye Bio TCHANE (ABT) 8.8%, Pascal KOUPAKI (NC) 5.9%, other 9.1%; percent of vote in second round - Patrice TALON 65.4%, Lionel ZINSOU 34.6%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Assemblee Nationale (83 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)",
+"elections": "last held on 28 April 2019 (next to be held in April 2023)",
+"election_results": "percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition - men 77, women 6, percent of women 7.2%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office",
+"judge_selection_and_term_of_office": "Supreme Court president and judges appointed by the president of the republic&amp;nbsp;upon the advice of the National Assembly; judges appointed for single renewable 5-year terms; Constitutional Court members - 4 appointed by the National Assembly and 3 by the president of the republic; members appointed for single renewable 5-year terms; other members of the High Court of Justice elected by the National Assembly; member tenure NA",
+"subordinate_courts": "Court of Appeal or Cour d&#39;Appel; district courts; village courts; Assize courts",
+}, 
+"political_parties_and_leaders": "Alliance for a Triumphant Benin or ABT [Abdoulaye BIO TCHANE]&lt;br /&gt;African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]&lt;br /&gt;Benin Renaissance or RB [Lehady SOGLO]&lt;br /&gt;Cowrie Force for an Emerging Benin or FCBE [Yayi BONI]&lt;br /&gt;Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]&lt;br /&gt;National Alliance for Development and Democracy or AND [Valentin Aditi HOUDE]&lt;br /&gt;New Consciousness Rally or NC [Pascal KOUPAKI]&lt;br /&gt;Patriotic Awakening or RP [Janvier YAHOUEDEOU]&lt;br /&gt;Social Democrat Party or PSD [Emmanuel GOLOU]&lt;br /&gt;Sun Alliance or AS [Sacca LAFIA]&lt;br /&gt;Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)&lt;br /&gt;United Democratic Forces or FDU [Mathurin NAGO]",
+"international_organization_participation": "ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Charge d&#39;Affaires Gafari DANGO (since March 2019)",
+"chancery": "2124 Kalorama Road NW, Washington, DC 20008",
+"telephone": "[1] (202) 232-6656",
+"fax": "[1] (202) 265-1996",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Patricia MAHONEY (since 18 January 2019)",
+"telephone": "[229] 21-30-06-50",
+"embassy": "Caporal Bernard Anani, 01 BP 2012, Cotonou",
+"mailing_address": "01 B. P. 2012, Cotonou",
+"fax": "[229] 21-30-03-84",
+}, 
+"flag_description": "two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green symbolizes hope and revival, yellow wealth, and red courage",
+"national_symbol_s": "leopard; national colors: green, yellow, red",
+"national_anthem": 
+{
+"name": "&quot;L&#39;Aube Nouvelle&quot; (The Dawn of a New Day)",
+"lyrics_music": "Gilbert Jean DAGNON",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The free market economy of Benin has grown consecutively for four years, though growth slowed in 2017, as its close trade links to Nigeria expose Benin to risks from volatile commodity prices. Cotton is a key export commodity, with export earnings significantly impacted by the price of cotton in the broader market. The economy began deflating in 2017, with the consumer price index falling 0.8%.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;During the first two years of President TALON’s administration, which began in April 2016, the government has followed an ambitious action plan to kickstart development through investments in infrastructure, education, agriculture, and governance. Electricity generation, which has constrained Benin’s economic growth, has increased and blackouts have been considerably reduced. Private foreign direct investment is small, and foreign aid accounts for a large proportion of investment in infrastructure projects.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Benin has appealed for international assistance to mitigate piracy against commercial shipping in its territory, and has used equipment from donors effectively against such piracy. Pilferage has significantly dropped at the Port of Cotonou, though the port is still struggling with effective implementation of the International Ship and Port Facility Security (ISPS) Code. Projects included in Benin&#39;s $307 million Millennium Challenge Corporation (MCC) first compact (2006-11) were designed to increase investment and private sector activity by improving key institutional and physical infrastructure. The four projects focused on access to land, access to financial services, access to justice, and access to markets (including modernization of the port). The Port of Cotonou is a major contributor to Benin’s economy, with revenues projected to account for more than 40% of Benin’s national budget.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Benin will need further efforts to upgrade infrastructure, stem corruption, and expand access to foreign markets to achieve its potential. In September 2015, Benin signed a second MCC Compact for $375 million that entered into force in June 2017 and is designed to strengthen the national utility service provider, attract private sector investment, fund infrastructure investments in electricity generation and distribution, and develop off-grid electrification for poor and unserved households. As part of the Government of Benin’s action plan to spur growth, Benin passed public private partnership legislation in 2017 to attract more foreign investment, place more emphasis on tourism, facilitate the development of new food processing systems and agricultural products, encourage new information and communication technology, and establish Independent Power Producers. In April 2017, the IMF approved a three year $150.4 million Extended Credit Facility agreement to maintain debt sustainability and boost donor confidence.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$25.39 billion",
+"2016": "$24.04 billion",
+"2015": "$23.12 billion",
+},
+"gdp_official_exchange_rate": "$9.246 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "5.6%",
+"2016": "4%",
+"2015": "2.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$2,300",
+"2016": "$2,200",
+"2015": "$2,200",
+},
+"gross_national_saving":
+{
+"2017": "17.3% of GDP",
+"2016": "15.2% of GDP",
+"2015": "16.6% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "70.5% (2017 est.)",
+"government_consumption": "13.1% (2017 est.)",
+"investment_in_fixed_capital": "27.6% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "31.6% (2017 est.)",
+"imports_of_goods_and_services": "-43% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "26.1% (2017 est.)",
+"industry": "22.8% (2017 est.)",
+"services": "51.1% (2017 est.)",
+}, 
+"agriculture_products": "cotton, corn, cassava (manioc, tapioca), yams, beans, palm oil, peanuts, cashews; livestock",
+"industries": "textiles, food processing, construction materials, cement",
+"industrial_production_growth_rate": "3% (2017 est.)",
+"labor_force": "3.662 million (2007 est.)",
+"unemployment_rate":
+{
+"2014": "1%",
+},
+"population_below_poverty_line": "36.2% (2011 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.1%",
+"highest_10": "29% (2003)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2003": "36.5",
+},
+"budget": 
+{
+"revenues": "1.578 billion (2017 est.)",
+"expenditures": "2.152 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "17.1% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-6.2% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "54.6% of GDP",
+"2016": "49.7% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.1%",
+"2016": "-0.8%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "4.25%",
+"31 December 2009": "4.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "5.3%",
+"31 December 2016": "5.3%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$2.644 billion",
+"31 December 2016": "$2.189 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$2.644 billion",
+"31 December 2016": "$2.189 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$1.963 billion",
+"31 December 2016": "$1.553 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$1.024 billion",
+"2016": "-$808 million",
+},
+"exports":
+{
+"2017": "$1.974 billion",
+"2016": "$1.588 billion",
+},
+"exports_partners": "Bangladesh 18.1%, India 10.7%, Ukraine 9%, Niger 8.1%, China 7.7%, Nigeria 7.2%, Turkey 4% (2017)",
+"exports_commodities": "cotton, cashews, shea butter, textiles, palm products, seafood",
+"imports":
+{
+"2017": "$2.787 billion",
+"2016": "$2.443 billion",
+},
+"imports_commodities": "foodstuffs, capital goods, petroleum products",
+"imports_partners": "Thailand 18.1%, India 15.9%, France 8.5%, China 7.5%, Togo 5.9%, Netherlands 4.3%, Belgium 4.3% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$698.9 million",
+"31 December 2016": "$57.5 million",
+},
+"debt_external":
+{
+"31 December 2017": "$2.804 billion",
+"31 December 2016": "$2.476 billion",
+},
+"exchange_rates": 
+{
+"currency": "Communaute Financiere Africaine francs (XOF) per US dollar -",
+"exchange_rates":
+{
+"2017": "605.3",
+"2016": "593.01",
+"2015": "593.01",
+"2014": "591.45",
+"2013": "494.42",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "8 million (2017)",
+"electrification_total_population": "41.4% (2016)",
+"electrification_urban_areas": "70.8% (2016)",
+"electrification_rural_areas": "18% (2016)",
+}, 
+"electricity_production": "335 million kWh (2016 est.)",
+"electricity_consumption": "1.143 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "1.088 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "321,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "88% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "9% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "2% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "8 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "38,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "1,514 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "38,040 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "1.133 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "5.664 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "56,787",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "8,773,044",
+"subscriptions_per_100_inhabitants": "79 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "fixed-line network characterized by aging, deteriorating equipment; mobile networks account for almost all Internet connections; govt. aims to provide telecoms services to 80% of the country, mostly via mobile infrastructure; govt aims to&amp;nbsp;restructure state-owned telcos and has partially done so; Mobile Number Portability (MNP) is available; Benin joins free roaming scheme (2018)",
+"domestic": "fixed-line teledensity only about 1 per 100 persons; spurred by the presence of multiple mobile-cellular providers, cellular telephone subscribership has increased rapidly, exceeding&amp;nbsp;79 per 100 persons in 2017 (2018)",
+"international": "country code - 229; landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that provides connectivity to Europe, and&amp;nbsp;most West African countries; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a TV station providing a wide broadcast reach; several privately owned TV stations broadcast from Cotonou; satellite TV subscription service is available; state-owned radio, under ORTB control, includes a national station supplemented by a number of regional stations; substantial number of privately owned radio broadcast stations; transmissions of a few international broadcasters are available on FM in Cotonou (2019)",
+"internet_country_code": ".bj",
+"internet_users": 
+{
+"total": "1,288,336",
+"percent_of_population": "12% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "28,833",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.86% of GDP",
+"2017": "1.26% of GDP",
+"2016": "1.14% of GDP",
+"2015": "1.1% of GDP",
+"2014": "0.96% of GDP",
+},
+"military_and_security_forces": "Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Ministry of Public Security: Republican Police (2019)",
+"military_service_age_and_obligation": "18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2013)",
+"maritime_threats": "West African piracy more than doubled in 2018 to become the most dangerous area in the World; the waters off of&amp;nbsp;Benin saw a dramatic increase in 2018 with five attacks reported compared with none in 2017; three ships were boarded, two were hijacked, and 48 crew taken hostage or kidnapped",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "1 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "112,392 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "805,347 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "TY (2016)",
+"airports": "6 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "5 (2013)",
+"2_438_to_3_047_m": "2 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "2 (2013)",
+}, 
+"pipelines": "134 km gas",
+"railways": 
+{
+"total": "438 km (2014)",
+"narrow_gauge": "438 km 1.000-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "16,000 km (2006)",
+"paved": "1,400 km (2006)",
+"unpaved": "14,600 km (2006)",
+}, 
+"waterways": "150 km (seasonal navigation on River Niger along northern border) (2011)",
+"merchant_marine": 
+{
+"total": "6",
+"by_type": "other 6 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Cotonou",
+"lng_terminal_s_import": "Cotonou",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;talks continue between Benin and Togo on funding the Adjrala hydroelectric dam on the Mona River; Benin retains a border dispute with Burkina Faso near the town of Koualou; location of Benin-Niger-Nigeria tripoint is unresolved&lt;/p&gt;",
+"illicit_drugs": "transshipment point used by traffickers for cocaine destined for Western Europe; vulnerable to money laundering due to poorly enforced financial regulations",
+}
+}

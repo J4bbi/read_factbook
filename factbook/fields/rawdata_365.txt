@@ -1,0 +1,68 @@
+Country Comparison :: HIV/AIDS - deaths
+
+1       South Africa                                                    71,000        2018 est.
+2       India                                                           69,000        2017 est.
+3       Mozambique                                                      53,900        2018 est.
+4       Nigeria                                                         53,200        2017 est.
+5       Indonesia                                                       38,000        2018 est.
+6       Kenya                                                           25,000        2018 est.
+7       Tanzania                                                        24,000        2018 est.
+8       Uganda                                                          23,000        2018 est.
+9       Zimbabwe                                                        22,000        2018 est.
+10      Cameroon                                                        18,000        2018 est.
+11      Thailand                                                        18,000        2018 est.
+12      Zambia                                                          17,000        2018 est.
+13      Cote d'Ivoire                                                   16,000        2018 est.
+14      Brazil                                                          15,000        2018 est.
+15      Angola                                                          14,000        2018 est.
+16      Ghana                                                           14,000        2018 est.
+17      Congo, Democratic Republic of the                               13,000        2018 est.
+18      Malawi                                                          13,000        2018 est.
+19      Ethiopia                                                        11,000        2018 est.
+20      South Sudan                                                      9,900        2018 est.
+21      Burma                                                            7,800        2018 est.
+22      Mali                                                             6,500        2018 est.
+23      Pakistan                                                         6,400        2018 est.
+24      Lesotho                                                          6,100        2018 est.
+25      Ukraine                                                          6,100        2018 est.
+26      Botswana                                                         4,800        2018 est.
+27      Central African Republic                                         4,800        2018 est.
+28      Vietnam                                                          4,700        2018 est.
+29      Colombia                                                         4,400        2017 est.
+30      Guinea                                                           4,300        2018 est.
+31      Congo, Republic of the                                           4,000        2018 est.
+32      Mexico                                                           4,000        2017 est.
+33      Togo                                                             3,800        2018 est.
+34      Burkina Faso                                                     3,300        2018 est.
+35      Chad                                                             3,100        2018 est.
+36      Rwanda                                                           2,900        2018 est.
+37      Sudan                                                            2,900        2018 est.
+38      Haiti                                                            2,700        2018 est.
+39      Namibia                                                          2,700        2018 est.
+40      Iran                                                             2,600        2018 est.
+41      Malaysia                                                         2,600        2018 est.
+42      Eswatini                                                         2,400        2018 est.
+43      Benin                                                            2,200        2018 est.
+44      Guatemala                                                        2,200        2018 est.
+45      Sierra Leone                                                     2,100        2018 est.
+46      Burundi                                                          1,900        2018 est.
+47      Equatorial Guinea                                                1,800        2018 est.
+48      Guinea-Bissau                                                    1,800        2018 est.
+49      Liberia                                                          1,800        2018 est.
+50      Argentina                                                        1,700        2018 est.
+51      Madagascar                                                       1,700        2018 est.
+52      Jamaica                                                          1,500        2018 est.
+53      Cambodia                                                         1,300        2018 est.
+54      Senegal                                                          1,300        2018 est.
+55      Uzbekistan                                                       1,300        2018 est.
+56      Dominican Republic                                               1,200        2018 est.
+57      Gabon                                                            1,200        2018 est.
+58      Niger                                                            1,200        2018 est.
+59      Philippines                                                      1,200        2018 est.
+60      Papua New Guinea                                                 1,100        2017 est.
+61      Peru                                                             1,000        2018 est.
+62      Nepal                                                              900        2018 est.
+63      Macedonia                                                          300        2018 est.
+64      Nicaragua                                                          200        2018 est.
+65      Netherlands                                                        100        2018 est.
+66      Oman                                                               100        2018

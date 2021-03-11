@@ -1,0 +1,552 @@
+{
+"name": "Costa Rica",
+"code": "CS",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "Although explored by the Spanish early in the 16th century, initial attempts at colonizing Costa Rica proved unsuccessful due to a combination of factors, including disease from mosquito-infested swamps, brutal heat, resistance by natives, and pirate raids. It was not until 1563 that a permanent settlement of Cartago was established in the cooler, fertile central highlands. The area remained a colony for some two and a half centuries. In 1821, Costa Rica became one of several Central American provinces that jointly declared their independence from Spain. Two years later it joined the United Provinces of Central America, but this federation disintegrated in 1838, at which time Costa Rica proclaimed its sovereignty and independence. Since the late 19th century, only two brief periods of violence have marred the country&#39;s democratic development. On 1 December 1948, Costa Rica dissolved its armed forces. Although it still maintains a large agricultural sector, Costa Rica has expanded its economy to include strong technology and tourism industries. The standard of living is relatively high. Land ownership is widespread.",
+}, 
+"geography": 
+{
+"location": "Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Nicaragua and Panama",
+"geographic_coordinates": "10 00 N, 84 00 W",
+"map_references": "Central America and the Caribbean",
+"area": 
+{
+"total": "51,100 sq km",
+"land": "51,060 sq km",
+"water": "40 sq km",
+}, 
+"area_comparative": "slightly smaller than West Virginia",
+"land_boundaries": 
+{
+"total": "661 km",
+"border_countries": "Nicaragua 313 km, Panama 348 km",
+}, 
+"coastline": "1,290 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"continental_shelf": "200 nm",
+}, 
+"climate": "tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands",
+"terrain": "coastal plains separated by rugged mountains including over 100 volcanic cones, of which several are major active volcanoes",
+"elevation": 
+{
+"mean_elevation": "746 m",
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "Cerro Chirripo 3,819 m",
+}, 
+"natural_resources": "hydropower",
+"land_use": 
+{
+"agricultural_land": "37.1% (2011 est.)",
+"agricultural_land_arable_land": "4.9% (2011 est.)",
+"agricultural_land_permanent_crops": "6.7% (2011 est.)",
+"agricultural_land_permanent_pasture": "25.5% (2011 est.)",
+"forest": "51.5% (2011 est.)",
+"other": "11.4% (2011 est.)",
+}, 
+"irrigated_land": "1,015 sq km (2012)",
+"population_distribution": "roughly half of the nation&#39;s population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population",
+"natural_hazards": "&lt;p&gt;occasional earthquakes, hurricanes along Atlantic coast; frequent flooding of lowlands at onset of rainy season and landslides; active volcanoes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; Arenal (1,670 m), which erupted in 2010, is the most active volcano in Costa Rica; a 1968 eruption destroyed the town of Tabacon; Irazu (3,432 m), situated just east of San Jose, has the potential to spew ash over the capital city as it did between 1963 and 1965; other historically active volcanoes include Miravalles, Poas, Rincon de la Vieja, and Turrialba&lt;/p&gt;",
+"environment_current_issues": "deforestation and land use change, largely a result of the clearing of land for cattle ranching and agriculture; soil erosion; coastal marine pollution; fisheries protection; solid waste management; air pollution",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Wetlands, Whaling",
+"signed_but_not_ratified": "Marine Life Conservation",
+}, 
+"geography_note": "four volcanoes, two of them active, rise near the capital of San Jose in the center of the country; one of the volcanoes, Irazu, erupted destructively in 1963-65",
+}, 
+"people_and_society": 
+{
+"population": "4,987,142 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Costa Rican(s)",
+"adjective": "Costa Rican",
+}, 
+"ethnic_groups": "white or mestizo 83.6%, mulatto 6.7%, indigenous 2.4%, black of African descent 1.1%, other 1.1%, none 2.9%, unspecified 2.2% (2011 est.)",
+"languages": "Spanish (official), English",
+"religions": "Roman Catholic 71.8%, Evangelical and Pentecostal 12.3%, other Protestant 2.6%, Jehovah&#39;s Witness 0.5%, other 2.4%, none 10.4% (2016 est.)",
+"demographic_profile": "&lt;p&gt;Costa Rica&#39;s political stability, high standard of living, and well-developed social benefits system set it apart from its Central American neighbors. Through the government&#39;s sustained social spending - almost 20% of GDP annually - Costa Rica has made tremendous progress toward achieving its goal of providing universal access to education, healthcare, clean water, sanitation, and electricity. Since the 1970s, expansion of these services has led to a rapid decline in infant mortality, an increase in life expectancy at birth, and a sharp decrease in the birth rate. The average number of children born per women has fallen from about 7 in the 1960s to 3.5 in the early 1980s to below replacement level today. Costa Rica&#39;s poverty rate is lower than in most Latin American countries, but it has stalled at around 20% for almost two decades.&lt;/p&gt;&lt;p&gt;Costa Rica is a popular regional immigration destination because of its job opportunities and social programs. Almost 9% of the population is foreign-born, with Nicaraguans comprising nearly three-quarters of the foreign population. Many Nicaraguans who perform unskilled seasonal labor enter Costa Rica illegally or overstay their visas, which continues to be a source of tension. Less than 3% of Costa Rica&#39;s population lives abroad. The overwhelming majority of expatriates have settled in the United States after completing a university degree or in order to work in a highly skilled field.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "22.43% (male 572,172 /female 546,464)",
+"15_24_years": "15.94% (male 405,515 /female 389,433)",
+"25_54_years": "44.04% (male 1,105,944 /female 1,090,434)",
+"55_64_years": "9.48% (male 229,928 /female 242,696)",
+"65_years_and_over": "8.11% (male 186,531 /female 218,025) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "45.4 (2015 est.)",
+"youth_dependency_ratio": "32.4 (2015 est.)",
+"elderly_dependency_ratio": "12.9 (2015 est.)",
+"potential_support_ratio": "7.7 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "31.7 years (2018 est.)",
+"male": "31.2 years",
+"female": "32.2 years",
+}, 
+"population_growth_rate": "1.13% (2018 est.)",
+"birth_rate": "15.3 births/1,000 population (2018 est.)",
+"death_rate": "4.8 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "roughly half of the nation&#39;s population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population",
+"urbanization": 
+{
+"urban_population": "80.1% of total population (2019)",
+"rate_of_urbanization": "1.5% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.379 million SAN JOSE (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "0.95 male(s)/female",
+"65_years_and_over": "0.86 male(s)/female",
+"total_population": "1.01 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "27 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "7.8 deaths/1,000 live births (2018 est.)",
+"male": "8.6 deaths/1,000 live births",
+"female": "7.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "78.9 years (2018 est.)",
+"male": "76.2 years",
+"female": "81.7 years",
+}, 
+"total_fertility_rate": "1.89 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "77.8% (2015)",
+"drinking_water_source": 
+{
+"improved_urban": "99.6% of population",
+"improved_rural": "91.9% of population",
+"improved_total": "97.8% of population",
+"unimproved_urban": "0.4% of population",
+"unimproved_rural": "8.1% of population",
+"unimproved_total": "2.2% of population (2015 est.)",
+}, 
+"current_health_expenditure": "7.6% (2016)",
+"physicians_density": "1.15 physicians/1,000 population (2013)",
+"hospital_bed_density": "1.1 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "95.2% of population (2015 est.)",
+"improved_rural": "92.3% of population (2015 est.)",
+"improved_total": "94.5% of population (2015 est.)",
+"unimproved_urban": "4.8% of population (2015 est.)",
+"unimproved_rural": "7.7% of population (2015 est.)",
+"unimproved_total": "5.5% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.4% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "15,000 (2018 est.)",
+"hiv_aids_deaths": " &lt;500 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "intermediate (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea (2016)",
+"vectorborne_diseases": "dengue fever (2016)",
+}, 
+"obesity_adult_prevalence_rate": "25.7% (2016)",
+"education_expenditures": "7.4% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "97.8%",
+"male": "97.7%",
+"female": "97.8% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "15 years",
+"female": "16 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "20.6%",
+"male": "17.6%",
+"female": "25.9% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Costa Rica",
+"conventional_short_form": "Costa Rica",
+"local_long_form": "Republica de Costa Rica",
+"local_short_form": "Costa Rica",
+"etymology": "the name means &quot;rich coast&quot; in Spanish and was first applied in the early colonial period of the 16th century",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "San Jose",
+"geographic_coordinates": "9 56 N, 84 05 W",
+"time_difference": "UTC-6 (1 hour behind Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "7 provinces (provincias, singular - provincia); Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose",
+"independence": "15 September 1821 (from Spain)",
+"national_holiday": "Independence Day, 15 September (1821)",
+"constitution": 
+{
+"history": "many previous; latest effective 8 November 1949",
+"amendments": "proposals require the signatures of at least 10 Legislative Assembly members or petition of at least 5% of qualified voters; consideration of proposals requires two-thirds majority approval in each of three readings by the Assembly, followed by preparation of the proposal as a legislative bill and its approval by simple majority of the Assembly; passage requires at least two-thirds majority vote of the Assembly membership; a referendum is required only if approved by at least two thirds of the Assembly; amended many times, last in 2015 (2018)",
+}, 
+"legal_system": "civil law system based on Spanish civil code; judicial review of legislative acts in the Supreme Court",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "yes",
+"citizenship_by_descent_only": "yes",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "7 years",
+}, 
+"suffrage": "18 years of age; universal and compulsory",
+"executive_branch": 
+{
+"chief_of_state": "President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018); note - the president is both chief of state and head of government",
+"head_of_government": "President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018)",
+"cabinet": "Cabinet selected by the president",
+"elections_appointments": "president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 4 February 2018 with a runoff on 1 April 2018 (next to be held in February 2022)",
+"election_results": "Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRS) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country&#39;s 7 provinces - by closed list proportional representation vote; members serve 4-year terms)",
+"elections": "last held on 4 February 2018 (next to be held in February 2022)",
+"election_results": "percent of vote by party - PLN 19.5%, PRN 18.2%, PAC 16.3%, PUSC 14.6%, PIN 7.7%, PRS 4.2%, PFA 4%, ADC 2.5%, ML 2.3%, PASE 2.3%, PNG 2.2%, other 6.2%; seats by party - PLN 17, PRN 14, PAC 10, PUSC 9, PIN 4, PRS 2, PFA 1; composition - men 31, women 26, percent of women 45.6%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)",
+"judge_selection_and_term_of_office": "Supreme Court of Justice judges elected by the National Assembly for 8-year terms with renewal decided by the National Assembly",
+"subordinate_courts": "appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal",
+}, 
+"political_parties_and_leaders": "Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]&lt;br /&gt;Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]&lt;br /&gt;Christian Democratic Alliance or ADC [Mario REDONDO Poveda]&lt;br /&gt;Citizen Action Party or PAC [Marta Eugenia SOLANO Arias]&lt;br /&gt;Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]&lt;br /&gt;Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]&lt;br /&gt;National Integration Party or PIN [Walter MUNOZ Cespedes]&lt;br /&gt;National Liberation Party or PLN [Jorge Julio PATTONI Saenz]&lt;br /&gt;National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]&lt;br /&gt;New Generation or PNG [Sergio MENA]&lt;br /&gt;Patriotic Alliance [Jorge ARAYA Westover]&lt;br /&gt;Social Christian Republican Party or PRS [Dragos DOLANESCU Valenciano]&lt;br /&gt;Social Christian Unity Party or PUSC [Pedro MUNOZ Fonseca]",
+"international_organization_participation": "BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Fernando LLORCA Castro (since 17 September 2018)",
+"chancery": "2114 S Street NW, Washington, DC 20008",
+"telephone": "[1] (202) 480-2200",
+"fax": "[1] (202) 265-4795",
+"consulate_s_general": "Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington DC",
+"consulate_s": "Saint Paul (MN), San Juan (Puerto Rico), Tucson (AZ)",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Sharon DAY (since 5 October 2017)",
+"telephone": "[506] 2519-2000",
+"embassy": "Calle 98 Via 104, Pavas, San Jose",
+"mailing_address": "APO AA 34020",
+"fax": "[506] 2519-2305",
+}, 
+"flag_description": "five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk placed toward the hoist side of the red band; Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutionary activity in Europe, it was decided to incorporate the French colors into the national flag and a central red stripe was added; today the blue color is said to stand for the sky, opportunity, and perseverance, white denotes peace, happiness, and wisdom, while red represents the blood shed for freedom, as well as the generosity and vibrancy of the people",
+"national_symbol_s": "yiguirro (clay-colored robin); national colors: blue, white, red",
+"national_anthem": 
+{
+"name": "&quot;Himno Nacional de Costa Rica&quot; (National Anthem of Costa Rica)",
+"lyrics_music": "Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Since 2010, Costa Rica has enjoyed strong and stable economic growth - 3.8% in 2017. Exports of bananas, coffee, sugar, and beef are the backbone of its commodity exports. Various industrial and processed agricultural products have broadened exports in recent years, as have high value-added goods, including medical devices. Costa Rica&#39;s impressive biodiversity also makes it a key destination for ecotourism.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Foreign investors remain attracted by the country&#39;s political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR), which became effective for Costa Rica in 2009, helped increase foreign direct investment in key sectors of the economy, including insurance and telecommunication. However, poor infrastructure, high energy costs, a complex bureaucracy, weak investor protection, and uncertainty of contract enforcement impede greater investment.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Costa Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the government’s strong social safety net has eroded due to increased constraints on its expenditures. Costa Rica’s credit rating was downgraded from stable to negative in 2015 and again in 2017, upping pressure on lending rates - which could hurt small business, on the budget deficit - which could hurt infrastructure development, and on the rate of return on investment - which could soften foreign direct investment (FDI). Unlike the rest of Central America, Costa Rica is not highly dependent on remittances - which represented just 1 % of GDP in 2016, but instead relies on FDI - which accounted for 5.1% of GDP.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$83.94 billion",
+"2016": "$81.27 billion",
+"2015": "$77.96 billion",
+},
+"gdp_official_exchange_rate": "$58.27 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.3%",
+"2016": "4.2%",
+"2015": "3.6%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$16,900",
+"2016": "$16,600",
+"2015": "$16,100",
+},
+"gross_national_saving":
+{
+"2017": "15.1% of GDP",
+"2016": "16.1% of GDP",
+"2015": "15% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "64.2% (2017 est.)",
+"government_consumption": "17.3% (2017 est.)",
+"investment_in_fixed_capital": "17.1% (2017 est.)",
+"investment_in_inventories": "1% (2017 est.)",
+"exports_of_goods_and_services": "33.3% (2017 est.)",
+"imports_of_goods_and_services": "-32.9% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "5.5% (2017 est.)",
+"industry": "20.6% (2017 est.)",
+"services": "73.9% (2017 est.)",
+}, 
+"agriculture_products": "bananas, pineapples, coffee, melons, ornamental plants, sugar, corn, rice, beans, potatoes; beef, poultry, dairy; timber",
+"industries": "medical equipment, food processing, textiles and clothing, construction materials, fertilizer, plastic products",
+"industrial_production_growth_rate": "1.3% (2017 est.)",
+"labor_force": "2.229 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "14%",
+"industry": "22%",
+"services": "64% (2006 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "8.1%",
+"2016": "9.5%",
+},
+"population_below_poverty_line": "21.7% (2014 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.5%",
+"highest_10": "36.9% (2014 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2014": "48.5",
+"2013": "49.2",
+},
+"budget": 
+{
+"revenues": "8.357 billion (2017 est.)",
+"expenditures": "11.92 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "14.3% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-6.1% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "48.9% of GDP",
+"2016": "44.9% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.6%",
+"2016": "0%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2016": "3.5%",
+"31 December 2010": "21.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "11.37%",
+"31 December 2016": "11.64%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$5.356 billion",
+"31 December 2016": "$5.63 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$5.356 billion",
+"31 December 2016": "$5.63 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$41.04 billion",
+"31 December 2016": "$38.21 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2012": "$2.015 billion",
+"31 December 2011": "$1.443 billion",
+"31 December 2010": "$1.445 billion",
+},
+"current_account_balance":
+{
+"2017": "-$1.692 billion",
+"2016": "-$1.326 billion",
+},
+"exports":
+{
+"2017": "$10.81 billion",
+"2016": "$10.15 billion",
+},
+"exports_partners": "US 40.9%, Belgium 6.3%, Panama 5.6%, Netherlands 5.6%, Nicaragua 5.1%, Guatemala 5% (2017)",
+"exports_commodities": "bananas, pineapples, coffee, melons, ornamental plants, sugar; beef; seafood; electronic components, medical equipment",
+"imports":
+{
+"2017": "$15.15 billion",
+"2016": "$14.53 billion",
+},
+"imports_commodities": "raw materials, consumer goods, capital equipment, petroleum, construction materials",
+"imports_partners": "US 38.1%, China 13.1%, Mexico 7.3% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$7.15 billion",
+"31 December 2016": "$7.574 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$26.83 billion",
+"31 December 2016": "$24.3 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$33.92 billion",
+"31 December 2016": "$31.84 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$4.007 billion",
+"31 December 2016": "$3.781 billion",
+},
+"exchange_rates": 
+{
+"currency": "Costa Rican colones (CRC) per US dollar -",
+"exchange_rates":
+{
+"2017": "573.5",
+"2016": "544.74",
+"2015": "544.74",
+"2014": "534.57",
+"2013": "538.32",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "10.79 billion kWh (2016 est.)",
+"electricity_consumption": "9.812 billion kWh (2016 est.)",
+"electricity_exports": "643 million kWh (2015 est.)",
+"electricity_imports": "807 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "3.584 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "18% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "64% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "18% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "53,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "51,320 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "7.653 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "843,148",
+"subscriptions_per_100_inhabitants": "17 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "8,840,342",
+"subscriptions_per_100_inhabitants": "179 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "good domestic telephone service in terms of breadth of coverage; in recent years growth has been achieved from liberalistion of the telecom sector and has seen substantial&amp;nbsp;expansion in all sectors; Costa Rica&#39;s broadband market is the most&amp;nbsp;advanced in Central America, with the highest broadband penetration for this sub-region; broadband penetration does lag behind many South American countries; with the implementation of number portability there is greater&amp;nbsp;opportunity for increased competition in the future (2018)",
+"domestic": "point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available; 17 per 100 fixed-line, 179 per 100 mobile-cellular (2018)",
+"international": "country code - 506; landing points for the ARCOS-1, MAYA-1, and the&amp;nbsp;PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "multiple privately owned TV stations and 1 publicly owned TV station; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2017)",
+"internet_country_code": ".cr",
+"internet_users": 
+{
+"total": "3,217,277",
+"percent_of_population": "66% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "744,059",
+"subscriptions_per_100_inhabitants": "15 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular military forces; Ministry of Public Security commands the Public Forces of Costa Rica, which includes the Public Force (National Police), Anti-Drug Police, and National Coast Guard Service. (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "39 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "1,617,075 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "9,284,160 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "TI (2016)",
+"airports": "161 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "47 (2017)",
+"2_438_to_3_047_m": "2 (2017)",
+"1_524_to_2_437_m": "2 (2017)",
+"914_to_1_523_m": "27 (2017)",
+"under_914_m": "16 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "114 (2013)",
+"914_to_1_523_m": "18 (2013)",
+"under_914_m": "96 (2013)",
+}, 
+"pipelines": "662 km refined products (2013)",
+"railways": 
+{
+"total": "278 km (2014)",
+"narrow_gauge": "278 km 1.067-m gauge (2014)",
+}, 
+"roadways": "5,035 km (2017)",
+"waterways": "730 km (seasonally navigable by small craft) (2011)",
+"merchant_marine": 
+{
+"total": "11",
+"by_type": "general cargo 2, other 9 (2018)",
+}, 
+"ports_and_terminals": "Atlantic Ocean (Caribbean) - Puerto Limon",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Costa Rica and Nicaragua regularly file border dispute cases over the delimitations of the San Juan River and the northern tip of Calero Island to the International Court of Justice (ICJ); in 2009, the ICJ ruled that Costa Rican vessels carrying out police activities could not use the river, but official Costa Rican vessels providing essential services to riverside inhabitants and Costa Rican tourists could travel freely on the river; in 2011, the ICJ provisionally ruled that both countries must remove personnel from the disputed area; in 2013, the ICJ rejected Nicaragua&#39;s 2012 suit to halt Costa Rica&#39;s construction of a highway paralleling the river on the grounds of irreparable environmental damage; in 2013, the ICJ, regarding the disputed territory, ordered that Nicaragua should refrain from dredging or canal construction and refill and repair damage caused by trenches connecting the river to the Caribbean and upheld its 2010 ruling that Nicaragua must remove all personnel; in early 2014, Costa Rica brought Nicaragua to the ICJ over offshore oil concessions in the disputed region&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "21,628&amp;nbsp;(Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2019)",
+"stateless_persons": "82 (2018)",
+}, 
+"trafficking_in_persons": 
+{
+"current_situation": "Costa Rica is a source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Costa Rican women and children, as well as those from Nicaragua, the Dominican Republic, and other Latin American countries, are sex trafficked in Costa Rica; child sex tourism is a particular problem with offenders coming from the US and Europe; men and children from Central America, including indigenous Panamanians, and Asia are exploited in agriculture, construction, fishing, and commerce; Nicaraguans transit Costa Rica to reach Panama, where some are subjected to forced labor or sex trafficking",
+"tier_rating": "Tier 2 Watch List – Costa Rica does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; anti-trafficking law enforcement efforts declined in 2014, with fewer prosecutions and no convictions and no actions taken against complicit government personnel; some officials conflated trafficking with smuggling, and authorities reported the diversion of funds to combat smuggling hindered anti-trafficking efforts; the government identified more victims than the previous year but did not make progress in ensuring that victims received adequate protective services; specialized services were limited and mostly provided by NGOs without government support, even from a dedicated fund for anti-trafficking efforts; victims services were virtually non-existent outside of the capital (2015)",
+}, 
+"illicit_drugs": "transshipment country for cocaine and heroin from South America; illicit production of cannabis in remote areas; domestic cocaine consumption, particularly crack cocaine, is rising; significant consumption of amphetamines; seizures of smuggled cash in Costa Rica and at the main border crossing to enter Costa Rica from Nicaragua have risen in recent years",
+}
+}

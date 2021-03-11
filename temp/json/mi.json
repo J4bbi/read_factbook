@@ -1,0 +1,548 @@
+{
+"name": "Malawi",
+"code": "MI",
+"publish_date": "December 27, 2019",
+"introduction": 
+{
+"background": "Established in 1891, the British protectorate of Nyasaland became the independent nation of Malawi in 1964. After three decades of one-party rule under President Hastings Kamuzu BANDA, the country held multiparty presidential and parliamentary elections in 1994, under a provisional constitution that came into full effect the following year. Bakili MULUZI became the first freely elected president of Malawi when he won the presidency in 1994; he won re-election in 1999. President Bingu wa MUTHARIKA, elected in 2004 after a failed attempt by the previous president to amend the constitution to permit another term, struggled to assert his authority against his predecessor and subsequently started his own party, the Democratic Progressive Party in 2005. MUTHARIKA was reelected to a second term in 2009. He oversaw some economic improvement in his first term, but was accused of economic mismanagement and poor governance in his second term. He died abruptly in 2012 and was succeeded by vice president, Joyce BANDA, who had earlier started her own party, the People&#39;s Party. MUTHARIKA&#39;s brother, Peter MUTHARIKA, defeated BANDA in the 2014 election. Population growth, increasing pressure on agricultural lands, corruption, and the scourge of HIV/AIDS pose major problems for Malawi.",
+}, 
+"geography": 
+{
+"location": "Southern Africa, east of Zambia, west and north of Mozambique",
+"geographic_coordinates": "13 30 S, 34 00 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "118,484 sq km",
+"land": "94,080 sq km",
+"water": "24,404 sq km",
+}, 
+"area_comparative": "slightly smaller than Pennsylvania",
+"land_boundaries": 
+{
+"total": "2,857 km",
+"border_countries": "Mozambique 1498 km, Tanzania 512 km, Zambia 847 km",
+}, 
+"coastline": "0 km (landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "sub-tropical; rainy season (November to May); dry season (May to November)",
+"terrain": "narrow elongated plateau with rolling plains, rounded hills, some mountains",
+"elevation": 
+{
+"mean_elevation": "779 m",
+"lowest_point": "junction of the Shire River and international boundary with Mozambique 37 m",
+"highest_point": "Sapitwa (Mount Mlanje) 3,002 m",
+}, 
+"natural_resources": "limestone, arable land, hydropower, unexploited deposits of uranium, coal, and bauxite",
+"land_use": 
+{
+"agricultural_land": "59.2% (2011 est.)",
+"agricultural_land_arable_land": "38.2% (2011 est.)",
+"agricultural_land_permanent_crops": "1.4% (2011 est.)",
+"agricultural_land_permanent_pasture": "19.6% (2011 est.)",
+"forest": "34% (2011 est.)",
+"other": "6.8% (2011 est.)",
+}, 
+"irrigated_land": "740 sq km (2012)",
+"population_distribution": "population density is highest south of Lake Nyasa",
+"natural_hazards": "flooding; droughts; earthquakes",
+"environment_current_issues": "deforestation; land degradation; water pollution from agricultural runoff, sewage, industrial wastes; siltation of spawning grounds endangers fish populations; negative effects of climate change (extreme high temperatures, changing precipatation pattens)",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "Law of the Sea",
+}, 
+"geography_note": "landlocked; Lake Nyasa, some 580 km long, is the country&#39;s most prominent physical feature; it contains more fish species than any other lake on earth",
+}, 
+"people_and_society": 
+{
+"population": "19,842,560 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Malawian(s)",
+"adjective": "Malawian",
+}, 
+"ethnic_groups": "Chewa 34.3%, Lomwe 18.8%, Yao 13.2%, Ngoni 10.4%, Tumbuka 9.2%, Sena 3.8%, Mang&#39;anja 3.2%, Tonga 1.8%, Nyanja 1.8%, Nkhonde 1%, other 2.2%, foreign .3% (2018 est.)",
+"languages": "English (official), Chichewa (common), Chinyanja, Chiyao, Chitumbuka, Chilomwe, Chinkhonde, Chingoni, Chisena, Chitonga, Chinyakyusa, Chilambya",
+"religions": "Protestant 33.5% (includes Church of Central Africa Presbyterian 14.2%, Seventh Day Adventist/Baptist 9.4%, Pentecostal 7.6%, Anglican 2.3%), Roman Catholic 17.2%, other Christian 26.6%, Muslim 13.8%, traditionalist 1.1%, other 5.6%, none 2.1% (2018 est.)",
+"demographic_profile": "&lt;p&gt;Malawi has made great improvements in maternal and child health, but has made less progress in reducing its high fertility rate. In both rural and urban areas, very high proportions of mothers are receiving prenatal care and skilled birth assistance, and most children are being vaccinated. Malawi’s fertility rate, however, has only declined slowly, decreasing from more than 7 children per woman in the 1980s to about 5.5 today. Nonetheless, Malawians prefer smaller families than in the past, and women are increasingly using contraceptives to prevent or space pregnancies. Rapid population growth and high population density is putting pressure on Malawi’s land, water, and forest resources. Reduced plot sizes and increasing vulnerability to climate change, further threaten the sustainability of Malawi’s agriculturally based economy and will worsen food shortages. About 80% of the population is employed in agriculture.&lt;/p&gt;&lt;p&gt;Historically, Malawians migrated abroad in search of work, primarily to South Africa and present-day Zimbabwe, but international migration became uncommon after the 1970s, and most migration in recent years has been internal. During the colonial period, Malawians regularly migrated to southern Africa as contract farm laborers, miners, and domestic servants. In the decade and a half after independence in 1964, the Malawian Government sought to transform its economy from one dependent on small-scale farms to one based on estate agriculture. The resulting demand for wage labor induced more than 300,000 Malawians to return home between the mid-1960s and the mid-1970s. In recent times, internal migration has generally been local, motivated more by marriage than economic reasons.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "46.17% (male 4,560,940 /female 4,600,184)",
+"15_24_years": "20.58% (male 2,023,182 /female 2,059,765)",
+"25_54_years": "27.57% (male 2,717,613 /female 2,752,983)",
+"55_64_years": "3% (male 284,187 /female 310,393)",
+"65_years_and_over": "2.69% (male 234,776 /female 298,537) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "91 (2015 est.)",
+"youth_dependency_ratio": "85.3 (2015 est.)",
+"elderly_dependency_ratio": "5.7 (2015 est.)",
+"potential_support_ratio": "17.4 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "16.6 years (2018 est.)",
+"male": "16.5 years",
+"female": "16.8 years",
+}, 
+"population_growth_rate": "3.31% (2018 est.)",
+"birth_rate": "40.7 births/1,000 population (2018 est.)",
+"death_rate": "7.7 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population density is highest south of Lake Nyasa",
+"urbanization": 
+{
+"urban_population": "17.2% of total population (2019)",
+"rate_of_urbanization": "4.19% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.075 million LILONGWE (capital), 905,000 Blantyre-Limbe (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.02 male(s)/female",
+"0_14_years": "0.99 male(s)/female",
+"15_24_years": "0.98 male(s)/female",
+"25_54_years": "0.99 male(s)/female",
+"55_64_years": "0.92 male(s)/female",
+"65_years_and_over": "0.79 male(s)/female",
+"total_population": "0.98 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "18.9 years (2015/16 est.)",
+"maternal_mortality_rate": "349 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "42.1 deaths/1,000 live births (2018 est.)",
+"male": "48.6 deaths/1,000 live births",
+"female": "35.5 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "62.2 years (2018 est.)",
+"male": "60.2 years",
+"female": "64.3 years",
+}, 
+"total_fertility_rate": "5.43 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "59.2% (2015/16)",
+"drinking_water_source": 
+{
+"improved_urban": "95.7% of population",
+"improved_rural": "89.1% of population",
+"improved_total": "90.2% of population",
+"unimproved_urban": "4.3% of population",
+"unimproved_rural": "10.9% of population",
+"unimproved_total": "9.8% of population (2015 est.)",
+}, 
+"current_health_expenditure": "9.8% (2016)",
+"physicians_density": "0.02 physicians/1,000 population (2016)",
+"hospital_bed_density": "1.3 beds/1,000 population (2011)",
+"sanitation_facility_access": 
+{
+"improved_urban": "47.3% of population (2015 est.)",
+"improved_rural": "39.8% of population (2015 est.)",
+"improved_total": "41% of population (2015 est.)",
+"unimproved_urban": "52.7% of population (2015 est.)",
+"unimproved_rural": "60.2% of population (2015 est.)",
+"unimproved_total": "59% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "9.2% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "1 million (2018 est.)",
+"hiv_aids_deaths": "13,000 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria and dengue fever (2016)",
+"water_contact_diseases": "schistosomiasis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+}, 
+"obesity_adult_prevalence_rate": "5.8% (2016)",
+"children_under_the_age_of_5_years_underweight": "11.8% (2015)",
+"education_expenditures": "4% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "62.1%",
+"male": "69.8%",
+"female": "55.2% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "11 years",
+"male": "11 years",
+"female": "11 years (2011)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "8.5%",
+"male": "6.7%",
+"female": "10.6% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Malawi",
+"conventional_short_form": "Malawi",
+"local_long_form": "Dziko la Malawi",
+"local_short_form": "Malawi",
+"former": "British Central African Protectorate, Nyasaland Protectorate, Nyasaland",
+"etymology": "named for the East African Maravi Kingdom of the 16th century; the word &quot;maravi&quot; means &quot;fire flames&quot;",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Lilongwe",
+"geographic_coordinates": "13 58 S, 33 47 E",
+"time_difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "28 districts; Balaka, Blantyre, Chikwawa, Chiradzulu, Chitipa, Dedza, Dowa, Karonga, Kasungu, Likoma, Lilongwe, Machinga, Mangochi, Mchinji, Mulanje, Mwanza, Mzimba, Neno, Ntcheu, Nkhata Bay, Nkhotakota, Nsanje, Ntchisi, Phalombe, Rumphi, Salima, Thyolo, Zomba",
+"independence": "6 July 1964 (from the UK)",
+"national_holiday": "Independence Day, 6 July (1964); note - also called Republic Day since 6 July 1966",
+"constitution": 
+{
+"history": "previous 1953 (preindependence), 1966; latest drafted January to May 1994, approved 16 May 1994, entered into force 18 May 1995",
+"amendments": "proposed by the National Assembly; passage of amendments affecting constitutional articles, including the sovereignty and territory of the state, fundamental constitutional principles, human rights, voting rights, and the judiciary, requires majority approval in a referendum and majority approval by the Assembly; passage of other amendments requires at least two-thirds majority vote of the Assembly; amended several times, last in 2017 (2018)",
+}, 
+"legal_system": "mixed legal system of English common law and customary law; judicial review of legislative acts in the Supreme Court of Appeal",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Malawi",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "7 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Arthur Peter MUTHARIKA (since 31 May 2014); Vice President Everton CHIMULIRENJI (since 28 May 2019; note - the president is both chief of state and head of government",
+"head_of_government": "President Arthur Peter MUTHARIKA (since 31 May 2014); Vice President Everton CHIMULIRENJI (since 28 May 2019)",
+"cabinet": "Cabinet named by the president",
+"elections_appointments": "president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 21 May 2019 (next to be held in May 2024)",
+"election_results": "Peter MUTHARIKA elected president; percent of vote - Peter MUTHARIKA (DPP) 38.6%, Lazarus CHAKWERA (MCP) 35.4%, Saulos CHILIMA (UTM) 20.2%, Atupele MULUZI (UDF) 4.7%, other 3.1%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)",
+"elections": "last held on 21 May 2019 (next to be held in May 2024)",
+"election_results": "percent of vote by party - n/a; seats by party - DPP 62, MCP 55, UDF 10, PP 5, other 5, independent 55, vacant 1; composition - men 161, women 32, percent of women 16.6%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Appeal (consists of the chief justice and at least 3 judges)",
+"judge_selection_and_term_of_office": "Supreme Court chief justice appointed by the president and confirmed by the National Assembly; other judges appointed by the president upon the recommendation of the Judicial Service Commission, which regulates judicial officers; judges serve until age 65",
+"subordinate_courts": "High Court; magistrate courts; Industrial Relations Court; district and city traditional or local courts",
+}, 
+"political_parties_and_leaders": "Democratic Progressive Party or DPP [Peter MUTHARIKA]&lt;br /&gt;Malawi Congress Party or MCP [Lazarus CHAKWERA]&lt;br /&gt;Peoples Party or PP [Joyce BANDA]&lt;br /&gt;United Democratic Front or UDF [Atupele MULUZI]&lt;br /&gt;United Transformation Movement or UTM [Saulos CHILIMA]",
+"international_organization_participation": "ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Edward Yakobe SAWERENGERA (since 16 September 2016)",
+"chancery": "2408 Massachusetts Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 721-0270",
+"fax": "[1] (202) 721-0288",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Robert SCOTT (since&amp;nbsp;6 August&amp;nbsp;2019)",
+"telephone": "265 (0) 1773166",
+"embassy": "16 Jomo Kenyatta Road, Lilongwe 3",
+"mailing_address": "P.O. Box 30016, Lilongwe 3, Malawi",
+"fax": "265 (0) 1770471",
+}, 
+"flag_description": "three equal horizontal bands of black (top), red, and green with a radiant, rising, red sun centered on the black band; black represents the native peoples, red the blood shed in their struggle for freedom, and green the color of nature; the rising sun represents the hope of freedom for the continent of Africa",
+"national_symbol_s": "lion; national colors: black, red, green",
+"national_anthem": 
+{
+"name": "&quot;Mulungu dalitsa Malawi&quot; (Oh God Bless Our Land of Malawi)",
+"lyrics_music": "Michael-Fredrick Paul SAUKA",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Landlocked Malawi ranks among the world&#39;s least developed countries. The country’s economic performance has historically been constrained by policy inconsistency, macroeconomic instability, poor infrastructure, rampant corruption, high population growth, and poor health and education outcomes that limit labor productivity. The economy is predominately agricultural with about 80% of the population living in rural areas. Agriculture accounts for about one-third of GDP and 80% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports, although Malawi is looking to diversify away from tobacco to other cash crops.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. Donors halted direct budget support from 2013 to 2016 because of concerns about corruption and fiscal carelessness, but the World Bank resumed budget support in May 2017. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries (HIPC) program but recent increases in domestic borrowing mean that debt servicing in 2016 exceeded the levels prior to HIPC debt relief.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Heavily dependent on rain-fed agriculture, with corn being the staple crop, Malawi’s economy was hit hard by the El Nino-driven drought in 2015 and 2016, and now faces threat from the fall armyworm. The drought also slowed economic activity, led to two consecutive years of declining economic growth, and contributed to high inflation rates. Depressed food prices over 2017 led to a significant drop in inflation (from an average of 21.7% in 2016 to 12.3% in 2017), with a similar drop in interest rates.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$22.42 billion",
+"2016": "$21.56 billion",
+"2015": "$21.08 billion",
+},
+"gdp_official_exchange_rate": "$6.24 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4%",
+"2016": "2.3%",
+"2015": "3%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$1,200",
+"2016": "$1,200",
+"2015": "$1,200",
+},
+"gross_national_saving":
+{
+"2017": "3.9% of GDP",
+"2016": "-2.8% of GDP",
+"2015": "2.8% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "84.3% (2017 est.)",
+"government_consumption": "16.3% (2017 est.)",
+"investment_in_fixed_capital": "15.3% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "27.9% (2017 est.)",
+"imports_of_goods_and_services": "-43.8% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "28.6% (2017 est.)",
+"industry": "15.4% (2017 est.)",
+"services": "56% (2017 est.)",
+}, 
+"agriculture_products": "tobacco, sugarcane, tea, corn, potatoes, sweet potatoes, cassava (manioc, tapioca), sorghum, pulses, cotton, groundnuts, macadamia nuts, coffee; cattle, goats",
+"industries": "tobacco, tea, sugar, sawmill products, cement, consumer goods",
+"industrial_production_growth_rate": "1.2% (2017 est.)",
+"labor_force": "7 million (2013 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "76.9%",
+"industry": "4.1%",
+"services": "19% (2013 est.)",
+}, 
+"unemployment_rate":
+{
+"2013": "20.4%",
+},
+"population_below_poverty_line": "50.7% (2010 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.2%",
+"highest_10": "37.5% (2010 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2010": "46.1",
+"2004": "39",
+},
+"budget": 
+{
+"revenues": "1.356 billion (2017 est.)",
+"expenditures": "1.567 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "21.7% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3.4% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "59.2% of GDP",
+"2016": "60.3% of GDP",
+},
+"fiscal_year": "1 July - 30 June",
+"inflation_rate_consumer_prices":
+{
+"2017": "12.2%",
+"2016": "21.7%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "16%",
+"31 December 2016": "24%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "38.1%",
+"31 December 2016": "44.11%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$632.4 million",
+"31 December 2016": "$534 million",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$632.4 million",
+"31 December 2016": "$534 million",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$1.161 billion",
+"31 December 2016": "$1.049 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$18.97 million",
+"31 December 2016": "$8.643 million",
+"31 December 2015": "$101.9 million",
+},
+"current_account_balance":
+{
+"2017": "-$591 million",
+"2016": "-$744 million",
+},
+"exports":
+{
+"2017": "$1.42 billion",
+"2016": "$1.361 billion",
+},
+"exports_partners": "Zimbabwe 13.1%, Mozambique 11.8%, Belgium 10.7%, South Africa 6.3%, Netherlands 5%, UK 4.7%, Germany 4.3%, US 4.2% (2017)",
+"exports_commodities": "tobacco (55%), dried legumes (8.8%), sugar (6.7%), tea (5.7%), cotton (2%), peanuts, coffee, soy (2015 est.)",
+"imports":
+{
+"2017": "$2.312 billion",
+"2016": "$2.277 billion",
+},
+"imports_commodities": "food, petroleum products, semi-manufactures, consumer goods, transportation equipment",
+"imports_partners": "South Africa 20.7%, China 14.2%, India 11.6%, UAE 7%, Netherlands 4.4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$780.2 million",
+"31 December 2016": "$585.7 million",
+},
+"debt_external":
+{
+"31 December 2017": "$2.102 billion",
+"31 December 2016": "$1.5 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"2015": "$142.5 million",
+},
+"stock_of_direct_foreign_investment_abroad": "&lt;p&gt;NA&lt;/p&gt;", 
+"exchange_rates": 
+{
+"currency": "Malawian kwachas (MWK) per US dollar -",
+"exchange_rates":
+{
+"2017": "731.69",
+"2016": "720.1",
+"2015": "713.85",
+"2014": "499.6",
+"2013": "424.9",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "17 million (2017)",
+"electrification_total_population": "11% (2016)",
+"electrification_urban_areas": "42% (2016)",
+"electrification_rural_areas": "4% (2016)",
+}, 
+"electricity_production": "1.42 billion kWh (2016 est.)",
+"electricity_consumption": "1.321 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "375,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "1% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "93% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "6% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "6,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "4,769 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (2017 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "1.082 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "17,337",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "7,772,503",
+"subscriptions_per_100_inhabitants": "40 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "rudimentary; 2 fixed-line and&amp;nbsp;3 mobile-cellular operators govern the market; some&amp;nbsp;mobile services to rural areas; in a resolution to discourage crime the regulatory has imposed SIM card registration since 2018; 50 licensed ISPs; DSL services are available; LTE services are available (2018)",
+"domestic": "limited fixed-line subscribership&amp;nbsp;less than&amp;nbsp;1 per 100 households; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership approaching 40 per 100 households (2018)",
+"international": "country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "radio is the main broadcast medium; privately owned Zodiak radio has the widest national broadcasting reach, followed by state-run radio; numerous private and community radio stations broadcast in cities and towns around the country; the largest TV network is government-owned, but at least 4 private TV networks broadcast in urban areas; relays of multiple international broadcasters are available (2019)",
+"internet_country_code": ".mw",
+"internet_users": 
+{
+"total": "1,785,369",
+"percent_of_population": "9.6% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "9,220",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.85% of GDP",
+"2017": "0.76% of GDP",
+"2016": "0.64% of GDP",
+"2015": "0.63% of GDP",
+"2014": "0.82% of GDP",
+},
+"military_and_security_forces": "Malawi Defense Force (MDF): Army (includes Air Wing, Marine Unit); note - a 2017 amendment to Malawi&amp;rsquo;s Defense Force Act established a separate Army, Air Force, and Maritime Force within the MDF, but these services have yet to develop independent budgets, chains of command, and training institutions (2019)",
+"military_service_age_and_obligation": "18 years of age for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2014)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "2 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "6,010 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "5,467 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "7Q (2016)",
+"airports": "32 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "7 (2017)",
+"over_3_047_m": "1 (2017)",
+"1_524_to_2_437_m": "2 (2017)",
+"914_to_1_523_m": "4 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "25 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "11 (2013)",
+"under_914_m": "13 (2013)",
+}, 
+"railways": 
+{
+"total": "767 km (2014)",
+"narrow_gauge": "767 km 1.067-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "15,452 km (2015)",
+"paved": "4,074 km (2015)",
+"unpaved": "11,378 km (2015)",
+}, 
+"waterways": "700 km (on Lake Nyasa [Lake Malawi] and Shire River) (2010)",
+"ports_and_terminals": "Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyasa)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "27,531 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,752 (Burundi) (refugees and asylum seekers), 6,606 (Rwanda) (refugees and asylum seekers) (2019)",
+}
+}

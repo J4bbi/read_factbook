@@ -1,0 +1,572 @@
+{
+"name": "Thailand",
+"code": "TH",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;A unified Thai kingdom was established in the mid-14th century. Known as Siam until 1939, Thailand is the only Southeast Asian country never to have been colonized by a European power. A bloodless revolution in 1932 led to the establishment of a constitutional monarchy. After the Japanese invaded Thailand in 1941, the government split into a pro-Japan faction and a pro-Ally faction backed by the King. Following the war, Thailand became a US treaty ally in 1954 after sending troops to Korea and later fighting alongside the US in Vietnam. Thailand since 2005 has experienced several rounds of political turmoil including a military coup in 2006 that ousted then Prime Minister THAKSIN Chinnawat, followed by large-scale street protests by competing political factions in 2008, 2009, and 2010. THAKSIN&#39;s youngest sister, YINGLAK Chinnawat, in 2011 led the Puea Thai Party to an electoral win and assumed control of the government.&lt;/p&gt; &lt;p&gt;In early May 2014, after months of large-scale anti-government protests in Bangkok beginning in November 2013, YINGLAK was removed from office by the Constitutional Court and in late May 2014 the Royal Thai Army, led by Royal Thai Army Gen. PRAYUT Chan-ocha, staged a coup against the caretaker government. PRAYUT was appointed prime minister in August 2014. PRAYUT also serves as the head of the National Council for Peace and Order (NCPO), a military-affiliated body that oversees the interim government. This body created several interim institutions to promote reform and draft a new constitution, which was passed in a national referendum in August 2016. In late 2017, PRAYUT announced elections would be held by November 2018; he has subsequently suggested they might occur in February 2019. As of mid-December 2018, a previoulsy held ban on campaigning and political activity has been lifted and per parliamentary laws, an election must be held within 150 days. King PHUMIPHON Adunyadet passed away in October 2016 after 70 years on the throne; his only son, WACHIRALONGKON Bodinthrathepphayawarangkun, ascended the throne in December 2016. He signed the new constitution in April 2017. Thailand has also experienced violence associated with the ethno-nationalist insurgency in its southern Malay-Muslim majority provinces. Since January 2004, thousands have been killed and wounded in the insurgency.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southeastern Asia, bordering the Andaman Sea and the Gulf of Thailand, southeast of Burma",
+"geographic_coordinates": "15 00 N, 100 00 E",
+"map_references": "Southeast Asia",
+"area": 
+{
+"total": "513,120 sq km",
+"land": "510,890 sq km",
+"water": "2,230 sq km",
+}, 
+"area_comparative": "about three times the size of Florida; slightly more than twice the size of Wyoming",
+"land_boundaries": 
+{
+"total": "5,673 km",
+"border_countries": "Burma 2416 km, Cambodia 817 km, Laos 1845 km, Malaysia 595 km",
+}, 
+"coastline": "3,219 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"continental_shelf": " 200-m depth or to the depth of exploitation",
+}, 
+"climate": "tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid",
+"terrain": "central plain; Khorat Plateau in the east; mountains elsewhere",
+"elevation": 
+{
+"mean_elevation": "287 m",
+"lowest_point": "Gulf of Thailand 0 m",
+"highest_point": "Doi Inthanon 2,565 m",
+}, 
+"natural_resources": "tin, rubber, natural gas, tungsten, tantalum, timber, lead, fish, gypsum, lignite, fluorite, arable land",
+"land_use": 
+{
+"agricultural_land": "41.2% (2011 est.)",
+"agricultural_land_arable_land": "30.8% (2011 est.)",
+"agricultural_land_permanent_crops": "8.8% (2011 est.)",
+"agricultural_land_permanent_pasture": "1.6% (2011 est.)",
+"forest": "37.2% (2011 est.)",
+"other": "21.6% (2011 est.)",
+}, 
+"irrigated_land": "64,150 sq km (2012)",
+"population_distribution": "highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country",
+"natural_hazards": "land subsidence in Bangkok area resulting from the depletion of the water table; droughts",
+"environment_current_issues": "air pollution from vehicle emissions; water pollution from organic and factory wastes; water scarcity; deforestation; soil erosion; wildlife populations threatened by illegal hunting; hazardous waste disposal",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands",
+"signed_but_not_ratified": "Law of the Sea",
+}, 
+"geography_note": "controls only land route from Asia to Malaysia and Singapore; ideas for the construction of a canal across the Kra Isthmus that would create a bypass to the Strait of Malacca and shorten shipping times around Asia continue to be discussed",
+}, 
+"people_and_society": 
+{
+"population": "68,615,858 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Thai (singular and plural)",
+"adjective": "Thai",
+}, 
+"ethnic_groups": "Thai 97.5%, Burmese 1.3%, other 1.1%, unspecified &amp;lt;.1% (2015 est.)",
+"languages": "Thai (official) only 90.7%, Thai and other languages 6.4%, only other languages (includes Malay, Burmese) (2010 est.)",
+"religions": "Buddhist 94.6%, Muslim 4.3%, Christian 1%, other &lt;.1%, none &lt;.1% (2015 est.)",
+"age_structure": 
+{
+"0_14_years": "16.73% (male 5,880,026 /female 5,598,611)",
+"15_24_years": "13.83% (male 4,840,303 /female 4,649,589)",
+"25_54_years": "46.12% (male 15,670,881 /female 15,972,254)",
+"55_64_years": "12.35% (male 3,970,979 /female 4,503,647)",
+"65_years_and_over": "10.97% (male 3,289,576 /female 4,239,992) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "40 (2015 est.)",
+"youth_dependency_ratio": "25.2 (2015 est.)",
+"elderly_dependency_ratio": "14.8 (2015 est.)",
+"potential_support_ratio": "6.8 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "38.1 years (2018 est.)",
+"male": "37 years",
+"female": "39.2 years",
+}, 
+"population_growth_rate": "0.29% (2018 est.)",
+"birth_rate": "11 births/1,000 population (2018 est.)",
+"death_rate": "8.1 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country",
+"urbanization": 
+{
+"urban_population": "50.7% of total population (2019)",
+"rate_of_urbanization": "1.73% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "10.35 million BANGKOK (capital), 1.289 million Samut Prakan, 1.151 million Chiang Mai, 954,000 Songkla, 950,000 Nothaburi, 901,000 Pathum Thani (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "0.98 male(s)/female",
+"55_64_years": "0.88 male(s)/female",
+"65_years_and_over": "0.78 male(s)/female",
+"total_population": "0.96 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "23.3 years (2009 est.)",
+"maternal_mortality_rate": "37 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "9 deaths/1,000 live births (2018 est.)",
+"male": "9.9 deaths/1,000 live births",
+"female": "8 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "75.1 years (2018 est.)",
+"male": "71.9 years",
+"female": "78.5 years",
+}, 
+"total_fertility_rate": "1.52 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "78.4% (2015/16)",
+"drinking_water_source": 
+{
+"improved_urban": "97.6% of population",
+"improved_rural": "98% of population",
+"improved_total": "97.8% of population",
+"unimproved_urban": "2.4% of population",
+"unimproved_rural": "2% of population",
+"unimproved_total": "2.2% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.7% (2016)",
+"physicians_density": "0.81 physicians/1,000 population (2017)",
+"hospital_bed_density": "2.1 beds/1,000 population (2010)",
+"sanitation_facility_access": 
+{
+"improved_urban": "89.9% of population (2015 est.)",
+"improved_rural": "96.1% of population (2015 est.)",
+"improved_total": "93% of population (2015 est.)",
+"unimproved_urban": "10.1% of population (2015 est.)",
+"unimproved_rural": "3.9% of population (2015 est.)",
+"unimproved_total": "7% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "1.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "480,000 (2018 est.)",
+"hiv_aids_deaths": "18,000 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea (2016)",
+"vectorborne_diseases": "dengue fever, Japanese encephalitis, and malaria (2016)",
+}, 
+"obesity_adult_prevalence_rate": "10% (2016)",
+"children_under_the_age_of_5_years_underweight": "6.7% (2016)",
+"education_expenditures": "4.1% of GDP (2013)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "92.9%",
+"male": "94.7%",
+"female": "91.2% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "15 years",
+"female": "16 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "3.7%",
+"male": "3%",
+"female": "4.7% (2016 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Kingdom of Thailand",
+"conventional_short_form": "Thailand",
+"local_long_form": "Ratcha Anachak Thai",
+"local_short_form": "Prathet Thai",
+"former": "Siam",
+"etymology": "Land of the Tai [People]&quot;; the meaning of &quot;tai&quot; is uncertain, but may originally have meant &quot;human beings,&quot; &quot;people,&quot; or &quot;free people",
+}, 
+"government_type": "constitutional monarchy",
+"capital": 
+{
+"name": "Bangkok",
+"geographic_coordinates": "13 45 N, 100 31 E",
+"time_difference": "UTC+7 (12 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "76 provinces (changwat, singular and plural) and 1 municipality* (maha nakhon); Amnat Charoen, Ang Thong, Bueng Kan, Buri Ram, Chachoengsao, Chai Nat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chon Buri, Chumphon, Kalasin, Kamphaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Krung Thep* (Bangkok), Lampang, Lamphun, Loei, Lop Buri, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan, Narathiwat, Nong Bua Lamphu, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayutthaya, Phrae, Phuket, Prachin Buri, Prachuap Khiri Khan, Ranong, Ratchaburi, Rayong, Roi Et, Sa Kaeo, Sakon Nakhon, Samut Prakan, Samut Sakhon, Samut Songkhram, Saraburi, Satun, Sing Buri, Si Sa Ket, Songkhla, Sukhothai, Suphan Buri, Surat Thani, Surin, Tak, Trang, Trat, Ubon Ratchathani, Udon Thani, Uthai Thani, Uttaradit, Yala, Yasothon",
+"independence": "1238 (traditional founding date; never colonized)",
+"national_holiday": "Birthday of King WACHIRALONGKON, 28 July (1952)",
+"constitution": 
+{
+"history": "many previous; latest drafted and presented 29 March 2016, approved by referendum 7 August 2016, signed into law by the king 6 April 2017",
+"amendments": "proposed as a joint resolution by the Council of Ministers and the National Council for Peace and Order (the junta that has ruled Thailand since the 2014 coup) and submitted as a draft to the National Legislative Assembly; passage requires majority vote of the existing Assembly members and presentation to the monarch for assent and countersignature of the prime minister (2017)",
+}, 
+"legal_system": "civil law system with common law influences",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Thailand",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal and compulsory",
+"executive_branch": 
+{
+"chief_of_state": "King WACHIRALONGKON Bodinthrathepphayawarangkun, also spelled Vajiralongkorn Bodindradebayavarangkun, (since 1 December 2016); note - King PHUMIPHON Adunyadet, also spelled BHUMIBOL Adulyadej (since 9 June 1946) died 13 October 2016",
+"head_of_government": "Prime Minister PRAYUT Chan-ocha (since 25 August 2014); Deputy Prime Ministers PRAWIT Wongsuwan (since 31 August 2014), WISSANU Kruea-ngam (since 31 August 2014), SOMKHIT Chatusiphithak (since 20 August 2015), CHURIN Laksanawisit (since November 2019), ANUTHIN Chanwirakun (since November 2019)",
+"cabinet": "Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king",
+"elections_appointments": "the monarchy is hereditary; the House of Representatives and Senate approves a person for Prime Minister who must then be appointed by the King (as stated in the transitory provision of the 2017 constitution); the office of prime minister can be held for up to a total of 8 years",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral National Assembly or Rathhasapha&amp;nbsp;consists of:&lt;br /&gt;Senate or Wuthissapha&amp;nbsp;(250 seats; members appointed by the Royal Thai Army to serve&amp;nbsp;5-year terms)&lt;br /&gt;House of Representatives or Saphaphuthan Ratsadon&amp;nbsp;(500 seats; 375 members elected in single-seat constituencies by simple majority vote and 150 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)",
+"elections": "Senate - last held on 14 May 2019 (next to be held in 2024)&lt;br /&gt; &lt;br /&gt;House of Representatives - last held on 24 March 2019 (next to be held in 2023)",
+"election_results": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 224, women 26, percent of women 10.4%&lt;br /&gt;House of Representatives - percent of vote by party - PPRP 23.7%, PTP 22.2%, FFP 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%,&amp;nbsp; other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10,&amp;nbsp;PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition - men 421, women 79, percent of women 15.8%; note - total National Assembly percent of women 14%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Justice (consists of the court president, 6 vice presidents, 60-70 judges, and organized into 10 divisions); Constitutional Court (consists of the court president and 8 judges); Supreme Administrative Court (number of judges determined by Judicial Commission of the Administrative Courts)",
+"judge_selection_and_term_of_office": "Supreme Court judges selected by the Judicial Commission of the Courts of Justice and approved by the monarch; judge term determined by the monarch; Constitutional Court justices - 3 judges drawn from the Supreme Court, 2 judges drawn from the Administrative Court, and 4 judge candidates selected by the Selective Committee for Judges of the Constitutional Court, and confirmed by the Senate; judges appointed by the monarch serve single 9-year terms; Supreme Administrative Court judges selected by the Judicial Commission of the Administrative Courts and appointed by the monarch; judges serve for life",
+"subordinate_courts": "courts of first instance and appeals courts within both the judicial and administrative systems; military courts",
+}, 
+"political_parties_and_leaders": "Action Coalition of Thailand Party or ACT [CHATUMONGKHON Sonakun]&lt;br /&gt;Anakhot Mai Party (Future Forward Party) or FFP [THANATHON Chuengrungrueangkit]&lt;br /&gt;Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]&lt;br /&gt;Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]&lt;br /&gt;New Economics Party or NEP [MINGKHWAN Sangsuwan]&lt;br /&gt;Phalang Pracharat Party or PPP [UTTAMA Sawanayon]&lt;br /&gt;Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]&lt;br /&gt;Prachachat Party of PCC [WAN Muhamad NOOR Matha]&lt;br /&gt;Prachathipat Party (Democrat Party) or DP [CHURIN &lt;span class=&quot;st&quot;&gt;Laksanawisit&lt;/span&gt;]&lt;br /&gt;Puea Chat Party (For Nation Party) or PCP [SONGKHRAM Kitletpairot]&lt;br /&gt;Puea Thai Party (For Thais Party) or PTP [WIROT Paoin]&lt;br /&gt;Puea Tham Party (For Dharma Party) [NALINI Thawisin]&lt;br /&gt;Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]&lt;br /&gt;Thai Forest Conservation Party or TFCP [DAMRONG Phidet]&lt;br /&gt;Thai Local Power Party or TLP [collective leadership]&lt;br /&gt;Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]",
+"international_organization_participation": "ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Wirachai PLASAI (since 22 June 2018)",
+"chancery": "1024 Wisconsin Avenue NW, Suite 401, Washington, DC 20007",
+"telephone": "[1] (202) 944-3600",
+"fax": "[1] (202) 944-3611",
+"consulate_s_general": "Chicago, Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant); Charge d&#39;Affaires Michael HEATH (since August 2019)",
+"telephone": "[66] 2-205-4000",
+"embassy": "95 Wireless Road, Bangkok 10330",
+"mailing_address": "APO AP 96546",
+"fax": "[66] 2-205-4306",
+"consulate_s_general": "Chiang Mai",
+}, 
+"flag_description": "five horizontal bands of red (top), white, blue (double width), white, and red; the red color symbolizes the nation and the blood of life, white represents religion and the purity of Buddhism, and blue stands for the monarchy",
+"national_symbol_s": "garuda (mythical half-man, half-bird figure), elephant; national colors: red, white, blue",
+"national_anthem": 
+{
+"name": "&quot;Phleng Chat Thai&quot; (National Anthem of Thailand)",
+"lyrics_music": "Luang SARANUPRAPAN/Phra JENDURIYANG",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;With a relatively well-developed infrastructure, a free-enterprise economy, and generally pro-investment policies, Thailand is highly dependent on international trade, with exports accounting for about two thirds of GDP. Thailand&amp;rsquo;s exports include electronics, agricultural commodities, automobiles and parts, and processed foods. The industry and service sectors produce about 90% of GDP. The agricultural sector, comprised mostly of small-scale farms, contributes only 10% of GDP but employs about one third of the labor force. Thailand has attracted an estimated 3.0-4.5 million migrant workers, mostly from neighboring countries.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Over the last few decades, Thailand has reduced poverty substantially. In 2013, the Thai Government implemented a nationwide 300 baht (roughly $10) per day minimum wage policy and deployed new tax reforms designed to lower rates on middle-income earners.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Thailand&amp;rsquo;s economy is recovering from slow growth during the years since the 2014 coup. Thailand&amp;rsquo;s economic fundamentals are sound, with low inflation, low unemployment, and reasonable public and external debt levels. Tourism and government spending - mostly on infrastructure and short-term stimulus measures &amp;ndash; have helped to boost the economy, and The Bank of Thailand has been supportive, with several interest rate reductions.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Over the longer-term, household debt levels, political uncertainty, and an aging population pose risks to growth.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$1.236 trillion",
+"2016": "$1.19 trillion",
+"2015": "$1.152 trillion",
+},
+"gdp_official_exchange_rate": "$455.4 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.9%",
+"2016": "3.3%",
+"2015": "3%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$17,900",
+"2016": "$17,200",
+"2015": "$16,700",
+},
+"gross_national_saving":
+{
+"2017": "34.1% of GDP",
+"2016": "32.8% of GDP",
+"2015": "30.3% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "48.8% (2017 est.)",
+"government_consumption": "16.4% (2017 est.)",
+"investment_in_fixed_capital": "23.2% (2017 est.)",
+"investment_in_inventories": "-0.4% (2017 est.)",
+"exports_of_goods_and_services": "68.2% (2017 est.)",
+"imports_of_goods_and_services": "-54.6% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "8.2% (2017 est.)",
+"industry": "36.2% (2017 est.)",
+"services": "55.6% (2017 est.)",
+}, 
+"agriculture_products": "rice, cassava (manioc, tapioca), rubber, corn, sugarcane, coconuts, palm oil, pineapple, livestock, fish products",
+"industries": "tourism, textiles and garments, agricultural processing, beverages, tobacco, cement, light manufacturing such as jewelry and electric appliances, computers and parts, integrated circuits, furniture, plastics, automobiles and automotive parts, agricultural machinery, air conditioning and refrigeration, ceramics, aluminum, chemical, environmental management, glass, granite and marble, leather, machinery and metal work, petrochemical, petroleum refining, pharmaceuticals, printing, pulp and paper, rubber, sugar, rice, fishing, cassava, world&#39;s second-largest tungsten producer and third-largest tin producer",
+"industrial_production_growth_rate": "1.6% (2017 est.)",
+"labor_force": "38.37 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "31.8%",
+"industry": "16.7%",
+"services": "51.5% (2015 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "0.7%",
+"2016": "0.8%",
+},
+"population_below_poverty_line": "7.2% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.8%",
+"highest_10": "31.5% (2009 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2015": "44.5",
+"2011": "48.4",
+},
+"budget": 
+{
+"revenues": "69.23 billion (2017 est.)",
+"expenditures": "85.12 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "15.2% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3.5% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "41.9% of GDP",
+"2016": "41.8% of GDP",
+},
+"fiscal_year": "1 October - 30 September",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.7%",
+"2016": "0.2%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2016": "1.5%",
+"31 December 2015": "1.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "4.42%",
+"31 December 2016": "4.47%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$62.39 billion",
+"31 December 2016": "$52.03 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$62.39 billion",
+"31 December 2016": "$52.03 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$584.9 billion",
+"31 December 2016": "$508.4 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$348.8 billion",
+"31 December 2014": "$430.4 billion",
+"31 December 2013": "$354.4 billion",
+},
+"current_account_balance":
+{
+"2017": "$51.08 billion",
+"2016": "$48.24 billion",
+},
+"exports":
+{
+"2017": "$235.1 billion",
+"2016": "$214.3 billion",
+},
+"exports_partners": "China 12.4%, US 11.2%, Japan 9.5%, Hong Kong 5.2%, Vietnam 4.9%, Australia 4.5%, Malaysia 4.4% (2017)",
+"exports_commodities": "automobiles and parts, computer and parts, jewelry and precious stones, polymers of ethylene in primary forms, refine fuels, electronic integrated circuits, chemical products, rice, fish products, rubber products, sugar, cassava, poultry, machinery and parts, iron and steel and their products",
+"imports":
+{
+"2017": "$203.2 billion",
+"2016": "$177.7 billion",
+},
+"imports_commodities": "machinery and parts, crude oil, electrical machinery and parts, chemicals, iron &amp; steel and product, electronic integrated circuit, automobile’s parts, jewelry including silver bars and gold, computers and parts, electrical household appliances, soybean, soybean meal, wheat, cotton, dairy products",
+"imports_partners": "China 20%, Japan 14.5%, US 6.8%, Malaysia 5.4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$202.6 billion",
+"31 December 2016": "$171.9 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$132 billion",
+"31 December 2016": "$130.6 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$227.8 billion",
+"31 December 2016": "$193.5 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$117.4 billion",
+"31 December 2016": "$96.27 billion",
+},
+"exchange_rates": 
+{
+"currency": "baht per US dollar -",
+"exchange_rates":
+{
+"2017": "34.34",
+"2016": "35.296",
+"2015": "35.296",
+"2014": "34.248",
+"2013": "32.48",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "181.5 billion kWh (2016 est.)",
+"electricity_consumption": "187.7 billion kWh (2016 est.)",
+"electricity_exports": "2.267 billion kWh (2015 est.)",
+"electricity_imports": "19.83 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "44.89 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "76% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "8% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "16% of total installed capacity (2017 est.)",
+"crude_oil_production": "228,000 bbl/day (2018 est.)",
+"crude_oil_exports": "790 bbl/day (2015 est.)",
+"crude_oil_imports": "875,400 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "349.4 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "1.328 million bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "1.326 million bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "278,300 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "134,200 bbl/day (2015 est.)",
+"natural_gas_production": "38.59 billion cu m (2017 est.)",
+"natural_gas_consumption": "52.64 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "14.41 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "193.4 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "355 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "2.91 million",
+"subscriptions_per_100_inhabitants": "4 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "121.53 million",
+"subscriptions_per_100_inhabitants": "178 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "high quality system, especially in urban areas like Bangkok; mobile and mobile broadband penetration&amp;nbsp;are on the increase; Fibre-to-the-home (FttH) has seen strong growth in the major&amp;nbsp;cities; 4G&amp;nbsp;TD-LTE and moving to 5G trials;&amp;nbsp;seven smart cities with the hope of 100 smart cities within its borders in the next two decades; one of the biggest e-commerce markets in Southeast Asia (2018)",
+"domestic": "fixed-line system provided by both a government-owned and commercial provider; wireless service expanding rapidly; fixed-line 4 per 100 and mobile-cellular 178 per 100 (2018)",
+"international": "country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT and AAG submarine cable systems providing links throughout Asia, Australia, Africa, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019)",
+}, 
+"broadcast_media": "26 digital TV stations in Bangkok broadcast nationally, 6 terrestrial TV stations in Bangkok broadcast nationally via relay stations - 2 of the stations are owned by the military, the other 4 are government-owned or controlled, leased to private enterprise, and all are required to broadcast government-produced news programs twice a day; multi-channel satellite and cable TV subscription services are available; radio frequencies have been allotted for more than 500 government and commercial radio stations; many small community radio stations operate with low-power transmitters (2017)",
+"internet_country_code": ".th",
+"internet_users": 
+{
+"total": "32,398,778",
+"percent_of_population": "47.5% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "8.208 million",
+"subscriptions_per_100_inhabitants": "12 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.33% of GDP",
+"2017": "1.37% of GDP",
+"2016": "1.44% of GDP",
+"2015": "1.43% of GDP",
+"2014": "1.41% of GDP",
+},
+"military_and_security_forces": "Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA, includes paramilitary Thai Rangers (Thahan Phrahan)), Royal Thai Navy (Kongthap Ruea Thai, RTN, includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Interior Ministry paramilitary forces: Volunteer Defense Corps (2018)",
+"military_service_age_and_obligation": "21 years of age for compulsory military service; 18 years of age for voluntary military service; males register at 18 years of age; 2-year conscript service obligation based on lottery (2018)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "19 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "276 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "54,259,629 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "2,134,149,001 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "HS (2016)",
+"airports": "101 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "63 (2013)",
+"over_3_047_m": "8 (2013)",
+"2_438_to_3_047_m": "12 (2013)",
+"1_524_to_2_437_m": "23 (2013)",
+"914_to_1_523_m": "14 (2013)",
+"under_914_m": "6 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "38 (2013)",
+"2_438_to_3_047_m": "1 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "10 (2013)",
+"under_914_m": "26 (2013)",
+}, 
+"heliports": "7 (2013)",
+"pipelines": "2 km condensate, 5900 km gas, 85 km liquid petroleum gas, 1 km oil, 1097 km refined products (2013)",
+"railways": 
+{
+"total": "4,127 km (2017)",
+"standard_gauge": "84 km 1.435-m gauge (84 km electrified) (2017)",
+"narrow_gauge": "4,043 km 1.000-m gauge (2017)",
+}, 
+"roadways": "180,053 km (includes 450 km of expressways) (2006)",
+"waterways": "4,000 km (3,701 km navigable by boats with drafts up to 0.9 m) (2011)",
+"merchant_marine": 
+{
+"total": "807",
+"by_type": "bulk carrier 27, container ship 25, general cargo 91, oil tanker 241, other 423 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha",
+"container_port_s_teus": "Laem Chabang (7,227,431) (2017)",
+"lng_terminal_s_import": "Map Ta Phut",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;separatist violence in Thailand&#39;s predominantly Malay-Muslim southern provinces prompt border closures and controls with Malaysia to stem insurgent activities; Southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Laos but disputes remain over several islands in the Mekong River; despite continuing border committee talks, Thailand must deal with Karen and other ethnic rebels, refugees, and illegal cross-border activities; Cambodia and Thailand dispute sections of boundary; in 2011, Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear temple ruins, awarded to Cambodia by ICJ decision in 1962 and part of a planned UN World Heritage site; Thailand is studying the feasibility of jointly constructing the Hatgyi Dam on the Salween river near the border with Burma; in 2004, international environmentalist pressure prompted China to halt construction of 13 dams on the Salween River that flows through China, Burma, and Thailand; approximately 100,000 mostly Karen refugees fleeing civil strife, political upheaval and economic stagnation in Burma live in remote camps in Thailand near the border&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "97,603 (Burma) (2018)",
+"stateless_persons": "478,883 (2018) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand&#39;s northern hill tribe people do not have citizenship and make up the bulk of Thailand&#39;s stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving",
+}, 
+"trafficking_in_persons": 
+{
+"current_situation": "Thailand is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; victims from Burma, Cambodia, Laos, China, Vietnam, Uzbekistan, and India, migrate to Thailand in search of jobs but are forced, coerced, or defrauded into labor in commercial fishing, fishing-related industries, factories, domestic work, street begging, or the sex trade; some Thai, Burmese, Cambodian, and Indonesian men forced to work on fishing boats are kept at sea for years; sex trafficking of adults and children from Thailand, Laos, Vietnam, and Burma remains a significant problem; Thailand is a transit country for victims from China, Vietnam, Bangladesh, and Burma subjected to sex trafficking and forced labor in Malaysia, Indonesia, Singapore, Russia, South Korea, the US, and countries in Western Europe; Thai victims are also trafficked in North America, Europe, Africa, Asia, and the Middle East",
+"tier_rating": "Tier 2 Watch List - Thailand does not fully comply with the minimum standards for the elimination of trafficking, and is not making significant efforts to do so; in 2014, authorities investigated, prosecuted, and convicted fewer traffickers and identified fewer victims; some cases of official complicity were investigated and prosecuted, but trafficking-related corruption continues to hinder progress in combatting trafficking; authorities’ efforts to screen for victims among vulnerable populations remained inadequate due to a poor understanding of trafficking indicators, a failure to recognize non-physical forms of coercion, and a shortage of language interpreters; the government passed new labor laws increasing the minimum age in the fishing industry to 18 years old, guaranteeing the minimum wage, and requiring work contracts, but weak law enforcement and poor coordination among regulatory agencies enabled exploitive labor practices to continue; the government increased efforts to raise public awareness to the dangers of human trafficking and to deny entry to foreign sex tourists (2015)",
+}, 
+"illicit_drugs": "a minor producer of opium, heroin, and marijuana; transit point for illicit heroin en route to the international drug market from Burma and Laos; eradication efforts have reduced the area of cannabis cultivation and shifted some production to neighboring countries; opium poppy cultivation has been reduced by eradication efforts; also a drug money-laundering center; minor role in methamphetamine production for regional consumption; major consumer of methamphetamine since the 1990s despite a series of government crackdowns",
+}
+}

@@ -1,0 +1,513 @@
+{
+"name": "Maldives",
+"code": "MV",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;A sultanate since the 12th century, the Maldives became a British protectorate in 1887. The islands became a republic in 1968, three years after independence. President Maumoon Abdul GAYOOM dominated Maldives&#39; political scene for 30 years, elected to six successive terms by single-party referendums. Following political demonstrations in the capital Male in August 2003, GAYOOM and his government pledged to embark upon a process of liberalization and democratic reforms, including a more representative political system and expanded political freedoms. Political parties were legalized in 2005.&lt;/p&gt; &lt;p&gt;In June 2008, a constituent assembly - termed the &quot;Special Majlis&quot; - finalized a new constitution ratified by GAYOOM in August 2008. The first-ever presidential elections under a multi-candidate, multi-party system were held in October 2008. GAYOOM was defeated in a runoff poll by Mohamed NASHEED, a political activist who had been jailed several years earlier by the GAYOOM regime. In early February 2012, after several weeks of street protests in response to his ordering the arrest of a top judge, NASHEED purportedly resigned the presidency and handed over power to Vice President Mohammed WAHEED Hassan Maniku. A government-appointed Commission of National Inquiry concluded there was no evidence of a coup, but NASHEED contends that police and military personnel forced him to resign. NASHEED, WAHEED, and Abdulla YAMEEN Abdul Gayoom ran in the 2013 elections with YAMEEN ultimately winning the presidency after three rounds of voting. As president, YAMEEN weakened democratic institutions, curtailed civil liberties, jailed his political opponents, restricted the press, and exerted control over the judiciary to strengthen his hold on power and limit dissent. In September 2018, YAMEEN lost his reelection bid to Ibrahim Mohamed SOLIH, a parliamentarian of the Maldivian Democratic Party (MDP), who had the support of a coalition of four parties that came together to defeat YAMEEN and restore democratic norms to Maldives. In April 2019, SOLIH&#39;s MDP won 65 of 87 seats in parliament.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southern Asia, group of atolls in the Indian Ocean, south-southwest of India",
+"geographic_coordinates": "3 15 N, 73 00 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "298 sq km",
+"land": "298 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "about 1.7 times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "644 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+}, 
+"climate": "tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)",
+"terrain": "flat, with white sandy beaches",
+"elevation": 
+{
+"mean_elevation": "2 m",
+"lowest_point": "Indian Ocean 0 m",
+"highest_point": "8th tee, golf course, Villingi Island 5 m",
+}, 
+"natural_resources": "fish",
+"land_use": 
+{
+"agricultural_land": "23.3% (2011 est.)",
+"agricultural_land_arable_land": "10% (2011 est.)",
+"agricultural_land_permanent_crops": "10% (2011 est.)",
+"agricultural_land_permanent_pasture": "3.3% (2011 est.)",
+"forest": "3% (2011 est.)",
+"other": "73.7% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago",
+"natural_hazards": "tsunamis; low elevation of islands makes them sensitive to sea level rise",
+"environment_current_issues": "depletion of freshwater aquifers threatens water supplies; inadequate sewage treatment; coral reef bleaching",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atolls (200 inhabited islands, plus 80 islands with tourist resorts); strategic location astride and along major sea lanes in Indian Ocean",
+}, 
+"people_and_society": 
+{
+"population": "392,473 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Maldivian(s)",
+"adjective": "Maldivian",
+}, 
+"ethnic_groups": "homogeneous mixture of Sinhalese, Dravidian, Arab, Australasian, and African resulting from historical changes in regional hegemony over marine trade routes",
+"languages": "Dhivehi (official, dialect of Sinhala, script derived from Arabic), English (spoken by most government officials)",
+"religions": "Sunni Muslim (official)",
+"age_structure": 
+{
+"0_14_years": "21.62% (male 43,293 /female 41,563)",
+"15_24_years": "19.15% (male 42,849 /female 32,326)",
+"25_54_years": "48.47% (male 106,083 /female 84,160)",
+"55_64_years": "6.22% (male 11,888 /female 12,540)",
+"65_years_and_over": "4.53% (male 8,101 /female 9,670) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "38 (2015 est.)",
+"youth_dependency_ratio": "32.3 (2015 est.)",
+"elderly_dependency_ratio": "5.7 (2015 est.)",
+"potential_support_ratio": "17.7 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "28.6 years (2018 est.)",
+"male": "28.4 years",
+"female": "28.8 years",
+}, 
+"population_growth_rate": "-0.06% (2018 est.)",
+"birth_rate": "16.1 births/1,000 population (2018 est.)",
+"death_rate": "4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-12.7 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago",
+"urbanization": 
+{
+"urban_population": "40.2% of total population (2019)",
+"rate_of_urbanization": "2.93% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "177,000 MALE (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.33 male(s)/female",
+"25_54_years": "1.26 male(s)/female",
+"55_64_years": "0.95 male(s)/female",
+"65_years_and_over": "0.84 male(s)/female",
+"total_population": "1.18 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "24.5 years (2009 est.)",
+"maternal_mortality_rate": "53 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "21.3 deaths/1,000 live births (2018 est.)",
+"male": "23.6 deaths/1,000 live births",
+"female": "18.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "76 years (2018 est.)",
+"male": "73.7 years",
+"female": "78.5 years",
+}, 
+"total_fertility_rate": "1.72 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "34.7% (2009)",
+"drinking_water_source": 
+{
+"improved_urban": "99.5% of population",
+"improved_rural": "97.9% of population",
+"improved_total": "98.6% of population",
+"unimproved_urban": "0.5% of population",
+"unimproved_rural": "2.1% of population",
+"unimproved_total": "1.4% of population (2015 est.)",
+}, 
+"current_health_expenditure": "10.6% (2016)",
+"physicians_density": "1.04 physicians/1,000 population (2016)",
+"hospital_bed_density": "4.3 beds/1,000 population (2009)",
+"sanitation_facility_access": 
+{
+"improved_urban": "97.5% of population (2015 est.)",
+"improved_rural": "98.3% of population (2015 est.)",
+"improved_total": "97.9% of population (2015 est.)",
+"unimproved_urban": "2.5% of population (2015 est.)",
+"unimproved_rural": "1.7% of population (2015 est.)",
+"unimproved_total": "2.1% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "8.6% (2016)",
+"children_under_the_age_of_5_years_underweight": "17.7% (2009)",
+"education_expenditures": "4.1% of GDP (2016)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.3%",
+"male": "99.8%",
+"female": "98.8% (2015)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "15.9%",
+"male": "19.1%",
+"female": "12.1% (2016 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Maldives",
+"conventional_short_form": "Maldives",
+"local_long_form": "Dhivehi Raajjeyge Jumhooriyyaa",
+"local_short_form": "Dhivehi Raajje",
+"etymology": "archipelago apparently named after the main island (and capital) of Male; the word &quot;Maldives&quot; means &quot;the islands (dives) of Male&quot;; alternatively, the name may derive from the Sanskrit word &quot;maladvipa&quot; meaning &quot;garland of islands&quot;; Dhivehi Raajje in Dhivehi means &quot;Kingdom of the Dhivehi people&quot;",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Male",
+"geographic_coordinates": "4 10 N, 73 30 E",
+"time_difference": "UTC+5 (10 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "21 administrative atolls (atholhuthah, singular - atholhu); Addu (Addu City), Ariatholhu Dhekunuburi (South Ari Atoll), Ariatholhu Uthuruburi (North Ari Atoll), Faadhippolhu, Felidhuatholhu (Felidhu Atoll), Fuvammulah, Hahdhunmathi, Huvadhuatholhu Dhekunuburi (South Huvadhu Atoll), Huvadhuatholhu Uthuruburi (North Huvadhu Atoll), Kolhumadulu, Maale (Male), Maaleatholhu (Male Atoll), Maalhosmadulu Dhekunuburi (South Maalhosmadulu), Maalhosmadulu Uthuruburi (North Maalhosmadulu), Miladhunmadulu Dhekunuburi (South Miladhunmadulu), Miladhunmadulu Uthuruburi (North Miladhunmadulu), Mulakatholhu (Mulaku Atoll), Nilandheatholhu Dhekunuburi (South Nilandhe Atoll), Nilandheatholhu Uthuruburi (North Nilandhe Atoll), Thiladhunmathee Dhekunuburi (South Thiladhunmathi), Thiladhunmathee Uthuruburi (North Thiladhunmathi)",
+"independence": "26 July 1965 (from the UK)",
+"national_holiday": "Independence Day, 26 July (1965)",
+"constitution": 
+{
+"history": "many previous; latest ratified 7 August 2008",
+"amendments": "proposed by Parliament; passage requires at least three-quarters majority vote by its membership and the signature of the president of the republic; passage of amendments to constitutional articles on rights and freedoms and the terms of office of Parliament and of the president also requires a majority vote in a referendum; amended 2015 (2018)",
+}, 
+"legal_system": "Islamic (sharia) legal system with English common law influences, primarily in commercial matters",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Maldives",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "unknown",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Ibrahim &quot;Ibu&quot; Mohamed SOLIH (since 17 November 2018); Vice President&amp;nbsp;Faisal NASEEM (since 17 November 2018); the president is both chief of state and head of government",
+"head_of_government": "President Ibrahim Mohamed SOLIH (since 17 November 2018); Vice President&amp;nbsp;Faisal NASEEM (since 17&amp;nbsp;November 2018)",
+"cabinet": "Cabinet of Ministers appointed by the president, approved by Parliament",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held in 2023)",
+"election_results": "Ibrahim Mohamed SOLIH elected president (in 1 round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Parliament or People&#39;s Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)",
+"elections": "last held on&amp;nbsp;6 April 2019&amp;nbsp;(next to be held in 2023)",
+"election_results": "percent of vote - MDP 44.7%, JP 10.8%, PPM 8.7%, PNC 6.4%, MDA 2.8%, other 5.6%, independent 21%; seats by party - MDP 65, JP 5, PPM 5, PNC 3, MDA 2, independent 7; composition - men 83, women 4, percent of women 4.6%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the chief justice and 4-6 justices; note - 3 justices as of late 2019)",
+"judge_selection_and_term_of_office": "Supreme Court judges appointed by the president in consultation with the Judicial Service Commission - a 10-member body of selected high government officials and the public - and upon confirmation by voting members of the People&#39;s Majlis; judges serve until mandatory retirement at age 70",
+"subordinate_courts": "High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)",
+}, 
+"political_parties_and_leaders": "Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]&lt;br /&gt;Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]&lt;br /&gt;Maldivian Democratic Party or MDP [Mohamed NASHEED]&lt;br /&gt;Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]&lt;br /&gt;Maldives Third Way Democrats or MTD [Ahmed ADEEB]&lt;br /&gt;Maldives Reform Movement or MRM [Maumoon Abdul GAYOOM]&lt;br /&gt;People&#39;s National Congress or PNC [Abdul Raheem ABDULLA] (formed in early 2019)&lt;br /&gt;Progressive Party of Maldives or PPM [Abdulla YAMEEN]&lt;br /&gt;Republican (Jumhooree) Party or JP [Qasim IBRAHIM] (2019)",
+"international_organization_participation": "ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador THILMEEZA Hussain (since 8 July 2019)",
+"chancery": "801 Second Avenue, Suite 400E, New York, NY 10017",
+"telephone": "[1] (212) 599-6194 and 599-6195",
+"fax": "[1] (212) 661-6405",
+}, 
+"diplomatic_representation_from_the_us": "the US does not have an embassy in Maldives; US Ambassador to Sri Lanka and Maldives,&amp;nbsp;Alaina TEPLITZ&amp;nbsp;(since 1 November 2018), is accredited to both countries",
+"flag_description": "red with a large green rectangle in the center bearing a vertical white crescent moon; the closed side of the crescent is on the hoist side of the flag; red recalls those who have sacrificed their lives in defense of their country, the green rectangle represents peace and prosperity, and the white crescent signifies Islam",
+"national_symbol_s": "coconut palm, yellowfin tuna; national colors: red, green, white",
+"national_anthem": 
+{
+"name": "&quot;Gaumee Salaam&quot; (National Salute)",
+"lyrics_music": "Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Maldives has quickly become a middle-income country, driven by the rapid growth of its tourism and fisheries sectors, but the country still contends with a large and growing fiscal deficit. Infrastructure projects, largely funded by China, could add significantly to debt levels. Political turmoil and the declaration of a state of emergency in February 2018 led to the issuance of travel warnings by several countries whose citizens visit Maldives in significant numbers, but the overall impact on tourism revenue was unclear.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In 2015, Maldives’ Parliament passed a constitutional amendment legalizing foreign ownership of land; foreign land-buyers must reclaim at least 70% of the desired land from the ocean and invest at least $1 billion in a construction project approved by Parliament.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Diversifying the economy beyond tourism and fishing, reforming public finance, increasing employment opportunities, and combating corruption, cronyism, and a growing drug problem are near-term challenges facing the government. Over the longer term, Maldivian authorities worry about the impact of erosion and possible global warming on their low-lying country; 80% of the area is 1 meter or less above sea level.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$6.901 billion",
+"2016": "$6.583 billion",
+"2015": "$6.3 billion",
+},
+"gdp_official_exchange_rate": "$4.505 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4.8%",
+"2016": "4.5%",
+"2015": "2.2%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$19,200",
+"2016": "$18,600",
+"2015": "$18,100",
+},
+"gross_national_saving":
+{
+"2017": "0.5% of GDP",
+"2016": "-4.5% of GDP",
+"2015": "12.6% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": " NA (2016 est.)",
+"government_consumption": " NA (2016 est.)",
+"investment_in_fixed_capital": " NA (2016 est.)",
+"investment_in_inventories": " NA (2016 est.)",
+"exports_of_goods_and_services": "93.6% (2016 est.)",
+"imports_of_goods_and_services": "89% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "3% (2015 est.)",
+"industry": "16% (2015 est.)",
+"services": "81% (2015 est.)",
+}, 
+"agriculture_products": "coconuts, corn, sweet potatoes; fish",
+"industries": "tourism, fish processing, shipping, boat building, coconut processing, woven mats, rope, handicrafts, coral and sand mining",
+"industrial_production_growth_rate": "14% (2012 est.)",
+"labor_force": "222,200 (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "7.7%",
+"industry": "22.8%",
+"services": "69.5% (2017 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "2.9%",
+"2016": "3.2%",
+},
+"population_below_poverty_line": "15% (2009 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.2%",
+"highest_10": "33.3% (FY09/10)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2009": "38.4",
+"2004": "37.4",
+},
+"budget": 
+{
+"revenues": "1.19 billion (2016 est.)",
+"expenditures": "1.643 billion (2016 est.)",
+}, 
+"taxes_and_other_revenues": "26.4% (of GDP) (2016 est.)",
+"budget_surplus_or_deficit": "-10.1% (of GDP) (2016 est.)",
+"public_debt":
+{
+"2017": "63.9% of GDP",
+"2016": "61.7% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "2.3%",
+"2016": "0.8%",
+},
+"central_bank_discount_rate":
+{
+"30 September 2017": "7%",
+"30 September 2016": "7%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2012": "10.5%",
+"31 December 2011": "10.2%",
+},
+"stock_of_narrow_money":
+{
+"31 October 2017": "$908.6 million",
+"31 October 2016": "$865.9 million",
+},
+"stock_of_broad_money":
+{
+"31 October 2017": "$1.982 billion",
+"31 October 2016": "$2.043 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2012": "$1.559 billion",
+"31 December 2011": "$1.601 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2011": "$555 million",
+},
+"current_account_balance":
+{
+"2017": "-$876 million",
+"2016": "-$1.033 billion",
+},
+"exports":
+{
+"2016": "$256.2 million",
+"2015": "$239.8 million",
+},
+"exports_partners": "Thailand 42.8%, Sri Lanka 8.7%, Bangladesh 6.4%, France 6.2%, US 6.1%, Germany 5%, Ireland 4.6% (2017)",
+"exports_commodities": "fish",
+"imports":
+{
+"2016": "$2.125 billion",
+"2015": "$1.896 billion",
+},
+"imports_commodities": "petroleum products, clothing, intermediate and capital goods",
+"imports_partners": "UAE 17.1%, India 13.5%, Singapore 13.3%, China 10.8%, Sri Lanka 6.7%, Malaysia 6%, Thailand 4.5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2016": "$477.9 million",
+"31 December 2015": "$575.8 million",
+},
+"debt_external":
+{
+"31 December 2016": "$848.8 million",
+"31 December 2015": "$696.2 million",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2015": "$324 million",
+"31 December 2013": "$256 million",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2016": "$448 million",
+"31 December 2015": "$307.7 million",
+},
+"exchange_rates": 
+{
+"currency": "rufiyaa (MVR) per US dollar -",
+"exchange_rates":
+{
+"2017": "15.42",
+"2016": "15.35",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "402 million kWh (2016 est.)",
+"electricity_consumption": "373.9 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "278,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "96% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "4% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "11,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "10,840 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2016 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "1.648 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "20,377",
+"subscriptions_per_100_inhabitants": "5 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "900,120",
+"subscriptions_per_100_inhabitants": "229 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "all inhabited islands and resorts are connected with telephone and fax service; two mobile operators extend LTE coverage;&amp;nbsp;&amp;nbsp;tourism has strengthened the telecom market with investment; the unusually high mobile penetration rate is also helped by tourism; Internet bandwidth increased 37% in 2016; mobile penetration passes 250% (2018)",
+"domestic": "fixed-line is at 5 per 100 persons and high mobile-cellular subscriptions stands at 229 per 100 persons (2018)",
+"international": "country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka;&amp;nbsp;satellite earth station - 3 Intelsat (Indian Ocean) (2019)",
+}, 
+"broadcast_media": "state-owned radio and TV monopoly until recently;&amp;nbsp;4 state-operated and 7 privately owned TV stations and 4 state-operated and 7 privately owned radio stations (2019)",
+"internet_country_code": ".mv",
+"internet_users": 
+{
+"total": "232,210",
+"percent_of_population": "59.1% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "36,001",
+"subscriptions_per_100_inhabitants": "9 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "Maldives National Defense Force (MNDF): Marine Corps, Special Protection Group, Coast Guard (2018)",
+"military_service_age_and_obligation": "18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party",
+"military_note": "Maldives National Defense Force (MNDF), with its small size and with little serviceable equipment, is inadequate to prevent external aggression and is primarily tasked to reinforce Maldives Police Service (MPS) and ensure security in the exclusive economic zone (2015)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "3 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "15 (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "8Q (2016)",
+"airports": "9 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "7 (2017)",
+"over_3_047_m": "1 (2017)",
+"2_438_to_3_047_m": "1 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+"914_to_1_523_m": "4 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "2 (2013)",
+"914_to_1_523_m": "2 (2013)",
+}, 
+"roadways": 
+{
+"total": "93 km (2018)",
+"paved": "93 km - 60 km in Male; 16 km on Addu Atolis; 17 km on Laamu (2018)",
+}, 
+"merchant_marine": 
+{
+"total": "67",
+"by_type": "bulk carrier 1, general cargo 27, oil tanker 15, other 24 (2018)",
+}, 
+"ports_and_terminals": "Male",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+"trafficking_in_persons": 
+{
+"current_situation": "Maldives is a destination country for men, women, and children subjected to forced labor and sex trafficking and a source country for women and children subjected to labor and sex trafficking; primarily Bangladeshi and Indian migrants working both legally and illegally in the construction and service sectors face conditions of forced labor, including fraudulent recruitment, confiscation of identity and travel documents, nonpayment and withholding of wages, and debt bondage; a small number of women from Asia, Eastern Europe, and former Soviet states are trafficked to Maldives for sexual exploitation; Maldivian women may be subjected to sex trafficking domestically or in Sri Lanka; some Maldivian children are transported to the capital for domestic service, where they may also be victims of sexual abuse and forced labor",
+"tier_rating": "Tier 2 Watch List – Maldives does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government adopted a national action plan for 2015-19 and is continuing to develop victim identification, protection, and referral procedures, but overall its anti-trafficking efforts did not increase; only five trafficking investigations were conducted, no new prosecutions were initiated for the second consecutive year, and no convictions were made, down from one in 2013; some officials warned businesses in advance of planned raids for suspected trafficking offenses; victim protection deteriorated when the state-run shelter for female victims barred access to victims shortly after opening in January 2014, in part because of bureaucratic disputes, which dissuaded victims from pursuing charges against perpetrators; the government did not prosecute or hold accountable any employers or government officials for withholding passports (2015)",
+}, 
+}
+}

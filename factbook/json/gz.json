@@ -1,0 +1,343 @@
+{
+"name": "Gaza Strip",
+"code": "GZ",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Inhabited since at least the 15th century B.C., the Gaza Strip has been dominated by many different peoples and empires throughout its history; it was incorporated into the Ottoman Empire in the early 16th century. The Gaza Strip fell to British forces during World War I, becoming a part of the British Mandate of Palestine. Following the 1948 Arab-Israeli War, Egypt administered the newly formed Gaza Strip; Israel captured it in the Six-Day War in 1967. Under a series of agreements known as the Oslo accords signed between 1993 and 1999, Israel transferred to the newly-created Palestinian Authority (PA) security and civilian responsibility for many Palestinian-populated areas of the Gaza Strip as well as the West Bank. In 2000, a violent intifada or uprising began, and in 2001 negotiations to determine the permanent status of the West bank and Gaza Strip stalled. Subsequent attempts to re-start negotiations have not resulted in progress toward determining final status of the Israeli-Palestinian conflict.&lt;/p&gt; &lt;p&gt;Israel by late 2005 unilaterally withdrew all of its settlers and soldiers and dismantled its military facilities in the Gaza Strip, but it continues to control the Gaza Strip&amp;rsquo;s land and maritime borders and airspace. In early 2006, the Islamic Resistance Movement (HAMAS) won a majority in the Palestinian Legislative Council election. Attempts to form a unity government between Fatah, the dominant Palestinian political faction in the West Bank, and HAMAS failed, leading to violent clashes between their respective supporters and HAMAS&#39;s violent seizure of all military and governmental institutions in the Gaza Strip in June 2007. Since HAMAS&amp;rsquo;s takeover, Israel and Egypt have enforced tight restrictions on movement and access of goods and individuals into and out of the territory. Fatah and HAMAS have since reached a series of agreements aimed at restoring political unity between the Gaza Strip and the West Bank but have struggled to enact them; a reconciliation agreement signed in October 2017 remains unimplemented.&lt;/p&gt; &lt;p&gt;In July 2014, HAMAS and other Gaza-based militant groups engaged in a 51-day conflict with Israel culminating in late August with an open-ended truce. Since 2014, Palestinian militants and the Israel Defense Forces have exchanged projectiles and air strikes respectively, sometimes lasting multiple days and resulting in multiple deaths on both sides. Egypt, Qatar, and the UN Special Coordinator for the Middle East Peace Process have negotiated multiple ceasefires to avert a broader conflict. Since March 2018, HAMAS has coordinated weekly demonstrations along the Gaza security fence, many of which have turned violent, resulting in one Israeli soldier death and several Israeli soldier injuries as well as more than 200 Palestinian deaths and thousands of injuries.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Middle East, bordering the Mediterranean Sea, between Egypt and Israel",
+"geographic_coordinates": "31 25 N, 34 20 E",
+"map_references": "Middle East",
+"area": 
+{
+"total": "360 sq km",
+"land": "360 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly more than twice the size of Washington, DC",
+"land_boundaries": 
+{
+"total": "72 km",
+"border_countries": "Egypt 13 km, Israel 59 km",
+}, 
+"coastline": "40 km",
+"maritime_claims": "see entry for Israel &lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; effective 3 January 2009, the Gaza maritime area is closed to all maritime traffic and is under blockade imposed by Israeli Navy until further notice&lt;/p&gt;", 
+"climate": "temperate, mild winters, dry and warm to hot summers",
+"terrain": "flat to rolling, sand- and dune-covered coastal plain",
+"elevation": 
+{
+"lowest_point": "Mediterranean Sea 0 m",
+"highest_point": "Abu &#39;Awdah (Joz Abu &#39;Awdah) 105 m",
+}, 
+"natural_resources": "arable land, natural gas",
+"irrigated_land": " 240 sq km; note - includes the West Bank (2012)",
+"population_distribution": "population concentrated in major cities, particularly Gaza City in the north",
+"natural_hazards": "droughts",
+"environment_current_issues": "soil degradation; desertification; water pollution from chemicals and pesticides; salination of fresh water; improper sewage treatment; water-borne disease; depletion and contamination of underground water resources",
+"geography_note": "strategic strip of land along Mideast-North African trade routes has experienced an incredibly turbulent history; the town of Gaza itself has been besieged countless times in its history; there are no Israeli settlements in the Gaza Strip; the Gaza Strip settlements were evacuated in 2005",
+}, 
+"people_and_society": 
+{
+"population": "1,836,713 (July 2018 est.)",
+"nationality": 
+{
+"noun": "NA",
+"adjective": "NA",
+}, 
+"ethnic_groups": "Palestinian Arab",
+"languages": "Arabic, Hebrew (spoken by many Palestinians), English (widely understood)",
+"religions": "Muslim 98.0 - 99.0% (predominantly Sunni), Christian &amp;lt;1.0%, other, unaffiliated, unspecified &amp;lt;1.0% (2012 est.)",
+"age_structure": 
+{
+"0_14_years": "44.1% (male 415,746 /female 394,195)",
+"15_24_years": "21.34% (male 197,797 /female 194,112)",
+"25_54_years": "28.5% (male 256,103 /female 267,285)",
+"55_64_years": "3.48% (male 33,413 /female 30,592)",
+"65_years_and_over": "2.58% (male 24,863 /female 22,607) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "75.8 (2015 est.)",
+"youth_dependency_ratio": "70.5 (2015 est.)",
+"elderly_dependency_ratio": "5.2 (2015 est.)",
+"potential_support_ratio": "19.1 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "17.4 years (2018 est.)",
+"male": "17.1 years",
+"female": "17.8 years",
+}, 
+"population_growth_rate": "2.25% (2018 est.)",
+"birth_rate": "30.5 births/1,000 population (2018 est.)",
+"death_rate": "3 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-5 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population concentrated in major cities, particularly Gaza City in the north",
+"urbanization": 
+{
+"urban_population": "76.4% of total population (2019)",
+"rate_of_urbanization": "3% annual rate of change (2015-20 est.)",
+}, 
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.02 male(s)/female",
+"25_54_years": "0.96 male(s)/female",
+"55_64_years": "1.09 male(s)/female",
+"65_years_and_over": "1.1 male(s)/female",
+"total_population": "1.02 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "27 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "16 deaths/1,000 live births (2018 est.)",
+"male": "17.1 deaths/1,000 live births",
+"female": "14.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "74.4 years (2018 est.)",
+"male": "72.7 years",
+"female": "76.2 years",
+}, 
+"total_fertility_rate": "3.97 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "57.2% (2014)",
+"drinking_water_source": 
+{
+"improved_urban": "50.7% of population",
+"improved_rural": "81.5% of population",
+"improved_total": "58.4% of population",
+"unimproved_urban": "49.3% of population",
+"unimproved_rural": "18.5% of population",
+"unimproved_total": "41.6% of population (2015 est.)",
+}, 
+"physicians_density": "2.2 physicians/1,000 population (2014)",
+"hospital_bed_density": "1.3 beds/1,000 population (2017)",
+"sanitation_facility_access": 
+{
+"improved_urban": "93% of population (2015 est.)",
+"improved_rural": "90.2% of population (2015 est.)",
+"improved_total": "92.3% of population (2015 est.)",
+"unimproved_urban": "7% of population (2015 est.)",
+"unimproved_rural": "9.8% of population (2015 est.)",
+"unimproved_total": "7.7% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"children_under_the_age_of_5_years_underweight": "1.4% (2014)",
+"education_expenditures": "5.3% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "96.9%",
+"male": "98.6%",
+"female": "95.2% (2016)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "13 years",
+"male": "12 years",
+"female": "14 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "46.9%",
+"male": "40.5%",
+"female": "75.3% (2018 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Gaza Strip",
+"local_long_form": "none",
+"local_short_form": "Qita&#39; Ghazzah",
+"etymology": "named for the largest city in the region, Gaza, whose settlement can be traced back to at least the 15th century B.C. (as &quot;Ghazzat&quot;)",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Movement and access restrictions, violent attacks, and the slow pace of post-conflict reconstruction continue to degrade economic conditions in the Gaza Strip, the smaller of the two areas comprising the Palestinian territories. Israeli controls became more restrictive after HAMAS seized control of the territory in June 2007. Under Hamas control, Gaza has suffered from rising unemployment, elevated poverty rates, and a sharp contraction of the private sector, which had relied primarily on export markets.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Since April 2017, the Palestinian Authority has reduced payments for electricity supplied to Gaza and cut salaries for its employees there, exacerbating poor economic conditions. Since 2014, Egypt’s crackdown on the Gaza Strip’s extensive tunnel-based smuggling network has exacerbated fuel, construction material, and consumer goods shortages in the territory. Donor support for reconstruction following the 51-day conflict in 2014 between Israel and HAMAS and other Gaza-based militant groups has fallen short of post-conflict needs.&lt;/p&gt;",
+"gdp_purchasing_power_parity": "&lt;p&gt;see entry for the West Bank&lt;/p&gt;", 
+"gdp_official_exchange_rate": "$2.938 billion (2014 est.) (2014 est.)",
+"gdp_real_growth_rate":
+{
+"2014": "-15.2%",
+"2013": "5.6%",
+"2012": "7%",
+},
+"gdp_per_capita_ppp": "&lt;p&gt;see entry for the the West Bank&lt;/p&gt;", 
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "88.6% (2017 est.)",
+"government_consumption": "26.3% (2017 est.)",
+"investment_in_fixed_capital": "22.4% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "18.6% (2017 est.)",
+"imports_of_goods_and_services": "-55.6% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "3% (2017 est.)",
+"industry": "21.1% (2017 est.)",
+"services": "75% (2017 est.)",
+}, 
+"agriculture_products": "olives, fruit, vegetables, flowers; beef, dairy products",
+"industries": "textiles, food processing, furniture",
+"industrial_production_growth_rate": "2.2% (2017 est.)",
+"labor_force": "1.24 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "5.2%",
+"industry": "10%",
+"services": "84.8% (2015 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "27.9%",
+"2016": "27%",
+},
+"population_below_poverty_line": "30% (2011 est.)",
+"budget": "see entry for the West Bank", 
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.2%",
+"2016": "-0.2%",
+},
+"commercial_bank_prime_lending_rate": "&lt;p&gt;see entry for the West Bank&lt;/p&gt;", 
+"stock_of_narrow_money": "&lt;p&gt;see entry for the West Bank&lt;/p&gt;", 
+"stock_of_broad_money":
+{
+"31 December 2017": "$2.901 billion",
+"31 December 2016": "$2.538 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$2.041 billion",
+"31 December 2016": "$1.712 billion",
+},
+"current_account_balance":
+{
+"2017": "-$1.444 billion",
+"2016": "-$1.348 billion",
+},
+"exports":
+{
+"2017": "$1.955 billion",
+"2016": "$1.827 billion",
+},
+"exports_commodities": "strawberries, carnations, vegetables, fish (small and irregular shipments, as permitted to transit the Israeli-controlled Kerem Shalom crossing)",
+"imports":
+{
+"2018": "$8.59 billion",
+"2017": "$7.852 billion",
+},
+"imports_commodities": "food, consumer goods, fuel",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$446.3 million",
+"31 December 2015": "$583 million",
+},
+"debt_external": "&lt;p&gt;see entry for the West Bank&lt;/p&gt;", 
+"exchange_rates": "&lt;p&gt;see entry for the West Bank&lt;/p&gt;", 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "80,930 (2012)",
+"electrification_total_population": "98% (2012)",
+"electrification_urban_areas": "99% (2012)",
+"electrification_rural_areas": "93% (2012)",
+}, 
+"electricity_production": "51,000 kWh (2011 est.)",
+"electricity_consumption": "202,000 kWh (2009 est.)",
+"electricity_exports": "0 kWh (2011 est.)",
+"electricity_imports": "193,000 kWh (2011 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2010 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "432,000 (includes the West Bank); (July 2016 est.)",
+"subscriptions_per_100_inhabitants": "9 (includes the West Bank); (July 2016 est.) (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": " 3,531,000 (includes the West Bank)",
+"subscriptions_per_100_inhabitants": " 76 (includes the West Bank) (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "Israel has final say in allocating frequencies in the Gaza Strip and does not permit anything beyond a 2G network (2018)",
+"domestic": "Israeli company BEZEK and the Palestinian company PALTEL are responsible for fixed-line services; the Palestinian JAWWAL company provides cellular services; a slow 2G network allows calls and limited data transmission (2018)",
+"international": "country code - 970 (2018)",
+}, 
+"broadcast_media": "1 TV station and about 10 radio stations; satellite TV accessible",
+"internet_country_code": ".psnote - same as the West Bank",
+"internet_users": 
+{
+"total": "2.673 million (includes the West Bank)",
+"percent_of_population": "57.4% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "320,500",
+"subscriptions_per_100_inhabitants": "14 (2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "HAMAS does not have a conventional military in the Gaza Strip but maintains security forces in addition to its military wing, the &#39;Izz al-Din al-Qassam Brigades; the military wing reports to the Hamas Political Bureau leadership; there are several other militant groups operating in Gaza, most notably the al-Quds Brigades of Palestinian Islamic Jihad, that are usually but not always beholden to Hamas&amp;rsquo; authority (2019)",
+}, 
+"transportation": 
+{
+"airports": "1 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2019)",
+"under_914_m": "1",
+}, 
+"heliports": "1 (2013)",
+"roadways": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; see entry for the West Bank&lt;/p&gt;", 
+"ports_and_terminals": "Gaza",
+}, 
+"terrorism": 
+{
+"terrorist_groups_home_based": 
+{
+"army_of_islam_aoi": "&lt;strong&gt;aim(s):&lt;/strong&gt; stage attacks against Israel and Egypt from the Gaza Strip and, ultimately, establish an Islamic emirate in the region&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; headquartered in Gaza; heaviest presence and operational activity is in the Gaza Strip&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; operatives have a history of launching low-impact rockets into Israeli and Egyptian territory; the Army of Islam (Jaish al-Islam, JAI) in Syria is unrelated to AOI (2018)",
+"hamas": "&lt;strong&gt;aim(s): &lt;/strong&gt;maintain control of the Gaza Strip to facilitate Palestinian nationalist aims&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; headquartered in Gaza (2018)",
+"mujahidin_shura_council_in_the_environs_of_jerusalem_msc": "&lt;strong&gt;aim(s): &lt;/strong&gt;bolster its staging capabilities in the Gaza Strip against Israel and, ultimately, destroy the state of Israel&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; headquartered in Gaza, although present in Egypt, Libya, Syria, and Israel (2018)",
+"palestine_islamic_jihad_pij": "&lt;strong&gt;aim(s): &lt;/strong&gt;enhance its staging capabilities in the Gaza Strip to launch attacks against Israel&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; stages rocket attacks against civilians and military personnel primarily in southern Israel (2018)",
+"palestine_liberation_front_plf": "&lt;strong&gt;aim(s):&lt;/strong&gt; bolster its staging capabilities in the Gaza Strip against Israel and, ultimately, destroy the state of Israel in order to establish a secular, Marxist Palestinian state with Jerusalem as its capital&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; based in Gaza; maintains a recruitment and paramilitary training presence in most of the refugee camps across the Gaza Strip (2018)",
+"pflp_general_command_pflp_gc": "&lt;br /&gt;&lt;strong&gt;aim(s): &lt;/strong&gt;bolster its staging capabilities to prepare fighters for deployment to Syria and to launch occasional attacks inside Israel; ultimately, seeks to establish a Palestinian state&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; headquartered in Gaza; as a longtime supporter of the Syrian Government, the group trains and deploys fighters to Syria to fight on behalf of President Bashar al-ASAD; stages occasional small-scale attacks inside Israel (2018)",
+"popular_front_for_the_liberation_of_palestine_pflp": "&lt;strong&gt;aim(s): &lt;/strong&gt;destroy the state of Israel and, ultimately, establish a secular, Marxist Palestinian state&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; headquartered in Gaza, recruiting and training fighters; stages limited attacks against Israel (2018)",
+}, 
+"terrorist_groups_foreign_based": 
+{
+"abdallah_azzam_brigades_aab": "&lt;br /&gt;&lt;strong&gt;aim(s): &lt;/strong&gt;bolster its staging capabilities in the Gaza Strip against Israel to continue its attempts to disrupt Israel&#39;s economy and its efforts to establish security&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; launches homemade rockets from the Gaza Strip into populated Israeli territory, primarily the cities of Nahariya and Ashkelon (2018)",
+"al_aqsa_martyrs_brigade_aamb": "&lt;br /&gt;&lt;strong&gt;aim(s): &lt;/strong&gt;bolster its staging capabilities in the Gaza Strip against Israel and, ultimately, establish a Palestinian state comprising the West Bank, Gaza Strip, and Jerusalem&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; stages attacks from the Gaza Strip against Israeli soldiers and civilians inside Israel, including launching rockets and missiles (2018)",
+"islamic_revolutionary_guard_corps_qods_force_irgc_qf": "&lt;p&gt;&lt;strong&gt;aim(s):&amp;nbsp; &lt;/strong&gt;supports the destruction of Israel through funding, training, and weapons&lt;br /&gt;&lt;strong&gt;area(s) of operation:&amp;nbsp; &lt;/strong&gt;Gaza Strip&lt;/p&gt; (2019)",
+"islamic_state_of_iraq_and_ash_sham_isis_sinai": "&lt;br /&gt;&lt;strong&gt;aim(s): &lt;/strong&gt;bolster its staging capabilities in the Gaza Strip against Israel and, ultimately, establish a regional Islamic caliphate&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; stages attacks against Egyptian forces along the Gaza Strip-Egypt border and launches rockets into southern Israel from the border closest to Israel&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; formerly known as Ansar Bayt al-Maqdis (2018)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;the status of the Gaza Strip is a final status issue to be resolved through negotiations; Israel removed settlers and military personnel from Gaza Strip in September 2005&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "1,421,282 (Palestinian refugees) (2019)",
+"idps": "238,000 (includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2018)",
+}, 
+}
+}

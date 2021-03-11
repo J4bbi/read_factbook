@@ -1,0 +1,555 @@
+{
+"name": "Hungary",
+"code": "HU",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "Hungary became a Christian kingdom in A.D. 1000 and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule following World War II. In 1956, a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. Under the leadership of Janos KADAR in 1968, Hungary began liberalizing its economy, introducing so-called &quot;Goulash Communism.&quot; Hungary held its first multiparty elections in 1990 and initiated a free market economy. It joined NATO in 1999 and the EU five years later.",
+}, 
+"geography": 
+{
+"location": "Central Europe, northwest of Romania",
+"geographic_coordinates": "47 00 N, 20 00 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "93,028 sq km",
+"land": "89,608 sq km",
+"water": "3,420 sq km",
+}, 
+"area_comparative": "slightly smaller than Virginia; about the same size as Indiana",
+"land_boundaries": 
+{
+"total": "2,106 km",
+"border_countries": "Austria 321 km, Croatia 348 km, Romania 424 km, Serbia 164 km, Slovakia 627 km, Slovenia 94 km, Ukraine 128 km",
+}, 
+"coastline": "0 km (landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "temperate; cold, cloudy, humid winters; warm summers",
+"terrain": "mostly flat to rolling plains; hills and low mountains on the Slovakian border",
+"elevation": 
+{
+"mean_elevation": "143 m",
+"lowest_point": "Tisza River 78 m",
+"highest_point": "Kekes 1,014 m",
+}, 
+"natural_resources": "bauxite, coal, natural gas, fertile soils, arable land",
+"land_use": 
+{
+"agricultural_land": "58.9% (2011 est.)",
+"agricultural_land_arable_land": "48.5% (2011 est.)",
+"agricultural_land_permanent_crops": "2% (2011 est.)",
+"agricultural_land_permanent_pasture": "8.4% (2011 est.)",
+"forest": "22.5% (2011 est.)",
+"other": "18.6% (2011 est.)",
+}, 
+"irrigated_land": "1,721 sq km (2012)",
+"population_distribution": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations",
+"environment_current_issues": "air and water pollution are some of Hungary&#39;s most serious environmental problems; water quality in the Hungarian part of the Danube has improved but is still plagued by pollutants from industry and large-scale agriculture; soil pollution",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "landlocked; strategic location astride main land routes between Western Europe and Balkan Peninsula as well as between Ukraine and Mediterranean basin; the north-south flowing Duna (Danube) and Tisza Rivers divide the country into three large regions",
+}, 
+"people_and_society": 
+{
+"population": "9,825,704 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Hungarian(s)",
+"adjective": "Hungarian",
+}, 
+"ethnic_groups": "Hungarian 85.6%, Romani 3.2%, German 1.9%, other 2.6%, unspecified 14.1% (2011 est.)",
+"languages": "Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2% (2011 est.)",
+"religions": "Roman Catholic 37.2%, Calvinist 11.6%, Lutheran 2.2%, Greek Catholic 1.8%, other 1.9%, none 18.2%, no response 27.2% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "14.66% (male 741,624 /female 698,905)",
+"15_24_years": "10.76% (male 546,437 /female 511,214)",
+"25_54_years": "42.01% (male 2,077,449 /female 2,050,330)",
+"55_64_years": "13.07% (male 593,250 /female 690,784)",
+"65_years_and_over": "19.5% (male 725,728 /female 1,189,983) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "46.9 (2015 est.)",
+"youth_dependency_ratio": "21.2 (2015 est.)",
+"elderly_dependency_ratio": "25.7 (2015 est.)",
+"potential_support_ratio": "3.9 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "42.7 years (2018 est.)",
+"male": "40.8 years",
+"female": "44.7 years",
+}, 
+"population_growth_rate": "-0.26% (2018 est.)",
+"birth_rate": "8.9 births/1,000 population (2018 est.)",
+"death_rate": "12.8 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "1.3 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations",
+"urbanization": 
+{
+"urban_population": "71.6% of total population (2019)",
+"rate_of_urbanization": "0.07% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.764 million BUDAPEST (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.06 male(s)/female",
+"15_24_years": "1.07 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "0.86 male(s)/female",
+"65_years_and_over": "0.61 male(s)/female",
+"total_population": "0.91 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "28.3 years (2014 est.)",
+"maternal_mortality_rate": "12 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "4.8 deaths/1,000 live births (2018 est.)",
+"male": "5.1 deaths/1,000 live births",
+"female": "4.5 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "76.3 years (2018 est.)",
+"male": "72.6 years",
+"female": "80.2 years",
+}, 
+"total_fertility_rate": "1.45 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "61.6% (2008/09)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "7.4% (2016)",
+"physicians_density": "3.23 physicians/1,000 population (2016)",
+"hospital_bed_density": "7 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "97.8% of population (2015 est.)",
+"improved_rural": "98.6% of population (2015 est.)",
+"improved_total": "98% of population (2015 est.)",
+"unimproved_urban": "2.2% of population (2015 est.)",
+"unimproved_rural": "1.4% of population (2015 est.)",
+"unimproved_total": "2% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "3,700 (2018 est.)",
+"hiv_aids_deaths": " &lt;100 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "intermediate (2016)",
+"vectorborne_diseases": "tickborne encephalitis (2016)",
+}, 
+"obesity_adult_prevalence_rate": "26.4% (2016)",
+"education_expenditures": "4.7% of GDP (2016)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.1%",
+"male": "99.1%",
+"female": "99% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "15 years",
+"female": "15 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "10.7%",
+"male": "9.7%",
+"female": "12.1% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Hungary",
+"local_long_form": "none",
+"local_short_form": "Magyarorszag",
+"former": "Kingdom of Hungary, Hungarian People&#39;s Republic, Hungarian Soviet Republic, Hungarian Republic",
+"etymology": "the Byzantine Greeks refered to the tribes that arrived on the steppes of Eastern Europe in the 9th century as the &quot;Oungroi,&quot; a name that was later Latinized to &quot;Ungri&quot; and which became &quot;Hungari&quot;; the name originally meant an &quot;[alliance of] ten tribes&quot;; the Hungarian name &quot;Magyarorszag&quot; means &quot;Country of the Magyars&quot;; the term may derive from the most prominent of the Hungarian tribes, the Megyer",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Budapest",
+"geographic_coordinates": "47 30 N, 19 05 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "&lt;p&gt;19 counties (megyek, singular - megye), 23 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;counties:&lt;/strong&gt; Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;cities with county rights:&lt;/strong&gt; Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;capital city:&lt;/strong&gt; Budapest&lt;/p&gt;",
+"independence": "16 November 1918 (republic proclaimed); notable earlier dates: 25 December 1000 (crowning of King STEPHEN I, traditional founding date); 30 March 1867 (Austro-Hungarian dual monarchy established)",
+"national_holiday": "Saint Stephen&#39;s Day, 20 August (1083); note - commemorates his canonization and the transfer of his remains to Buda (now Budapest) in 1083",
+"constitution": 
+{
+"history": "previous 1949 (heavily amended in 1989 following the collapse of communism); latest approved 18 April 2011, signed 25 April 2011, effective 1 January 2012",
+"amendments": "proposed by the president of the republic, by the government, by parliamentary committee, or by Parliament members; passage requires two-thirds majority vote of Parliament members and approval by the president; amended several times, last in 2018 (2019)",
+}, 
+"legal_system": "civil legal system influenced by the German model",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Hungary",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "8 years",
+}, 
+"suffrage": "18 years of age, 16 if married and marriage is registered in Hungary; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Janos ADER (since 10 May 2012)",
+"head_of_government": "Prime Minister Viktor ORBAN (since 29 May 2010)",
+"cabinet": "Cabinet of Ministers proposed by the prime minister and appointed by the president",
+"elections_appointments": "president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 13 March 2017 (next to be held spring 2022); prime minister elected by the National Assembly on the recommendation of the president; election last held on 10 May 2018 (next to be held by spring 2022)",
+"election_results": "Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39; Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 134 to 28",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party list proportional representation vote; members serve 4-year terms)",
+"elections": "last held on 8 April 2018 (next to be held in April 2022)",
+"election_results": "percent of vote by party list - Fidesz-KDNP 49.3%, Jobbik 19.1%, MSZP-PM 11.9%, LMP 7.1%, DK 5.4%, Together 0.7%, LdU 0.5%, other 6%; seats by party - Fidesz 117, Jobbik 26, KDNP 16, MSZP 15, LMP 9, DK 9, PM 5, LdU 1, independent 1; composition - men 174, women 25, percent of women 12.6%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and approximately 91 judges and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)",
+"judge_selection_and_term_of_office": "Curia president elected by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president upon the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement at age 62; Constitutional Court judges, including the president of the court, elected by the National Assembly; court vice president elected by the court itself; members serve 12-year terms with mandatory retirement at age 62",
+"subordinate_courts": "5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative-labor courts; 111 district or local courts",
+}, 
+"political_parties_and_leaders": "Christian Democratic People&#39;s Party or KDNP [Zsolt SEMJEN]&lt;br /&gt;Democratic Coalition or DK [Ferenc GYURCSANY]&lt;br /&gt;Dialogue for Hungary or PM [Gergely KARACSONY, Timea SZABO]&lt;br /&gt;Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN]&lt;br /&gt;Hungarian Socialist Party or MSZP [Bertalan TOTH]&lt;br /&gt;Momentum (Momentum Mozgalom) [Andras FEKETE-GYOR]&lt;br /&gt;Movement for a Better Hungary or Jobbik [Tamas SNEIDER]&lt;br /&gt;National Self-Government of Germans in Hungary or LdU [Olivia SCHUBERT]&lt;br /&gt;Politics Can Be Different or LMP [Marta DEMETER, Laszlo LORANT-KERESZTES]",
+"international_organization_participation": "Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Laszlo SZABO (since 8 September 2017)",
+"chancery": "3910 Shoemaker Street NW, Washington, DC 20008",
+"telephone": "[1] (202) 362-6730",
+"fax": "[1] (202) 966-8135",
+"consulate_s_general": "Chicago, Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador David B. CORNSTEIN (since 25 June 2018)",
+"telephone": "[36] (1) 475-4400",
+"embassy": "Szabadsag ter 12, H-1054 Budapest",
+"mailing_address": "pouch: American Embassy Budapest, 5270 Budapest Place, US Department of State, Washington, DC 20521-5270",
+"fax": "[36] (1) 475-4248",
+}, 
+"flag_description": "three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries, and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor form of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red is seen as being for the blood spilled in defense of the land, white for freedom, and green for the pasturelands that make up so much of the country",
+"national_symbol_s": "Holy Crown of Hungary (Crown of Saint Stephen); national colors: red, white, green",
+"national_anthem": 
+{
+"name": "&quot;Himnusz&quot; (Hymn)",
+"lyrics_music": "Ferenc KOLCSEY/Ferenc ERKEL",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Hungary has transitioned from a centrally planned to a market-driven economy with a per capita income approximately two thirds of the EU-28 average; however, in recent years the government has become more involved in managing the economy. Budapest has implemented unorthodox economic policies to boost household consumption and has relied on EU-funded development projects to generate growth.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Following the fall of communism in 1990, Hungary experienced a drop-off in exports and financial assistance from the former Soviet Union. Hungary embarked on a series of economic reforms, including privatization of state-owned enterprises and reduction of social spending programs, to shift from a centrally planned to a market-driven economy, and to reorient its economy towards trade with the West. These efforts helped to spur growth, attract investment, and reduce Hungary&amp;rsquo;s debt burden and fiscal deficits. Despite these reforms, living conditions for the average Hungarian initially deteriorated as inflation increased and unemployment reached double digits. Conditions slowly improved over the 1990s as the reforms came to fruition and export growth accelerated. Economic policies instituted during that decade helped position Hungary to join the European Union in 2004. Hungary has not yet joined the euro-zone. Hungary suffered a historic economic contraction as a result of the global economic slowdown in 2008-09 as export demand and domestic consumption dropped, prompting it to take an IMF-EU financial assistance package.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Since 2010, the government has backpedaled on many economic reforms and taken a more populist approach towards economic management. The government has favored national industries and government-linked businesses through legislation, regulation, and public procurements. In 2011 and 2014, Hungary nationalized private pension funds, which squeezed financial service providers out of the system, but also helped Hungary curb its public debt and lower its budget deficit to below 3% of GDP, as subsequent pension contributions have been channeled into the state-managed pension fund. Hungary&amp;rsquo;s public debt (at 74.5% of GDP) is still high compared to EU peers in Central Europe. Real GDP growth has been robust in the past few years due to increased EU funding, higher EU demand for Hungarian exports, and a rebound in domestic household consumption. To further boost household consumption ahead of the 2018 election, the government embarked on a six-year phased increase to minimum wages and public sector salaries, decreased taxes on foodstuffs and services, cut the personal income tax from 16% to 15%, and implemented a uniform 9% business tax for small and medium-sized enterprises and large companies. Real GDP growth slowed in 2016 due to a cyclical decrease in EU funding, but increased to 3.8% in 2017 as the government pre-financed EU funded projects ahead of the 2018 election.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Systemic economic challenges include pervasive corruption, labor shortages driven by demographic declines and migration, widespread poverty in rural areas, vulnerabilities to changes in demand for exports, and a heavy reliance on Russian energy imports.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$289.6 billion",
+"2016": "$278.5 billion",
+"2015": "$272.5 billion",
+},
+"gdp_official_exchange_rate": "$139.2 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "4%",
+"2016": "2.2%",
+"2015": "3.4%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$29,600",
+"2016": "$28,300",
+"2015": "$27,600",
+},
+"gross_national_saving":
+{
+"2017": "25.7% of GDP",
+"2016": "25.8% of GDP",
+"2015": "25.3% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "49.6% (2017 est.)",
+"government_consumption": "20% (2017 est.)",
+"investment_in_fixed_capital": "21.6% (2017 est.)",
+"investment_in_inventories": "1% (2017 est.)",
+"exports_of_goods_and_services": "90.2% (2017 est.)",
+"imports_of_goods_and_services": "-82.4% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "3.9% (2017 est.)",
+"industry": "31.3% (2017 est.)",
+"services": "64.8% (2017 est.)",
+}, 
+"agriculture_products": "wheat, corn, sunflower seed, potatoes, sugar beets; pigs, cattle, poultry, dairy products",
+"industries": "mining, metallurgy, construction materials, processed foods, textiles, chemicals (especially pharmaceuticals), motor vehicles",
+"industrial_production_growth_rate": "7.4% (2017 est.)",
+"labor_force": "4.599 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "4.9%",
+"industry": "30.3%",
+"services": "64.5% (2015 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "4.2%",
+"2016": "5.1%",
+},
+"population_below_poverty_line": "14.9% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.3%",
+"highest_10": "22.4% (2015)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2015": "28.2",
+"2014": "28.6",
+},
+"budget": 
+{
+"revenues": "61.98 billion (2017 est.)",
+"expenditures": "64.7 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "44.5% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-2% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "73.6% of GDP",
+"2016": "76% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "2.4%",
+"2016": "0.4%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "0.9%",
+"31 December 2016": "0.9%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "1.48%",
+"31 December 2016": "2.09%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$74.77 billion",
+"31 December 2016": "$55.48 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$74.77 billion",
+"31 December 2016": "$55.48 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$86.22 billion",
+"31 December 2016": "$69.76 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$27.7 billion",
+"31 December 2016": "$22.4 billion",
+"31 December 2015": "$17.69 billion",
+},
+"current_account_balance":
+{
+"2017": "$4.39 billion",
+"2016": "$7.597 billion",
+},
+"exports":
+{
+"2017": "$98.74 billion",
+"2016": "$91.6 billion",
+},
+"exports_partners": "Germany 27.7%, Romania 5.4%, Italy 5.1%, Austria 5%, Slovakia 4.8%, France 4.4%, Czech Republic 4.4%, Poland 4.3% (2017)",
+"exports_commodities": "machinery and equipment (55.8%), other manufactures (32.7%), food products (6.8%), raw materials (2.4%), fuels and electricity (2.3%) (2017 est.)",
+"imports":
+{
+"2017": "$96.3 billion",
+"2016": "$83.5 billion",
+},
+"imports_commodities": "machinery and equipment 45.4%, other manufactures 34.3%, fuels and electricity 12.6%, food products 5.3%, raw materials 2.5% (2012)",
+"imports_partners": "Germany 26.2%, Austria 6.3%, China 5.9%, Poland 5.5%, Slovakia 5.3%, Netherlands 5%, Czech Republic 4.8%, Italy 4.7%, France 4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$28 billion",
+"31 December 2016": "$25.82 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$138.1 billion",
+"31 December 2016": "$131.3 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$290 billion",
+"31 December 2016": "$298.2 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$212 billion",
+"31 December 2016": "$222.6 billion",
+},
+"exchange_rates": 
+{
+"currency": "forints (HUF) per US dollar -",
+"exchange_rates":
+{
+"2017": "279.5",
+"2016": "281.52",
+"2015": "281.52",
+"2014": "279.33",
+"2013": "232.6",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "30.22 billion kWh (2016 est.)",
+"electricity_consumption": "39.37 billion kWh (2016 est.)",
+"electricity_exports": "5.24 billion kWh (2016 est.)",
+"electricity_imports": "17.95 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "8.639 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "64% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "22% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "1% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "13% of total installed capacity (2017 est.)",
+"crude_oil_production": "16,000 bbl/day (2018 est.)",
+"crude_oil_exports": "2,713 bbl/day (2017 est.)",
+"crude_oil_imports": "121,000 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "24 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "152,400 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "167,700 bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "58,720 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "82,110 bbl/day (2017 est.)",
+"natural_gas_production": "1.812 billion cu m (2017 est.)",
+"natural_gas_consumption": "10.39 billion cu m (2017 est.)",
+"natural_gas_exports": "3.52 billion cu m (2017 est.)",
+"natural_gas_imports": "13.37 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "6.598 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "51.28 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "3,131,598",
+"subscriptions_per_100_inhabitants": "32 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "12,030,940",
+"subscriptions_per_100_inhabitants": "122 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern telephone system is digital and highly automated; trunk services are carried by fiber-optic cable and digital microwave radio relay; regulator preps for 5G spectrum auction in 2019 (2018)",
+"domestic": "competition among mobile-cellular service providers has led to a sharp increase in the use of mobile-cellular phones, 122 per 100,&amp;nbsp;and a decrease in the number of fixed-line connections, 32 per 100 persons (2018)",
+"international": "country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 very small aperture terminal (VSAT) system of ground terminals",
+}, 
+"broadcast_media": "mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media",
+"internet_country_code": ".hu",
+"internet_users": 
+{
+"total": "7,826,695",
+"percent_of_population": "79.3% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "2,956,585",
+"subscriptions_per_100_inhabitants": "30 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "1.21% of GDP",
+"2018": "1.15% of GDP",
+"2017": "1.05% of GDP",
+"2016": "1.02% of GDP",
+"2015": "0.92% of GDP",
+},
+"military_and_security_forces": "Hungarian Defense Forces: Ground Forces and Hungarian Air Force. (2019)",
+"military_service_age_and_obligation": "18-25 years of age for voluntary military service; no conscription; 6-month service obligation (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "5 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "75 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "20,042,185 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "HA (2016)",
+"airports": "41 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "20 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "6 (2017)",
+"1_524_to_2_437_m": "6 (2017)",
+"914_to_1_523_m": "5 (2017)",
+"under_914_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "21 (2013)",
+"1_524_to_2_437_m": "2 (2013)",
+"914_to_1_523_m": "8 (2013)",
+"under_914_m": "11 (2013)",
+}, 
+"heliports": "3 (2013)",
+"pipelines": "5874 km gas (high-pressure transmission system), 83732 km gas (low-pressure distribution network), 850 km oil, 1200 km refined products (2016)",
+"railways": 
+{
+"total": "8,049 km (2014)",
+"standard_gauge": "7,794 km 1.435-m gauge (2,889 km electrified) (2014)",
+"narrow_gauge": "219 km 0.760-m gauge (2014)",
+"broad_gauge": "36 km 1.524-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "203,601 km (2014)",
+"paved": "77,087 km (includes 1,582 km of expressways) (2014)",
+"unpaved": "126,514 km (2014)",
+}, 
+"waterways": "1,622 km (most on Danube River) (2011)",
+"ports_and_terminals": "Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danube)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary&#39;s failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU&#39;s external border, Hungary has implemented the strict Schengen border rules&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "5,950 applicants for forms of legal stay other than asylum (Ukraine) (2015)",
+"stateless_persons": "144 (2018)",
+}, 
+"illicit_drugs": "transshipment point for Southwest Asian heroin and cannabis and for South American cocaine destined for Western Europe; limited producer of precursor chemicals, particularly for amphetamine and methamphetamine; efforts to counter money laundering, related to organized crime and drug trafficking are improving but remain vulnerable; significant consumer of ecstasy",
+}
+}

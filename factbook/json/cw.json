@@ -1,0 +1,395 @@
+{
+"name": "Cook Islands",
+"code": "CW",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "The Cook Islands, named after Captain James Cook who landed in 1773, became a British protectorate in 1888 and was later annexed by proclamation in 1900. The Cook Islands was first included within the boundaries of New Zealand in 1901, and in 1965, residents chose self-government in free association with New Zealand. The Cook Islands&amp;rsquo; economy relies on tourism, fisheries, and foreign aid. More recently a growing offshore financial sector exposed the country to vulnerabilities which the government has addressed with legislation and regulations for the oversight of all banks and financial institutions, and with enforcement measures. The Cook Islands continues to face challenges with the emigration of skilled workers, government deficits, inadequate infrastructure, and natural resource depletion. The Cook Islands is expected to graduate to the high-income threshold set by the World Bank, which will limit the country&amp;rsquo;s access to Official Development Assistance under OECD guidelines.",
+}, 
+"geography": 
+{
+"location": "Oceania, group of islands in the South Pacific Ocean, about halfway between Hawaii and New Zealand",
+"geographic_coordinates": "21 14 S, 159 46 W",
+"map_references": "Oceania",
+"area": 
+{
+"total": "236 sq km",
+"land": "236 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "1.3 times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "120 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"continental_shelf": "200 nm or to the edge of the continental margin",
+}, 
+"climate": "tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March",
+"terrain": "low coral atolls in north; volcanic, hilly islands in south",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "Te Manga 652 m",
+}, 
+"natural_resources": "coconuts (copra)",
+"land_use": 
+{
+"agricultural_land": "8.4% (2011 est.)",
+"agricultural_land_arable_land": "4.2% (2011 est.)",
+"agricultural_land_permanent_crops": "4.2% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "64.6% (2011 est.)",
+"other": "27% (2011 est.)",
+}, 
+"irrigated_land": " NA",
+"population_distribution": "most of the population is found on the island of Rarotonga",
+"natural_hazards": "tropical cyclones (November to March)",
+"environment_current_issues": "limited land presents solid and liquid waste disposal problems; soil destruction and deforestation; environmental degradation due to indiscriminant use of pesticides; improper disposal of pollutants; overfishing and destructive fishing practices; over dredging of lagoons and coral rubble beds; unregulated building",
+"environment_international_agreements": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection",
+"geography_note": "the northern Cook Islands are seven low-lying, sparsely populated, coral atolls; the southern Cook Islands, where most of the population lives, consist of eight elevated, fertile, volcanic isles, including the largest, Rarotonga, at 67 sq km",
+}, 
+"people_and_society": 
+{
+"population": "9,038 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Cook Islander(s)",
+"adjective": "Cook Islander",
+}, 
+"ethnic_groups": "Cook Island Maori (Polynesian) 81.3%, part Cook Island Maori 6.7%, other 11.9% (2011 est.)",
+"languages": "English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, other 8.3% (2011 est.)",
+"religions": "Protestant 62.8% (Cook Islands Christian Church 49.1%, Seventh Day Adventist 7.9%, Assemblies of God 3.7%, Apostolic Church 2.1%), Roman Catholic 17%, Mormon 4.4%, other 8%, none 5.6%, no response 2.2% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "20.68% (male 987 /female 882)",
+"15_24_years": "15.99% (male 774 /female 671)",
+"25_54_years": "38.06% (male 1,710 /female 1,730)",
+"55_64_years": "12.72% (male 627 /female 523)",
+"65_years_and_over": "12.55% (male 558 /female 576) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "37.2 years (2018 est.)",
+"male": "36.7 years",
+"female": "37.6 years",
+}, 
+"population_growth_rate": "-2.72% (2018 est.)",
+"birth_rate": "13.7 births/1,000 population (2018 est.)",
+"death_rate": "8.6 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-32.3 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most of the population is found on the island of Rarotonga",
+"urbanization": 
+{
+"urban_population": "75.3% of total population (2019)",
+"rate_of_urbanization": "0.37% annual rate of change (2015-20 est.)",
+}, 
+"sex_ratio": 
+{
+"at_birth": "1.07 male(s)/female",
+"0_14_years": "1.12 male(s)/female",
+"15_24_years": "1.15 male(s)/female",
+"25_54_years": "0.99 male(s)/female",
+"55_64_years": "1.2 male(s)/female",
+"65_years_and_over": "0.97 male(s)/female",
+"total_population": "1.06 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "12.6 deaths/1,000 live births (2018 est.)",
+"male": "15.3 deaths/1,000 live births",
+"female": "9.8 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "76.2 years (2018 est.)",
+"male": "73.4 years",
+"female": "79.2 years",
+}, 
+"total_fertility_rate": "2.16 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "99.9% of population",
+"improved_rural": "99.9% of population",
+"improved_total": "99.9% of population",
+"unimproved_urban": "0.1% of population",
+"unimproved_rural": "0.1% of population",
+"unimproved_total": "0.1% of population (2015 est.)",
+}, 
+"current_health_expenditure": "2.7% (2015)",
+"physicians_density": "1.42 physicians/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "97.6% of population (2015 est.)",
+"improved_rural": "97.6% of population (2015 est.)",
+"improved_total": "97.6% of population (2015 est.)",
+"unimproved_urban": "2.4% of population (2015 est.)",
+"unimproved_rural": "2.4% of population (2015 est.)",
+"unimproved_total": "2.4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "55.9% (2016)",
+"education_expenditures": "4.7% of GDP (2016)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "15 years",
+"female": "16 years (2015)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Cook Islands",
+"former": "Hervey Islands",
+"etymology": "named after Captain James COOK, the British explorer who visited the islands in 1773 and 1777",
+}, 
+"dependency_status": "self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense in consultation with the Cook Islands",
+"government_type": "parliamentary democracy",
+"capital": 
+{
+"name": "Avarua",
+"geographic_coordinates": "21 12 S, 159 46 W",
+"time_difference": "UTC-10 (5 hours behind Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "none",
+"independence": "none (became self-governing in free association with New Zealand on 4 August 1965 with the right at any time to move to full independence by unilateral action)",
+"national_holiday": "Constitution Day, the first Monday in August (1965)",
+"constitution": 
+{
+"history": "4 August 1965 (Cook Islands Constitution Act 1964)",
+"amendments": "proposed by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in each of several readings and assent of the chief of state&amp;rsquo;s representative; passage of amendments relating to the chief of state also requires two-thirds majority approval in a referendum; amended many times, last in 2004 (2019)",
+}, 
+"legal_system": "common law similar to New Zealand common law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration (New Zealand normally retains responsibility for external affairs); accepts ICCt jurisdiction",
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Tom J. MARSTERS (since 9 August 2013); New Zealand High Commissioner Peter MARSHALL (since 10 January 2017)",
+"head_of_government": "Prime Minister Henry PUNA (since 30 November 2010)",
+"cabinet": "Cabinet chosen by the prime minister",
+"elections_appointments": "the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the Queen&#39;s representative serves as a consultative body to the Parliament",
+"elections": "last held on 14 June 2018 (next to be held by 2022)",
+"election_results": "percent of vote by party - NA; seats by party - Demo 11, CIP 10, One Cook Islands Movement 1, independent 2; composition - men 15, women 9, percent of women 37.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)",
+"judge_selection_and_term_of_office": "High Court chief justice appointed by the Queen&#39;s Representative on the advice of the Executive Council tendered by the prime minister; other judges appointed by the Queen&#39;s Representative, on the advice of the Executive Council tendered by the chief justice, High Court chief justice, and the minister of justice; chief justice and judges appointed for 3-year renewable terms",
+"subordinate_courts": "justices of the peace",
+}, 
+"political_parties_and_leaders": "Cook Islands Party or CIP [Henry PUNA]&lt;br /&gt;Democratic Party or Demo [Tina BROWNE]&lt;br /&gt;One Cook Islands Movement [Teina BISHOP]",
+"international_organization_participation": "ACP, ADB, AOSIS, FAO, ICAO, ICCt, ICRM, IFAD, IFRCS, IMO, IMSO, IOC, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WMO",
+"diplomatic_representation_in_the_us": "none (self-governing in free association with New Zealand)", 
+"diplomatic_representation_from_the_us": "none (self-governing in free association with New Zealand)", 
+"flag_description": "blue with the flag of the UK in the upper hoist-side quadrant and a large circle of 15 white five-pointed stars (one for every island) centered in the outer half of the flag",
+"national_symbol_s": "a circle of 15, five-pointed, white stars on a blue field, Tiare maori (Gardenia taitensis) flower; national colors: green, white",
+"national_anthem": 
+{
+"name": "&quot;Te Atua Mou E&quot; (To God Almighty)",
+"lyrics_music": "Tepaeru Te RITO/Thomas DAVIS",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "Like many other South Pacific island nations, the Cook Islands&#39; economic development is hindered by the isolation of the country from foreign markets, the limited size of domestic markets, lack of natural resources, periodic devastation from natural disasters, and inadequate infrastructure. Agriculture, employing more than one-quarter of the working population, provides the economic base with major exports of copra and citrus fruit. Black pearls are the Cook Islands&#39; leading export. Manufacturing activities are limited to fruit processing, clothing, and handicrafts. Trade deficits are offset by remittances from emigrants and by foreign aid overwhelmingly from New Zealand. In the 1980s and 1990s, the country became overextended, maintaining a bloated public service and accumulating a large foreign debt. Subsequent reforms, including the sale of state assets, the strengthening of economic management, the encouragement of tourism, and a debt restructuring agreement, have rekindled investment and growth. The government is targeting fisheries and seabed mining as sectors for future economic growth.",
+"gdp_purchasing_power_parity":
+{
+"2016": "$299.9 million",
+"2005": "$183.2 million",
+},
+"gdp_official_exchange_rate": "$299.9 million (2016 est.) (2016 est.)",
+"gdp_real_growth_rate":
+{
+"2005": "0.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2016": "$16,700",
+"2005": "$9,100",
+},
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "5.1% (2010 est.)",
+"industry": "12.7% (2010 est.)",
+"services": "82.1% (2010 est.)",
+}, 
+"agriculture_products": "copra, citrus, pineapples, tomatoes, beans, pawpaws, bananas, yams, taro, coffee; pigs, poultry",
+"industries": "fishing, fruit processing, tourism, clothing, handicrafts",
+"industrial_production_growth_rate": "1% (2002)",
+"labor_force": "6,820 (2001)",
+"labor_force_by_occupation": 
+{
+"agriculture": "29%",
+"industry": "15%",
+"services": "56% (1995)",
+}, 
+"unemployment_rate":
+{
+"2005": "13.1%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "86.9 million (2010)",
+"expenditures": "77.9 million (2010)",
+}, 
+"taxes_and_other_revenues": "29% (of GDP) (2010 est.)",
+"budget_surplus_or_deficit": "3% (of GDP) (2010 est.)",
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2011": "2.2%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2011": "$38.99 million",
+},
+"stock_of_broad_money":
+{
+"31 December 2011": "$148.2 million",
+"31 December 2010": "$170.9 million",
+},
+"current_account_balance":
+{
+"2005": "$26.67 million",
+},
+"exports":
+{
+"2011": "$3.125 million",
+"2010": "$5.163 million",
+},
+"exports_commodities": "fish; copra, papayas, fresh and canned citrus fruit, coffee; pearls and pearl shells; clothing",
+"imports":
+{
+"2011": "$109.3 million",
+"2010": "$90.62 million",
+},
+"imports_commodities": "foodstuffs, textiles, fuels, timber, capital goods",
+"debt_external":
+{
+"1996": "$141 million",
+},
+"exchange_rates": 
+{
+"currency": "NZ dollars (NZD) per US dollar -",
+"exchange_rates":
+{
+"2017": "1.416",
+"2016": "1.4341",
+"2015": "1.4341",
+"2014": "1.441",
+"2013": "1.4279",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_production": "34 million kWh (2016 est.)",
+"electricity_consumption": "31.62 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "14,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "79% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "21% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "600 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "611 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "88,810 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "7,800",
+"subscriptions_per_100_inhabitants": "75 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "11,000",
+"subscriptions_per_100_inhabitants": "105 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2018)",
+"domestic": "service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; 75 per 100 fixed-line, 105 per 100 mobile-cellular (2018)",
+"international": "country code - 682; Manatua submarine cable to surrounding islands of Niue,&amp;nbsp;Samoa,&amp;nbsp;French Polynesia and other Cook Islands, the&amp;nbsp;topography of the South Pacific region has made Internet connectivity a serious&amp;nbsp;issue for many of the remote islands; submarine fiber-optic networks are expensive to build and maintain;&amp;nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)",
+}, 
+"broadcast_media": "1 privately owned TV station broadcasts from Rarotonga providing a mix of local news and overseas-sourced programs (2019)",
+"internet_country_code": ".ck",
+"internet_users": 
+{
+"total": "5,160",
+"percent_of_population": "54% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular military forces; Cook Islands Police Service. (2018)",
+"military_note": "defense is the responsibility of New Zealand in consultation with the Cook Islands and at its request",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "1 (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "E5 (2016)",
+"airports": "11 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2019)",
+"1_524_to_2_437_m": "1",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "10 (2013)",
+"1_524_to_2_437_m": "2 (2013)",
+"914_to_1_523_m": "7 (2013)",
+"under_914_m": "1 (2013)",
+}, 
+"roadways": 
+{
+"total": "295 km (2018)",
+"paved": "207 km (2018)",
+"unpaved": "88 km (2018)",
+}, 
+"merchant_marine": 
+{
+"total": "215",
+"by_type": "bulk carrier 23, container ship 5, general cargo 91, oil tanker 25, other 71 (2018)",
+}, 
+"ports_and_terminals": "Avatiu",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

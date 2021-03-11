@@ -1,0 +1,550 @@
+{
+"name": "Guyana",
+"code": "GY",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to settlement of urban areas by former slaves and the importation of indentured servants from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country&#39;s first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Early elections held in May 2015 resulted in the first change in governing party and the replacement of President Donald RAMOTAR by current President David GRANGER. After a December 2018 no-confidence vote against the GRANGER government, national elections will be held before the scheduled spring 2020 date.",
+}, 
+"geography": 
+{
+"location": "Northern South America, bordering the North Atlantic Ocean, between Suriname and Venezuela",
+"geographic_coordinates": "5 00 N, 59 00 W",
+"map_references": "South America",
+"area": 
+{
+"total": "214,969 sq km",
+"land": "196,849 sq km",
+"water": "18,120 sq km",
+}, 
+"area_comparative": "slightly smaller than Idaho; almost twice the size of Tennessee",
+"land_boundaries": 
+{
+"total": "2,933 km",
+"border_countries": "Brazil 1308 km, Suriname 836 km, Venezuela 789 km",
+}, 
+"coastline": "459 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"continental_shelf": "200 nm or to the outer edge of the continental margin",
+}, 
+"climate": "tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)",
+"terrain": "mostly rolling highlands; low coastal plain; savanna in south",
+"elevation": 
+{
+"mean_elevation": "207 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Laberintos del Norte on Mount Roraima 2,775 m",
+}, 
+"natural_resources": "bauxite, gold, diamonds, hardwood timber, shrimp, fish",
+"land_use": 
+{
+"agricultural_land": "8.4% (2011 est.)",
+"agricultural_land_arable_land": "2.1% (2011 est.)",
+"agricultural_land_permanent_crops": "0.1% (2011 est.)",
+"agricultural_land_permanent_pasture": "6.2% (2011 est.)",
+"forest": "77.4% (2011 est.)",
+"other": "14.2% (2011 est.)",
+}, 
+"irrigated_land": "1,430 sq km (2012)",
+"population_distribution": "population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated",
+"natural_hazards": "flash flood threat during rainy seasons",
+"environment_current_issues": "water pollution from sewage and agricultural and industrial chemicals; deforestation",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "the third-smallest country in South America after Suriname and Uruguay; substantial portions of its western and eastern territories are claimed by Venezuela and Suriname respectively; contains some of the largest unspoiled rainforests on the continent",
+}, 
+"people_and_society": 
+{
+"population": "740,685 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Guyanese (singular and plural)",
+"adjective": "Guyanese",
+}, 
+"ethnic_groups": "East Indian 39.8%, African descent 29.3%, mixed 19.9%, Amerindian 10.5%, other 0.5% (includes Portuguese, Chinese, white) (2012 est.)",
+"languages": "English (official), Guyanese Creole, Amerindian languages (including Caribbean and Arawak languages), Indian languages (including Caribbean Hindustani, a dialect of Hindi), Chinese (2014 est.)",
+"religions": "Protestant 34.8% (Pentecostal 22.8%, Seventh Day Adventist 5.4%, Anglican 5.2%, Methodist 1.4%), Hindu 24.8%, Roman Catholic 7.1%, Muslim 6.8%, Jehovah&#39;s Witness 1.3%, Rastafarian 0.5%, other Christian 20.8%, other 0.9%, none 3.1% (2012 est.)",
+"demographic_profile": "&lt;p&gt;Guyana is the only English-speaking country in South America and shares cultural and historical bonds with the Anglophone Caribbean. Guyana&#39;s two largest ethnic groups are the Afro-Guyanese (descendants of African slaves) and the Indo-Guyanese (descendants of Indian indentured laborers), which together comprise about three quarters of Guyana&#39;s population. Tensions periodically have boiled over between the two groups, which back ethnically based political parties and vote along ethnic lines. Poverty reduction has stagnated since the late 1990s. About one-third of the Guyanese population lives below the poverty line; indigenous people are disproportionately affected. Although Guyana&#39;s literacy rate is reported to be among the highest in the Western Hemisphere, the level of functional literacy is considerably lower, which has been attributed to poor education quality, teacher training, and infrastructure.&lt;/p&gt;&lt;p&gt;Guyana&#39;s emigration rate is among the highest in the world - more than 55% of its citizens reside abroad - and it is one of the largest recipients of remittances relative to GDP among Latin American and Caribbean counties. Although remittances are a vital source of income for most citizens, the pervasive emigration of skilled workers deprives Guyana of professionals in healthcare and other key sectors. More than 80% of Guyanese nationals with tertiary level educations have emigrated. Brain drain and the concentration of limited medical resources in Georgetown hamper Guyana&#39;s ability to meet the health needs of its predominantly rural population. Guyana has one of the highest HIV prevalence rates in the region and continues to rely on international support for its HIV treatment and prevention programs.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "25.38% (male 95,740 /female 92,282)",
+"15_24_years": "21.55% (male 81,676 /female 77,942)",
+"25_54_years": "38.52% (male 149,199 /female 136,129)",
+"55_64_years": "8.15% (male 27,684 /female 32,678)",
+"65_years_and_over": "6.39% (male 19,336 /female 28,019) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "53.5 (2015 est.)",
+"youth_dependency_ratio": "45.8 (2015 est.)",
+"elderly_dependency_ratio": "7.7 (2015 est.)",
+"potential_support_ratio": "13.3 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "26.7 years (2018 est.)",
+"male": "26.3 years",
+"female": "27 years",
+}, 
+"population_growth_rate": "0.48% (2018 est.)",
+"birth_rate": "15.4 births/1,000 population (2018 est.)",
+"death_rate": "7.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-3.2 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated",
+"urbanization": 
+{
+"urban_population": "26.7% of total population (2019)",
+"rate_of_urbanization": "0.83% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "110,000 GEORGETOWN (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.05 male(s)/female",
+"25_54_years": "1.1 male(s)/female",
+"55_64_years": "0.85 male(s)/female",
+"65_years_and_over": "0.69 male(s)/female",
+"total_population": "1.02 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "20.8 years (2009 est.)",
+"maternal_mortality_rate": "667 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "29.5 deaths/1,000 live births (2018 est.)",
+"male": "33.2 deaths/1,000 live births",
+"female": "25.5 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "68.9 years (2018 est.)",
+"male": "65.9 years",
+"female": "72.1 years",
+}, 
+"total_fertility_rate": "1.97 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "33.9% (2014)",
+"drinking_water_source": 
+{
+"improved_urban": "98.2% of population",
+"improved_rural": "98.3% of population",
+"improved_total": "98.3% of population",
+"unimproved_urban": "1.8% of population",
+"unimproved_rural": "1.7% of population",
+"unimproved_total": "1.7% of population (2015 est.)",
+}, 
+"current_health_expenditure": "4.2% (2016)",
+"physicians_density": "0.8 physicians/1,000 population (2018)",
+"hospital_bed_density": "1.6 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "87.9% of population (2015 est.)",
+"improved_rural": "82% of population (2015 est.)",
+"improved_total": "83.7% of population (2015 est.)",
+"unimproved_urban": "12.1% of population (2015 est.)",
+"unimproved_rural": "18% of population (2015 est.)",
+"unimproved_total": "16.3% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "1.4% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "8,200 (2018 est.)",
+"hiv_aids_deaths": " &lt;200 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "dengue fever and malaria (2016)",
+}, 
+"obesity_adult_prevalence_rate": "20.2% (2016)",
+"children_under_the_age_of_5_years_underweight": "8.2% (2014)",
+"education_expenditures": "6.3% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over has ever attended school",
+"total_population": "88.5%",
+"male": "87.2%",
+"female": "89.8% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "11 years",
+"male": "11 years",
+"female": "12 years (2012)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "21.6%",
+"male": "17.3%",
+"female": "28% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Cooperative Republic of Guyana",
+"conventional_short_form": "Guyana",
+"former": "British Guiana",
+"etymology": "the name is derived from Guiana, the original name for the region that included British Guiana, Dutch Guiana, and French Guiana; ultimately the word is derived from an indigenous Amerindian language and means &quot;Land of Many Waters&quot; (referring to the area&#39;s multitude of rivers and streams)",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Georgetown",
+"geographic_coordinates": "6 48 N, 58 09 W",
+"time_difference": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "10 regions; Barima-Waini, Cuyuni-Mazaruni, Demerara-Mahaica, East Berbice-Corentyne, Essequibo Islands-West Demerara, Mahaica-Berbice, Pomeroon-Supenaam, Potaro-Siparuni, Upper Demerara-Berbice, Upper Takutu-Upper Essequibo",
+"independence": "26 May 1966 (from the UK)",
+"national_holiday": "Republic Day, 23 February (1970)",
+"constitution": 
+{
+"history": "several previous; latest promulgated 6 October 1980",
+"amendments": "proposed by the National Assembly; passage of amendments affecting constitutional articles, such as national sovereignty, government structure and powers, and constitutional amendment procedures, requires approval by the Assembly membership, approval in a referendum, and assent of the president; other amendments only require Assembly approval; amended many times, last in 2016 (2018)",
+}, 
+"legal_system": "common law system, based on the English model, with some Roman-Dutch civil law influence",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "yes",
+"citizenship_by_descent_only": "yes",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "na",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President David GRANGER (since 16 May 2015); Vice Presidents Sydney ALLICOCK, Carl Barrington GREENIDGE, Moses Veerasammy NAGAMOOTOO, and Hemraj RAMJATTAN (since 20 May 2015); Prime Minister Moses Veerasammy NAGAMOOTOO (since 20 May 2015); note - the president is both chief of state and head of government",
+"head_of_government": "President David GRANGER (since 16 May 2015); Vice Presidents Sydney ALLICOCK, Carl Barrington GREENIDGE, Moses Veerasammy NAGAMOOTOO, and Hemraj RAMJATTAN (since 20 May 2015); Prime Minister Moses Veerasammy NAGAMOOTOO (since 20 May 2015)",
+"cabinet": "Cabinet of Ministers appointed by the president, responsible to the National Assembly",
+"elections_appointments": "the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); election last held on 11 May 2015 (next to be held no later than 2020); prime minister appointed by the president",
+"election_results": "David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly (65 seats; 40 members directly elected in a single nationwide constituency and 25 directly elected in multi-seat constituencies - all by closed list proportional representation vote; members serve 5-year terms)",
+"elections": "last held on 11 May 2015 (next to be held on 2 March 2020)",
+"election_results": "percent of vote by party - APNU-AFC 50.3%, PPP/C 49.2%, other 0.5%; seats by party - APNU-AFC 33, PPP/C 32; composition - men 44, women 21, percent of women 32.3%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)",
+"judge_selection_and_term_of_office": "Court of Appeal and High Court chief justices appointed by the president; other judges of both courts appointed by the Judicial Service Commission, a body appointed by the president; judges appointed for life with retirement at age 65",
+"subordinate_courts": "Land Court; magistrates&#39; courts",
+}, 
+"political_parties_and_leaders": "A Partnership for National Unity or APNU [David A. GRANGER]&lt;br /&gt;Alliance for Change or AFC [Raphael TROTMAN]&lt;br /&gt;Justice for All Party [C.N. SHARMA]&lt;br /&gt;National Independent Party or NIP [Saphier Husain SUBEDAR]&lt;br /&gt;People&#39;s Progressive Party/Civic or PPP/C [Donald RAMOTAR]&lt;br /&gt;The United Force or TUF [Manzoor NADIR]&lt;br /&gt;United Republican Party or URP [Vishnu BANDHU]",
+"international_organization_participation": "ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITU, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Riyad David INSANALLY (since 16 Sept 2016)",
+"chancery": "2490 Tracy Place NW, Washington, DC 20008",
+"telephone": "[1] (202) 265-6900",
+"fax": "[1] (202) 232-1297",
+"consulate_s_general": "New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Sarah-Ann LYNCH (since 13 March 2019)",
+"telephone": "[592] 225-4900 through 4909",
+"embassy": "US Embassy, 100 Young and Duke Streets, Kingston, Georgetown",
+"mailing_address": "P. O. Box 10507, Georgetown; US Embassy, 3170 Georgetown Place, Washington DC 20521-3170",
+"fax": "[592] 225-8497",
+}, 
+"flag_description": "green with a red isosceles triangle (based on the hoist side) superimposed on a long, yellow arrowhead; there is a narrow, black border between the red and yellow, and a narrow, white border between the yellow and the green; green represents forest and foliage; yellow stands for mineral resources and a bright future; white symbolizes Guyana&#39;s rivers; red signifies zeal and the sacrifice of the people; black indicates perseverance",
+"national_symbol_s": "Canje pheasant (hoatzin), jaguar, Victoria Regia water lily; national colors: red, yellow, green, black, white",
+"national_anthem": 
+{
+"name": "Dear Land of Guyana, of Rivers and Plains",
+"lyrics_music": "Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The Guyanese economy exhibited moderate economic growth in recent years and is based largely on agriculture and extractive industries. The economy is heavily dependent upon the export of six commodities - sugar, gold, bauxite, shrimp, timber, and rice - which represent nearly 60% of the country&#39;s GDP and are highly susceptible to adverse weather conditions and fluctuations in commodity prices. Guyana closed or consolidated several sugar estates in 2017, reducing production of sugar to a forecasted 147,000 tons in 2018, less than half of 2017 production. Much of Guyana&#39;s growth in recent years has come from a surge in gold production. With a record-breaking 700,000 ounces of gold produced in 2016, Gold production in Guyana has offset the economic effects of declining sugar production. In January 2018, estimated 3.2 billion barrels of oil were found offshore and Guyana is scheduled to become a petroleum producer by March 2020.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Guyana&#39;s entrance into the Caricom Single Market and Economy in January 2006 broadened the country&#39;s export market, primarily in the raw materials sector. Guyana has experienced positive growth almost every year over the past decade. Inflation has been kept under control. Recent years have seen the government&#39;s stock of debt reduced significantly - with external debt now less than half of what it was in the early 1990s. Despite these improvements, the government is still juggling a sizable external debt against the urgent need for expanded public investment. In March 2007, the Inter-American Development Bank, Guyana&#39;s principal donor, canceled Guyana&#39;s nearly $470 million debt, equivalent to 21% of GDP, which along with other Highly Indebted Poor Country debt forgiveness, brought the debt-to-GDP ratio down from 183% in 2006 to 52% in 2017. Guyana had become heavily indebted as a result of the inward-looking, state-led development model pursued in the 1970s and 1980s. Chronic problems include a shortage of skilled labor and a deficient infrastructure.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$6.301 billion",
+"2016": "$6.169 billion",
+"2015": "$5.969 billion",
+},
+"gdp_official_exchange_rate": "$3.561 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "2.1%",
+"2016": "3.4%",
+"2015": "3.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$8,100",
+"2016": "$8,000",
+"2015": "$7,800",
+},
+"gross_national_saving":
+{
+"2017": "10.5% of GDP",
+"2016": "15% of GDP",
+"2015": "8.8% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "71.1% (2017 est.)",
+"government_consumption": "18.2% (2017 est.)",
+"investment_in_fixed_capital": "25.4% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "47.8% (2017 est.)",
+"imports_of_goods_and_services": "-63% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "15.4% (2017 est.)",
+"industry": "15.3% (2017 est.)",
+"services": "69.3% (2017 est.)",
+}, 
+"agriculture_products": "sugarcane, rice, edible oils; beef, pork, poultry; shrimp, fish",
+"industries": "bauxite, sugar, rice milling, timber, textiles, gold mining",
+"industrial_production_growth_rate": "-5% (2017 est.)",
+"labor_force": "313,800 (2013 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": " NA",
+"industry": " NA",
+"services": " NA",
+}, 
+"unemployment_rate":
+{
+"2013": "11.1%",
+"2012": "11.3%",
+},
+"population_below_poverty_line": "35% (2006 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.3%",
+"highest_10": "33.8% (1999)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2007": "44.6",
+"1999": "43.2",
+},
+"budget": 
+{
+"revenues": "1.002 billion (2017 est.)",
+"expenditures": "1.164 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "28.1% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-4.5% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "52.2% of GDP",
+"2016": "50.7% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "2%",
+"2016": "0.8%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2011": "5.5%",
+"31 December 2010": "4.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "13%",
+"31 December 2016": "13%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$758.4 million",
+"31 December 2016": "$701.4 million",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$758.4 million",
+"31 December 2016": "$701.4 million",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$1.903 billion",
+"31 December 2016": "$1.875 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2012": "$610.9 million",
+"31 December 2011": "$440.4 million",
+"31 December 2010": "$339.8 million",
+},
+"current_account_balance":
+{
+"2017": "-$237 million",
+"2016": "$13 million",
+},
+"exports":
+{
+"2017": "$1.439 billion",
+"2016": "$1.38 billion",
+},
+"exports_partners": "Canada 24.9%, US 16.5%, Panama 9.6%, UK 7.7%, Jamaica 5.1%, Trinidad and Tobago 5% (2017)",
+"exports_commodities": "sugar, gold, bauxite, alumina, rice, shrimp, molasses, rum, timber",
+"imports":
+{
+"2017": "$1.626 billion",
+"2016": "$1.341 billion",
+},
+"imports_commodities": "manufactures, machinery, petroleum, food",
+"imports_partners": "Trinidad and Tobago 27.5%, US 26.5%, China 8.9%, Suriname 6.1% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$565.4 million",
+"31 December 2016": "$581 million",
+},
+"debt_external":
+{
+"31 December 2017": "$1.69 billion",
+"31 December 2016": "$1.542 billion",
+},
+"exchange_rates": 
+{
+"currency": "Guyanese dollars (GYD) per US dollar -",
+"exchange_rates":
+{
+"2017": "207",
+"2016": "206.5",
+"2015": "206.5",
+"2014": "206.5",
+"2013": "206.45",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"electrification_total_population": "84.2% (2016)",
+"electrification_urban_areas": "90.2% (2016)",
+"electrification_rural_areas": "81.9% (2016)",
+}, 
+"electricity_production": "1.01 billion kWh (2016 est.)",
+"electricity_consumption": "790.1 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "428,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "89% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "11% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "14,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "13,720 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "2.131 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "135,795",
+"subscriptions_per_100_inhabitants": "18 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "643,210",
+"subscriptions_per_100_inhabitants": "87 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "reliable international long distance service; 100% digital network; national transmission supported by fiber optic cable and rural network by microwaves; more than 150,000 lines; many areas still lack fixed-line telephone services; 2019 budget allocates funds for ICT (Information and Communications Technology)&amp;nbsp;&amp;nbsp;development (2018)",
+"domestic": "fixed-line teledensity is about 20 per 100 persons; mobile-cellular teledensity about&amp;nbsp;87 per 100 persons (2018)",
+"international": "country code - 592; landing point for the SG-SCS submarine cable to Suriname,&amp;nbsp;and the Caribbean;&amp;nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies capable of reaching the entire country; government limits on licensing of new private radio stations has constrained competition in broadcast media",
+"internet_country_code": ".gy",
+"internet_users": 
+{
+"total": "262,425",
+"percent_of_population": "35.7% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "64,889",
+"subscriptions_per_100_inhabitants": "9 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.69% of GDP",
+"2017": "1.68% of GDP",
+"2016": "1.51% of GDP",
+"2015": "1.46% of GDP",
+"2014": "1.28% of GDP",
+},
+"military_and_security_forces": "Guyana Defense Force: Army, Air Corps, Coast Guard (2019)",
+"military_service_age_and_obligation": "18 years of age or older for voluntary military service; no conscription (2014)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "2 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "12 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "43,835 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "8R (2016)",
+"airports": "117 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "11 (2017)",
+"1_524_to_2_437_m": "2 (2017)",
+"914_to_1_523_m": "1 (2017)",
+"under_914_m": "8 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "106 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "16 (2013)",
+"under_914_m": "89 (2013)",
+}, 
+"roadways": 
+{
+"total": "3,995 km (2019)",
+"paved": "799 km (2019)",
+"unpaved": "3,196 km (2019)",
+}, 
+"waterways": "330 km (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively) (2012)",
+"merchant_marine": 
+{
+"total": "55",
+"by_type": "general cargo 26, oil tanker 7, other 22 (2018)",
+}, 
+"ports_and_terminals": "Georgetown",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;all of the area west of the Essequibo River is claimed by Venezuela preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before UN Convention on the Law of the Sea (UNCLOS) that Trinidad and Tobago&#39;s maritime boundary with Venezuela extends into their waters; Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne&lt;/p&gt;",
+"trafficking_in_persons": 
+{
+"current_situation": "Guyana is a source and destination country for men, women, and children subjected to sex trafficking and forced labor – children are particularly vulnerable; women and girls from Guyana, Venezuela, Suriname, Brazil, and the Dominican Republic are forced into prostitution in Guyana’s interior mining communities and urban areas; forced labor is reported in mining, agriculture, forestry, domestic service, and shops; Guyanese nationals are also trafficked to Suriname, Jamaica, and other Caribbean countries for sexual exploitation and forced labor",
+"tier_rating": "Tier 2 Watch List – Guyana does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Guyana was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government released its anti-trafficking action plan in June 2014 but made uneven efforts to implement it; law enforcement was weak, investigating seven trafficking cases, prosecuting four alleged traffickers, and convicting one trafficker – a police officer – who was released on bail pending appeal; in 2014, as in previous years, Guyanese courts dismissed the majority of ongoing trafficking prosecutions; the government referred some victims to care services, which were provided by NGOs with little or no government support (2015)",
+}, 
+"illicit_drugs": "transshipment point for narcotics from South America - primarily Venezuela - to Europe and the US; producer of cannabis; rising money laundering related to drug trafficking and human smuggling",
+}
+}

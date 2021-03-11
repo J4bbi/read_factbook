@@ -1,0 +1,338 @@
+{
+"name": "Northern Mariana Islands",
+"code": "CQ",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "Under US administration as part of the UN Trust Territory of the Pacific, the people of the Northern Mariana Islands decided in the 1970s not to seek independence but instead to forge closer links with the US. Negotiations for territorial status began in 1972. A covenant to establish a commonwealth in political union with the US was approved in 1975, and came into force on 24 March 1976. A new government and constitution went into effect in 1978.",
+}, 
+"geography": 
+{
+"location": "Oceania, islands in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines",
+"geographic_coordinates": "15 12 N, 145 45 E",
+"map_references": "Oceania",
+"area": 
+{
+"total": "464 sq km",
+"land": "464 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "2.5 times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "1,482 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "tropical marine; moderated by northeast trade winds, little seasonal temperature variation; dry season December to June, rainy season July to October",
+"terrain": "the southern islands in this north-south trending archipelago are limestone, with fringing coral reefs; the northern islands are volcanic, with active volcanoes on several islands",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "unnamed elevation on Agrihan 965 m",
+}, 
+"natural_resources": "arable land, fish",
+"land_use": 
+{
+"agricultural_land": "6.6% (2011 est.)",
+"agricultural_land_arable_land": "2.2% (2011 est.)",
+"agricultural_land_permanent_crops": "2.2% (2011 est.)",
+"agricultural_land_permanent_pasture": "2.2% (2011 est.)",
+"forest": "65.5% (2011 est.)",
+"other": "27.9% (2011 est.)",
+}, 
+"irrigated_land": "1 sq km (2012)",
+"population_distribution": "approximately 90% of the population lives on the island of Saipan",
+"natural_hazards": "active volcanoes on Pagan and Agrihan; typhoons (especially August to November)",
+"environment_current_issues": "contamination of groundwater on Saipan may contribute to disease; clean-up of landfill; protection of endangered species conflicts with development",
+"geography_note": "strategic location in the North Pacific Ocean",
+}, 
+"people_and_society": 
+{
+"population": "51,994 (July 2018 est.)",
+"nationality": 
+{
+"noun": "NA (US citizens)",
+"adjective": "NA",
+}, 
+"ethnic_groups": "Asian 50% (includes Filipino 35.3%, Chinese 6.8%, Korean 4.2%, and other Asian 3.7%), Native Hawaiian or other Pacific Islander 34.9% (includes Chamorro 23.9%, Carolinian 4.6%, and other Native Hawaiian or Pacific Islander 6.4%), other 2.5%, two or more ethnicities or races 12.7% (2010 est.)",
+"languages": "Philippine languages 32.8%, Chamorro (official) 24.1%, English (official) 17%, other Pacific island languages 10.1%, Chinese 6.8%, other Asian languages 7.3%, other 1.9% (2010 est.)",
+"religions": "Christian (Roman Catholic majority, although traditional beliefs and taboos may still be found)",
+"age_structure": 
+{
+"0_14_years": "26.17% (male 7,355 /female 6,252)",
+"15_24_years": "15.71% (male 4,365 /female 3,804)",
+"25_54_years": "39.14% (male 10,545 /female 9,805)",
+"55_64_years": "13% (male 3,701 /female 3,057)",
+"65_years_and_over": "5.98% (male 1,672 /female 1,438) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "33.4 years (2018 est.)",
+"male": "32.4 years",
+"female": "34.3 years",
+}, 
+"population_growth_rate": "-0.52% (2018 est.)",
+"birth_rate": "14.9 births/1,000 population (2018 est.)",
+"death_rate": "4.9 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-15.2 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "approximately 90% of the population lives on the island of Saipan",
+"urbanization": 
+{
+"urban_population": "91.7% of total population (2019)",
+"rate_of_urbanization": "0.29% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "51,000 SAIPAN (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.17 male(s)/female",
+"0_14_years": "1.18 male(s)/female",
+"15_24_years": "1.15 male(s)/female",
+"25_54_years": "1.08 male(s)/female",
+"55_64_years": "1.21 male(s)/female",
+"65_years_and_over": "1.16 male(s)/female",
+"total_population": "1.13 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "12.3 deaths/1,000 live births (2018 est.)",
+"male": "14.6 deaths/1,000 live births",
+"female": "9.6 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "75.6 years (2018 est.)",
+"male": "73.6 years",
+"female": "78.1 years",
+}, 
+"total_fertility_rate": "2.76 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "97.5% of population",
+"improved_rural": "97.5% of population",
+"improved_total": "97.5% of population",
+"unimproved_urban": "2.5% of population",
+"unimproved_rural": "2.5% of population",
+"unimproved_total": "2.5% of population (2015 est.)",
+}, 
+"sanitation_facility_access": 
+{
+"improved_urban": "79.7% of population (2015 est.)",
+"improved_rural": "79.7% of population (2015 est.)",
+"improved_total": "79.7% of population (2015 est.)",
+"unimproved_urban": "20.3% of population (2015 est.)",
+"unimproved_rural": "20.3% of population (2015 est.)",
+"unimproved_total": "20.3% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"education_expenditures": " NA",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Commonwealth of the Northern Mariana Islands",
+"conventional_short_form": "Northern Mariana Islands",
+"former": "Trust Territory of the Pacific Islands, Mariana Islands District",
+"abbreviation": "CNMI",
+"etymology": "formally claimed and named by Spain in 1667 in honor of the Spanish Queen, MARIANA of Austria",
+}, 
+"dependency_status": "commonwealth in political union with and under the sovereignty of&amp;nbsp;the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs",
+"government_type": "republican form of government with separate executive, legislative, and judicial branches; a commonwealth in political union with and under the sovereignty of the US",
+"capital": 
+{
+"name": "Saipan",
+"geographic_coordinates": "15 12 N, 145 45 E",
+"time_difference": "UTC+10 (15 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US Government, but there are 4 municipalities at the second order: Northern Islands, Rota, Saipan, Tinian",
+"independence": "none (commonwealth in political union with the US)",
+"national_holiday": "Commonwealth Day, 8 January (1978)",
+"constitution": 
+{
+"history": "partially effective 9 January 1978 (Constitution of the Commonwealth of the Northern Mariana Islands); fully effective 4 November 1986 (Covenant Agreement)",
+"amendments": "proposed by constitutional convention, by public petition, or by the Legislature; ratification of proposed amendments requires approval by voters at the next general election or special election; amendments proposed by constitutional convention or by petition become effective if approved by a majority of voters and at least two-thirds majority of voters in each of two senatorial districts; amendments proposed by the Legislature are effective if approved by majority vote; amended several times, last in 2012 (2017)",
+}, 
+"legal_system": "the laws of the US apply, except for customs and some aspects of taxation",
+"citizenship": "see United States", 
+"suffrage": "18 years of age; universal; note - indigenous inhabitants are US citizens but do not vote in US presidential elections",
+"executive_branch": 
+{
+"chief_of_state": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)",
+"head_of_government": "Governor Ralph TORRES (since 29 December 2015); Lieutenant Governor Victor HOCOG (since 29 December 2015)",
+"cabinet": "Cabinet appointed by the governor with the advice and consent of the Senate",
+"elections_appointments": "president and vice president indirectly elected on the same ballot by an Electoral College of &#39;electors&#39; chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on&amp;nbsp;13 November 2018 (next to be held in 2022)",
+"election_results": "Ralph TORRES&amp;nbsp;elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (Independent) 37.8%;&amp;nbsp;&amp;nbsp;Arnold PALACIOS elected Lieutenant Governor",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Northern Marianas Commonwealth Legislature consists of:&lt;br /&gt;Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)&lt;br /&gt; House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)&lt;br /&gt;&lt;br /&gt;the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term",
+"elections": "&lt;br /&gt;CNMI Senate - last held on 8 November 2016 (next to be held in November 2020)&lt;br /&gt; CNMI House of Representatives - last held on 13 November 2018 (next to be held in November 2020)&lt;br /&gt;Commonwealth of Northern Mariana Islands delegate to the US House of Representatives&amp;nbsp; - last held on 13 November 2018 (next to be held in November 2020)",
+"election_results": "&lt;br /&gt;CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition - men 8, women 1, percent of women 11.1%&lt;br /&gt; CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 13, independent 7; composition - men 17, women 3, percent of women 15%; note - total CNMI Legislature percent of women 13.8%&lt;br /&gt;&lt;br /&gt;delegate to US House of Representatives - seat won by Democratic Party; composition - 1 man",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of the Commonwealth of the Northern Mariana Islands (CNMI) (consists of the chief justice and 2 associate justices); US Federal District Court (consists of 1 judge); note - US Federal District Court jurisdiction limited to US federal laws; appeals beyond the CNMI Supreme Court are referred to the US Supreme Court",
+"judge_selection_and_term_of_office": "CNMI Supreme Court judges appointed by the governor and confirmed by the CNMI Senate; judges appointed for 8-year terms and another term if directly elected in a popular election; US Federal District Court judges appointed by the US president and confirmed by the US Senate; judges appointed for renewable 10-year terms",
+"subordinate_courts": "Superior Court",
+}, 
+"political_parties_and_leaders": "Democratic Party [Daniel QUITUGUA]&lt;br /&gt;Republican Party [James ADA]",
+"international_organization_participation": "PIF (observer), SPC, UPU",
+"flag_description": "blue with a white, five-pointed star superimposed on a gray latte stone (the traditional foundation stone used in building) in the center, surrounded by a wreath; blue symbolizes the Pacific Ocean, the star represents the Commonwealth; the latte stone and the floral head wreath display elements of the native Chamorro culture",
+"national_symbol_s": "latte stone; national colors: blue, white",
+"national_anthem": 
+{
+"name": "&quot;Gi Talo Gi Halom Tasi&quot; (In the Middle of the Sea)",
+"lyrics_music": "Jose S. PANGELINAN [Chamoru], David PETER [Carolinian]/Wilhelm GANZHORN",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The economy of the Commonwealth of the Northern Mariana Islands(CNMI) has been on the rebound in the last few years, mainly on the strength of its tourism industry. In 2016, the CNMI’s real GDP increased 28.6% over the previous year, following two years of relatively rapid growth in 2014 and 2015. Chinese and Korean tourists have supplanted Japanese tourists in the last few years. The Commonwealth is making a concerted effort to broaden its tourism by extending casino gambling from the small Islands of Tinian and Rota to the main Island of Saipan, its political and commercial center. Investment is concentrated on hotels and casinos in Saipan, the CNMI’s largest island and home to about 90% of its population.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Federal grants have also contributed to economic growth and stability. In 2016, federal grants amounted to $101.4 billion which made up 26% of the CNMI government’s total revenues. A small agriculture sector consists of cattle ranches and small farms producing coconuts, breadfruit, tomatoes, and melons.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Legislation is pending in the US Congress to extend the transition period to allow foreign workers to work in the CNMI on temporary visas.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2016": "$1.242 billion",
+"2015": "$933 million",
+"2014": "$845 million",
+},
+"gdp_official_exchange_rate": "$1.242 billion (2016 est.) (2016 est.)",
+"gdp_real_growth_rate":
+{
+"2016": "28.6%",
+"2015": "3.8%",
+"2014": "3.5%",
+},
+"gdp_per_capita_ppp":
+{
+"2016": "$24,500",
+"2015": "$18,400",
+"2014": "$16,600",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "43.1% (2016 est.)",
+"government_consumption": "28.9% (2016 est.)",
+"investment_in_fixed_capital": "26.3% (2016 est.)",
+"investment_in_inventories": " NA (2016 est.)",
+"exports_of_goods_and_services": "73.6% (2016 est.)",
+"imports_of_goods_and_services": "-71.9% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "1.7% (2016)",
+"industry": "58.1% (2016 est.)",
+"services": "40.2% (2016)",
+}, 
+"agriculture_products": "vegetables and melons, fruits and nuts; ornamental plants; livestock, poultry, eggs; fish and aquaculture products",
+"industries": "tourism, banking, construction, fishing, handicrafts, other services",
+"industrial_production_growth_rate": " NA",
+"labor_force": "27,970 (2010 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "1.9%",
+"industry": "10%",
+"services": "88.1% (2010 est.)",
+}, 
+"unemployment_rate":
+{
+"2010": "11.2%",
+"2005": "8%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "389.6 million (2016 est.)",
+"expenditures": "344 million (2015 est.)",
+}, 
+"taxes_and_other_revenues": "31.4% (of GDP) (2016 est.)",
+"budget_surplus_or_deficit": "3.7% (of GDP) (2016 est.)",
+"public_debt":
+{
+"2017": "7.1% of GDP",
+},
+"fiscal_year": "1 October - 30 September",
+"inflation_rate_consumer_prices":
+{
+"2016": "0.3%",
+"2015": "0.1%",
+},
+"exports":
+{
+"2016": "$914 million",
+"2015": "$520 million",
+},
+"exports_commodities": "garments",
+"imports":
+{
+"2016": "$893 million",
+"2015": "$638 million",
+},
+"imports_commodities": "food, construction equipment and materials, petroleum products",
+"debt_external": "&lt;p&gt;NA&lt;/p&gt;", 
+"exchange_rates": "&lt;p&gt;the US dollar is used&lt;/p&gt;", 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "60,600 kWh (2009)",
+"electricity_consumption": "48,300 kWh (2009)",
+"electricity_exports": "0 kWh (2009 est.)",
+"electricity_imports": "0 kWh (January 2009 est.)",
+}, 
+"communications": 
+{
+"telephone_system": 
+{
+"general_assessment": "digital fiber-optic cables and satellites connect the islands to worldwide networks; future launch of 5G (2018)",
+"domestic": "wide variety of services available including dial-up and broadband Internet, mobile cellular, international private lines, payphones, phone cards, voicemail, and automatic call distribution systems (2018)",
+"international": "country code - 1-670; landing points for the Atisa and Mariana-Guam submarine cables linking Mariana islands to Guam; satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)",
+}, 
+"broadcast_media": "1 TV broadcast station on Saipan; multi-channel cable TV services are available on Saipan; 9 licensed radio broadcast stations (2009)",
+"internet_country_code": ".mp",
+"internet_users": 
+{
+"total": "16,000",
+"percent_of_population": "30.6% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of the US",
+}, 
+"transportation": 
+{
+"airports": "5 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "3 (2017)",
+"2_438_to_3_047_m": "2 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "2 (2013)",
+"2_438_to_3_047_m": "1 (2013)",
+"under_914_m": "1 (2013)",
+}, 
+"heliports": "1 (2013)",
+"roadways": "536 km (2008)",
+"merchant_marine": 
+{
+"total": "1",
+"by_type": "other 1 (2018)",
+}, 
+"ports_and_terminals": "Saipan, Tinian, Rota",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

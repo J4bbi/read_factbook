@@ -1,0 +1,562 @@
+{
+"name": "Iraq",
+"code": "IZ",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Formerly part of the Ottoman Empire, Iraq was occupied by the United Kingdom during World War I and&amp;nbsp;was declared a League of Nations mandate under UK administration in 1920. Iraq attained its independence as a kingdom in 1932. It was proclaimed a &quot;republic&quot; in 1958 after a coup overthrew the monarchy, but in actuality, a series of strongmen ruled the country until 2003. The last was SADDAM Husayn from 1979 to 2003. Territorial disputes with Iran led to an inconclusive and costly eight-year war (1980-88). In August 1990, Iraq seized Kuwait but was expelled by US-led UN coalition forces during the Gulf War of January-February 1991. After Iraq&#39;s expulsion, the UN Security Council (UNSC) required Iraq to scrap all weapons of mass destruction and long-range missiles and to allow UN verification inspections. Continued Iraqi noncompliance with UNSC resolutions led to the Second Gulf War in March 2003 and the ouster of the SADDAM Husayn regime by US-led forces.&lt;/p&gt; &lt;p&gt;In October 2005, Iraqis approved a constitution in a national referendum and, pursuant to this document, elected a 275-member Council of Representatives (COR) in December 2005. The COR approved most cabinet ministers in May 2006, marking the transition to Iraq&#39;s first constitutional government in nearly a half century. Iraq held elections for provincial councils in all governorates in January 2009 and April 2013 and postponed the next provincial elections, originally planned for April 2017, until 2019. Iraq has held three national legislative elections since 2005, most recently in May 2018 when 329 legislators were elected to the COR. Adil ABD AL-MAHDI assumed the premiership in October 2018 as a consensus and independent candidate - the first prime minister who is not an active member of a major political bloc. However, widespread protests that began in October 2019 demanding more employment opportunities and an end to corruption prompted ABD AL-MAHDI to announce his resignation on 20 November 2019.&lt;/p&gt; &lt;p&gt;Between 2014 and 2017, Iraq was engaged in a military campaign against the Islamic State of Iraq and ash-Sham (ISIS) to recapture territory lost in the western and northern portion of the country. Iraqi and allied forces recaptured Mosul, the country&#39;s second-largest city, in 2017 and drove ISIS out of its other urban strongholds. In December 2017, then-Prime Minister Haydar al-ABADI publicly declared victory against ISIS while continuing operations against the group&#39;s residual presence in rural areas. Also in late 2017, ABADI responded to an independence referendum held by the Kurdistan Regional Government by ordering Iraqi forces to take control of disputed territories across central and northern Iraq that were previously occupied and governed by Kurdish forces.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Middle East, bordering the Persian Gulf, between Iran and Kuwait",
+"geographic_coordinates": "33 00 N, 44 00 E",
+"map_references": "Middle East",
+"area": 
+{
+"total": "438,317 sq km",
+"land": "437,367 sq km",
+"water": "950 sq km",
+}, 
+"area_comparative": "slightly more than three times the size of New York state",
+"land_boundaries": 
+{
+"total": "3,809 km",
+"border_countries": "Iran 1599 km, Jordan 179 km, Kuwait 254 km, Saudi Arabia 811 km, Syria 599 km, Turkey 367 km",
+}, 
+"coastline": "58 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"continental_shelf": " not specified",
+}, 
+"climate": "mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq",
+"terrain": "mostly broad plains; reedy marshes along Iranian border in south with large flooded areas; mountains along borders with Iran and Turkey",
+"elevation": 
+{
+"mean_elevation": "312 m",
+"lowest_point": "Persian Gulf 0 m",
+"highest_point": "Cheekha Dar (Kurdish for &quot;Black Tent&quot;) 3,611 m",
+}, 
+"natural_resources": "petroleum, natural gas, phosphates, sulfur",
+"land_use": 
+{
+"agricultural_land": "18.1% (2011 est.)",
+"agricultural_land_arable_land": "8.4% (2011 est.)",
+"agricultural_land_permanent_crops": "0.5% (2011 est.)",
+"agricultural_land_permanent_pasture": "9.2% (2011 est.)",
+"forest": "1.9% (2011 est.)",
+"other": "80% (2011 est.)",
+}, 
+"irrigated_land": "35,250 sq km (2012)",
+"population_distribution": "population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited",
+"natural_hazards": "dust storms; sandstorms; floods",
+"environment_current_issues": "government water control projects drained most of the inhabited marsh areas east of An Nasiriyah by drying up or diverting the feeder streams and rivers; a once sizable population of Marsh Arabs, who inhabited these areas for thousands of years, has been displaced; furthermore, the destruction of the natural habitat poses serious threats to the area&#39;s wildlife populations; inadequate supplies of potable water; soil degradation (salination) and erosion; desertification; military and industrial infrastructure has released heavy metals and other hazardous substances into the air, soil, and groundwater; major sources of environmental damage are effluents from oil refineries, factory and sewage discharges into rivers, fertilizer and chemical contamination of the soil, and industrial air pollution in urban areas",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Hazardous Wastes, Law of the Sea, Ozone Layer Protection",
+"signed_but_not_ratified": "Environmental Modification",
+}, 
+"geography_note": "strategic location on Shatt al Arab waterway and at the head of the Persian Gulf",
+}, 
+"people_and_society": 
+{
+"population": "40,194,216 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Iraqi(s)",
+"adjective": "Iraqi",
+}, 
+"ethnic_groups": "Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka&#39;i, Bedouin, Romani, Assyrian, Circassian, Sabaean-Mandaean, Persian)",
+"languages": "Arabic (official), Kurdish (official), Turkmen (a Turkish dialect), Syriac (Neo-Aramaic), and Armenian are official in areas where native speakers of these languages constitute a majority of the population",
+"religions": "Muslim (official) 95-98% (Shia 64-69%, Sunni 29-34%), Christian 1% (includes Catholic, Orthodox, Protestant, Assyrian Church of the East), other 1-4% (2015 est.)",
+"age_structure": 
+{
+"0_14_years": "39.01% (male 8,005,327 /female 7,674,802)",
+"15_24_years": "19.42% (male 3,976,085 /female 3,829,086)",
+"25_54_years": "33.97% (male 6,900,984 /female 6,752,797)",
+"55_64_years": "4.05% (male 788,602 /female 839,291)",
+"65_years_and_over": "3.55% (male 632,753 /female 794,489) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "77.7 (2015 est.)",
+"youth_dependency_ratio": "72.3 (2015 est.)",
+"elderly_dependency_ratio": "5.5 (2015 est.)",
+"potential_support_ratio": "18.3 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "20.2 years (2018 est.)",
+"male": "20 years",
+"female": "20.5 years",
+}, 
+"population_growth_rate": "2.5% (2018 est.)",
+"birth_rate": "30 births/1,000 population (2018 est.)",
+"death_rate": "3.8 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-1.1 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited",
+"urbanization": 
+{
+"urban_population": "70.7% of total population (2019)",
+"rate_of_urbanization": "3.06% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "6.974 million BAGHDAD (capital), 1.578 million Mosul, 1.325 million Basra, 996,000 Kirkuk, 833,000 Erbil, 847,000 Najaf (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.02 male(s)/female",
+"55_64_years": "0.94 male(s)/female",
+"65_years_and_over": "0.8 male(s)/female",
+"total_population": "1.02 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "79 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "37.5 deaths/1,000 live births (2018 est.)",
+"male": "40.6 deaths/1,000 live births",
+"female": "34.2 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "74.9 years (2018 est.)",
+"male": "72.6 years",
+"female": "77.2 years",
+}, 
+"total_fertility_rate": "3.94 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "52.8% (2018)",
+"drinking_water_source": 
+{
+"improved_urban": "93.8% of population",
+"improved_rural": "70.1% of population",
+"improved_total": "86.6% of population",
+"unimproved_urban": "6.2% of population",
+"unimproved_rural": "29.9% of population",
+"unimproved_total": "13.4% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.3% (2016)",
+"physicians_density": "0.82 physicians/1,000 population (2017)",
+"hospital_bed_density": "1.4 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "86.4% of population (2015 est.)",
+"improved_rural": "83.8% of population (2015 est.)",
+"improved_total": "85.6% of population (2015 est.)",
+"unimproved_urban": "13.6% of population (2015 est.)",
+"unimproved_rural": "16.2% of population (2015 est.)",
+"unimproved_total": "14.4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "intermediate (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea, hepatitis A, and typhoid fever (2016)",
+}, 
+"obesity_adult_prevalence_rate": "30.4% (2016)",
+"children_under_the_age_of_5_years_underweight": "7.2% (2011)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "79.7%",
+"male": "85.7%",
+"female": "73.7% (2015)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "25.6%",
+"male": "22%",
+"female": "63.3% (2017)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Iraq",
+"conventional_short_form": "Iraq",
+"local_long_form": "Jumhuriyat al-Iraq/Komar-i Eraq",
+"local_short_form": "Al Iraq/Eraq",
+"former": "Mesopotamia, Mandatory Iraq, Hashemite Kingdom of Iraq",
+"etymology": "the name probably derives from &quot;Uruk&quot; (Biblical &quot;Erech&quot;), the ancient Sumerian and Babylonian city on the Euphrates River",
+}, 
+"government_type": "federal parliamentary republic",
+"capital": 
+{
+"name": "Baghdad",
+"geographic_coordinates": "33 20 N, 44 24 E",
+"time_difference": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)) and 1 region*; Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala&#39;; Kirkuk; Kurdistan Regional Government*; Maysan; Ninawa; Salah ad Din; Wasit",
+"independence": "3 October 1932 (from League of Nations mandate under British administration); note - on 28 June 2004 the Coalition Provisional Authority transferred sovereignty to the Iraqi Interim Government",
+"national_holiday": "Independence Day, 3 October (1932); Republic Day, 14 July (1958)",
+"constitution": 
+{
+"history": "several previous; latest adopted by referendum 15 October 2005",
+"amendments": "proposed by the president of the republic and the Council of Minsters collectively, or by one fifth of the Council of Representatives members; passage requires at least two-thirds majority vote by the Council of Representatives, approval by referendum, and ratification by the president; passage of amendments to articles on citizen rights and liberties requires two-thirds majority vote of Council of Representatives members after two successive electoral terms, approval in a referendum, and ratification by the president (2016)",
+}, 
+"legal_system": "mixed legal system of civil and Islamic law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Iraq",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Barham SALIH (since 2 October 2018); vice presidents (vacant)",
+"head_of_government": "Prime Minister Adil ABD AL-MAHDI (since 24 October 2018); resigned on 1 December 2019",
+"cabinet": "Council of Ministers proposed by the prime minister, approved by Council of Representatives",
+"elections_appointments": "president indirectly elected by Council of Representatives (COR) to serve a 4-year term (eligible for a second term);&amp;nbsp;COR election last held on 12 May 2018 (next to be held in 2022); prime minister nominated by the largest COR bloc or by consensus&amp;nbsp;and submission of COR minister nominees for majority COR approval; disapproval requires designation of a new prime minister candidate",
+"election_results": "&lt;p&gt;COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round -&amp;nbsp;Barham SALIH 219, Fuad HUSAYN 22; note - the COR vote on 1 October 2018 failed due to a lack of quorum, and a new session was held on 2 October&lt;/p&gt;",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Council of Representatives or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in multi-seat constituencies by open-list proportional representation vote and 9 seats at the national level reserved for minorities - 5 for Christians, 1 each for Sabaean-Mandaeans, Yazidis, Shabaks, Fayli Kurds; 25% of seats allocated to women; members serve 4-year terms); note - Iraq&#39;s constitution calls for the establishment of an upper house, the Federation Council, but it has not been instituted",
+"elections": "last held on 12 May 2018 (next to be held in 2022)",
+"election_results": "percent of vote by party/coalition - NA; seats by party/coalition - Al Sa&#39;irun Alliance 54, Al&amp;nbsp;Fatah Alliance 48, Al Nasir Alliance 42, KDP 25, State of Law Coalition 25, Wataniyah 21, National Wisdom Trend 19, PUK 18, Iraqi Decision Alliance 14, Anbar Our Identity 6, Goran Movement 5, New Generation 4, other 48; composition - men 245, women 84, percent of women 25.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)",
+"judge_selection_and_term_of_office": "Federal Supreme Court and Court of Cassation judges selected by the president of the republic from nominees selected by the Supreme Judicial Council (SJC), a 25-member committee of judicial officials that manages the judiciary and prosecutors; FSC members appointed for life; Court of Cassation judges appointed by the SJC and confirmed by the Council of Representatives to serve until retirement nominally at age 63",
+"subordinate_courts": "Courts of Appeal (governorate level); civil courts, including first instance, personal status, labor, and customs; criminal courts including felony, misdemeanor, investigative, major crimes, juvenile, and traffic; religious courts",
+}, 
+"political_parties_and_leaders": "&lt;br /&gt;Al Fatah Alliance [Hadi al-AMIRI]&lt;br /&gt;Al Nasr Alliance [Haydar al-ABADI]&lt;br /&gt;Al Sadiqun Bloc [Adnan al-DULAYMI]&lt;br /&gt;Al Sa&#39;irun Alliance [Muqtda al-SADR]&lt;br /&gt;Badr Organization [Hadi al-AMIRI]&lt;br /&gt;Da`wa Party [Nuri al-MALIKI]&lt;br /&gt;Fadilah Party [Muhammad al-YAQUBI]&lt;br /&gt;Goran Movement [Omar SAYYID ALI]&lt;br /&gt;Iraqi Communist Party [Hamid Majid MUSA]&lt;br /&gt;Iraq Decision Alliance [Khamis al-KHANJAR, Usama al-NUJAYFI]&lt;br /&gt;Islamic Supreme Council of Iraq or ISCI [Humam HAMMUDI]&lt;br /&gt;Kurdistan Democratic Party or KDP [Masoud BARZANI]&lt;br /&gt;National Wisdom Trend [Ammar al-HAKIM]&lt;br /&gt;New Generation Movement [SHASWAR Abd al-Wahid Qadir]&lt;br /&gt;Our Identity [Muhammad al-HALBUSI]&lt;br /&gt;Patriotic Union of Kurdistan or PUK [KOSRAT Rasul Ali, acting]&lt;br /&gt;State of Law Coalition [Nuri al MALIKI&lt;br /&gt;Wataniyah coalition [Ayad ALLAWI]&lt;br /&gt;numerous smaller religious, local, tribal, and minority parties",
+"international_organization_participation": "ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Farid YASIN (since 18 January 2017)",
+"chancery": "3421 Massachusetts Avenue, NW, Washington, DC 20007",
+"telephone": "[1] (202) 742-1600",
+"fax": "[1] (202) 333-1129",
+"consulate_s_general": "Detroit, Los Angeles",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Matthew TUELLER (since&amp;nbsp;9&amp;nbsp;June&amp;nbsp;2019)",
+"telephone": "0760-030-3000",
+"embassy": "Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018",
+"mailing_address": "APO AE 09316",
+"fax": "NA",
+}, 
+"flag_description": "three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning &quot;God is great&quot;) in green Arabic script is centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba&#39;thist SADDAM-era flag",
+"national_symbol_s": "golden eagle; national colors: red, white, black",
+"national_anthem": 
+{
+"name": "&quot;Mawtini&quot; (My Homeland)",
+"lyrics_music": "Ibrahim TOUQAN/Mohammad FLAYFEL",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Iraq&#39;s GDP growth slowed to 1.1% in 2017, a marked decline compared to the previous two years as domestic consumption and investment fell because of civil violence and a sluggish oil market. The Iraqi Government received its third tranche of funding from its 2016 Stand-By Arrangement (SBA) with the IMF in August 2017, which is intended to stabilize its finances by encouraging improved fiscal management, needed economic reform, and expenditure reduction. Additionally, in late 2017 Iraq received more than $1.4 billion in financing from international lenders, part of which was generated by issuing a $1 billion bond for reconstruction and rehabilitation in areas liberated from ISIL. Investment and key sector diversification are crucial components to Iraq’s long-term economic development and require a strengthened business climate with enhanced legal and regulatory oversight to bolster private-sector engagement. The overall standard of living depends on global oil prices, the central government passage of major policy reforms, a stable security environment post-ISIS, and the resolution of civil discord with the Kurdish Regional Government (KRG).&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Iraq&#39;s largely state-run economy is dominated by the oil sector, which provides roughly 85% of government revenue and 80% of foreign exchange earnings, and is a major determinant of the economy&#39;s fortunes. Iraq&#39;s contracts with major oil companies have the potential to further expand oil exports and revenues, but Iraq will need to make significant upgrades to its oil processing, pipeline, and export infrastructure to enable these deals to reach their economic potential.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In 2017, Iraqi oil exports from northern fields were disrupted following a KRG referendum that resulted in the Iraqi Government reasserting federal control over disputed oil fields and energy infrastructure in Kirkuk. The Iraqi government and the KRG dispute the role of federal and regional authorities in the development and export of natural resources. In 2007, the KRG passed an oil law to develop IKR oil and gas reserves independent of the federal government. The KRG has signed about 50 contracts with foreign energy companies to develop its reserves, some of which lie in territories taken by Baghdad in October 2017. The KRG is able to unilaterally export oil from the fields it retains control of through its own pipeline to Turkey, which Baghdad claims is illegal. In the absence of a national hydrocarbons law, the two sides have entered into five provisional oil- and revenue-sharing deals since 2009, all of which collapsed.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Iraq is making slow progress enacting laws and developing the institutions needed to implement economic policy, and political reforms are still needed to assuage investors&#39; concerns regarding the uncertain business climate. The Government of Iraq is eager to attract additional foreign direct investment, but it faces a number of obstacles, including a tenuous political system and concerns about security and societal stability. Rampant corruption, outdated infrastructure, insufficient essential services, skilled labor shortages, and antiquated commercial laws stifle investment and continue to constrain growth of private, nonoil sectors. Under the Iraqi constitution, some competencies relevant to the overall investment climate are either shared by the federal government and the regions or are devolved entirely to local governments. Investment in the IKR operates within the framework of the Kurdistan Region Investment Law (Law 4 of 2006) and the Kurdistan Board of Investment, which is designed to provide incentives to help economic development in areas under the authority of the KRG.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Inflation has remained under control since 2006. However, Iraqi leaders remain hard-pressed to translate macroeconomic gains into an improved standard of living for the Iraqi populace. Unemployment remains a problem throughout the country despite a bloated public sector. Overregulation has made it difficult for Iraqi citizens and foreign investors to start new businesses. Corruption and lack of economic reforms - such as restructuring banks and developing the private sector – have inhibited the growth of the private sector.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$649.3 billion",
+"2016": "$662.9 billion",
+"2015": "$586.3 billion",
+},
+"gdp_official_exchange_rate": "$192.4 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "-2.1%",
+"2016": "13.1%",
+"2015": "2.5%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$16,700",
+"2016": "$17,500",
+"2015": "$15,900",
+},
+"gross_national_saving":
+{
+"2017": "19% of GDP",
+"2016": "13.1% of GDP",
+"2015": "18.4% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "50.4% (2013 est.)",
+"government_consumption": "22.9% (2016 est.)",
+"investment_in_fixed_capital": "20.6% (2016 est.)",
+"investment_in_inventories": "0% (2016 est.)",
+"exports_of_goods_and_services": "32.5% (2016 est.)",
+"imports_of_goods_and_services": "-40.9% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "3.3% (2017 est.)",
+"industry": "51% (2017 est.)",
+"services": "45.8% (2017 est.)",
+}, 
+"agriculture_products": "wheat, barley, rice, vegetables, dates, cotton; cattle, sheep, poultry",
+"industries": "petroleum, chemicals, textiles, leather, construction materials, food processing, fertilizer, metal fabrication/processing",
+"industrial_production_growth_rate": "0.7% (2017 est.)",
+"labor_force": "8.9 million (2010 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "21.6%",
+"industry": "18.7%",
+"services": "59.8% (2008 est.)",
+}, 
+"unemployment_rate":
+{
+"2012": "16%",
+"2010": "15%",
+},
+"population_below_poverty_line": "23% (2014 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.6%",
+"highest_10": "25.7% (2007 est.)",
+}, 
+"budget": 
+{
+"revenues": "68.71 billion (2017 est.)",
+"expenditures": "76.82 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "35.7% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-4.2% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "59.7% of GDP",
+"2016": "66% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.1%",
+"2016": "0.5%",
+},
+"central_bank_discount_rate":
+{
+"2016": "6%",
+"2015": "6%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "12.7%",
+"31 December 2016": "12.7%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$60.1 billion",
+"31 December 2016": "$59.84 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$60.1 billion",
+"31 December 2016": "$59.84 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$34.61 billion",
+"31 December 2016": "$31.93 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"9 December 2011": "$4 billion",
+"31 July 2010": "$2.6 billion",
+"31 July 2009": "$2 billion",
+},
+"current_account_balance":
+{
+"2017": "$4.344 billion",
+"2016": "-$13.38 billion",
+},
+"exports":
+{
+"2017": "$61.4 billion",
+"2016": "$41.72 billion",
+},
+"exports_partners": "India 21.2%, China 20.2%, US 15.8%, South Korea 9.4%, Greece 5.3%, Netherlands 4.8%, Italy 4.7% (2017)",
+"exports_commodities": "crude oil 99%, crude materials excluding fuels, food, live animals",
+"imports":
+{
+"2017": "$39.47 billion",
+"2016": "$19.57 billion",
+},
+"imports_commodities": "food, medicine, manufactures",
+"imports_partners": "Turkey 27.8%, China 25.7%, South Korea 4.7%, Russia 4.3% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$48.88 billion",
+"31 December 2016": "$45.36 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$73.02 billion",
+"31 December 2016": "$64.16 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"2015": "$26.63 billion",
+"2014": "$23.16 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"2015": "$2.109 billion",
+"2014": "$1.956 billion",
+},
+"exchange_rates": 
+{
+"currency": "Iraqi dinars (IQD) per US dollar -",
+"exchange_rates":
+{
+"2017": "1,184",
+"2016": "1,182",
+"2015": "1,182",
+"2014": "1,167.63",
+"2013": "1,213.72",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "75.45 billion kWh (2016 est.)",
+"electricity_consumption": "38.46 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "11.97 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "27.09 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "91% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "9% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "4.613 million bbl/day (2018 est.)",
+"crude_oil_exports": "3.092 million bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "148.8 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "398,000 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "826,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "8,284 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "255,100 bbl/day (2015 est.)",
+"natural_gas_production": "1.274 billion cu m (2017 est.)",
+"natural_gas_consumption": "2.633 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "1.359 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "3.82 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "117.9 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "2,918,396",
+"subscriptions_per_100_inhabitants": "7 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "33,335,316",
+"subscriptions_per_100_inhabitants": "85 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "the 2003 liberation of Iraq severely disrupted telecommunications throughout Iraq; widespread government efforts to rebuild domestic and international communications have slowed due to political unrest; 2018 showed signs of stability and installations of new fibre-optic cables and growth in mobile broadband subscribers; the most popular plans are pre-paid (2018)",
+"domestic": "the mobile cellular market continues to expand; 3G services offered by three major mobile operators; 4G offered by one operator in Iraqi Kurdistan Region; conflict has destroyed infrastructure in areas; 7 per 100 for fixed-line and 85 per 100 for mobile-cellular subscriptions (2018)",
+"international": "country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)",
+}, 
+"broadcast_media": "the number of private radio and TV stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019)",
+"internet_country_code": ".iq",
+"internet_users": 
+{
+"total": "8,098,401",
+"percent_of_population": "21.2% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "2.73% of GDP",
+"2017": "3.84% of GDP",
+"2016": "3.63% of GDP",
+"2015": "5.35% of GDP",
+"2014": "2.95% of GDP",
+},
+"military_and_security_forces": "Ministry of Defense: Iraqi Army (includes Army Aviation Command), Iraqi Navy, Iraqi Air Force; National-Level Security Forces: Iraqi Counterterrorism Service, Prime Minister&#39;s Special Forces Division, Presidential Brigades; Ministry of Interior:&amp;nbsp; Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate; Popular Mobilization Commission and Affiliated Forces; Peshmerga Ministry (Kurdistan Regional Government) (2019)",
+"military_service_age_and_obligation": "18-40 years of age for voluntary military service; no conscription (2017)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "4 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "39 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "484,803 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "10,758,230 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "YI (2016)",
+"airports": "102 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "72 (2017)",
+"over_3_047_m": "20 (2017)",
+"2_438_to_3_047_m": "34 (2017)",
+"1_524_to_2_437_m": "4 (2017)",
+"914_to_1_523_m": "7 (2017)",
+"under_914_m": "7 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "30 (2013)",
+"over_3_047_m": "3 (2013)",
+"2_438_to_3_047_m": "5 (2013)",
+"1_524_to_2_437_m": "3 (2013)",
+"914_to_1_523_m": "13 (2013)",
+"under_914_m": "6 (2013)",
+}, 
+"heliports": "16 (2013)",
+"pipelines": "2455 km gas, 913 km liquid petroleum gas, 5432 km oil, 1637 km refined products (2013)",
+"railways": 
+{
+"total": "2,272 km (2014)",
+"standard_gauge": "2,272 km 1.435-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "59,623 km (2012)",
+"paved": "59,623 km (includes Kurdistan region) (2012)",
+}, 
+"waterways": "5,279 km (the Euphrates River (2,815 km), Tigris River (1,899 km), and Third River (565 km) are the principal waterways) (2012)",
+"merchant_marine": 
+{
+"total": "80",
+"by_type": "general cargo 1, oil tanker 6, other 73 (2018)",
+}, 
+"ports_and_terminals": "Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az Zubayr waterway)",
+}, 
+"terrorism": 
+{
+"terrorist_groups_home_based": 
+{
+"ansar_al_islam_aai": "&lt;strong&gt;aim(s):&lt;/strong&gt; expel western interests from Iraq and, ultimately, establish an independent Iraqi state operating according to its interpretation of sharia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; headquartered in northern Iraq with its largest presence in Kirkuk, Tikrit, and Mosul; active in the western and central regions of the country&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; majority of members are Iraqi Kurds or Iraqi Arabs who are Sunni Muslim (2018)",
+"jaysh_rijal_al_tariq_al_naqshabandi_jrtn": "&lt;strong&gt;aim(s):&lt;/strong&gt; end external influence in Iraq and, ultimately, overthrow the Government of Iraq to install a secular Ba&#39;athist state within the internationally recognized borders of Iraq&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; attacks separatist Kurdish groups, Iraqi Government military and security forces and facilities, and foreign military personnel (2018)",
+"kata_ib_hizballah_kh": "&lt;strong&gt;aim(s):&lt;/strong&gt; counter US influence and, ultimately, overthrow the Iraqi Government to install a government based on Shia Muslim laws and precepts&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; headquartered in the Shia Muslim areas of Baghdad, with fighters active in Ninawa, Al Anbar, and Babil governorates (2018)",
+"kurdistan_workers_party_pkk": "&lt;strong&gt;aim(s):&lt;/strong&gt; advance Kurdish autonomy and security goals in Iraq, Turkey, Iran, and Syria&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operational in the north and east, with its stronghold in the Qandil Mountains; majority of members inside Iraq are Iraqi, Turkish, and Iranian Kurds, along with Kurds from Syria (2018)",
+}, 
+"terrorist_groups_foreign_based": 
+{
+"islamic_revolutionary_guard_corps_qods_force_irgc_qf": "&lt;p&gt;&lt;strong&gt;aim(s): &lt;/strong&gt;back Iraq&amp;rsquo;s pro-government Shia militias by supplying two battalions of IRGC forces to jointly engage in combat against ISIS;&lt;a href=&quot;#_edn1&quot; name=&quot;_ednref1&quot;&gt;&lt;/a&gt; provide weapons and munitions to Shia militants targeting US forces&lt;br /&gt;&lt;strong&gt;area(s) of operations: &lt;/strong&gt;Baghdad, Basrah, Karbala, Mosul, Samarra, Tikrit &amp;nbsp;&lt;/p&gt; (2019)",
+"islamic_state_of_iraq_and_ash_sham_isis": "&lt;strong&gt;aim(s): &lt;/strong&gt;replace the world order with a global Islamic state based in Iraq and Syria; expand its branches and networks in other countries; rule according to ISIS&#39;s strict interpretation of Islamic law&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; operational in the rural and desert areas of central and northern Iraq, primarily within and near Sunni populations, with some presence in major population areas (2018)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Iraq&#39;s lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf; Turkey has expressed concern over the autonomous status of Kurds in Iraq&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "15,405 (Turkey), 7,944 (West Bank and Gaza Strip), 7,026 (Iran) (2018); 244,539 (Syria) (2019)",
+"idps": "2,507,042 (includes displacement between 2006 and 2008 due to ethno-sectarian violence and displacement in central and northern Iraq since January 2014) (2019)",
+"stateless_persons": "47,515 (2018); note - in the 1970s and 1980s under SADDAM Husayn&#39;s regime, thousands of Iraq&#39;s Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2,006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless",
+}, 
+}
+}

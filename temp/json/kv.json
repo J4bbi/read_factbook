@@ -1,0 +1,428 @@
+{
+"name": "Kosovo",
+"code": "KV",
+"publish_date": "December 06, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;The central Balkans were part of the Roman and Byzantine Empires before ethnic Serbs migrated to the territories of modern Kosovo in the 7th century. During the medieval period, Kosovo became the center of a Serbian Empire and saw the construction of many important Serb religious sites, including many architecturally significant Serbian Orthodox monasteries. The defeat of Serbian forces at the Battle of Kosovo in 1389 led to five centuries of Ottoman rule during which large numbers of Turks and Albanians moved to Kosovo. By the end of the 19th century, Albanians replaced Serbs as the dominant ethnic group in Kosovo. Serbia reacquired control over the region from the Ottoman Empire during the First Balkan War of 1912. After World War II, Kosovo&#39;s present-day boundaries were established when Kosovo became an autonomous province of Serbia in the Socialist Federal Republic of Yugoslavia (S.F.R.Y.). Despite legislative concessions, Albanian nationalism increased in the 1980s, which led to riots and calls for Kosovo&#39;s independence. The Serbs - many of whom viewed Kosovo as their cultural heartland - instituted a new constitution in 1989 revoking Kosovo&#39;s autonomous status. Kosovo&#39;s Albanian leaders responded in 1991 by organizing a referendum declaring Kosovo independent. Serbia undertook repressive measures against the Kosovar Albanians in the 1990s, provoking a Kosovar Albanian insurgency.&lt;/p&gt; &lt;p&gt;Beginning in 1998, Serbia conducted a brutal counterinsurgency campaign that resulted in massacres and massive expulsions of ethnic Albanians (some 800,000 ethnic Albanians were forced from their homes in Kosovo). After international attempts to mediate the conflict failed, a three-month NATO military operation against Serbia beginning in March 1999 forced the Serbs to agree to withdraw their military and police forces from Kosovo. UN Security Council Resolution 1244 (1999) placed Kosovo under a transitional administration, the UN Interim Administration Mission in Kosovo (UNMIK), pending a determination of Kosovo&#39;s future status. A UN-led process began in late 2005 to determine Kosovo&#39;s final status. The 2006-07 negotiations ended without agreement between Belgrade and Pristina, though the UN issued a comprehensive report on Kosovo&#39;s final status that endorsed independence. On 17 February 2008, the Kosovo Assembly declared Kosovo independent. Since then, over 100 countries have recognized Kosovo, and it has joined numerous international organizations. In October 2008, Serbia sought an advisory opinion from the International Court of Justice (ICJ) on the legality under international law of Kosovo&#39;s declaration of independence. The ICJ released the advisory opinion in July 2010 affirming that Kosovo&#39;s declaration of independence did not violate general principles of international law, UN Security Council Resolution 1244, or the Constitutive Framework. The opinion was closely tailored to Kosovo&#39;s unique history and circumstances.&lt;/p&gt; &lt;p&gt;Demonstrating Kosovo&amp;rsquo;s development into a sovereign, multi-ethnic, democratic country the international community ended the period of Supervised Independence in 2012. Kosovo held its most recent national and municipal elections in 2017. Serbia continues to reject Kosovo&#39;s independence, but the two countries agreed in April 2013 to normalize their relations through EU-facilitated talks, which produced several subsequent agreements the parties are engaged in implementing, though they have not yet reached a comprehensive normalization of relations. Kosovo seeks full integration into the international community, and has pursued bilateral recognitions and memberships in international organizations. Kosovo signed a Stabilization and Association Agreement with the EU in 2015, and was named by a 2018 EU report as one of six Western Balkan countries that will be able to join the organization once it meets the criteria to accede. Kosovo also seeks memberships in the UN and in NATO.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southeast Europe, between Serbia and Macedonia",
+"geographic_coordinates": "42 35 N, 21 00 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "10,887 sq km",
+"land": "10,887 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "slightly larger than Delaware",
+"land_boundaries": 
+{
+"total": "714 km",
+"border_countries": "Albania 112 km, Macedonia 160 km, Montenegro 76 km, Serbia 366 km",
+}, 
+"coastline": "0 km (landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "influenced by continental air masses resulting in relatively cold winters with heavy snowfall and hot, dry summers and autumns; Mediterranean and alpine influences create regional variation; maximum rainfall between October and December",
+"terrain": "flat fluvial basin at an elevation of 400-700 m above sea level surrounded by several high mountain ranges with elevations of 2,000 to 2,500 m",
+"elevation": 
+{
+"mean_elevation": "450 m",
+"lowest_point": "Drini i Bardhe/Beli Drim (located on the border with Albania) 297 m",
+"highest_point": "Gjeravica/Deravica 2,656 m",
+}, 
+"natural_resources": "nickel, lead, zinc, magnesium, lignite, kaolin, chrome, bauxite",
+"land_use": 
+{
+"agricultural_land": "52.8% (2001 est.)",
+"agricultural_land_arable_land": "27.4% (2001 est.)",
+"agricultural_land_permanent_crops": "1.9% (2001 est.)",
+"agricultural_land_permanent_pasture": "23.5% (2001 est.)",
+"forest": "41.7% (2001 est.)",
+"other": "5.5% (2001 est.)",
+}, 
+"irrigated_land": " NA",
+"population_distribution": "population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina",
+"environment_current_issues": "air pollution (pollution from power plants and nearby lignite mines take a toll on people&#39;s health); water scarcity and pollution; land degradation",
+"geography_note": "the 41-km long Nerodimka River divides into two branches each of which flows into a different sea: the northern branch flows into the Sitnica River, which via the Ibar, Morava, and Danube Rivers ultimately flows into the Black Sea; the southern branch flows via the Lepenac and Vardar Rivers into the Aegean Sea",
+}, 
+"people_and_society": 
+{
+"population": "1,907,592 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Kosovar (Albanian), Kosovac (Serbian)",
+"adjective": "Kosovar (Albanian), Kosovski (Serbian)",
+}, 
+"ethnic_groups": "Albanians 92.9%, Bosniaks 1.6%, Serbs 1.5%, Turk 1.1%, Ashkali 0.9%, Egyptian 0.7%, Gorani 0.6%, Romani 0.5%, other/unspecified 0.2% (2011 est.)",
+"languages": "Albanian (official) 94.5%, Bosnian 1.7%, Serbian (official) 1.6%, Turkish 1.1%, other 0.9% (includes Romani), unspecified 0.1% (2011 est.)",
+"religions": "Muslim 95.6%, Roman Catholic 2.2%, Orthodox 1.5%, other 0.1%, none 0.1%, unspecified 0.6% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "24.74% (male 245,188 /female 226,766)",
+"15_24_years": "17.12% (male 170,448 /female 156,199)",
+"25_54_years": "42.52% (male 428,030 /female 383,045)",
+"55_64_years": "8.19% (male 79,415 /female 76,743)",
+"65_years_and_over": "7.43% (male 59,830 /female 81,928) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "29.6 years (2018 est.)",
+"male": "29.3 years",
+"female": "29.9 years",
+}, 
+"net_migration_rate": "-2.6 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina",
+"major_urban_areas_population": "207,062 PRISTINA (capital) (2014)",
+"sex_ratio": 
+{
+"at_birth": "1.08 male(s)/female",
+"0_14_years": "1.08 male(s)/female",
+"15_24_years": "1.09 male(s)/female",
+"25_54_years": "1.12 male(s)/female",
+"55_64_years": "1.03 male(s)/female",
+"65_years_and_over": "0.73 male(s)/female",
+"total_population": "1.06 male(s)/female (2018 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_deaths": " NA",
+"education_expenditures": " NA",
+"unemployment_youth_ages_15_24": 
+{
+"total": "52.4%",
+"male": "47.3%",
+"female": "65.4% (2016 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Kosovo",
+"conventional_short_form": "Kosovo",
+"local_long_form": "Republika e Kosoves (Republika Kosovo)",
+"local_short_form": "Kosove (Kosovo)",
+"etymology": "name derives from the Serbian &quot;kos&quot; meaning &quot;blackbird,&quot; an ellipsis (linguistic omission) for &quot;kosove polje&quot; or &quot;field of the blackbirds&quot;",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Pristina (Prishtine, Prishtina)",
+"geographic_coordinates": "42 40 N, 21 10 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "38 municipalities (komunat, singular - komuna (Albanian); opstine, singular - opstina (Serbian)); Decan (Decani), Dragash (Dragas), Ferizaj (Urosevac), Fushe Kosove (Kosovo Polje), Gjakove (Dakovica), Gjilan (Gnjilane), Gllogovc (Glogovac), Gracanice (Gracanica), Hani i Elezit (Deneral Jankovic), Istog (Istok), Junik, Kacanik, Kamenice (Kamenica), Kline (Klina), Kllokot (Klokot), Leposaviq (Leposavic), Lipjan (Lipljan), Malisheve (Malisevo), Mamushe (Mamusa), Mitrovice e Jugut (Juzna Mitrovica) [South Mitrovica], Mitrovice e Veriut (Severna Mitrovica) [North Mitrovica], Novoberde (Novo Brdo), Obiliq (Obilic), Partesh (Partes), Peje (Pec), Podujeve (Podujevo), Prishtine (Pristina), Prizren, Rahovec (Orahovac), Ranillug (Ranilug), Shterpce (Strpce), Shtime (Stimlje), Skenderaj (Srbica), Suhareke (Suva Reka), Viti (Vitina), Vushtrri (Vucitrn), Zubin Potok, Zvecan",
+"independence": "17 February 2008 (from Serbia)",
+"national_holiday": "Independence Day, 17 February (2008)",
+"constitution": 
+{
+"history": "previous 1974, 1990; latest (postindependence) draft finalized 2 April 2008, signed 7 April 2008, ratified 9 April 2008, entered into force 15 June 2008; note - amendment 24, passed by the Assembly in August 2015, established the Kosovo Relocated Specialist Institution, referred to as the Kosovo Specialist Chamber or &quot;Specialist Court,&quot; to try war crimes allegedly committed by members of&amp;nbsp;the Kosovo Liberation Army in the late 1990s",
+"amendments": "proposed by the government, by the president of the republic, or by one fourth of Assembly deputies; passage requires two-thirds majority vote of the Assembly, including two-thirds majority vote of deputies representing non-majority communities, followed by a favorable Constitutional Court assessment; amended several times, last in 2016 (2016)",
+}, 
+"legal_system": "civil law system; note - the European Union Rule of Law Mission (EULEX) retained limited executive powers within the Kosovo judiciary for complex cases from 2008 to 2018",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Kosovo",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Hashim THACI (since 7 April 2016)",
+"head_of_government": "Prime Minister (vacant); note - Prime Minister Ramush HARADINAJ (since 9 September 2017) resigned on 19 July 2019",
+"cabinet": "Cabinet elected by the Assembly",
+"elections_appointments": "president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 26 February 2016 (next to be held in 2021); prime minister indirectly elected by the Assembly",
+"election_results": "Hashim THACI elected president in the third ballot; Assembly vote - Hashim THACI (PDK) 71, Rafet RAMA (PDK) 0, invalid 10; Ramush HARADINAJ nominated prime minister by the president and elected by the Assembly, receiving 61 votes out of 62 (1 abstention)",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)",
+"elections": "last held on 6 October 2019 (next to be held in 2023); note - early elections were held on 6 October 2019 following the dissolution of parliament on 22 August 2019, as a result of political deadlock since the resignation of Prime Minister HARADINAJ on 19 July 2019",
+"election_results": "percent of vote by party/coalition - VV 25.5%, LDK 24.8%, PDK 21.2%, AAK-PSD 11.6%, Serb List 6.6%, other 10.3%; seats by party/coalition - VV 31, LDK 30, PDK 25, AAK-PSD 14, Serb List 10, Vakat 2, KDTP 2, other 6; composition - men NA, women NA, percent of women NA%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)",
+"judge_selection_and_term_of_office": "Supreme Court judges nominated by the Kosovo Judicial Council, a 13-member independent body staffed by judges and lay members, and also responsible for overall administration of Kosovo&#39;s judicial system; judges appointed by the president of the Republic of Kosovo; judges appointed until mandatory retirement age; Constitutional Court judges nominated by the Kosovo Assembly and appointed by the president of the republic to serve single, 9-year terms",
+"subordinate_courts": "Court of Appeals (organized into 4 departments: General, Serious Crime, Commercial Matters, and Administrative Matters); Basic Court (located in 7 municipalities, each with several branches)",
+}, 
+"political_parties_and_leaders": "Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ]&lt;br /&gt;Alternativa [Mimoza KUSARI-LILA]&lt;br /&gt;Democratic League of Kosovo or LDK [Isa MUSTAFA]&lt;br /&gt;Democratic Party of Kosovo or PDK [Kadri VESELI]&lt;br /&gt;Independent Liberal Party or SLS [Slobodan PETROVIC]&lt;br /&gt;Initiative for Kosovo or NISMA [Fatmir LIMAJ]&lt;br /&gt;Movement for Self-Determination (Vetevendosje) or VV [Albin KURTI]&lt;br /&gt;New Kosovo Alliance or AKR [Behgjet PACOLLI]&lt;br /&gt;Serb List [Goran RAKIC]&lt;br /&gt;Social Democratic Party of Kosovo or PSD [Shpend AHMETI]&lt;br /&gt;Turkish Democratic Party of Kosovo or KDTP [Mahir YAGCILAR]&lt;br /&gt;Vakat Coalition or VAKAT [Rasim DEMIRI]",
+"international_organization_participation": "IBRD, IDA, IFC, IMF, ITUC (NGOs), MIGA, OIF (observer)",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Vlora CITAKU (since 17 September 2015)",
+"chancery": "2175 K Street NW, Suite 300, Washington, DC 20037",
+"telephone": "[1] (202) 450-2130",
+"fax": "[1] (202) 735-0609",
+"consulate_s_general": "New York",
+"consulate_s": "Des Moines (IA)",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Philip KOSNETT (since 3 December 2018)",
+"telephone": "[383] 38 59 59 3000",
+"embassy": "Arberia/Dragodan, Nazim Hikmet 30, Pristina, Kosovo",
+"mailing_address": "use embassy street address",
+"fax": "[383] 38 549 890",
+}, 
+"flag_description": "centered on a dark blue field is a gold-colored silhouette of Kosovo surmounted by six white, five-pointed stars arrayed in a slight arc; each star represents one of the major ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Roma, and Bosniaks",
+"national_symbol_s": "six, five-pointed, white stars; national colors: blue, gold, white",
+"national_anthem": 
+{
+"name": "Europe",
+"lyrics_music": "no lyrics/Mendi MENGJIQI",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Kosovo&#39;s economy has shown progress in transitioning to a market-based system and maintaining macroeconomic stability, but it is still highly dependent on the international community and the diaspora for financial and technical assistance. Remittances from the diaspora - located mainly in Germany, Switzerland, and the Nordic countries - are estimated to account for about 17% of GDP and international donor assistance accounts for approximately 10% of GDP. With international assistance, Kosovo has been able to privatize a majority of its state-owned enterprises.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kosovo&#39;s citizens are the second poorest in Europe, after Moldova, with a per capita GDP (PPP) of $10,400 in 2017. An unemployment rate of 33%, and a youth unemployment rate near 60%, in a country where the average age is 26, encourages emigration and fuels a significant informal, unreported economy. Most of Kosovo&#39;s population lives in rural towns outside of the capital, Pristina. Inefficient, near-subsistence farming is common - the result of small plots, limited mechanization, and a lack of technical expertise. Kosovo enjoys lower labor costs than the rest of the region. However, high levels of corruption, little contract enforcement, and unreliable electricity supply have discouraged potential investors. The official currency of Kosovo is the euro, but the Serbian dinar is also used illegally in Serb majority communities. Kosovo&#39;s tie to the euro has helped keep core inflation low.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Minerals and metals production - including lignite, lead, zinc, nickel, chrome, aluminum, magnesium, and a wide variety of construction materials - once the backbone of industry, has declined because of aging equipment and insufficient investment, problems exacerbated by competing and unresolved ownership claims of Kosovo’s largest mines. A limited and unreliable electricity supply is a major impediment to economic development. The US Government is cooperating with the Ministry of Economic Development (MED) and the World Bank to conclude a commercial tender for the construction of Kosovo C, a new lignite-fired power plant that would leverage Kosovo’s large lignite reserves. MED also has plans for the rehabilitation of an older bituminous-fired power plant, Kosovo B, and the development of a coal mine that could supply both plants.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In June 2009, Kosovo joined the World Bank and International Monetary Fund, the Central Europe Free Trade Area (CEFTA) in 2006, the European Bank for Reconstruction and Development in 2012, and the Council of Europe Development Bank in 2013. In 2016, Kosovo implemented the Stabilization and Association Agreement (SAA) negotiations with the EU, focused on trade liberalization. In 2014, nearly 60% of customs duty-eligible imports into Kosovo were EU goods. In August 2015, as part of its EU-facilitated normalization process with Serbia, Kosovo signed agreements on telecommunications and energy distribution, but disagreements over who owns economic assets, such as the Trepca mining conglomerate, within Kosovo continue.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kosovo experienced its first federal budget deficit in 2012, when government expenditures climbed sharply. In May 2014, the government introduced a 25% salary increase for public sector employees and an equal increase in certain social benefits. Central revenues could not sustain these increases, and the government was forced to reduce its planned capital investments. The government, led by Prime Minister MUSTAFA - a trained economist - recently made several changes to its fiscal policy, expanding the list of duty-free imports, decreasing the Value Added Tax (VAT) for basic food items and public utilities, and increasing the VAT for all other goods.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;While Kosovo’s economy continued to make progress, unemployment has not been reduced, nor living standards raised, due to lack of economic reforms and investment.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$19.6 billion",
+"2016": "$18.89 billion",
+"2015": "$18.16 billion",
+},
+"gdp_official_exchange_rate": "$7.094 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.7%",
+"2016": "4.1%",
+"2015": "4.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$10,900",
+"2016": "$10,600",
+"2015": "$10,200",
+},
+"gross_national_saving":
+{
+"2017": "17.3% of GDP",
+"2016": "13.2% of GDP",
+"2015": "15.1% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "84.3% (2017 est.)",
+"government_consumption": "13.6% (2017 est.)",
+"investment_in_fixed_capital": "29% (2017 est.)",
+"investment_in_inventories": "0% (2016 est.)",
+"exports_of_goods_and_services": "27% (2017 est.)",
+"imports_of_goods_and_services": "-53.8% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "11.9% (2017 est.)",
+"industry": "17.7% (2017 est.)",
+"services": "70.4% (2017 est.)",
+}, 
+"agriculture_products": "wheat, corn, berries, potatoes, peppers, fruit; dairy, livestock; fish",
+"industries": "mineral mining, construction materials, base metals, leather, machinery, appliances, foodstuffs and beverages, textiles",
+"industrial_production_growth_rate": "1.2% (2016 est.)",
+"labor_force": "500,300 (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "4.4%",
+"industry": "17.4%",
+"services": "78.2% (2017 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "30.5%",
+"2016": "27.5%",
+},
+"population_below_poverty_line": "17.6% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.8%",
+"highest_10": "22% (2015 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2015": "23.2",
+"2014": "24.1",
+},
+"budget": 
+{
+"revenues": "2.054 billion (2017 est.)",
+"expenditures": "2.203 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "29% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-2.1% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "21.2% of GDP",
+"2016": "19.4% of GDP",
+},
+"inflation_rate_consumer_prices":
+{
+"2017": "1.5%",
+"2016": "0.3%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "6.83%",
+"31 December 2016": "7.47%",
+},
+"stock_of_broad_money":
+{
+"2016": "$3.11 billion",
+"2015": "$2.855 billion",
+},
+"stock_of_domestic_credit":
+{
+"2014": "$2.02 billion",
+"2013": "$2.505 billion",
+},
+"current_account_balance":
+{
+"2017": "-$467 million",
+"2016": "-$533 million",
+},
+"exports":
+{
+"2017": "$428 million",
+"2016": "$340 million",
+},
+"exports_partners": "Albania 16%, India 14%, Macedonia, The Former Yugo Rep of 12.1%, Serbia 10.6%, Switzerland 5.6%, Germany 5.4% (2017)",
+"exports_commodities": "mining and processed metal products, scrap metals, leather products, machinery, appliances, prepared foodstuffs, beverages and tobacco, vegetable products, textiles and apparel",
+"imports":
+{
+"2017": "$3.223 billion",
+"2016": "$2.876 billion",
+},
+"imports_commodities": "foodstuffs, livestock, wood, petroleum, chemicals, machinery, minerals, textiles, stone, ceramic and glass products, electrical equipment",
+"imports_partners": "Germany 12.4%, Serbia 12.3%, Turkey 9.6%, China 9.1%, Italy 6.4%, Macedonia, The Former Yugo Rep of 5.1%, Albania 5%, Greece 4.4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2016": "$683.9 million",
+"31 December 2015": "$708.7 million",
+},
+"debt_external":
+{
+"31 December 2017": "$506 million",
+"31 December 2016": "$448 million",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$3.59 billion",
+"31 December 2016": "$39.02 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$275 million",
+"31 December 2016": "$230 million",
+},
+"exchange_rates": 
+{
+"currency": "euros (EUR) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.885",
+"2016": "0.903",
+"2015": "0.9214",
+"2014": "0.885",
+"2013": "0.7634",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "5.638 billion kWh (2016 est.)",
+"electricity_consumption": "3.957 billion kWh (2016 est.)",
+"electricity_exports": "885.7 million kWh (2017 est.)",
+"electricity_imports": "557 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "1.573 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "97% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "3% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "1% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2017 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl NA (2017 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "14,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "192 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "14,040 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m NA (2017 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "10.05 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "831,470",
+"subscriptions_per_100_inhabitants": "45 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "562,000",
+"subscriptions_per_100_inhabitants": "31 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "Kosovo being part of the EU&amp;nbsp;pre-accession process has helped with their&amp;nbsp;progress in the telecom industry,&amp;nbsp;following a&amp;nbsp;regulatory framework,&amp;nbsp;&amp;nbsp;European standards, and&amp;nbsp;a market of new players&amp;nbsp;encourages development in its telecommunications; 2 MNOs dominate the sector; poor telecom infrastructure means low fixed-line penetration (2018)",
+"domestic": "fixed-line stands at 45 per 100 and mobile-cellular 31 per 100 persons (2018)",
+"international": "country code - 383",
+}, 
+"internet_country_code": ".xk",
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.8% of GDP",
+"2017": "0.8% of GDP",
+"2016": "0.77% of GDP",
+"2015": "0.78% of GDP",
+"2014": "0.73% of GDP",
+},
+"military_and_security_forces": "in December 2018, Kosovo adopted a legislative package to initiate a ten-year transition of the Kosovo Security Force (KSF) into a professional multi-ethnic force with a limited territorial defense mandate (2019)",
+}, 
+"transportation": 
+{
+"civil_aircraft_registration_country_code_prefix": "Z6 (2016)",
+"airports": "6 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "3 (2017)",
+"2_438_to_3_047_m": "1 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+"under_914_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "3 (2013)",
+"under_914_m": "3 (2013)",
+}, 
+"heliports": "2 (2013)",
+"railways": 
+{
+"total": "333 km (2015)",
+"standard_gauge": "333 km 1.435-m gauge (2015)",
+}, 
+"roadways": 
+{
+"total": "2,012 km (2015)",
+"paved": "1,921 km (includes 78 km of expressways) (2015)",
+"unpaved": "91 km (2015)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Serbia with several other states protest the US and other states&#39; recognition of Kosovo&#39;s declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo&#39;s northern border challenge final status of Kosovo-Serbia boundary; NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo authority continue to ensure a safe and secure environment and freedom of movement for all Kosovo citizens; Kosovo and North Macedonia completed demarcation of their boundary in September 2008; Kosovo ratified the border demarcation agreement with Montenegro in March 2018, but the actual demarcation has not been completed&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2018)",
+}
+}

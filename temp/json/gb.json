@@ -1,0 +1,552 @@
+{
+"name": "Gabon",
+"code": "GB",
+"publish_date": "December 23, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Following, independence from France in 1960, El Hadj Omar BONGO Ondimba - one of the longest-ruling heads of state in the world - dominated the country&#39;s political scene for four decades (1967-2009). President BONGO introduced a nominal multiparty system and a new constitution in the early 1990s. However, allegations of electoral fraud during local elections in December 2002 and the presidential election in 2005 exposed the weaknesses of formal political structures in Gabon. Following President BONGO&#39;s death in 2009, a new election brought his son, Ali BONGO Ondimba, to power. Despite constrained political conditions, Gabon&#39;s small population, abundant natural resources, and considerable foreign support have helped make it one of the more stable African countries.&lt;/p&gt;&lt;p&gt;President Ali BONGO Ondimba’s controversial August 2016 reelection sparked unprecedented opposition protests that resulted in the burning of the parliament building. The election was contested by the opposition after fraudulent results were flagged by international election observers. Gabon’s Constitutional Court reviewed the election results but ruled in favor of President BONGO, upholding his win and extending his mandate to 2023.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Central Africa, bordering the Atlantic Ocean at the Equator, between Republic of the Congo and Equatorial Guinea",
+"geographic_coordinates": "1 00 S, 11 45 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "267,667 sq km",
+"land": "257,667 sq km",
+"water": "10,000 sq km",
+}, 
+"area_comparative": "slightly smaller than Colorado",
+"land_boundaries": 
+{
+"total": "3,261 km",
+"border_countries": "Cameroon 349 km, Republic of the Congo 2567 km, Equatorial Guinea 345 km",
+}, 
+"coastline": "885 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+}, 
+"climate": "tropical; always hot, humid",
+"terrain": "narrow coastal plain; hilly interior; savanna in east and south",
+"elevation": 
+{
+"mean_elevation": "377 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Mont Iboundji 1,575 m",
+}, 
+"natural_resources": "petroleum, natural gas, diamond, niobium, manganese, uranium, gold, timber, iron ore, hydropower",
+"land_use": 
+{
+"agricultural_land": "19% (2011 est.)",
+"agricultural_land_arable_land": "1.2% (2011 est.)",
+"agricultural_land_permanent_crops": "0.6% (2011 est.)",
+"agricultural_land_permanent_pasture": "17.2% (2011 est.)",
+"forest": "81% (2011 est.)",
+"other": "0% (2011 est.)",
+}, 
+"irrigated_land": "40 sq km (2012)",
+"population_distribution": "the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest",
+"natural_hazards": "none",
+"environment_current_issues": "deforestation (the forests that cover three-quarters of the country are threatened by excessive logging); burgeoning population exacerbating disposal of solid waste; oil industry contributing to water pollution; wildlife poaching",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "a small population and oil and mineral reserves have helped Gabon become one of Africa&#39;s wealthier countries; in general, these circumstances have allowed the country to maintain and conserve its pristine rain forest and rich biodiversity",
+}, 
+"people_and_society": 
+{
+"population": "2,119,036 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Gabonese (singular and plural)",
+"adjective": "Gabonese",
+}, 
+"ethnic_groups": "Gabonese-born 80.1% (includes Fang 23.2%, Shira-Punu/Vili 18.9%, Nzabi-Duma 11.3%, Mbede-Teke 6.9%, Myene 5%, Kota-Kele 4.9%, Okande-Tsogo 2.1%, Pygmy .3%, other 7.5%), Cameroonian 4.6%, Malian 2.4%, Beninese 2.1%, acquired Gabonese nationality 1.6%, Togolese 1.6%, Senegalese 1.1%, Congolese (Brazzaville) 1%, other 5.5% (includes Congolese (Kinshasa), Equatorial Guinean, Nigerian) (2012)",
+"languages": "French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi",
+"religions": "Roman Catholic 42.3%, Protestant 12.3%, other Christian 27.4%, Muslim 9.8%, animist 0.6%, other 0.5%, none/no answer 7.1% (2012 est.)",
+"demographic_profile": "&lt;p&gt;Gabon’s oil revenues have given it one of the highest per capita income levels in sub-Saharan Africa, but the wealth is not evenly distributed and poverty is widespread. Unemployment is especially prevalent among the large youth population; more than 60% of the population is under the age of 25. With a fertility rate still averaging more than 4 children per woman, the youth population will continue to grow and further strain the mismatch between Gabon’s supply of jobs and the skills of its labor force.&lt;/p&gt;&lt;p&gt;Gabon has been a magnet to migrants from neighboring countries since the 1960s because of the discovery of oil, as well as the country’s political stability and timber, mineral, and natural gas resources. Nonetheless, income inequality and high unemployment have created slums in Libreville full of migrant workers from Senegal, Nigeria, Cameroon, Benin, Togo, and elsewhere in West Africa. In 2011, Gabon declared an end to refugee status for 9,500 remaining Congolese nationals to whom it had granted asylum during the Republic of the Congo’s civil war between 1997 and 2003. About 5,400 of these refugees received permits to reside in Gabon.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "37.45% (male 405,676 /female 387,900)",
+"15_24_years": "22.08% (male 245,490 /female 222,343)",
+"25_54_years": "31.6% (male 355,348 /female 314,344)",
+"55_64_years": "4.96% (male 54,679 /female 50,356)",
+"65_years_and_over": "3.91% (male 40,721 /female 42,179) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "67.4 (2015 est.)",
+"youth_dependency_ratio": "59.9 (2015 est.)",
+"elderly_dependency_ratio": "7.6 (2015 est.)",
+"potential_support_ratio": "13.2 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "20.5 years (2018 est.)",
+"male": "20.8 years",
+"female": "20.2 years",
+}, 
+"population_growth_rate": "2.73% (2018 est.)",
+"birth_rate": "26.5 births/1,000 population (2018 est.)",
+"death_rate": "6.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "7 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest",
+"urbanization": 
+{
+"urban_population": "89.7% of total population (2019)",
+"rate_of_urbanization": "2.61% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "824,000 LIBREVILLE (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.1 male(s)/female",
+"25_54_years": "1.13 male(s)/female",
+"55_64_years": "1.09 male(s)/female",
+"65_years_and_over": "0.97 male(s)/female",
+"total_population": "1.08 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "20.3 years (2012 est.)",
+"maternal_mortality_rate": "252 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "32.9 deaths/1,000 live births (2018 est.)",
+"male": "36.4 deaths/1,000 live births",
+"female": "29.3 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "68 years (2018 est.)",
+"male": "66.3 years",
+"female": "69.6 years",
+}, 
+"total_fertility_rate": "3.52 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "31.1% (2012)",
+"drinking_water_source": 
+{
+"improved_urban": "97.2% of population",
+"improved_rural": "66.7% of population",
+"improved_total": "93.2% of population",
+"unimproved_urban": "2.8% of population",
+"unimproved_rural": "33.3% of population",
+"unimproved_total": "6.8% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.1% (2016)",
+"physicians_density": "0.36 physicians/1,000 population (2016)",
+"hospital_bed_density": "6.3 beds/1,000 population (2010)",
+"sanitation_facility_access": 
+{
+"improved_urban": "43.4% of population (2015 est.)",
+"improved_rural": "31.5% of population (2015 est.)",
+"improved_total": "41.9% of population (2015 est.)",
+"unimproved_urban": "56.6% of population (2015 est.)",
+"unimproved_rural": "68.5% of population (2015 est.)",
+"unimproved_total": "58.1% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "3.8% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "53,000 (2018 est.)",
+"hiv_aids_deaths": "1,200 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria and dengue fever (2016)",
+"water_contact_diseases": "schistosomiasis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+}, 
+"obesity_adult_prevalence_rate": "15% (2016)",
+"children_under_the_age_of_5_years_underweight": "6.4% (2012)",
+"education_expenditures": "2.7% of GDP (2014)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "83.2%",
+"male": "85.3%",
+"female": "81% (2015)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "35.7%",
+"male": "30.5%",
+"female": "41.9% (2010 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Gabonese Republic",
+"conventional_short_form": "Gabon",
+"local_long_form": "Republique Gabonaise",
+"local_short_form": "Gabon",
+"etymology": "name originates from the Portuguese word &quot;gabao&quot; meaning &quot;cloak,&quot; which is roughly the shape that the early explorers gave to the estuary of the Komo River by the capital of Libreville",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Libreville",
+"geographic_coordinates": "0 23 N, 9 27 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "9 provinces; Estuaire, Haut-Ogooue, Moyen-Ogooue, Ngounie, Nyanga, Ogooue-Ivindo, Ogooue-Lolo, Ogooue-Maritime, Woleu-Ntem",
+"independence": "17 August 1960 (from France)",
+"national_holiday": "Independence Day, 17 August (1960)",
+"constitution": 
+{
+"history": "previous 1961; latest drafted May 1990, adopted 15 March 1991, promulgated 26 March 1991",
+"amendments": "proposed by the president of the republic, by the Council of Ministers, or by one third of either house of Parliament; passage requires Constitutional Court evaluation, at least two-thirds majority vote of two thirds of the Parliament membership convened in joint session, and approval in a referendum; constitutional articles on Gabon&amp;rsquo;s democratic form of government cannot be amended; amended several times, last in 2011 (2017)",
+}, 
+"legal_system": "mixed legal system of French civil law and customary law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Gabon",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Ali BONGO Ondimba (since 16 October 2009)",
+"head_of_government": "Prime Minister Julien NKOGHE BEKALE (since 15 January 2019)",
+"cabinet": "Council of Ministers appointed by the prime minister in consultation with the president",
+"elections_appointments": "president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 27 August 2016 (next to be held in August 2023); prime minister appointed by the president",
+"election_results": "Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Parlement consists of:&lt;br /&gt;Senate or Senat (102 seats; members indirectly elected by municipal councils and departmental assemblies by absolute majority vote in 2 rounds if needed; members serve 6-year terms)&lt;br /&gt; National Assembly or Assemblee Nationale (143 seats; members elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 5-year terms)",
+"elections": "&lt;br /&gt;Senate - last held on 13 December 2014 (next to be held in January 2020)&lt;br /&gt; National Assembly - held in 2 rounds on 6 and 27 October 2018 (next to be held in 2023)",
+"election_results": "&lt;br /&gt;Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - men 84, women 18, percent of women 17.6%&lt;br /&gt; National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;amp;M 4, other 9, independent 8; composition - men 123, women 20, percent of women 14%; note - total Parliament percent of women 15.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d&#39;Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)",
+"judge_selection_and_term_of_office": "appointment and tenure of Supreme, Administrative, Accounting, and State Security courts NA; Constitutional Court judges appointed - 3 by the national president, 3 by the president of the Senate, and 3 by the president of the National Assembly; judges serve single renewable 7-year terms",
+"subordinate_courts": "Courts of Appeal; county courts; military courts",
+}, 
+"political_parties_and_leaders": "Circle of Liberal Reformers or CLR [Gen. Jean-Boniface ASSELE]&lt;br /&gt;Democratic and Republican Alliance or ADERE [DIDJOB Divungui di Ndinge]&lt;br /&gt;Gabonese Democratic Party or PDG [Ali BONGO Ondimba]&lt;br /&gt;Independent Center Party of Gabon or PGCI [Luccheri GAHILA]&lt;br /&gt;Legacy and Modernity Party or RH&amp;amp;M&lt;br /&gt;Rally for Gabon or RPG&lt;br /&gt;Restoration of Republican Values or RV&lt;br /&gt;Social Democratic Party or PSD [Pierre Claver MAGANGA-MOUSSAVOU]&lt;br /&gt;Social Democrats of Gabon&lt;br /&gt;The Democrats or LD&lt;br /&gt;Union for the New Republic or UPRN [Louis Gaston MAYILA]&lt;br /&gt;Union of Gabonese People or UPG [Richard MOULOMBA]&lt;br /&gt;Union of Forces for Change or UFC [Jean PING]",
+"international_organization_participation": "ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Michael MOUSSA-ADAMO (since September 9, 2011)",
+"chancery": "2034 20th Street NW, Suite 200, Washington, DC 20009",
+"telephone": "[1] (202) 797-1000",
+"fax": "[1] (301) 332-0668",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant); Charge d&#39;Affaires Robert E. WHITEHEAD (since March 2019); note - also accredited to Sao Tome and Principe",
+"telephone": "[241] 01-45-71-00",
+"embassy": "Sabliere, B.P. 4000, Libreville",
+"mailing_address": "Centre Ville, B. P. 4000, Libreville; pouch: 2270 Libreville Place, Washington, DC 20521-2270",
+"fax": "[241] 01-74-55-07",
+}, 
+"flag_description": "three equal horizontal bands of green (top), yellow, and blue; green represents the country&#39;s forests and natural resources, gold represents the equator (which transects Gabon) as well as the sun, blue represents the sea",
+"national_symbol_s": "black panther; national colors: green, yellow, blue",
+"national_anthem": 
+{
+"name": "&quot;La Concorde&quot; (The Concorde)",
+"lyrics_music": "Georges Aleka DAMAS",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Gabon enjoys a per capita income four times that of most sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon relied on timber and manganese exports until oil was discovered offshore in the early 1970s. From 2010 to 2016, oil accounted for approximately 80% of Gabon’s exports, 45% of its GDP, and 60% of its state budget revenues.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Gabon faces fluctuating international prices for its oil, timber, and manganese exports. A rebound of oil prices from 2001 to 2013 helped growth, but declining production, as some fields passed their peak production, has hampered Gabon from fully realizing potential gains. GDP grew nearly 6% per year over the 2010-14 period, but slowed significantly from 2014 to just 1% in 2017 as oil prices declined. Low oil prices also weakened government revenue and negatively affected the trade and current account balances. In the wake of lower revenue, Gabon signed a 3-year agreement with the IMF in June 2017.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Despite an abundance of natural wealth, poor fiscal management and over-reliance on oil has stifled the economy. Power cuts and water shortages are frequent. Gabon is reliant on imports and the government heavily subsidizes commodities, including food, but will be hard pressed to tamp down public frustration with unemployment and corruption.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$36.66 billion",
+"2016": "$36.5 billion",
+"2015": "$35.75 billion",
+},
+"gdp_official_exchange_rate": "$14.93 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "0.5%",
+"2016": "2.1%",
+"2015": "3.9%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$18,100",
+"2016": "$18,400",
+"2015": "$18,500",
+},
+"gross_national_saving":
+{
+"2017": "25.6% of GDP",
+"2016": "24.3% of GDP",
+"2015": "29.2% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "37.6% (2017 est.)",
+"government_consumption": "14.1% (2017 est.)",
+"investment_in_fixed_capital": "29% (2017 est.)",
+"investment_in_inventories": "-0.6% (2016 est.)",
+"exports_of_goods_and_services": "46.7% (2017 est.)",
+"imports_of_goods_and_services": "-26.8% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "5% (2017 est.)",
+"industry": "44.7% (2017 est.)",
+"services": "50.4% (2017 est.)",
+}, 
+"agriculture_products": "cocoa, coffee, sugar, palm oil, rubber; cattle; okoume (a tropical softwood); fish",
+"industries": "petroleum extraction and refining; manganese, gold; chemicals, ship repair, food and beverages, textiles, lumbering and plywood, cement",
+"industrial_production_growth_rate": "1.8% (2017 est.)",
+"labor_force": "557,800 (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "64%",
+"industry": "12%",
+"services": "24% (2005 est.)",
+}, 
+"unemployment_rate":
+{
+"2015": "28%",
+"2014": "20.4%",
+},
+"population_below_poverty_line": "34.3% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.5%",
+"highest_10": "32.7% (2005)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2005": "42.2",
+},
+"budget": 
+{
+"revenues": "2.634 billion (2017 est.)",
+"expenditures": "2.914 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "17.6% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1.9% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "62.7% of GDP",
+"2016": "64.2% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "2.7%",
+"2016": "2.1%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "3%",
+"31 December 2009": "4.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "15%",
+"31 December 2016": "14%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$2.357 billion",
+"31 December 2016": "$2.053 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$2.357 billion",
+"31 December 2016": "$2.053 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$2.91 billion",
+"31 December 2016": "$3.097 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$725 million",
+"2016": "-$1.389 billion",
+},
+"exports":
+{
+"2017": "$5.564 billion",
+"2016": "$4.364 billion",
+},
+"exports_partners": "China 36.4%, US 10%, Ireland 8.5%, Netherlands 6.3%, South Korea 5.1%, Australia 5%, Italy 4.6% (2017)",
+"exports_commodities": "crude oil, timber, manganese, uranium",
+"imports":
+{
+"2017": "$2.829 billion",
+"2016": "$2.652 billion",
+},
+"imports_commodities": "machinery and equipment, foodstuffs, chemicals, construction materials",
+"imports_partners": "France 23.6%, Belgium 19.6%, China 15.2% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$981.6 million",
+"31 December 2016": "$804.1 million",
+},
+"debt_external":
+{
+"31 December 2017": "$6.49 billion",
+"31 December 2016": "$5.321 billion",
+},
+"exchange_rates": 
+{
+"currency": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -",
+"exchange_rates":
+{
+"2017": "605.3",
+"2016": "593.01",
+"2015": "593.01",
+"2014": "591.45",
+"2013": "494.42",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "200,000 (2017)",
+"electrification_total_population": "91.4% (2016)",
+"electrification_urban_areas": "96.7% (2016)",
+"electrification_rural_areas": "55% (2016)",
+}, 
+"electricity_production": "2.244 billion kWh (2016 est.)",
+"electricity_consumption": "2.071 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "344 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "671,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "51% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "49% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "196,000 bbl/day (2018 est.)",
+"crude_oil_exports": "214,200 bbl/day (2017 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "2 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "16,580 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "24,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "4,662 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "10,680 bbl/day (2015 est.)",
+"natural_gas_production": "401 million cu m (2017 est.)",
+"natural_gas_consumption": "401 million cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "28.32 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "4.293 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "21,235",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "2,663,243",
+"subscriptions_per_100_inhabitants": "150 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "adequate system of cable, microwave radio relay, tropospheric scatter, radiotelephone communication stations, and a domestic satellite system with 12 earth stations; competition among telecoms, independent regulatory authority and reduction in cost&amp;nbsp; connecting makes for strong telecommunications (2018)",
+"domestic": "fiixed-line is 1 per 100 subscriptions; a growing mobile cellular network with multiple providers is making telephone service more widely available with mobile cellular teledensity&amp;nbsp;at 150 per 100 persons (2018)",
+"international": "country code - 241; landing point for the SAT-3/WASC, ACE and Libreville-Port Gentil Cable&amp;nbsp;fiber-optic submarine cable that provides connectivity to Europe and West Africa; satellite earth stations - 3 Intelsat (Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "state owns and operates 2 TV stations and 2 radio broadcast stations; a few private radio and TV stations; transmissions of at least 2 international broadcasters are accessible; satellite service subscriptions are available",
+"internet_country_code": ".ga",
+"internet_users": 
+{
+"total": "835,408",
+"percent_of_population": "48.1% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "14,967",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.53% of GDP",
+"2017": "1.81% of GDP",
+"2016": "1.43% of GDP",
+"2015": "1.19% of GDP",
+"2014": "1.14% of GDP",
+},
+"military_and_security_forces": "Gabonese Defense Forces (Forces de Defense Gabonaise): Land Force (Force Terrestre), Gabonese Navy (Marine Gabonaise), Gabonese Air Forces (Forces Aerienne Gabonaises, FAG) (2012)",
+"military_service_age_and_obligation": "20 years of age for voluntary military service; no conscription (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "5 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "7 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "137,331 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "TR (2016)",
+"airports": "44 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "14 (2019)",
+"over_3_047_m": "1",
+"2_438_to_3_047_m": "2",
+"1_524_to_2_437_m": "9",
+"914_to_1_523_m": "1",
+"under_914_m": "1",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "30 (2013)",
+"1_524_to_2_437_m": "7 (2013)",
+"914_to_1_523_m": "9 (2013)",
+"under_914_m": "14 (2013)",
+}, 
+"pipelines": "807 km gas, 1639 km oil, 3 km water (2013)",
+"railways": 
+{
+"total": "649 km (2014)",
+"standard_gauge": "649 km 1.435-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "14,300 km (2001)",
+"paved": "900 km (2001)",
+"unpaved": "13,400 km (2001)",
+}, 
+"waterways": "1,600 km (310 km on Ogooue River) (2010)",
+"merchant_marine": 
+{
+"total": "29",
+"by_type": "general cargo 11, oil tanker 1, other 17 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Libreville, Owendo, Port-Gentil",
+"oil_terminal_s": "Gamba, Lucina",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;UN urges Equatorial Guinea and Gabon to resolve the sovereignty dispute over Gabon-occupied Mbane Island and lesser islands and to establish a maritime boundary in hydrocarbon-rich Corisco Bay&lt;/p&gt;",
+"trafficking_in_persons": 
+{
+"current_situation": "Gabon is primarily a destination and transit country for adults and children from West and Central African countries subjected to forced labor and sex trafficking; boys are forced to work as street vendors, mechanics, or in the fishing sector, while girls are subjected to domestic servitude or forced to work in markets or roadside restaurants; West African women are forced into domestic servitude or prostitution; men are reportedly forced to work on cattle farms; some foreign adults end up in forced labor in Gabon after initially seeking the help of human smugglers to help them migrate clandestinely; traffickers operate in loose, ethnic-based criminal networks, with female traffickers recruiting and facilitating the transport of victims from source countries; in some cases, families turn child victims over to traffickers, who promise paid jobs in Gabon",
+"tier_rating": "Tier 2 Watch List – Gabon does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; Gabon’s existing laws do not prohibit all forms of trafficking, and the government failed to pass a legal amendment drafted in 2013 to criminalize the trafficking of adults; anti-trafficking law enforcement decreased in 2014, dropping from 50 investigations to 16, and the only defendant to face prosecution fled the country; government efforts to identify and refer victims to protective services declined from 50 child victims in 2013 to just 3 in 2014, none of whom was referred to a care facility; the government provided support to four centers offering services to orphans and vulnerable children – 14 child victims identified by an NGO received government assistance; no adult victims have been identified since 2009 (2015)",
+}, 
+}
+}

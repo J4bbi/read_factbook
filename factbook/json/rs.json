@@ -1,0 +1,590 @@
+{
+"name": "Russia",
+"code": "RS",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Founded in the 12th century, the Principality of Muscovy was able to emerge from over 200 years of Mongol domination (13th-15th centuries) and to gradually conquer and absorb surrounding principalities. In the early 17th century, a new ROMANOV Dynasty continued this policy of expansion across Siberia to the Pacific. Under PETER I (ruled 1682-1725), hegemony was extended to the Baltic Sea and the country was renamed the Russian Empire. During the 19th century, more territorial acquisitions were made in Europe and Asia. Defeat in the Russo-Japanese War of 1904-05 contributed to the Revolution of 1905, which resulted in the formation of a parliament and other reforms. Devastating defeats&amp;nbsp;and food shortages&amp;nbsp;in World War I led to widespread rioting in the major cities of the Russian Empire and to the overthrow in 1917 of the ROMANOV Dynasty. The communists under Vladimir LENIN seized power soon after and formed the USSR. The brutal rule of Iosif STALIN (1928-53) strengthened communist rule and Russian dominance of the Soviet Union at a cost of tens of millions of lives. After defeating Germany in World War II as part of an alliance with the US (1939-1945), the USSR expanded its territory and influence in Eastern Europe and emerged as a global power. The USSR was the principal adversary of the US during the Cold War (1947-1991). The Soviet economy and society stagnated in the decades following Stalin&#39;s rule, until General Secretary Mikhail GORBACHEV (1985-91) introduced glasnost (openness) and perestroika (restructuring) in an attempt to modernize communism, but his initiatives inadvertently released forces that by December 1991&amp;nbsp;led to the dissolution of&amp;nbsp;the USSR into Russia and 14 other independent states.&lt;/p&gt; &lt;p&gt;Following economic and political turmoil during President Boris YELTSIN&#39;s term (1991-99), Russia shifted toward a centralized authoritarian state under President Vladimir PUTIN (2000-2008, 2012-present) in which the regime seeks to legitimize its rule through managed elections, populist appeals, a foreign policy focused on enhancing the country&#39;s geopolitical influence, and commodity-based economic growth. Russia faces a largely subdued rebel movement in Chechnya and some other surrounding regions, although violence still occurs throughout the North Caucasus.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "North Asia bordering the Arctic Ocean, extending from Europe (the portion west of the Urals) to the North Pacific Ocean",
+"geographic_coordinates": "60 00 N, 100 00 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "17,098,242 sq km",
+"land": "16,377,742 sq km",
+"water": "720,500 sq km",
+}, 
+"area_comparative": "approximately 1.8 times the size of the US",
+"land_boundaries": 
+{
+"total": "22,408 km",
+"border_countries": "Azerbaijan 338 km, Belarus 1312 km, China (southeast) 4133 km, China (south) 46 km, Estonia 324 km, Finland 1309 km, Georgia 894 km, Kazakhstan 7644 km, North Korea 18 km, Latvia 332 km, Lithuania (Kaliningrad Oblast) 261 km, Mongolia 3452 km, Norway 191 km, Poland (Kaliningrad Oblast) 210 km, Ukraine 1944 km",
+}, 
+"coastline": "37,653 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": " 200-m depth or to the depth of exploitation",
+}, 
+"climate": "ranges from steppes in the south through humid continental in much of European Russia; subarctic in Siberia to tundra climate in the polar north; winters vary from cool along Black Sea coast to frigid in Siberia; summers vary from warm in the steppes to cool along Arctic coast",
+"terrain": "broad plain with low hills west of Urals; vast coniferous forest and tundra in Siberia; uplands and mountains along southern border regions",
+"elevation": 
+{
+"mean_elevation": "600 m",
+"lowest_point": "Caspian Sea -28 m",
+"highest_point": "Gora El&#39;brus (highest point in Europe) 5,642 m",
+}, 
+"natural_resources": "wide natural resource base including major deposits of oil, natural gas, coal, and many strategic minerals, bauxite, reserves of rare earth elements, timber, note, formidable obstacles of climate, terrain, and distance hinder exploitation of natural resources",
+"land_use": 
+{
+"agricultural_land": "13.1% (2011 est.)",
+"agricultural_land_arable_land": "7.3% (2011 est.)",
+"agricultural_land_permanent_crops": "0.1% (2011 est.)",
+"agricultural_land_permanent_pasture": "5.7% (2011 est.)",
+"forest": "49.4% (2011 est.)",
+"other": "37.5% (2011 est.)",
+}, 
+"irrigated_land": "43,000 sq km (2012)",
+"population_distribution": "population is heavily concentrated in the westernmost fifth of the country extending from the Baltic Sea, south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable pockets are isolated and generally found in the south",
+"natural_hazards": "&lt;p&gt;permafrost over much of Siberia is a major impediment to development; volcanic activity in the Kuril Islands; volcanoes and earthquakes on the Kamchatka Peninsula; spring floods and summer/autumn forest fires throughout Siberia and parts of European Russia&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; significant volcanic activity on the Kamchatka Peninsula and Kuril Islands; the peninsula alone is home to some 29 historically active volcanoes, with dozens more in the Kuril Islands; Kliuchevskoi (4,835 m), which erupted in 2007 and 2010, is Kamchatka&#39;s most active volcano; Avachinsky and Koryaksky volcanoes, which pose a threat to the city of Petropavlovsk-Kamchatsky, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth&#39;s Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Bezymianny, Chikurachki, Ebeko, Gorely, Grozny, Karymsky, Ketoi, Kronotsky, Ksudach, Medvezhia, Mutnovsky, Sarychev Peak, Shiveluch, Tiatia, Tolbachik, and Zheltovsky; see note 2 under &quot;Geography - note&quot;&lt;/p&gt;",
+"environment_current_issues": "air pollution from heavy industry, emissions of coal-fired electric plants, and transportation in major cities; industrial, municipal, and agricultural pollution of inland waterways and seacoasts; deforestation; soil erosion; soil contamination from improper application of agricultural chemicals; nuclear waste disposal; scattered areas of sometimes intense radioactive contamination; groundwater contamination from toxic waste; urban solid waste management; abandoned stocks of obsolete pesticides",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 85, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Wetlands, Whaling",
+"signed_but_not_ratified": "Air Pollution-Sulfur 94",
+}, 
+"geography_note": "&lt;p&gt;&lt;strong&gt;note 1:&lt;/strong&gt; largest country in the world in terms of area but unfavorably located in relation to major sea lanes of the world; despite its size, much of the country lacks proper soils and climates (either too cold or too dry) for agriculture&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 2:&lt;/strong&gt; Russia&#39;s far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world&#39;s earthquakes and some 75% of the world&#39;s volcanoes occur within the Ring of Fire&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 3:&lt;/strong&gt; Mount El&#39;brus is Europe&#39;s tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world&#39;s fresh surface water&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;note 4:&lt;/strong&gt; Kaliningrad oblast is an exclave annexed from Germany following World War II (it was formerly part of East Prussia); its capital city of Kaliningrad - formerly Koenigsberg - is the only Baltic port in Russia that remains ice free in the winter&lt;/p&gt;"
+}, 
+"people_and_society": 
+{
+"population": "142,122,776 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Russian(s)",
+"adjective": "Russian",
+}, 
+"ethnic_groups": "Russian 77.7%, Tatar 3.7%, Ukrainian 1.4%, Bashkir 1.1%, Chuvash 1%, Chechen 1%, other 10.2%, unspecified 3.9% (2010 est.)",
+"languages": "Russian (official) 85.7%, Tatar 3.2%, Chechen 1%, other 10.1% (2010 est.)",
+"religions": "Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)",
+"age_structure": 
+{
+"0_14_years": "17.21% (male 12,566,314 /female 11,896,416)",
+"15_24_years": "9.41% (male 6,840,759 /female 6,530,991)",
+"25_54_years": "44.21% (male 30,868,831 /female 31,960,407)",
+"55_64_years": "14.51% (male 8,907,031 /female 11,709,921)",
+"65_years_and_over": "14.66% (male 6,565,308 /female 14,276,798) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "43.5 (2015 est.)",
+"youth_dependency_ratio": "24.2 (2015 est.)",
+"elderly_dependency_ratio": "19.4 (2015 est.)",
+"potential_support_ratio": "5.2 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "39.8 years (2018 est.)",
+"male": "36.9 years",
+"female": "42.7 years",
+}, 
+"population_growth_rate": "-0.11% (2018 est.)",
+"birth_rate": "10.7 births/1,000 population (2018 est.)",
+"death_rate": "13.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "1.7 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population is heavily concentrated in the westernmost fifth of the country extending from the Baltic Sea, south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable pockets are isolated and generally found in the south",
+"urbanization": 
+{
+"urban_population": "75.4% of total population (2019)",
+"rate_of_urbanization": "0.18% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "12.476 million MOSCOW (capital), 5.427 million Saint Petersburg, 1.65 million Novosibirsk, 1.493 million Yekaterinburg, 1.261 million Nizhniy Novgorod, 1.167 million Samara (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.06 male(s)/female",
+"15_24_years": "1.05 male(s)/female",
+"25_54_years": "0.97 male(s)/female",
+"55_64_years": "0.76 male(s)/female",
+"65_years_and_over": "0.46 male(s)/female",
+"total_population": "0.86 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "24.6 years (2009 est.)",
+"maternal_mortality_rate": "17 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "6.7 deaths/1,000 live births (2018 est.)",
+"male": "7.5 deaths/1,000 live births",
+"female": "5.8 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "71.3 years (2018 est.)",
+"male": "65.6 years",
+"female": "77.3 years",
+}, 
+"total_fertility_rate": "1.61 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "68% (2011)",
+"drinking_water_source": 
+{
+"improved_urban": "98.9% of population",
+"improved_rural": "91.2% of population",
+"improved_total": "96.9% of population",
+"unimproved_urban": "1.1% of population",
+"unimproved_rural": "8.8% of population",
+"unimproved_total": "3.1% of population (2015 est.)",
+}, 
+"current_health_expenditure": "5.3% (2016)",
+"physicians_density": "4.01 physicians/1,000 population (2016)",
+"hospital_bed_density": "8.2 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "77% of population (2015 est.)",
+"improved_rural": "58.7% of population (2015 est.)",
+"improved_total": "72.2% of population (2015 est.)",
+"unimproved_urban": "23% of population (2015 est.)",
+"unimproved_rural": "41.3% of population (2015 est.)",
+"unimproved_total": "27.8% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "1.2% (2017 est.)",
+"hiv_aids_people_living_with_hiv_aids": "1 million (2017 est.)",
+"hiv_aids_deaths": " NA",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "intermediate (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea (2016)",
+"vectorborne_diseases": "tickborne encephalitis (2016)",
+}, 
+"obesity_adult_prevalence_rate": "23.1% (2016)",
+"education_expenditures": "3.7% of GDP (2016)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.7%",
+"male": "99.7%",
+"female": "99.6% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "16 years",
+"male": "15 years",
+"female": "16 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "16.3%",
+"male": "15.7%",
+"female": "17% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Russian Federation",
+"conventional_short_form": "Russia",
+"local_long_form": "Rossiyskaya Federatsiya",
+"local_short_form": "Rossiya",
+"former": "Russian Empire, Russian Soviet Federative Socialist Republic",
+"etymology": "Russian lands were generally referred to as Muscovy until PETER I officially declared the Russian Empire in 1721; the new name sought to invoke the patrimony of the medieval eastern European Rus state centered on Kyiv in present-day Ukraine; the Rus were a Varangian (eastern Viking) elite that imposed their rule and eventually their name on their Slavic subjects",
+}, 
+"government_type": "semi-presidential federation",
+"capital": 
+{
+"name": "Moscow",
+"geographic_coordinates": "55 45 N, 37 36 E",
+"time_difference": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "does not observe daylight savings time",
+}, 
+"administrative_divisions": "&lt;p&gt;46 provinces (oblasti, singular - oblast), 21 republics (respubliki, singular - respublika), 4 autonomous okrugs (avtonomnyye okrugi, singular - avtonomnyy okrug), 9 krays (kraya, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast&#39;)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;oblasts:&lt;/strong&gt; Amur (Blagoveshchensk), Arkhangel&#39;sk, Astrakhan&#39;, Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad, Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan&#39;, Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver&#39;, Tyumen&#39;, Ul&#39;yanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl&#39;;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;republics:&lt;/strong&gt; Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal&#39;chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan&#39;), Tyva (Kyzyl), Udmurtiya (Izhevsk);&lt;/p&gt; &lt;p&gt;&lt;strong&gt;autonomous okrugs:&lt;/strong&gt; Chukotka (Anadyr&#39;), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar&#39;yan-Mar), Yamalo-Nenets (Salekhard);&lt;/p&gt; &lt;p&gt;&lt;strong&gt;krays:&lt;/strong&gt; Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm&#39;, Primorskiy [Maritime] (Vladivostok), Stavropol&#39;, Zabaykal&#39;sk [Transbaikal] (Chita);&lt;/p&gt; &lt;p&gt;&lt;strong&gt;federal cities:&lt;/strong&gt; Moscow [Moskva], Saint Petersburg [Sankt-Peterburg];&lt;/p&gt; &lt;p&gt;&lt;strong&gt;autonomous oblast:&lt;/strong&gt; Yevreyskaya [Jewish] (Birobidzhan)&lt;/p&gt;",
+"independence": "25 December 1991 (from the Soviet Union; Russian SFSR renamed Russian Federation); notable earlier dates: 1157 (Principality of Vladimir-Suzdal created); 16 January 1547 (Tsardom of Muscovy established); 22 October 1721 (Russian Empire proclaimed); 30 December 1922 (Soviet Union established)",
+"national_holiday": "Russia Day, 12 June (1990); note - commemorates the adoption of the Declaration of State Sovereignty of the Russian Soviet Federative Socialist Republic (RSFSR)",
+"constitution": 
+{
+"history": "several previous (during Russian Empire and Soviet era); latest drafted 12 July 1993, adopted by referendum 12 December 1993, effective 25 December 1993",
+"amendments": "proposed by the president of the Russian Federation, by either house of the Federal Assembly, by the government of the Russian Federation, or by legislative (representative) bodies of the Federation&#39;s constituent entities; proposals to amend the government&amp;rsquo;s constitutional system, human and civil rights and freedoms, and procedures for amending or drafting a new constitution require formation of a Constitutional Assembly; passage of such amendments requires two-thirds majority vote of its total membership; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of valid votes; approval of proposed amendments to the government structure, authorities, and procedures requires approval by the legislative bodies of at least two thirds of the Russian Federation&#39;s constituent entities; amended 2008, 2014 (2017)",
+}, 
+"legal_system": "civil law system; judicial review of legislative acts",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Russia",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "3-5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Vladimir Vladimirovich PUTIN (since 7 May 2012)",
+"head_of_government": "Premier Dmitriy Anatolyevich MEDVEDEV (since 8 May 2012); First Deputy Premier Anton Germanovich SILUANOV (since 18 May 2018); Deputy Premiers Maksim Alekseyevich AKIMOV (since 18 May 2018), Yuriy Ivanovich BORISOV (since 18 May 2018), Konstantin Anatolyevich CHUYCHENKO (since 18 May 2018), Tatyana Alekseyevna GOLIKOVA (since 18 May 2018), Olga Yuryevna GOLODETS (since 21 May 2012), Aleksey Vasilevich GORDEYEV (since 18 May 2018), Dmitriy Nikolayevich KOZAK (since 14 October 2008), Vitaliy Leontyevich MUTKO (since 19 October 2016); Yuriy Petrovich TRUTNEV (since 31 August 2013)",
+"cabinet": "the &quot;Government&quot; is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 18 March 2018 (next to be held in March 2024); note - term length extended to 6 years from 4 years in late 2008, effective after the 2012 election; there is no vice president; premier appointed by the president with the approval of the Duma",
+"election_results": "Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 5.8%; Dmitriy MEDVEDEV (United Russia) reapproved as premier by Duma on 8 May 2018; vote - 374 to 56",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Federal Assembly or Federalnoye Sobraniye consists of:&lt;br /&gt;Federation Council or Sovet Federatsii (170 seats; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)&lt;br /&gt; State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)",
+"elections": "&lt;br /&gt;State Duma - last held on 18 September 2016 (next to be held in fall 2021)",
+"election_results": "&lt;br /&gt;Federation Council (members appointed); composition - men 145, women 25, percent of women 14.7%&lt;br /&gt;&lt;br /&gt;State Duma - United Russia 54.2%, CPRF 13.3%, LDPR 13.1%, A Just Russia 6.2%, Rodina 1.5%, CP 0.2%, other minor parties 11.5%; seats by party - United Russia 343, CPRF 42, LDPR 39, A Just Russia 23, Rodina 1, CP 1, independent 1",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 19 members); note - in February 2014, Russia&amp;rsquo;s Superior Court of Arbitration was abolished and its former authorities transferred to the Supreme Court, which in addition is the country&amp;rsquo;s highest judicial authority for appeals, civil, criminal, administrative, and military cases, and the disciplinary judicial board, which has jurisdiction over economic disputes",
+"judge_selection_and_term_of_office": "all members of Russia&#39;s 3 highest courts nominated by the president and appointed by the Federation Council (the upper house of the legislature); members of all 3 courts appointed for life",
+"subordinate_courts": "Higher Arbitration Court; regional (kray) and provincial (oblast) courts; Moscow and St. Petersburg city courts; autonomous province and district courts; note - the 21 Russian Republics have court systems specified by their own constitutions",
+}, 
+"political_parties_and_leaders": "A Just Russia [Sergey MIRONOV]&lt;br /&gt;Civic Platform or CP [Rifat SHAYKHUTDINOV]&lt;br /&gt;Communist Party of the Russian Federation or CPRF [Gennadiy ZYUGANOV]&lt;br /&gt;Liberal Democratic Party of Russia or LDPR [Vladimir ZHIRINOVSKIY]&lt;br /&gt;Rodina [Aleksei ZHURAVLYOV]&lt;br /&gt;United Russia [Dmitriy MEDVEDEV]",
+"international_organization_participation": "APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD, CE, CERN (observer), CICA, CIS, CSTO, EAEC, EAEU, EAPC, EAS, EBRD, FAO, FATF, G-20, GCTU, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Anatoliy Ivanovich ANTONOV (since 8 September 2017)",
+"chancery": "2650 Wisconsin Avenue NW, Washington, DC 20007",
+"telephone": "[1] (202) 298-5700, 5701, 5704, 5708",
+"fax": "[1] (202) 298-5735",
+"consulate_s_general": "Houston, New York, Seattle",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Jon M. HUNTSMAN, Jr. (since 3 October 2017)",
+"telephone": "[7] (495) 728-5000",
+"embassy": "Bolshoy Deviatinskiy Pereulok No. 8, 121099 Moscow",
+"mailing_address": "PSC-77, APO AE 09721",
+"fax": "[7] (495) 728-5090",
+"consulate_s_general": "Saint Petersburg, Vladivostok, Yekaterinburg",
+}, 
+"flag_description": "three equal horizontal bands of white (top), blue, and red",
+"national_symbol_s": "bear, double-headed eagle; national colors: white, blue, red",
+"national_anthem": 
+{
+"name": "&quot;Gimn Rossiyskoy Federatsii&quot; (National Anthem of the Russian Federation)",
+"lyrics_music": "Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Russia has undergone significant changes since the collapse of the Soviet Union, moving from a centrally planned economy towards a more market-based system. Both economic growth and reform have stalled in recent years, however, and Russia remains a predominantly statist economy with a high concentration of wealth in officials&#39; hands. Economic reforms in the 1990s privatized most industry, with notable exceptions in the energy, transportation, banking, and defense-related sectors. The protection of property rights is still weak, and the state continues to interfere in the free operation of the private sector.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Russia is one of the world&#39;s leading producers of oil and natural gas, and is also a top exporter of metals such as steel and primary aluminum. Russia is heavily dependent on the movement of world commodity prices as reliance on commodity exports makes it vulnerable to boom and bust cycles that follow the volatile swings in global prices. The economy, which had averaged 7% growth during the 1998-2008 period as oil prices rose rapidly, has seen diminishing growth rates since then due to the exhaustion of Russia’s commodity-based growth model.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A combination of falling oil prices, international sanctions, and structural limitations pushed Russia into a deep recession in 2015, with GDP falling by close to 2.8%. The downturn continued through 2016, with GDP contracting another 0.2%, but was reversed in 2017 as world demand picked up. Government support for import substitution has increased recently in an effort to diversify the economy away from extractive industries.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$4.016 trillion",
+"2016": "$3.955 trillion",
+"2015": "$3.963 trillion",
+},
+"gdp_official_exchange_rate": "$1.578 trillion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "1.5%",
+"2016": "-0.2%",
+"2015": "-2.5%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$27,900",
+"2016": "$27,500",
+"2015": "$27,500",
+},
+"gross_national_saving":
+{
+"2017": "26.5% of GDP",
+"2016": "25.9% of GDP",
+"2015": "26.8% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "52.4% (2017 est.)",
+"government_consumption": "18% (2017 est.)",
+"investment_in_fixed_capital": "21.6% (2017 est.)",
+"investment_in_inventories": "2.3% (2017 est.)",
+"exports_of_goods_and_services": "26.2% (2017 est.)",
+"imports_of_goods_and_services": "-20.6% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "4.7% (2017 est.)",
+"industry": "32.4% (2017 est.)",
+"services": "62.3% (2017 est.)",
+}, 
+"agriculture_products": "grain, sugar beets, sunflower seeds, vegetables, fruits; beef, milk",
+"industries": "complete range of mining and extractive industries producing coal, oil, gas, chemicals, and metals; all forms of machine building from rolling mills to high-performance aircraft and space vehicles; defense industries (including radar, missile production, advanced electronic components), shipbuilding; road and rail transportation equipment; communications equipment; agricultural machinery, tractors, and construction equipment; electric power generating and transmitting equipment; medical and scientific instruments; consumer durables, textiles, foodstuffs, handicrafts",
+"industrial_production_growth_rate": "-1% (2017 est.)",
+"labor_force": "76.53 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "9.4%",
+"industry": "27.6%",
+"services": "63% (2016 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "5.2%",
+"2016": "5.5%",
+},
+"population_below_poverty_line": "13.3% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.3%",
+"highest_10": "32.2% (2012 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2015": "41.2",
+"2013": "41.9",
+},
+"budget": 
+{
+"revenues": "258.6 billion (2017 est.)",
+"expenditures": "281.4 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "16.4% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1.4% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "15.5% of GDP",
+"2016": "16.1% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "3.7%",
+"2016": "7.1%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2016": "10%",
+"3 August 2015": "11%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "10.55%",
+"31 December 2016": "12.59%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$255.2 billion",
+"31 December 2016": "$195.9 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$255.2 billion",
+"31 December 2016": "$195.9 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$940.4 billion",
+"31 December 2016": "$827.3 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2016": "$635.9 billion",
+"31 December 2015": "$393.2 billion",
+"31 December 2014": "$385.9 billion",
+},
+"current_account_balance":
+{
+"2017": "$35.44 billion",
+"2016": "$24.4 billion",
+},
+"exports":
+{
+"2017": "$353 billion",
+"2016": "$281.9 billion",
+},
+"exports_partners": "China 10.9%, Netherlands 10%, Germany 7.1%, Belarus 5.1%, Turkey 4.9% (2017)",
+"exports_commodities": "petroleum and petroleum products, natural gas, metals, wood and wood products, chemicals, and a wide variety of civilian and military manufactures",
+"imports":
+{
+"2017": "$238 billion",
+"2016": "$191.6 billion",
+},
+"imports_commodities": "machinery, vehicles, pharmaceutical products, plastic, semi-finished metal products, meat, fruits and nuts, optical and medical instruments, iron, steel",
+"imports_partners": "China 21.2%, Germany 10.7%, US 5.6%, Belarus 5%, Italy 4.5%, France 4.2% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$432.7 billion",
+"31 December 2016": "$377.7 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$539.6 billion",
+"31 December 2016": "$434.8 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$535.2 billion",
+"31 December 2016": "$461.7 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$470.9 billion",
+"31 December 2016": "$418 billion",
+},
+"exchange_rates": 
+{
+"currency": "Russian rubles (RUB) per US dollar -",
+"exchange_rates":
+{
+"2017": "58.39",
+"2016": "67.056",
+"2015": "67.056",
+"2014": "60.938",
+"2013": "38.378",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "1.031 trillion kWh (2016 est.)",
+"electricity_consumption": "909.6 billion kWh (2016 est.)",
+"electricity_exports": "13.13 billion kWh (2016 est.)",
+"electricity_imports": "3.194 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "244.9 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "68% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "11% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "21% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "1% of total installed capacity (2017 est.)",
+"crude_oil_production": "10.759 million bbl/day (2018 est.)",
+"crude_oil_exports": "4.921 million bbl/day (2015 est.)",
+"crude_oil_imports": "76,220 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "80 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "6.076 million bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "3.65 million bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "2.671 million bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "41,920 bbl/day (2015 est.)",
+"natural_gas_production": "665.6 billion cu m (2017 est.)",
+"natural_gas_consumption": "467.5 billion cu m (2017 est.)",
+"natural_gas_exports": "210.2 billion cu m (2017 est.)",
+"natural_gas_imports": "15.77 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "47.8 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "1.847 billion Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "31,190,855",
+"subscriptions_per_100_inhabitants": "22 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "227,341,873",
+"subscriptions_per_100_inhabitants": "160 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "telecom sector impacted by sanctions related to the annexations in Ukraine;&amp;nbsp;the estimated number of mobile subscribers jumped from fewer than 1 million in 1998 to 255 million in 2016; fixed-line service has improved but a large demand remains; Russia is one of Europe&#39;s fastest growing markets for fibre-based broadband; 5G trials; FttP/FttB, DSL, cable and LTE services (2018)",
+"domestic": "cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, telephone services are still outdated, inadequate, and low-density; 22 per 100 for fixed-line and mobile-cellular 160 per 100 persons (2018)",
+"international": "country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)",
+}, 
+"broadcast_media": "13 national TV stations with the federal government owning 1 and holding a controlling interest in a second; state-owned Gazprom maintains a controlling interest in 2 of the national channels; government-affiliated Bank Rossiya owns controlling interest in a fourth and fifth, while a sixth national channel is owned by the Moscow city administration; the Russian Orthodox Church and the Russian military, respectively, own 2 additional national channels; roughly 3,300 national, regional, and local TV stations with over two-thirds completely or partially controlled by the federal or local governments; satellite TV services are available; 2 state-run national radio networks with a third majority-owned by Gazprom; roughly 2,400 public and commercial radio stations",
+"internet_country_code": ".ru; note - Russia also has responsibility for a legacy domain &quot;.su&quot; that was allocated to the Soviet Union and is being phased out",
+"internet_users": 
+{
+"total": "108,772,470",
+"percent_of_population": "76.4% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "30,872,788",
+"subscriptions_per_100_inhabitants": "22 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "3.93% of GDP",
+"2017": "4.23% of GDP",
+"2016": "5.45% of GDP",
+"2015": "4.86% of GDP",
+"2014": "4.1% of GDP",
+},
+"military_and_security_forces": "Armed Forces of the Russian Federation:&amp;nbsp; Ground Troops (Sukhoputnyye Voyskia, SV), Navy (Voyenno-Morskoy Flot, VMF), Aerospace Forces (Vozdushno-Kosmicheskiye Sily, VKS); Airborne Troops (Vozdushno-Desantnyye Voyska, VDV) and Missile Troops of Strategic Purpose (Raketnyye Voyska Strategicheskogo Naznacheniya, RVSN) referred to commonly as Strategic Rocket Forces, are independent &quot;combat arms,&quot; not subordinate to any of the three branches&lt;br /&gt;&lt;br /&gt;Federal National Guard Troops Service of the Russian Federation (National Guard, Russian Guard, or Rosgvardiya): created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; forces include Interior Troops that formerly belong to the Interior Ministry, special police units, rapid response units, and other air, ground, maritime, and police forces&lt;br /&gt;&lt;br /&gt;Federal Security Service (FSB) Border Guard Service: Coast Guard (2019)",
+"military_service_age_and_obligation": "18-27 years of age for compulsory or voluntary military service; males are registered for the draft at 17 years of age; one-year service obligation (Russia offers the option of serving on a two-year contract instead of completing a one-year conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16, cadets classified as members of the armed forces (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "32 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "661 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "76,846,126 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "4,761,047,070 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "RA (2016)",
+"airports": "1,218 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "594 (2017)",
+"over_3_047_m": "54 (2017)",
+"2_438_to_3_047_m": "197 (2017)",
+"1_524_to_2_437_m": "123 (2017)",
+"914_to_1_523_m": "95 (2017)",
+"under_914_m": "125 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "624 (2013)",
+"over_3_047_m": "4 (2013)",
+"2_438_to_3_047_m": "13 (2013)",
+"1_524_to_2_437_m": "69 (2013)",
+"914_to_1_523_m": "81 (2013)",
+"under_914_m": "457 (2013)",
+}, 
+"heliports": "49 (2013)",
+"pipelines": "177700 km gas, 54800 km oil, 19300 km refined products (2016)",
+"railways": 
+{
+"total": "87,157 km (2014)",
+"narrow_gauge": "957 km 1.067-m gauge (on Sakhalin Island) (2014)",
+"broad_gauge": "86,200 km 1.520-m gauge (40,300 km electrified) (2014)",
+}, 
+"roadways": 
+{
+"total": "1,283,387 km (2012)",
+"paved": "927,721 km (includes 39,143 km of expressways) (2012)",
+"unpaved": "355,666 km (2012)",
+}, 
+"waterways": "102,000 km (including 48,000 km with guaranteed depth; the 72,000-km system in European Russia links Baltic Sea, White Sea, Caspian Sea, Sea of Azov, and Black Sea) (2009)",
+"merchant_marine": 
+{
+"total": "2,625",
+"by_type": "bulk carrier 15, container ship 13, general cargo 879, oil tanker 411, other 1307 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy",
+"oil_terminal_s": "Kavkaz oil terminal",
+"container_port_s_teus": "Saint Petersburg (1,848,700) (2017)",
+"lng_terminal_s_export": "Sakhalin Island",
+"river_port_s": "Saint Petersburg (Neva River)",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": 
+{
+"aum_shinrikyo_aum": "&lt;strong&gt;aim(s):&lt;/strong&gt; attract new members seeking religious guidance and exhibiting a willingness to financially support the organization&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; between 1,500 and 30,000 AUM members live across Russia; recruitment efforts have intensified in recent years (2018)",
+"islamic_state_of_iraq_and_ash_sham_caucasus_isis_caucasus": "&lt;strong&gt;aim(s):&lt;/strong&gt; implement its strict interpretation of sharia in Dagestan, Chechnya, Ingushetia, and Kabardino-Balkariya; retaliate for Russian involvement in the Syria conflict&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operational in the Russian North Caucasus, where the branch is known as Wilayat Kavkaz; recruits mainly from Central Asian migrant populations across Russia for domestic operations (2018)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries; China and Russia have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with the 2004 Agreement, ending their centuries-long border disputes; the sovereignty dispute over the islands of Etorofu, Kunashiri, Shikotan, and the Habomai group, known in Japan as the &quot;Northern Territories&quot; and in Russia as the &quot;Southern Kurils,&quot; occupied by the Soviet Union in 1945, now administered by Russia, and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities; Russia&#39;s military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; Azerbaijan, Kazakhstan, and Russia ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; Norway and Russia signed a comprehensive maritime boundary agreement in 2010; various groups in Finland advocate restoration of Karelia (Kareliya) and other areas ceded to the Soviet Union following World War II but the Finnish Government asserts no territorial demands; Russia and Estonia signed a technical border agreement in May 2005, but Russia recalled its signature in June 2005 after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia&#39;s pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia and Latvia; Russia remains involved in the conflict in eastern Ukraine while also occupying Ukraine&amp;rsquo;s territory of Crimea; Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as an EU member state with an EU external border, where strict Schengen border rules apply; preparations for the demarcation delimitation of land boundary with Ukraine have commenced; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov is suspended due to the occupation of Crimea by Russia; Kazakhstan and Russia boundary delimitation was ratified on November 2005 and field demarcation should commence in 2007; Russian Duma has not yet ratified 1990 Bering Sea Maritime Boundary Agreement with the US; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "75,941 (Ukraine) (2019)",
+"stateless_persons": "75,679 (2018); note - Russia&#39;s stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants",
+}, 
+"trafficking_in_persons": 
+{
+"current_situation": "Russia is a source, transit, and destination country for men, women, and children who are subjected to forced labor and sex trafficking; with millions of foreign workers, forced labor is Russia’s predominant human trafficking problem and sometimes involves organized crime syndicates; workers from Russia, other European countries, Central Asia, and East and Southeast Asia, including North Korea and Vietnam, are subjected to forced labor in the construction, manufacturing, agricultural, textile, grocery store, maritime, and domestic service industries, as well as in forced begging, waste sorting, and street sweeping; women and children from Europe, Southeast Asia, Africa, and Central Asia are subject to sex trafficking in Russia; Russian women and children are victims of sex trafficking domestically and in Northeast Asia, Europe, Central Asia, Africa, the US, and the Middle East",
+"tier_rating": "Tier 3 - Russia does not fully comply with the minimum standards for the elimination of trafficking and is not making a significant effort to do so; prosecutions of trafficking offenders remained low in comparison to the scope of Russia’s trafficking problem; the government did not develop or employ a formal system for identifying trafficking victims or referring them to protective services, although authorities reportedly assisted a limited number of victims on an ad hoc basis; foreign victims, the largest group in Russia, were not entitled to state-provided rehabilitative services and were routinely detained and deported; the government has not reported investigating reports of slave-like conditions among North Korean workers in Russia; authorities have made no effort to reduce the demand for forced labor or to develop public awareness of forced labor or sex trafficking (2015)",
+}, 
+"illicit_drugs": "limited cultivation of illicit cannabis and opium poppy and producer of methamphetamine, mostly for domestic consumption; government has active illicit crop eradication program; used as transshipment point for Asian opiates, cannabis, and Latin American cocaine bound for growing domestic markets, to a lesser extent Western and Central Europe, and occasionally to the US; major source of heroin precursor chemicals; corruption and organized crime are key concerns; major consumer of opiates",
+}
+}

@@ -1,0 +1,84 @@
+{
+"name": "Clipperton Island",
+"code": "IP",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "This isolated atoll was named for John CLIPPERTON, an English pirate who was rumored to have made it his hideout early in the 18th century. Annexed by France in 1855 and claimed by the US, it was seized by Mexico in 1897. Arbitration eventually awarded the island to France in 1931, which took possession in 1935.",
+}, 
+"geography": 
+{
+"location": "Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico",
+"geographic_coordinates": "10 17 N, 109 13 W",
+"map_references": "Political Map of the World",
+"area": 
+{
+"total": "6 sq km",
+"land": "6 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "about 12 times the size of The Mall in Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "11.1 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)",
+"terrain": "coral atoll",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "Rocher Clipperton 29 m",
+}, 
+"natural_resources": "fish",
+"land_use": 
+{
+"agricultural_land": "0% (2011 est.)",
+"agricultural_land_arable_land": "0% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "0% (2011 est.)",
+"other": "100% (2011 est.)",
+}, 
+"natural_hazards": "subject to tropical storms and hurricanes from May to October",
+"environment_current_issues": "no natural resources, guano deposits depleted; the ring-shaped atoll encloses a stagnant fresh-water lagoon",
+"geography_note": "the atoll reef is approximately 12 km (7.5 mi) in circumference; an attempt to colonize the atoll in the early 20th century ended in disaster and was abandoned in 1917",
+}, 
+"people_and_society": 
+{
+"population": " uninhabited",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Clipperton Island",
+"local_long_form": "none",
+"local_short_form": "Ile Clipperton",
+"former": "sometimes referred to as Ile de la Passion or Atoll Clipperton",
+"etymology": "named after an 18th-century English pirate who supposedly used the island as a base",
+}, 
+"dependency_status": "possession of France; administered directly by the Minister of Overseas France",
+"legal_system": "the laws of France apply",
+"flag_description": "the flag of France is used",
+}, 
+"economy": 
+{
+"economy_overview": "Although 115 species of fish have been identified in the territorial waters of Clipperton Island, tuna fishing is the only economically viable species.",
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of France",
+}, 
+"transportation": 
+{
+"ports_and_terminals": "none; offshore anchorage only", 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

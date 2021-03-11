@@ -1,0 +1,535 @@
+{
+"name": "Tajikistan",
+"code": "TI",
+"publish_date": "December 19, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;The Tajik people came under Russian imperial rule in the 1860s and 1870s, but Russia&#39;s hold on Central Asia weakened following the Revolution of 1917. At that time, bands of indigenous guerrillas (called &quot;basmachi&quot;) fiercely contested Bolshevik control of the area, which was not fully reestablished until 1925. Tajikistan was first created as an autonomous republic within Uzbekistan in 1924, but in 1929 the USSR designated Tajikistan a separate republic and transferred to it much of present-day Sughd province. Ethnic Uzbeks form a substantial minority in Tajikistan, and ethnic Tajiks an even larger minority in Uzbekistan. Tajikistan became independent in 1991 following the breakup of the Soviet Union, and experienced a civil war between political, regional, and religious factions from 1992 to 1997.&lt;/p&gt; &lt;p&gt;Though the country holds general elections for both the presidency (once every seven years) and parliament (once every five years), observers note an electoral system rife with irregularities and abuse, with results that are neither free nor fair. President Emomali RAHMON, who came to power in 1994 during the civil war, used an attack planned by a disaffected deputy defense minister in 2015 to ban the last major opposition political party in Tajikistan. In December 2015, RAHMON further strengthened his position by having himself declared &quot;Founder of Peace and National Unity, Leader of the Nation,&quot; with limitless terms and lifelong immunity through constitutional amendments ratified in a referendum. The referendum also lowered the minimum age required to run for president from 35 to 30, which would make RAHMON&#39;s son Rustam EMOMALI, the current mayor of the capital city of Dushanbe, eligible to run for president in 2020. &lt;br /&gt;&lt;br /&gt;The country remains the poorest in the former Soviet sphere. Tajikistan became a member of the WTO in March 2013. However, its economy continues to face major challenges, including dependence on remittances from Tajikistani migrant laborers working in Russia and Kazakhstan, pervasive corruption, and the opiate trade and other destabilizing violence emanating from neighboring Afghanistan. Tajikistan has endured several domestic security incidents since 2010, including armed conflict between government forces and local strongmen in the Rasht Valley and between government forces and criminal groups in Gorno-Badakhshan Autonomous Oblast. Tajikistan suffered its first ISIS-claimed attack in 2018, when assailants attacked a group of Western bicyclists with vehicles and knives, killing four.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Central Asia, west of China, south of Kyrgyzstan",
+"geographic_coordinates": "39 00 N, 71 00 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "144,100 sq km",
+"land": "141,510 sq km",
+"water": "2,590 sq km",
+}, 
+"area_comparative": "slightly smaller than Wisconsin",
+"land_boundaries": 
+{
+"total": "4,130 km",
+"border_countries": "Afghanistan 1357 km, China 477 km, Kyrgyzstan 984 km, Uzbekistan 1312 km",
+}, 
+"coastline": "0 km (landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains",
+"terrain": "mountainous region dominated by the Trans-Alay Range in the north and the Pamirs in the southeast; western Fergana Valley in north, Kofarnihon and Vakhsh Valleys in southwest",
+"elevation": 
+{
+"mean_elevation": "3,186 m",
+"lowest_point": "Syr Darya (Sirdaryo) 300 m",
+"highest_point": "Qullai Ismoili Somoni 7,495 m",
+}, 
+"natural_resources": "hydropower, some petroleum, uranium, mercury, brown coal, lead, zinc, antimony, tungsten, silver, gold",
+"land_use": 
+{
+"agricultural_land": "34.7% (2011 est.)",
+"agricultural_land_arable_land": "6.1% (2011 est.)",
+"agricultural_land_permanent_crops": "0.9% (2011 est.)",
+"agricultural_land_permanent_pasture": "27.7% (2011 est.)",
+"forest": "2.9% (2011 est.)",
+"other": "62.4% (2011 est.)",
+}, 
+"irrigated_land": "7,420 sq km (2012)",
+"population_distribution": "the country&#39;s population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west",
+"natural_hazards": "earthquakes; floods",
+"environment_current_issues": "areas of high air pollution from motor vehicles and industry; water pollution from agricultural runoff and disposal of untreated industrial waste and sewage; poor management of water resources; soil erosion; increasing levels of soil salinity",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was the tallest mountain in the former USSR",
+}, 
+"people_and_society": 
+{
+"population": "8,604,882 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Tajikistani(s)",
+"adjective": "Tajikistani",
+}, 
+"ethnic_groups": "Tajik 84.3% (includes Pamiri and Yagnobi), Uzbek 13.8%, other 2% (includes Kyrgyz, Russian, Turkmen, Tatar, Arab) (2014 est.)",
+"languages": "Tajik (official) 84.4%, Uzbek 11.9%, Kyrgyz .8%, Russian .5%, other 2.4% (2010 est.)",
+"religions": "Muslim 98% (Sunni 95%, Shia 3%) other 2% (2014 est.)",
+"age_structure": 
+{
+"0_14_years": "32.05% (male 1,404,403 /female 1,353,704)",
+"15_24_years": "18.35% (male 801,172 /female 777,524)",
+"25_54_years": "40.34% (male 1,721,081 /female 1,749,819)",
+"55_64_years": "5.85% (male 231,820 /female 271,946)",
+"65_years_and_over": "3.41% (male 121,405 /female 172,008) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "62.5 (2015 est.)",
+"youth_dependency_ratio": "57.1 (2015 est.)",
+"elderly_dependency_ratio": "5.4 (2015 est.)",
+"potential_support_ratio": "18.5 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "24.8 years (2018 est.)",
+"male": "24.2 years",
+"female": "25.4 years",
+}, 
+"population_growth_rate": "1.58% (2018 est.)",
+"birth_rate": "22.8 births/1,000 population (2018 est.)",
+"death_rate": "5.9 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-1.1 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "the country&#39;s population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west",
+"urbanization": 
+{
+"urban_population": "27.3% of total population (2019)",
+"rate_of_urbanization": "2.62% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "894,000 DUSHANBE (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.03 male(s)/female",
+"25_54_years": "0.98 male(s)/female",
+"55_64_years": "0.85 male(s)/female",
+"65_years_and_over": "0.71 male(s)/female",
+"total_population": "0.99 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "22 years (2017 est.)",
+"maternal_mortality_rate": "17 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "30.8 deaths/1,000 live births (2018 est.)",
+"male": "34.8 deaths/1,000 live births",
+"female": "26.5 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "68.4 years (2018 est.)",
+"male": "65.2 years",
+"female": "71.7 years",
+}, 
+"total_fertility_rate": "2.59 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "29.3% (2017)",
+"drinking_water_source": 
+{
+"improved_urban": "93.1% of population",
+"improved_rural": "66.7% of population",
+"improved_total": "73.8% of population",
+"unimproved_urban": "6.9% of population",
+"unimproved_rural": "33.3% of population",
+"unimproved_total": "26.2% of population (2015 est.)",
+}, 
+"current_health_expenditure": "7% (2016)",
+"physicians_density": "1.7 physicians/1,000 population (2014)",
+"hospital_bed_density": "4.8 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "93.8% of population (2015 est.)",
+"improved_rural": "95.5% of population (2015 est.)",
+"improved_total": "95% of population (2015 est.)",
+"unimproved_urban": "6.2% of population (2015 est.)",
+"unimproved_rural": "4.5% of population (2015 est.)",
+"unimproved_total": "5% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.2% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "13,000 (2018 est.)",
+"hiv_aids_deaths": " &lt;500 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "high (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria (2016)",
+}, 
+"obesity_adult_prevalence_rate": "14.2% (2016)",
+"children_under_the_age_of_5_years_underweight": "7.6% (2017)",
+"education_expenditures": "5.2% of GDP (2015)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.8%",
+"male": "99.8%",
+"female": "99.7% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "11 years",
+"male": "12 years",
+"female": "11 years (2013)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "16.7%",
+"male": "19.2%",
+"female": "13.7% (2009 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Tajikistan",
+"conventional_short_form": "Tajikistan",
+"local_long_form": "Jumhurii Tojikiston",
+"local_short_form": "Tojikiston",
+"former": "Tajik Soviet Socialist Republic",
+"etymology": "the Persian suffix &quot;-stan&quot; means &quot;place of&quot; or &quot;country,&quot; so the word Tajikistan literally means &quot;Land of the Tajik [people]&quot;",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Dushanbe",
+"geographic_coordinates": "38 33 N, 68 46 E",
+"time_difference": "UTC+5 (10 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Qurghonteppa), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)",
+"independence": "9 September 1991 (from the Soviet Union)",
+"national_holiday": "Independence Day (or National Day), 9 September (1991)",
+"constitution": 
+{
+"history": "several previous; latest adopted 6 November 1994",
+"amendments": "proposed by the president of the republic or by at least one third of the total membership of both houses of the Supreme Assembly; adoption of any amendment requires a referendum, which includes approval of the president or approval by at least two-thirds majority of the Assembly of Representatives; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of votes; constitutional articles, including Tajikistan&amp;rsquo;s form of government, its territory, and its democratic nature, cannot be amended; amended several times, last in 2016 (2017)",
+}, 
+"legal_system": "civil law system",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Tajikistan",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years or 3 years of continuous residence prior to application",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly chairman since 19 November 1992)",
+"head_of_government": "Prime Minister Qohir RASULZODA (since 23 November 2013)",
+"cabinet": "Council of Ministers appointed by the president, approved by the Supreme Assembly",
+"elections_appointments": "president directly elected by simple majority popular vote for a 7-year term for a maximum of two terms; however, as the &quot;Leader of the Nation&quot; President RAHMON can run an unlimited number of times; election last held on 6 November 2013 (next to be held in November 2020); prime minister appointed by the president",
+"election_results": "Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 83.9%, Ismoil TALBAKOV (CPT) 5%, other 11.1%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Supreme Assembly or Majlisi Oli consists of:&lt;br /&gt;National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)&lt;br /&gt; Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms)",
+"elections": "&lt;br /&gt; National Assembly - last held on 1 March 2015 (next to be held in 2020)&lt;br /&gt; Assembly of Representatives - last held on 1 March 2015 (next to be held in 2020)",
+"election_results": "&lt;br /&gt; National Assembly - percent of vote by party - NA; seats by party - NA; composition - men 28, women 6, percent of women 17.6%&lt;br /&gt; Assembly of Representatives - percent of vote by party - PDPT 65.4%, APT 11.7%, PERT 7.5%, SPT 5.5%, CPT 2.2%, DPT 1.7%, other 6%; seats by party - PDPT 51, APT 5, PERT 3, CPT 2, SPT 1, DPT 1; composition - men 50, women 13, percent of women 20.6%; note - total Supreme Assembly percent of women 19.6%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)",
+"judge_selection_and_term_of_office": "Supreme Court, Constitutional Court, and High Economic Court judges nominated by the president and approved by the National Assembly; judges of all 3 courts appointed for 10-year renewable terms with no term limits, but the last appointment must occur before the age of 65",
+"subordinate_courts": "regional and district courts; Dushanbe City Court; viloyat (province level) courts; Court of Gorno-Badakhshan Autonomous Region",
+}, 
+"political_parties_and_leaders": "Agrarian Party of Tajikistan or APT [Rustam LATIFZODA]&lt;br /&gt;Communist Party of Tajikistan or CPT [Miroj ABDULLOEV]&lt;br /&gt;Democratic Party of Tajikistan or DPT [Saidjafar USMONZODA]&lt;br /&gt;Party of Economic Reform of Tajikistan or PERT [Rustam OUDRATOV]&lt;br /&gt;People&#39;s Democratic Party of Tajikistan or PDPT [Emomali RAHMON]&lt;br /&gt;Social Democratic Party of Tajikistan or SDPT [Rahmatullo ZOIROV]&lt;br /&gt;Socialist Party of Tajikistan or SPT [Abduhalim GHAFFOROV]",
+"international_organization_participation": "ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Farhod SALIM (since 21 May 2014)",
+"chancery": "1005 New Hampshire Avenue NW, Washington, DC 20037",
+"telephone": "[1] (202) 223-6090",
+"fax": "[1] (202) 223-6091",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador John Mark POMMERSHEIM (since 15 March 2019)",
+"telephone": "[992] (37) 229-20-00",
+"embassy": "109-A Ismoili Somoni Avenue, Dushanbe 734019",
+"mailing_address": "7090 Dushanbe Place, Dulles, VA 20189",
+"fax": "[992] (37) 229-20-50",
+}, 
+"flag_description": "three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown surmounted by seven gold, five-pointed stars is located in the center of the white stripe; red represents the sun, victory, and the unity of the nation, white stands for purity, cotton, and mountain snows, while green is the color of Islam and the bounty of nature; the crown symbolizes the Tajik people; the seven stars signify the Tajik magic number &quot;seven&quot; - a symbol of perfection and the embodiment of happiness",
+"national_symbol_s": "crown surmounted by an arc of seven, five-pointed stars; snow leopard; national colors: red, white, green",
+"national_anthem": 
+{
+"name": "&quot;Surudi milli&quot; (National Anthem)",
+"lyrics_music": "Gulnazar KELDI/Sulaimon YUDAKOV",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Tajikistan is a poor, mountainous country with an economy dominated by minerals extraction, metals processing, agriculture, and reliance on remittances from citizens working abroad. Mineral resources include silver, gold, uranium, antimony, tungsten, and coal. Industry consists mainly of small obsolete factories in food processing and light industry, substantial hydropower facilities, and a large aluminum plant - currently operating well below its capacity. The 1992-97 civil war severely damaged an already weak economic infrastructure and caused a sharp decline in industrial and agricultural production. Today, Tajikistan is the poorest among the former Soviet republics. Because less than 7% of the land area is arable and cotton is the predominant crop, Tajikistan imports approximately 70% of its food.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Since the end of the civil war, the country has pursued half-hearted reforms and privatizations in the economic sphere, but its poor business climate remains a hindrance to attracting foreign investment. Some experts estimate the value of narcotics transiting Tajikistan is equivalent to 30%-50% of GDP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Because of a lack of employment opportunities in Tajikistan, more than one million Tajik citizens work abroad - roughly 90% in Russia - supporting families back home through remittances that in 2017 were equivalent to nearly 35% of GDP. Tajikistan’s large remittances from migrant workers in Russia exposes it to monetary shocks. Tajikistan often delays devaluation of its currency for fear of inflationary pressures on food and other consumables. Recent slowdowns in the Russian and Chinese economies, low commodity prices, and currency fluctuations have hampered economic growth. The dollar value of remittances from Russia to Tajikistan dropped by almost 65% in 2015, and the government spent almost $500 million in 2016 to bail out the country’s still troubled banking sector.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Tajikistan’s growing public debt – currently about 50% of GDP – could result in financial difficulties. Remittances from Russia increased in 2017, however, bolstering the economy somewhat. China owns about 50% of Tajikistan’s outstanding debt. Tajikistan has borrowed heavily to finance investment in the country’s vast hydropower potential. In 2016, Tajikistan contracted with the Italian firm Salini Impregilo to build the Roghun dam over a 13-year period for $3.9 billion. A 2017 Eurobond has largely funded Roghun’s first phase, after which sales from Roghun’s output are expected to fund the rest of its construction. The government has not ruled out issuing another Eurobond to generate auxiliary funding for its second phase.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$28.43 billion",
+"2016": "$26.55 billion",
+"2015": "$24.83 billion",
+},
+"gdp_official_exchange_rate": "$7.144 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "7.1%",
+"2016": "6.9%",
+"2015": "6%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$3,200",
+"2016": "$3,000",
+"2015": "$2,900",
+},
+"gross_national_saving":
+{
+"2017": "24.4% of GDP",
+"2016": "15.4% of GDP",
+"2015": "11.8% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "98.4% (2017 est.)",
+"government_consumption": "13.3% (2017 est.)",
+"investment_in_fixed_capital": "11.7% (2017 est.)",
+"investment_in_inventories": "2.5% (2017 est.)",
+"exports_of_goods_and_services": "10.7% (2017 est.)",
+"imports_of_goods_and_services": "-36.6% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "28.6% (2017 est.)",
+"industry": "25.5% (2017 est.)",
+"services": "45.9% (2017 est.)",
+}, 
+"agriculture_products": "cotton, grain, fruits, grapes, vegetables; cattle, sheep, goats",
+"industries": "aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil",
+"industrial_production_growth_rate": "1% (2017 est.)",
+"labor_force": "2.295 million (2016 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "43%",
+"industry": "10.6%",
+"services": "46.4% (2016 est.)",
+}, 
+"unemployment_rate":
+{
+"2016": "2.4%",
+"2015": "2.5%",
+},
+"population_below_poverty_line": "31.5% (2016 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA (2009 est.)",
+"highest_10": " NA (2009 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2006": "32.6",
+"1998": "34.7",
+},
+"budget": 
+{
+"revenues": "2.269 billion (2017 est.)",
+"expenditures": "2.374 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "31.8% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1.5% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "50.4% of GDP",
+"2016": "42% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "7.3%",
+"2016": "5.9%",
+},
+"central_bank_discount_rate":
+{
+"20 March 2017": "16%",
+"31 December 2012": "6.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "30%",
+"31 December 2016": "24.24%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$1.389 billion",
+"31 December 2016": "$1.108 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$1.389 billion",
+"31 December 2016": "$1.108 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$1.06 billion",
+"31 December 2016": "$1.711 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$35 million",
+"2016": "-$362 million",
+},
+"exports":
+{
+"2017": "$873.1 million",
+"2016": "$691.1 million",
+},
+"exports_partners": "Turkey 27.5%, China 17.7%, Russia 13.4%, Switzerland 12.5%, Algeria 8.2%, Iran 7.1% (2017)",
+"exports_commodities": "aluminum, electricity, cotton, fruits, vegetable oil, textiles",
+"imports":
+{
+"2017": "$2.39 billion",
+"2016": "$2.554 billion",
+},
+"imports_commodities": "petroleum products, aluminum oxide, machinery and equipment, foodstuffs",
+"imports_partners": "Russia 38%, Kazakhstan 19%, China 8.7%, Iran 4.4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$1.292 billion",
+"31 December 2016": "$652.8 million",
+},
+"debt_external":
+{
+"31 December 2017": "$5.75 billion",
+"31 December 2016": "$5.495 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2013": "$2.272 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2009": "$16.3 billion",
+},
+"exchange_rates": 
+{
+"currency": "Tajikistani somoni (TJS) per US dollar -",
+"exchange_rates":
+{
+"2017": "8.764",
+"2016": "7.8358",
+"2015": "7.8358",
+"2014": "6.1631",
+"2013": "4.9348",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "17.03 billion kWh (2016 est.)",
+"electricity_consumption": "12.96 billion kWh (2016 est.)",
+"electricity_exports": "1.4 billion kWh NA (2015 est.)",
+"electricity_imports": "103 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "5.508 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "6% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "94% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "180 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "12 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "172 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "24,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "22,460 bbl/day (2015 est.)",
+"natural_gas_production": "19.82 million cu m (2017 est.)",
+"natural_gas_consumption": "19.82 million cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "5.663 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "6.329 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "468,000",
+"subscriptions_per_100_inhabitants": "6 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "9.4 million",
+"subscriptions_per_100_inhabitants": "111 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "foreign investment in the telephone system has resulted in major improvements; conversion of the existing fixed network from analogue to digital was completed in 2012; the country has endeavored to launch 4G/LTE services with mixed results; 7 major cities&amp;nbsp;have 4G coverage;&amp;nbsp;5 major operators in the market; low broadband penetration (2018)",
+"domestic": "fixed line availability has not changed significantly since 1998, while mobile cellular subscribership, aided by competition among multiple operators, has expanded rapidly; coverage now extends to all major cities and towns; fixed-line 6 per 100 and mobile-cellular 111 per 100 (2018)",
+"international": "country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); satellite earth stations - 3 (2 Intelsat and 1 Orbita",
+}, 
+"broadcast_media": "state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and regionally on 4 stations; 31 independent TV and 20 radio stations broadcast locally and regionally; many households are able to receive Russian and other foreign stations via cable and satellite (2016)",
+"internet_country_code": ".tj",
+"internet_users": 
+{
+"total": "1,705,345",
+"percent_of_population": "20.5% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "6,000",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2015": "1.22% of GDP",
+"2014": "1.13% of GDP",
+"2012": "1% of GDP",
+"2011": "1.09% of GDP",
+},
+"military_and_security_forces": "Armed Forces of the Republic of Tajikistan:&amp;nbsp; Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Internal Troops (Ministry of Internal Affairs/reserves for Armed Forces in wartime); Border Guard Forces (State Committee on National Security) (2019)",
+"military_service_age_and_obligation": "18-27 years of age for compulsory or voluntary military service; 12-18 month conscript service obligation (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "2 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "10 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "802,470 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "105,376 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "EY (2016)",
+"airports": "24 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "17 (2013)",
+"over_3_047_m": "2 (2013)",
+"2_438_to_3_047_m": "4 (2013)",
+"1_524_to_2_437_m": "5 (2013)",
+"914_to_1_523_m": "3 (2013)",
+"under_914_m": "3 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "7 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "1 (2013)",
+"under_914_m": "5 (2013)",
+}, 
+"pipelines": "549 km gas, 38 km oil (2013)",
+"railways": 
+{
+"total": "680 km (2014)",
+"broad_gauge": "680 km 1.520-m gauge (2014)",
+}, 
+"roadways": "30,000 km (2018)",
+"waterways": "200 km (along Vakhsh River) (2011)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;in 2006, China and Tajikistan pledged to commence demarcation of the revised boundary agreed to in the delimitation of 2002; talks continue with Uzbekistan to delimit border and remove minefields; disputes in Isfara Valley delay delimitation with Kyrgyzstan&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "4,616 (2018)",
+"illicit_drugs": "Tajikistan sits on one of the world&#39;s highest volume illicit drug trafficking routes, between Afghan opiate production to the south and the illicit drug markets of Russia and Eastern Europe to the north; limited illicit cultivation of opium poppy for domestic consumption; significant consumer of opiates",
+}
+}

@@ -1,0 +1,89 @@
+{
+"name": "Akrotiri",
+"code": "AX",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "By terms of the 1960 Treaty of Establishment that created the independent Republic of Cyprus, the UK retained full sovereignty and jurisdiction over two areas of almost 254 square kilometers - Akrotiri and Dhekelia. The southernmost and smallest of these is the Akrotiri Sovereign Base Area, which is also referred to as the Western Sovereign Base Area.",
+}, 
+"geography": 
+{
+"location": "Eastern Mediterranean, peninsula on the southwest coast of Cyprus",
+"geographic_coordinates": "34 37 N, 32 58 E",
+"map_references": "Middle East",
+"area": "123 sq km",
+"area_comparative": "about 0.7 times the size of Washington, DC",
+"land_boundaries": 
+{
+"total": "48 km",
+"border_countries": "Cyprus 48 km",
+}, 
+"coastline": "56.3 km",
+"climate": "temperate; Mediterranean with hot, dry summers and cool winters",
+"environment_current_issues": "hunting around the salt lake; note - breeding place for loggerhead and green turtles; only remaining colony of griffon vultures is on the base",
+"geography_note": "British extraterritorial rights also extended to several small off-post sites scattered across Cyprus; of the Sovereign Base Area (SBA) land, 60% is privately owned and farmed, 20% is owned by the Ministry of Defense, and 20% is SBA Crown land",
+}, 
+"people_and_society": 
+{
+"population": " approximately 15,500 on the Sovereign Base Areas of Akrotiri and Dhekelia including 9,700 Cypriots and 5,800 Service and UK-based contract personnel and dependents (2011)",
+"languages": "English, Greek",
+"hiv_aids_adult_prevalence_rate": " NA",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Akrotiri",
+"etymology": "named for the village that lies within the Western Sovereign Base Area on Cyprus",
+}, 
+"dependency_status": "a special form of UK overseas territory; administered by an administrator who is also the Commander, British Forces Cyprus",
+"capital": 
+{
+"name": "Episkopi Cantonment (base administrative center for Akrotiri and Dhekelia)",
+"geographic_coordinates": "34 40 N, 32 51 E",
+"time_difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"constitution": 
+{
+"history": "presented 3 August 1960, effective 16 August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia Order in Council 1960 serves as a basic legal document)",
+"amendments": "amended 1966 (2016)",
+}, 
+"legal_system": "laws applicable to the Cypriot population are, as far as possible, the same as the laws of the Republic of Cyprus; note - the Sovereign Base Area Administration has its own court system to deal with civil and criminal matters",
+"executive_branch": 
+{
+"chief_of_state": "Queen ELIZABETH II (since 6 February 1952)",
+"head_of_government": "Administrator Major General James ILLINGWORTH (since 14 March 2017); note - administrator reports to the British Ministry of Defense; the chief officer is responsible for the day-to-day running of the civil government of the Sovereign Bases",
+"elections_appointments": "the monarchy is hereditary; administrator appointed by the monarch on the advice of the Ministry of Defense",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Senior Judges&#39; Court (consists of several visiting judges from England and Wales)",
+"judge_selection_and_term_of_office": "see entry for United Kingdom",
+"subordinate_courts": "Resident Judges&#39; Court; Courts Martial",
+}, 
+"diplomatic_representation_in_the_us": "none (overseas territory of the UK)", 
+"diplomatic_representation_from_the_us": "none (overseas territory of the UK)", 
+"flag_description": "the flag of the UK is used",
+"national_anthem": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; as a UK area of special sovereignty, &quot;God Save the Queen&quot; is official (see United Kingdom)&lt;/p&gt;", 
+}, 
+"economy": 
+{
+"economy_overview": "Economic activity is limited to providing services to the military and their families located in Akrotiri. All food and manufactured goods must be imported.",
+"exchange_rates": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; uses the euro&lt;/p&gt;", 
+}, 
+"communications": 
+{
+"broadcast_media": "British Forces Broadcast Service (BFBS) provides multi-channel satellite TV service as well as BFBS radio broadcasts to the Akrotiri Sovereign Base Area",
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of the UK; Akrotiri has a full RAF base, headquarters for British Forces Cyprus, and Episkopi Support Unit",
+}, 
+"transportation": 
+{
+"airports": "1 (2017)",
+"airports_with_paved_runways": "1 (2017)",
+}, 
+}

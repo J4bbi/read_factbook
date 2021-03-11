@@ -1,0 +1,83 @@
+{
+"name": "Paracel Islands",
+"code": "PF",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "The Paracel Islands are surrounded by productive fishing grounds and by potential oil and gas reserves. In 1932, French Indochina annexed the islands and set up a weather station on Pattle Island; maintenance was continued by its successor, Vietnam. China has occupied all the Paracel Islands since 1974, when its troops seized a South Vietnamese garrison occupying the western islands. China built a military installation on Woody Island with an airfield and artificial harbor. The islands also are claimed by Taiwan and Vietnam.",
+}, 
+"geography": 
+{
+"location": "Southeastern Asia, group of small islands and reefs in the South China Sea, about one-third of the way from central Vietnam to the northern Philippines",
+"geographic_coordinates": "16 30 N, 112 00 E",
+"map_references": "Southeast Asia",
+"area": 
+{
+"total": "7.75 sq km ca.",
+"land": "7.75 sq km ca.",
+"water": "0 sq km",
+}, 
+"area_comparative": "land area is about 13 times the size of the National Mall in Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "518 km",
+"maritime_claims": "NA", 
+"climate": "tropical",
+"terrain": "mostly low and flat",
+"elevation": 
+{
+"lowest_point": "South China Sea 0 m",
+"highest_point": "unnamed location on Rocky Island 14 m",
+}, 
+"natural_resources": "none",
+"land_use": 
+{
+"agricultural_land": "0% (2011 est.)",
+"agricultural_land_arable_land": "0% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "0% (2011 est.)",
+"other": "100% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "a population of over 1,000 Chinese resides on Woody Island, the largest of the Paracels; there are scattered Chinese garrisons on some other islands",
+"natural_hazards": "typhoons",
+"environment_current_issues": "China&#39;s use of dredged sand and coral to build artificial islands harms reef systems; ongoing human activities, including military operations, infrastructure construction, and tourism endangers local ecosystem including birds, fish, marine mammals, and marine reptiles",
+"geography_note": "composed of 130 small coral islands and reefs divided into the northeast Amphitrite Group and the western Crescent Group",
+}, 
+"people_and_society": 
+{
+"population": "1,440 (2014 est.)",
+"population_distribution": "a population of over 1,000 Chinese resides on Woody Island, the largest of the Paracels; there are scattered Chinese garrisons on some other islands",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Paracel Islands",
+"etymology": "Portuguese navigators began to refer to the &quot;Ilhas do Pracel&quot; in the 16th century as a designation of low lying islets, sandbanks, and reefs scattered over a wide area; over time the name changed to &quot;parcel&quot; and then &quot;paracel&quot;",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "The islands have the potential for oil and gas development. Waters around the islands support commercial fishing, but the islands themselves are not populated on a permanent basis.",
+}, 
+"military_and_security": 
+{
+"military_note": "occupied by China",
+}, 
+"transportation": 
+{
+"airports": "1 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+}, 
+"ports_and_terminals": "small Chinese port facilities on Woody Island and Duncan Island", 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;occupied by China, also claimed by Taiwan and Vietnam&lt;/p&gt;",
+}
+}

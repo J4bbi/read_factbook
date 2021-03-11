@@ -1,0 +1,542 @@
+{
+"name": "Azerbaijan",
+"code": "AJ",
+"publish_date": "December 26, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Azerbaijan - a secular nation with a majority-Turkic and majority-Shia Muslim population - was briefly independent (from 1918 to 1920) following the collapse of the Russian Empire; it was subsequently incorporated into the Soviet Union for seven decades. Azerbaijan remains involved in the protracted Nagorno-Karabakh conflict with Armenia. Nagorno-Karabakh was a primarily ethnic Armenian region that Moscow recognized in 1923 as an autonomous oblast within Soviet Azerbaijan. In the late Soviet period, a separatist movement developed which sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a ceasefire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories. The 1994 ceasefire continues to hold, although violence continues along the line of contact separating the opposing forces, as well as the Azerbaijan-Armenia international border. The final status of Nagorno-Karabakh remains the subject of international mediation by the Organization for Security and Cooperation in Europe (OSCE) Minsk Group, which works to help the sides settle the conflict peacefully. The OSCE Minsk Group is co‑chaired by the United States, France, and Russia. &lt;br /&gt;&lt;br /&gt;In the 25 years following its independence, Azerbaijan succeeded in significantly reducing the poverty rate and has directed revenues from its oil and gas production to develop the country&amp;rsquo;s infrastructure. However, corruption remains a problem, and the government has been accused of authoritarianism. The country&amp;rsquo;s leadership has remained in the Aliyev family since Heydar ALIYEV became president in 1993 and was succeeded by his son, President Ilham ALIYEV in 2003. Following two national referendums in the past several years that eliminated presidential term limits and extended presidential terms from 5 to 7 years, President ALIYEV secured a fourth term as president in April 2018 in an election that international observers noted had serious shortcomings. Reforms are underway to diversify the country&amp;rsquo;s non-oil economy and additional reforms are needed to address weaknesses in government institutions, particularly in the education and health sectors, and the court system.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southwestern Asia, bordering the Caspian Sea, between Iran and Russia, with a small European portion north of the Caucasus range",
+"geographic_coordinates": "40 30 N, 47 30 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "86,600 sq km",
+"land": "82,629 sq km",
+"water": "3,971 sq km",
+}, 
+"area_comparative": "about three-quarters the size of Pennsylvania; slightly smaller than Maine",
+"land_boundaries": 
+{
+"total": "2,468 km",
+"border_countries": "Armenia 996 km, Georgia 428 km, Iran 689 km, Russia 338 km, Turkey 17 km",
+}, 
+"coastline": "0 km (landlocked); note - Azerbaijan borders the Caspian Sea (713 km)",
+"maritime_claims": "none (landlocked)", 
+"climate": "dry, semiarid steppe",
+"terrain": "large, flat Kur-Araz Ovaligi (Kura-Araks Lowland, much of it below sea level) with Great Caucasus Mountains to the north, Qarabag Yaylasi (Karabakh Upland) to the west; Baku lies on Abseron Yasaqligi (Apsheron Peninsula) that juts into Caspian Sea",
+"elevation": 
+{
+"mean_elevation": "384 m",
+"lowest_point": "Caspian Sea -28 m",
+"highest_point": "Bazarduzu Dagi 4,466 m",
+}, 
+"natural_resources": "petroleum, natural gas, iron ore, nonferrous metals, bauxite",
+"land_use": 
+{
+"agricultural_land": "57.6% (2016 est.)",
+"agricultural_land_arable_land": "22.8% (2016 est.)",
+"agricultural_land_permanent_crops": "2.7% (2016 est.)",
+"agricultural_land_permanent_pasture": "32.1% (2016 est.)",
+"forest": "11.3% (2016 est.)",
+"other": "31.1% (2016 est.)",
+}, 
+"irrigated_land": "14,277 sq km (2012)",
+"population_distribution": "highest population density is found in the far eastern area of the county, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population",
+"natural_hazards": "droughts",
+"environment_current_issues": "local scientists consider the Abseron Yasaqligi (Apsheron Peninsula) (including Baku and Sumqayit) and the Caspian Sea to be the ecologically most devastated area in the world because of severe air, soil, and water pollution; soil pollution results from oil spills, from the use of DDT pesticide, and from toxic defoliants used in the production of cotton; surface and underground water are polluted by untreated municipal and industrial wastewater and agricultural run-off",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "both the main area of the country and the Naxcivan exclave are landlocked",
+}, 
+"people_and_society": 
+{
+"population": "10,046,516 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Azerbaijani(s)",
+"adjective": "Azerbaijani",
+}, 
+"ethnic_groups": "Azerbaijani 91.6%, Lezghin 2%, Russian 1.3%, Armenian 1.3%, Talysh 1.3%, other 2.4% (2009 est.)",
+"languages": "Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)",
+"religions": "Muslim 96.9% (predominantly Shia), Christian 3%, other &amp;lt;0.1, unaffiliated &amp;lt;0.1 (2010 est.)",
+"age_structure": 
+{
+"0_14_years": "23.05% (male 1,233,424 /female 1,082,007)",
+"15_24_years": "14.03% (male 743,142 /female 666,550)",
+"25_54_years": "45.44% (male 2,247,545 /female 2,317,630)",
+"55_64_years": "10.67% (male 493,555 /female 578,440)",
+"65_years_and_over": "6.81% (male 262,989 /female 421,234) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "40.2 (2015 est.)",
+"youth_dependency_ratio": "32.1 (2015 est.)",
+"elderly_dependency_ratio": "8 (2015 est.)",
+"potential_support_ratio": "12.4 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "31.7 years (2018 est.)",
+"male": "30.2 years",
+"female": "33.4 years",
+}, 
+"population_growth_rate": "0.83% (2018 est.)",
+"birth_rate": "15.3 births/1,000 population (2018 est.)",
+"death_rate": "7 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "highest population density is found in the far eastern area of the county, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population",
+"urbanization": 
+{
+"urban_population": "56% of total population (2019)",
+"rate_of_urbanization": "1.58% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "2.313 million BAKU (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.08 male(s)/female",
+"0_14_years": "1.14 male(s)/female",
+"15_24_years": "1.11 male(s)/female",
+"25_54_years": "0.97 male(s)/female",
+"55_64_years": "0.85 male(s)/female",
+"65_years_and_over": "0.62 male(s)/female",
+"total_population": "0.98 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "23.2 years (2014 est.)",
+"maternal_mortality_rate": "26 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "23 deaths/1,000 live births (2018 est.)",
+"male": "23.9 deaths/1,000 live births",
+"female": "22 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "73 years (2018 est.)",
+"male": "70 years",
+"female": "76.4 years",
+}, 
+"total_fertility_rate": "1.89 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "54.9% (2011)",
+"drinking_water_source": 
+{
+"improved_urban": "94.7% of population",
+"improved_rural": "77.8% of population",
+"improved_total": "87% of population",
+"unimproved_urban": "5.3% of population",
+"unimproved_rural": "22.2% of population",
+"unimproved_total": "13% of population (2015 est.)",
+}, 
+"current_health_expenditure": "6.9% (2016)",
+"physicians_density": "3.45 physicians/1,000 population (2014)",
+"hospital_bed_density": "4.7 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "91.6% of population (2015 est.)",
+"improved_rural": "86.6% of population (2015 est.)",
+"improved_total": "89.3% of population (2015 est.)",
+"unimproved_urban": "8.4% of population (2015 est.)",
+"unimproved_rural": "13.4% of population (2015 est.)",
+"unimproved_total": "10.7% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.1% (2017 est.)",
+"hiv_aids_people_living_with_hiv_aids": "8,000 (2017 est.)",
+"hiv_aids_deaths": " &lt;500 (2017 est.)",
+"obesity_adult_prevalence_rate": "19.9% (2016)",
+"children_under_the_age_of_5_years_underweight": "4.9% (2013)",
+"education_expenditures": "2.5% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.8%",
+"male": "99.9%",
+"female": "99.7% (2016)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "13 years",
+"male": "13 years",
+"female": "14 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "13.4%",
+"male": "11.4%",
+"female": "15.8% (2015 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Azerbaijan",
+"conventional_short_form": "Azerbaijan",
+"local_long_form": "Azarbaycan Respublikasi",
+"local_short_form": "Azarbaycan",
+"former": "Azerbaijan Soviet Socialist Republic",
+"etymology": "the name translates as &quot;Land of Fire&quot; and refers to naturally occurring surface fires on ancient oil pools or from natural gas discharges",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Baku (Baki, Baky)",
+"geographic_coordinates": "40 23 N, 49 52 E",
+"time_difference": "UTC+4 (9 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "does not observe daylight savings time",
+}, 
+"administrative_divisions": "&lt;p&gt;66 rayons (rayonlar; rayon - singular), 11 cities (saharlar; sahar - singular);&lt;/p&gt;&lt;p&gt;&lt;strong&gt;rayons:&lt;/strong&gt; Abseron, Agcabadi, Agdam, Agdas, Agstafa, Agsu, Astara, Babak, Balakan, Barda, Beylaqan, Bilasuvar, Cabrayil, Calilabad, Culfa, Daskasan, Fuzuli, Gadabay, Goranboy, Goycay, Goygol, Haciqabul, Imisli, Ismayilli, Kalbacar, Kangarli, Kurdamir, Lacin, Lankaran, Lerik, Masalli, Neftcala, Oguz, Ordubad, Qabala, Qax, Qazax, Qobustan, Quba, Qubadli, Qusar, Saatli, Sabirabad, Sabran, Sadarak, Sahbuz, Saki, Salyan, Samaxi, Samkir, Samux, Sarur, Siyazan, Susa, Tartar, Tovuz, Ucar, Xacmaz, Xizi, Xocali, Xocavand, Yardimli, Yevlax, Zangilan, Zaqatala, Zardab; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;cities:&lt;/strong&gt; Baku, Ganca, Lankaran, Mingacevir, Naftalan, Naxcivan (Nakhichevan), Saki, Sirvan, Sumqayit, Xankandi, Yevlax&lt;/p&gt;",
+"independence": "30 August 1991 (declared from the Soviet Union); 18 October 1991 (adopted by the Supreme Council of Azerbaijan)",
+"national_holiday": "Republic Day (founding of the Democratic Republic of Azerbaijan), 28 May (1918)",
+"constitution": 
+{
+"history": "several previous; latest adopted 12 November 1995",
+"amendments": "proposed by the president of the republic or by at least 63 members of the National Assembly; passage requires at least 95 votes of Assembly members in two separate readings of the draft amendment six months apart and requires presidential approval after each of the two Assembly votes, followed by presidential signature; constitutional articles on the authority, sovereignty, and unity of the people cannot be amended; amended 2002, 2009, 2016 (2017)",
+}, 
+"legal_system": "civil law system",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "yes",
+"citizenship_by_descent_only": "yes",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Ilham ALIYEV (since 31 October 2003); First Vice President Mehriban ALIYEVA (since 21 February 2017)",
+"head_of_government": "Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since June 2006)",
+"cabinet": "Council of Ministers appointed by the president and confirmed by the National Assembly",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for unlimited terms); election last held on 11 April 2018 (next to be held in 2025); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum expanded presidential terms from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice-president and additional vice-presidents, who are directly appointed by the president",
+"election_results": "Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Milli Mejlis (125 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)",
+"elections": "last held on 1 November 2015 (next to be held in February 2020)",
+"election_results": "percent of vote by party - NA; seats by party - YAP 69, CSP 2, AVP 1, Civil Unity 1, CUP 1, Democratic Enlightenment 1, Democratic Reforms 1, Great Undertaking Party 1, National Renaissance Party 1, Social Democratic Party 1, Social Prosperity Party 1, Whole Azerbaijan Popular Front 1, independent 43, invalid 1; composition - men 104, women 21, percent of women 16.8%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)",
+"judge_selection_and_term_of_office": "Supreme Court judges nominated by the president and appointed by the Milli Majlis; judges appointed for 10 years; Constitutional Court chairman and deputy chairman appointed by the president; other court judges nominated by the president and appointed by the Milli Majlis to serve single 15-year terms",
+"subordinate_courts": "Courts of Appeal (replaced the Economic Court in 2002); district and municipal courts",
+}, 
+"political_parties_and_leaders": "Civil Solidarity Party or CSP [Sabir RUSTAMKHANLI]&lt;br /&gt;Civil Unity Party or CUP [Sabir HAJIYEV]&lt;br /&gt;Islamic Party of Azerbaijan [Mavsum SAMADOV]&lt;br /&gt;Musavat [Arif HAJILI]&lt;br /&gt;Popular Front Party [Ali KARIMLI]&lt;br /&gt;Motherland Party or AVP [Fazail AGAMALI]&lt;br /&gt;National Renaissance Party&lt;br /&gt;Social Democratic Party [Ayaz MUTALIBOV]&lt;br /&gt;Social Prosperity Party [Khanhusein KAZIMLI]&lt;br /&gt;Whole Azerbaijan Popular Front Party [Gudrat HASANGULIYEV]&lt;br /&gt;Yeni (New) Azerbaijan Party or YAP [President Ilham ALIYEV]",
+"international_organization_participation": "ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Elin SULEYMANOV (since 5 December 2011)",
+"chancery": "2741 34th Street NW, Washington, DC 20008",
+"telephone": "[1] (202) 337-3500",
+"fax": "[1] (202) 337-5911",
+"consulate_s_general": "Los Angeles",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Earle LITZENBERGER (since 12 March 2019)",
+"telephone": "[994] (12) 488-3300",
+"embassy": "111 Azadliq Prospekti, Baku AZ1007",
+"mailing_address": "American Embassy Baku, US Department of State, 7050 Baku Place, Washington, DC 20521-7050",
+"fax": "[994] (12) 488-3330",
+}, 
+"flag_description": "three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band; the blue band recalls Azerbaijan&#39;s Turkic heritage, red stands for modernization and progress, and green refers to Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world",
+"national_symbol_s": "flames of fire; national colors: blue, red, green",
+"national_anthem": 
+{
+"name": "&quot;Azerbaijan Marsi&quot; (March of Azerbaijan)",
+"lyrics_music": "Ahmed JAVAD/Uzeyir HAJIBEYOV",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Prior to the decline in global oil prices since 2014, Azerbaijan&#39;s high economic growth was attributable to rising energy exports and to some non-export sectors. Oil exports through the Baku-Tbilisi-Ceyhan Pipeline, the Baku-Novorossiysk, and the Baku-Supsa Pipelines remain the main economic driver, but efforts to boost Azerbaijan&#39;s gas production are underway. The expected completion of the geopolitically important Southern Gas Corridor (SGC) between Azerbaijan and Europe will open up another source of revenue from gas exports. First gas to Turkey through the SGC is expected in 2018 with project completion expected by 2020-21.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Declining oil prices caused a 3.1% contraction in GDP in 2016, and a 0.8% decline in 2017, highlighted by a sharp reduction in the construction sector. The economic decline was accompanied by higher inflation, a weakened banking sector, and two sharp currency devaluations in 2015. Azerbaijan’s financial sector continued to struggle. In May 2017, Baku allowed the majority state-owed International Bank of Azerbaijan (IBA), the nation’s largest bank, to default on some of its outstanding debt and file for restructuring in Azerbaijani courts; IBA also filed in US and UK bankruptcy courts to have its restructuring recognized in their respective jurisdictions.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Azerbaijan has made limited progress with market-based economic reforms. Pervasive public and private sector corruption and structural economic inefficiencies remain a drag on long-term growth, particularly in non-energy sectors. The government has, however, made efforts to combat corruption, particularly in customs and government services. Several other obstacles impede Azerbaijan&#39;s economic progress, including the need for more foreign investment in the non-energy sector and the continuing conflict with Armenia over the Nagorno-Karabakh region. While trade with Russia and the other former Soviet republics remains important, Azerbaijan has expanded trade with Turkey and Europe and is seeking new markets for non-oil/gas exports - mainly in the agricultural sector - with Gulf Cooperation Council member countries, the US, and others. It is also improving Baku airport and the Caspian Sea port of Alat for use as a regional transportation and logistics hub.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Long-term prospects depend on world oil prices, Azerbaijan&#39;s ability to develop export routes for its growing gas production, and its ability to improve the business environment and diversify the economy. In late 2016, the president approved a strategic roadmap for economic reforms that identified key non-energy segments of the economy for development, such as agriculture, logistics, information technology, and tourism. In October 2017, the long-awaited Baku-Tbilisi-Kars railway, stretching from the Azerbaijani capital to Kars in north-eastern Turkey, began limited service.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$172.2 billion",
+"2016": "$172.1 billion",
+"2015": "$177.6 billion",
+},
+"gdp_official_exchange_rate": "$40.67 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "0.1%",
+"2016": "-3.1%",
+"2015": "0.6%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$17,500",
+"2016": "$17,700",
+"2015": "$18,500",
+},
+"gross_national_saving":
+{
+"2017": "24.6% of GDP",
+"2016": "22.7% of GDP",
+"2015": "27.3% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "57.6% (2017 est.)",
+"government_consumption": "11.5% (2017 est.)",
+"investment_in_fixed_capital": "23.6% (2017 est.)",
+"investment_in_inventories": "0.5% (2017 est.)",
+"exports_of_goods_and_services": "48.7% (2017 est.)",
+"imports_of_goods_and_services": "-42% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "6.1% (2017 est.)",
+"industry": "53.5% (2017 est.)",
+"services": "40.4% (2017 est.)",
+}, 
+"agriculture_products": "fruit, vegetables, grain, rice, grapes, tea, cotton, tobacco; cattle, pigs, sheep, goats",
+"industries": "petroleum and petroleum products, natural gas, oilfield equipment; steel, iron ore; cement; chemicals and petrochemicals; textiles",
+"industrial_production_growth_rate": "-3.8% (2017 est.)",
+"labor_force": "5.118 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "37%",
+"industry": "14.3%",
+"services": "48.9% (2014)",
+}, 
+"unemployment_rate":
+{
+"2017": "5%",
+"2016": "5%",
+},
+"population_below_poverty_line": "4.9% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.4%",
+"highest_10": "27.4% (2008)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2008": "33.7",
+"2001": "36.5",
+},
+"budget": 
+{
+"revenues": "9.556 billion (2017 est.)",
+"expenditures": "10.22 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "23.5% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1.6% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "54.1% of GDP",
+"2016": "50.7% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "13%",
+"2016": "12.6%",
+},
+"central_bank_discount_rate":
+{
+"10 March 2017": "15%",
+"14 September 2016": "15%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "12.7%",
+"31 December 2016": "12.56%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$6.202 billion",
+"31 December 2016": "$5.06 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$6.202 billion",
+"31 December 2016": "$5.06 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$13.31 billion",
+"31 December 2016": "$13.44 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "$1.685 billion",
+"2016": "-$1.363 billion",
+},
+"exports":
+{
+"2017": "$15.15 billion",
+"2016": "$13.21 billion",
+},
+"exports_partners": "Italy 23.2%, Turkey 13.6%, Israel 6.1%, Russia 5.4%, Germany 5%, Czech Republic 4.6%, Georgia 4.3% (2017)",
+"exports_commodities": "oil and gas roughly 90%, machinery, foodstuffs, cotton",
+"imports":
+{
+"2017": "$9.037 billion",
+"2016": "$9.004 billion",
+},
+"imports_commodities": "machinery and equipment, foodstuffs, metals, chemicals",
+"imports_partners": "Russia 17.7%, Turkey 14.8%, China 9.9%, US 8.3%, Ukraine 5.3%, Germany 5.1% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$6.681 billion",
+"31 December 2016": "$7.142 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$17.41 billion",
+"31 December 2016": "$13.83 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$79.53 billion",
+"31 December 2016": "$73.83 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$19.6 billion",
+"31 December 2016": "$17.05 billion",
+},
+"exchange_rates": 
+{
+"currency": "Azerbaijani manats (AZN) per US dollar -",
+"exchange_rates":
+{
+"2017": "1.723",
+"2016": "1.5957",
+"2015": "1.5957",
+"2014": "1.0246",
+"2013": "0.7844",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "23.57 billion kWh (2016 est.)",
+"electricity_consumption": "20.24 billion kWh (2016 est.)",
+"electricity_exports": "265 million kWh (2015 est.)",
+"electricity_imports": "114 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "7.876 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "84% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "14% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "2% of total installed capacity (2017 est.)",
+"crude_oil_production": "798,000 bbl/day (2018 est.)",
+"crude_oil_exports": "718,800 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "7 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "138,900 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "100,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "46,480 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "5,576 bbl/day (2015 est.)",
+"natural_gas_production": "16.96 billion cu m (2017 est.)",
+"natural_gas_consumption": "10.34 billion cu m (2017 est.)",
+"natural_gas_exports": "8.042 billion cu m (2017 est.)",
+"natural_gas_imports": "2.095 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "991.1 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "35.6 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,688,325",
+"subscriptions_per_100_inhabitants": "17 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "10.127 million",
+"subscriptions_per_100_inhabitants": "102 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "more competition exists in the mobile-cellular market; Azerbaijan has moderate mobile, mobile broadband and fixed broadband penetration compared to other Asian nations;&amp;nbsp;Pre-5G&amp;nbsp;network operating on the TD-LTE standard (2018)",
+"domestic": "teledensity of some 17 fixed-lines per 100 persons; mobile-cellular teledensity has increased to 102 telephones per 100 persons; satellite service connects Baku to a modern switch in its exclave of Naxcivan (Nakhchivan) (2018)",
+"international": "country code - 994; the TAE fiber-optic link transits Azerbaijan providing international connectivity to neighboring countries; the old Soviet system of cable and microwave is still serviceable; satellite earth stations - 2 (2019)",
+}, 
+"broadcast_media": "3 state-run and 1 public TV channels; 4 domestic commercial TV stations and about 15 regional TV stations; cable TV services are available in Baku; 1 state-run and 1 public radio network operating; a small number of private commercial radio stations broadcasting; local FM relays of Baku commercial stations are available in many localities; note - all broadcast media is pro-government, and most private broadcast media outlets are owned by entities directly linked to the government",
+"internet_country_code": ".az",
+"internet_users": 
+{
+"total": "7,720,502",
+"percent_of_population": "78.2% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,805,214",
+"subscriptions_per_100_inhabitants": "18 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "3.77% of GDP",
+"2017": "3.72% of GDP",
+"2016": "3.64% of GDP",
+"2015": "5.61% of GDP",
+"2014": "4.56% of GDP",
+},
+"military_and_security_forces": "Land Forces, Air Forces, Navy Forces (2019)",
+"military_service_age_and_obligation": "18-35 years of age for compulsory military service; service obligation 18 months or 12 months for university graduates; 17 years of age for voluntary service; 17 year olds are considered to be on active service at cadet military schools (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "2 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "35 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "1,803,112 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "41,954,600 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "4K (2016)",
+"airports": "37 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "30 (2017)",
+"over_3_047_m": "5 (2017)",
+"2_438_to_3_047_m": "5 (2017)",
+"1_524_to_2_437_m": "13 (2017)",
+"914_to_1_523_m": "4 (2017)",
+"under_914_m": "3 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "7 (2013)",
+"under_914_m": "7 (2013)",
+}, 
+"heliports": "1 (2012)",
+"pipelines": "89 km condensate, 3890 km gas, 2446 km oil (2013)",
+"railways": 
+{
+"total": "2,944 km (2017)",
+"broad_gauge": "2,944.3 km 1.520-m gauge (approx. 1,767 km electrified) (2017)",
+}, 
+"roadways": "24,981 km (2013)",
+"merchant_marine": 
+{
+"total": "313",
+"by_type": "general cargo 48, oil tanker 48, other 217 (2018)",
+}, 
+"ports_and_terminals": "Baku (Baki) located on the Caspian Sea",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; the dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability; residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan; local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders; bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"idps": "344,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs&#39; descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2018)",
+"stateless_persons": "3,585 (2018)",
+}, 
+"illicit_drugs": "limited illicit cultivation of cannabis and opium poppy, mostly for CIS consumption; small government eradication program; transit point for Southwest Asian opiates bound for Russia and to a lesser extent the rest of Europe",
+}
+}

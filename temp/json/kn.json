@@ -1,0 +1,459 @@
+{
+"name": "Korea, North",
+"code": "KN",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. Five years later, Japan formally annexed the entire peninsula. Following World War II, Korea was split with the northern half coming under Soviet-sponsored communist control. After failing in the Korean War (1950-53) to conquer the US-backed Republic of Korea (ROK) in the southern portion by force, North Korea (DPRK), under its founder President KIM Il Sung, adopted a policy of ostensible diplomatic and economic &quot;self-reliance&quot; as a check against outside influence. The DPRK demonized the US as the ultimate threat to its social system through state-funded propaganda, and molded political, economic, and military policies around the core ideological objective of eventual unification of Korea under Pyongyang&#39;s control. KIM Il Sung&#39;s son, KIM Jong Il, was officially designated as his father&#39;s successor in 1980, assuming a growing political and managerial role until the elder KIM&#39;s death in 1994. Under KIM Jong Il&#39;s rein, the DPRK continued developing nuclear weapons and ballistic missiles. KIM Jong Un was publicly unveiled as his father&#39;s successor in 2010. Following KIM Jong Il&#39;s death in 2011, KIM Jong Un quickly assumed power and has since occupied the regime&#39;s highest political and military posts.&amp;nbsp;&lt;/p&gt; &lt;p&gt;After decades of economic mismanagement and resource misallocation, the DPRK since the mid-1990s has faced chronic food shortages. In recent years, the North&#39;s domestic agricultural production has increased, but still falls far short of producing sufficient food to provide for its entire population. The DPRK began to ease restrictions to allow semi-private markets, starting in 2002, but has made few other efforts to meet its goal of improving the overall standard of living. North Korea&#39;s history of regional military provocations; proliferation of military-related items; long-range missile development; WMD programs including tests of nuclear devices in 2006, 2009, 2013, 2016, and 2017; and massive conventional armed forces are of major concern to the international community and have limited the DPRK&#39;s international engagement, particularly economically. In 2013, the DPRK declared a&amp;nbsp;policy of simultaneous development of its nuclear weapons program and economy. In late 2017, KIM Jong Un declared the North&#39;s nuclear weapons development complete. In 2018, KIM announced a pivot towards diplomacy, including a re-prioritization of economic development, a pause in missile testing beginning in late 2017, and a refrain from anti-US rhetoric starting in June 2018. Since 2018, KIM has participated in four meetings with Chinese President XI Jinping, three with ROK President MOON Jae-in, and three with US President TRUMP. Since July 2019, North Korea has restarted its short-range missile tests and issued statements condemning the US.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and the Sea of Japan, between China and South Korea",
+"geographic_coordinates": "40 00 N, 127 00 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "120,538 sq km",
+"land": "120,408 sq km",
+"water": "130 sq km",
+}, 
+"area_comparative": "slightly larger than Virginia; slightly smaller than Mississippi",
+"land_boundaries": 
+{
+"total": "1,607 km",
+"border_countries": "China 1352 km, South Korea 237 km, Russia 18 km",
+}, 
+"coastline": "2,495 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "temperate, with rainfall concentrated in summer; long, bitter winters",
+"terrain": "mostly hills and mountains separated by deep, narrow valleys; wide coastal plains in west, discontinuous in east",
+"elevation": 
+{
+"mean_elevation": "600 m",
+"lowest_point": "Sea of Japan 0 m",
+"highest_point": "Paektu-san 2,744 m",
+}, 
+"natural_resources": "coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, precious metals, hydropower",
+"land_use": 
+{
+"agricultural_land": "21.8% (2011 est.)",
+"agricultural_land_arable_land": "19.5% (2011 est.)",
+"agricultural_land_permanent_crops": "1.9% (2011 est.)",
+"agricultural_land_permanent_pasture": "0.4% (2011 est.)",
+"forest": "46% (2011 est.)",
+"other": "32.2% (2011 est.)",
+}, 
+"irrigated_land": "14,600 sq km (2012)",
+"population_distribution": "population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east",
+"natural_hazards": "&lt;p&gt;late spring droughts often followed by severe flooding; occasional typhoons during the early fall&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; Changbaishan (2,744 m) (also known as Baitoushan, Baegdu or P&#39;aektu-san), on the Chinese border, is considered historically active&lt;/p&gt;",
+"environment_current_issues": "water pollution; inadequate supplies of potable water; waterborne disease; deforestation; soil erosion and degradation",
+"environment_international_agreements": 
+{
+"party_to": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution",
+"signed_but_not_ratified": "Law of the Sea",
+}, 
+"geography_note": "strategic location bordering China, South Korea, and Russia; mountainous interior is isolated and sparsely populated",
+}, 
+"people_and_society": 
+{
+"population": "25,381,085 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Korean(s)",
+"adjective": "Korean",
+}, 
+"ethnic_groups": "racially homogeneous; there is a small Chinese community and a few ethnic Japanese",
+"languages": "Korean",
+"religions": "traditionally Buddhist and Confucianist, some Christian and syncretic Chondogyo (Religion of the Heavenly Way)",
+"age_structure": 
+{
+"0_14_years": "20.65% (male 2,669,357 /female 2,571,195)",
+"15_24_years": "15.35% (male 1,959,440 /female 1,935,607)",
+"25_54_years": "44.17% (male 5,627,175 /female 5,583,008)",
+"55_64_years": "10.34% (male 1,241,473 /female 1,383,444)",
+"65_years_and_over": "9.5% (male 826,101 /female 1,584,285) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "44.5 (2015 est.)",
+"youth_dependency_ratio": "30.5 (2015 est.)",
+"elderly_dependency_ratio": "14 (2015 est.)",
+"potential_support_ratio": "7.1 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "34.2 years (2018 est.)",
+"male": "32.7 years",
+"female": "35.8 years",
+}, 
+"population_growth_rate": "0.52% (2018 est.)",
+"birth_rate": "14.6 births/1,000 population (2018 est.)",
+"death_rate": "9.3 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east",
+"urbanization": 
+{
+"urban_population": "62.1% of total population (2019)",
+"rate_of_urbanization": "0.82% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "3.061 million PYONGYANG (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.01 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "0.9 male(s)/female",
+"65_years_and_over": "0.52 male(s)/female",
+"total_population": "0.94 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "89 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "21.4 deaths/1,000 live births (2018 est.)",
+"male": "23.8 deaths/1,000 live births",
+"female": "18.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "71 years (2018 est.)",
+"male": "67.2 years",
+"female": "75 years",
+}, 
+"total_fertility_rate": "1.94 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "78.2% (2014)",
+"drinking_water_source": 
+{
+"improved_urban": "99.9% of population",
+"improved_rural": "99.4% of population",
+"improved_total": "99.7% of population",
+"unimproved_urban": "0.1% of population",
+"unimproved_rural": "0.6% of population",
+"unimproved_total": "0.3% of population (2015 est.)",
+}, 
+"physicians_density": "3.67 physicians/1,000 population (2017)",
+"hospital_bed_density": "13.2 beds/1,000 population (2012)",
+"sanitation_facility_access": 
+{
+"improved_urban": "87.9% of population (2015 est.)",
+"improved_rural": "72.5% of population (2015 est.)",
+"improved_total": "81.9% of population (2015 est.)",
+"unimproved_urban": "12.1% of population (2015 est.)",
+"unimproved_rural": "27.5% of population (2015 est.)",
+"unimproved_total": "18.1% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "6.8% (2016)",
+"children_under_the_age_of_5_years_underweight": "9.3% (2017)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "100%",
+"male": "100%",
+"female": "100% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "11 years",
+"male": "11 years",
+"female": "11 years (2015)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Democratic People&#39;s Republic of Korea",
+"conventional_short_form": "North Korea",
+"local_long_form": "Choson-minjujuui-inmin-konghwaguk",
+"local_short_form": "Choson",
+"abbreviation": "DPRK",
+"etymology": "derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the North Korean name &quot;Choson&quot; means &quot;[Land of the] Morning Calm&quot;",
+}, 
+"government_type": "dictatorship, single-party state; official state ideology of &quot;Juche&quot; or &quot;national self-reliance&quot;",
+"capital": 
+{
+"name": "Pyongyang",
+"geographic_coordinates": "39 01 N, 125 45 E",
+"time_difference": "UTC+9 (14 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "&lt;p&gt;9 provinces (do, singular and plural) and 3 cities (si, singular and plural)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;provinces:&lt;/strong&gt; Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P&#39;yongbuk (North Pyongan), P&#39;yongnam (South Pyongan), Ryanggang; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;cities:&lt;/strong&gt; Namp&#39;o, P&#39;yongyang, Rason&lt;/p&gt;",
+"independence": "15 August 1945 (from Japan)",
+"national_holiday": "Founding of the Democratic People&#39;s Republic of Korea (DPRK), 9 September (1948)",
+"constitution": 
+{
+"history": "previous 1948, 1972; latest adopted 1998 (during KIM Jong Il era)",
+"amendments": "proposed by the Supreme People&amp;rsquo;s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised 2009, 2012, 2013, 2016 (2019)",
+}, 
+"legal_system": "civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of North Korea",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "unknown",
+}, 
+"suffrage": "17 years of age; universal and compulsory",
+"executive_branch": 
+{
+"chief_of_state": "Supreme People&#39;s Assembly President CHOE Ryong Hae (since 11 April 2019); note - functions as the technical head of state and performs related duties, such as receiving ambassadors&#39; credentials",
+"head_of_government": "State Affairs Commission Chairman KIM Jong Un (since 17 December 2011); note - functions as the commander-in-chief and chief executive",
+"cabinet": "Cabinet or Naegak members appointed by the Supreme People&#39;s Assembly except the Minister of People&#39;s Armed Forces",
+"elections_appointments": "chief of state and premier indirectly elected by the Supreme People&#39;s Assembly; election last held on 9 March 2014 (next election NA)",
+"election_results": "KIM Jong Un reelected unopposed",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Supreme People&#39;s Assembly or Ch&#39;oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms); note - the Korean Workers&#39; Party selects all candidates",
+"elections": "last held on 10 March 2019 (next to be held March 2024)",
+"election_results": "percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition - men 575, women 112, percent of women 16.3%&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; KWP, KSDP, Chondoist Chongu Party, and Chongryon are under the KWP&#39;s control; a token number of seats reserved for minor parties",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court or Central Court (consists of one judge and 2 &quot;People&#39;s Assessors&quot; or, for some cases, 3 judges)",
+"judge_selection_and_term_of_office": "judges elected by the Supreme People&#39;s Assembly for 5-year terms",
+"subordinate_courts": "lower provincial courts as determined by the Supreme People&#39;s Assembly",
+}, 
+"political_parties_and_leaders": "&lt;strong&gt;major parties:&lt;/strong&gt;&lt;br /&gt;Korean Workers&#39; Party or KWP [KIM Jong Un]&lt;br /&gt;General Association of Korean Residents in Japan (Chongryon) &lt;br /&gt;&lt;strong&gt;minor parties:&lt;/strong&gt; &lt;br /&gt;Chondoist Chongu Party (under KWP control)&lt;br /&gt;Social Democratic Party or KSDP [KIM Yong Dae] (under KWP control)",
+"international_organization_participation": "ARF, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IHO, IMO, IMSO, IOC, IPU, ISO, ITSO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WFTU (NGOs), WHO, WIPO, WMO",
+"diplomatic_representation_in_the_us": "none; North Korea has a Permanent Mission to the UN in New York",
+"diplomatic_representation_from_the_us": "none; the Swedish Embassy in Pyongyang represents the US as consular protecting power",
+"flag_description": "three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the broad red band symbolizes revolutionary traditions; the narrow white bands stand for purity, strength, and dignity; the blue bands signify sovereignty, peace, and friendship; the red star represents socialism",
+"national_symbol_s": "red star, chollima (winged horse); national colors: red, white, blue",
+"national_anthem": 
+{
+"name": "&quot;Aegukka&quot; (Patriotic Song)",
+"lyrics_music": "PAK Se Yong/KIM Won Gyun",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;North Korea, one of the world&#39;s most centrally directed and least open economies, faces chronic economic problems. Industrial capital stock is nearly beyond repair as a result of years of underinvestment, shortages of spare parts, and poor maintenance. Large-scale military spending and development of its ballistic missile and nuclear program severely draws off resources needed for investment and civilian consumption. Industrial and power outputs have stagnated for years at a fraction of pre-1990 levels. Frequent weather-related crop failures aggravated chronic food shortages caused by on-going systemic problems, including a lack of arable land, collective farming practices, poor soil quality, insufficient fertilization, and persistent shortages of tractors and fuel.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The mid 1990s through mid-2000s were marked by severe famine and widespread starvation. Significant food aid was provided by the international community through 2009. Since that time, food assistance has declined significantly. In the last few years, domestic corn and rice production has improved, although domestic production does not fully satisfy demand. A large portion of the population continues to suffer from prolonged malnutrition and poor living conditions. Since 2002, the government has allowed semi-private markets to begin selling a wider range of goods, allowing North Koreans to partially make up for diminished public distribution system rations. It also implemented changes in the management process of communal farms in an effort to boost agricultural output.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In December 2009, North Korea carried out a redenomination of its currency, capping the amount of North Korean won that could be exchanged for the new notes, and limiting the exchange to a one-week window. A concurrent crackdown on markets and foreign currency use yielded severe shortages and inflation, forcing Pyongyang to ease the restrictions by February 2010. In response to the sinking of the South Korean warship Cheonan and the shelling of Yeonpyeong Island in 2010, South Korea’s government cut off most aid, trade, and bilateral cooperation activities. In February 2016, South Korea ceased its remaining bilateral economic activity by closing the Kaesong Industrial Complex in response to North Korea’s fourth nuclear test a month earlier. This nuclear test and another in September 2016 resulted in two United Nations Security Council Resolutions that targeted North Korea’s foreign currency earnings, particularly coal and other mineral exports. Throughout 2017, North Korea’s continued nuclear and missile tests led to a tightening of UN sanctions, resulting in full sectoral bans on DPRK exports and drastically limited key imports. Over the last decade, China has been North Korea’s primary trading partner.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The North Korean Government continues to stress its goal of improving the overall standard of living, but has taken few steps to make that goal a reality for its populace. In 2016, the regime used two mass mobilizations — one totaling 70 days and another 200 days — to spur the population to increase production and complete construction projects quickly. The regime released a five-year economic development strategy in May 2016 that outlined plans for promoting growth across sectors. Firm political control remains the government’s overriding concern, which likely will inhibit formal changes to North Korea’s current economic system.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2015": "$40 billion",
+"2014": "$40 billion",
+"2013": "$40 billion",
+},
+"gdp_official_exchange_rate": "$28 billion (2013 est.) (2013 est.)",
+"gdp_real_growth_rate":
+{
+"2015": "-1.1%",
+"2014": "1%",
+"2013": "1.1%",
+},
+"gdp_per_capita_ppp":
+{
+"2015": "$1,700",
+"2014": "$1,800",
+"2013": "$1,800",
+},
+"gross_national_saving": "&lt;p&gt;NA&lt;/p&gt;", 
+"gdp_composition_by_end_use": 
+{
+"household_consumption": " NA (2014 est.)",
+"government_consumption": " NA (2014 est.)",
+"investment_in_fixed_capital": " NA (2014 est.)",
+"investment_in_inventories": " NA (2014 est.)",
+"exports_of_goods_and_services": "5.9% (2016 est.)",
+"imports_of_goods_and_services": "-11.1% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "22.5% (2017 est.)",
+"industry": "47.6% (2017 est.)",
+"services": "29.9% (2017 est.)",
+}, 
+"agriculture_products": "rice, corn, potatoes, wheat, soybeans, pulses, beef, pork, eggs, fruit, nuts",
+"industries": "military products; machine building, electric power, chemicals; mining (coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, and precious metals), metallurgy; textiles, food processing; tourism",
+"industrial_production_growth_rate": "1% (2017 est.)",
+"labor_force": "14 million (2014 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "37%",
+"industry": "63% (2008 est.)",
+}, 
+"unemployment_rate":
+{
+"2013": "25.6%",
+"2012": "25.5%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "3.2 billion (2007 est.)",
+"expenditures": "3.3 billion (2007 est.)",
+}, 
+"taxes_and_other_revenues": "11.4% (of GDP) (2007 est.)",
+"budget_surplus_or_deficit": "-0.4% (of GDP) (2007 est.)",
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices": "&lt;p&gt;NA&lt;/p&gt;", 
+"exports":
+{
+"2017": "$45.82 billion",
+"2015": "$2.908 billion",
+},
+"exports_partners": "China 86.3% (2017)",
+"exports_commodities": "minerals, metallurgical products, manufactures (including armaments), textiles, agricultural and fishery products",
+"imports":
+{
+"2018": "$43.75 billion",
+"2016": "$3.86 billion",
+},
+"imports_commodities": "petroleum, coking coal, machinery and equipment, textiles, grain",
+"imports_partners": "China 91.9% (2017)",
+"debt_external":
+{
+"2013": "$5 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2015": "$1.878 billion",
+"31 December 2013": "$1.9 billion",
+},
+"exchange_rates": 
+{
+"currency": "North Korean won (KPW) per US dollar (average market rate)",
+"exchange_rates":
+{
+"2017": "135",
+"2016": "130",
+"2015": "130",
+"2013": "98.5",
+"2012": "155.5",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "19 million (2017)",
+"electrification_total_population": "26% (2016)",
+"electrification_urban_areas": "36% (2016)",
+"electrification_rural_areas": "11% (2016)",
+}, 
+"electricity_production": "16.57 billion kWh (2016 est.)",
+"electricity_consumption": "13.89 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "10.01 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "45% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "55% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "10,640 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "11,270 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "18,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "8,260 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "27.83 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1.18 million",
+"subscriptions_per_100_inhabitants": "5 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "3.606 million",
+"subscriptions_per_100_inhabitants": "14 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "nationwide fiber-optic network; mobile-cellular service expanded beyond Pyongyang; infrastructure underdeveloped yet growing mobile penetration&amp;nbsp;by means of foreign investment; low broadband penetration; mobile penetration in North Korea believed to stay well below other Asian nations due to government restrictions; 3G network deployed among universal population coverage (2018)",
+"domestic": "fiber-optic links installed down to the county level; telephone directories unavailable; mobile service launched in late 2008 for the Pyongyang area and considerable progress in expanding to other parts of the country since; fixed-lines are 5 per 100 and mobile-cellular 14 per 100 persons (2018)",
+"international": "country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing",
+}, 
+"broadcast_media": "no independent media; radios and TVs are pre-tuned to government stations; 4 government-owned TV stations; the Korean Workers&#39; Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2019)",
+"internet_country_code": ".kp",
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "Korean People&#39;s Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force (includes air defense), KPA Strategic Force (missile forces); Guard Command (protects the Kim family, other senior North Korean leadership figures, and government facilities in Pyongyang); Ministry of Public Security: Border Guards, civil security forces (2019)",
+"military_service_age_and_obligation": "17 years of age for compulsory male and female military service; service obligation 10 years for men, to age 23 for women (2015)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "17 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "223,418 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "1,574,719 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "P (2016)",
+"airports": "82 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "39 (2017)",
+"over_3_047_m": "3 (2017)",
+"2_438_to_3_047_m": "22 (2017)",
+"1_524_to_2_437_m": "8 (2017)",
+"914_to_1_523_m": "2 (2017)",
+"under_914_m": "4 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "43 (2013)",
+"2_438_to_3_047_m": "3 (2013)",
+"1_524_to_2_437_m": "17 (2013)",
+"914_to_1_523_m": "15 (2013)",
+"under_914_m": "8 (2013)",
+}, 
+"heliports": "23 (2013)",
+"pipelines": "6 km oil (2013)",
+"railways": 
+{
+"total": "7,435 km (2014)",
+"standard_gauge": "7,435 km 1.435-m gauge (5,400 km electrified) (2014)",
+}, 
+"roadways": 
+{
+"total": "25,554 km (2006)",
+"paved": "724 km (2006)",
+"unpaved": "24,830 km (2006)",
+}, 
+"waterways": "2,250 km (most navigable only by small craft) (2011)",
+"merchant_marine": 
+{
+"total": "274",
+"by_type": "bulk carrier 8, container ship 5, general cargo 198, oil tanker 31, other 32 (2018)",
+}, 
+"ports_and_terminals": "Ch&#39;ongjin, Haeju, Hungnam, Namp&#39;o, Songnim, Sonbong (formerly Unggi), Wonsan",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;risking arrest, imprisonment, and deportation, tens of thousands of North Koreans cross into China to escape famine, economic privation, and political oppression; North Korea and China dispute the sovereignty of certain islands in Yalu and Tumen Rivers; Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents in the Yellow Sea with South Korea which claims the Northern Limiting Line as a maritime boundary; North Korea supports South Korea in rejecting Japan&#39;s claim to Liancourt Rocks (Tok-do/Take-shima)&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "undetermined (periodic flooding and famine during mid-1990s) (2017)",
+"trafficking_in_persons": 
+{
+"current_situation": "North Korea is a source country for men, women, and children who are subjected to forced labor and sex trafficking; many North Korean workers recruited to work abroad under bilateral contracts with foreign governments, most often Russia and China, are subjected to forced labor and do not have a choice in the work the government assigns them, are not free to change jobs, and face government reprisals if they try to escape or complain to outsiders; tens of thousands of North Koreans, including children, held in prison camps are subjected to forced labor, including logging, mining, and farming; many North Korean women and girls, lured by promises of food, jobs, and freedom, have migrated to China illegally to escape poor social and economic conditions only to be forced into prostitution, domestic service, or agricultural work through forced marriages",
+"tier_rating": "Tier 3 - North Korea does not fully comply with minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government continued to participate in human trafficking through its use of domestic forced labor camps and the provision of forced labor to foreign governments through bilateral contracts; officials did not demonstrate any efforts to address human trafficking through prosecution, protection, or prevention measures; no known investigations, prosecutions, or convictions of trafficking offenders or officials complicit in trafficking-related offenses were conducted; the government also made no efforts to identify or protect trafficking victims and did not permit NGOs to assist victims (2015)",
+}, 
+"illicit_drugs": "at present there is insufficient information to determine the current level of involvement of government officials in the production or trafficking of illicit drugs, but for years, from the 1970s into the 2000s, citizens of the Democratic People&#39;s Republic of (North) Korea (DPRK), many of them diplomatic employees of the government, were apprehended abroad while trafficking in narcotics; police investigations in Taiwan and Japan in recent years have linked North Korea to large illicit shipments of heroin and methamphetamine",
+}
+}

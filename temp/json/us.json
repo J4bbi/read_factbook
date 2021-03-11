@@ -1,0 +1,540 @@
+{
+"name": "United States",
+"code": "US",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Britain&#39;s American colonies broke with the mother country in 1776 and were recognized as the new nation of the United States of America following the Treaty of Paris in 1783. During the 19th and 20th centuries, 37 new states were added to the original 13 as the nation expanded across the North American continent and acquired a number of overseas possessions. The two most traumatic experiences in the nation&#39;s history were the Civil War (1861-65), in which a northern Union of states defeated a secessionist Confederacy of 11 southern slave states, and the Great Depression of the 1930s, an economic downturn during which about a quarter of the labor force lost its jobs. Buoyed by victories in World Wars I and II and the end of the Cold War in 1991, the US remains the world&#39;s most powerful nation state. Since the end of World War II, the economy has achieved relatively steady growth, low unemployment and inflation, and rapid advances in technology.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "North America, bordering both the North Atlantic Ocean and the North Pacific Ocean, between Canada and Mexico",
+"geographic_coordinates": "38 00 N, 97 00 W",
+"map_references": "North America",
+"area": 
+{
+"total": "9,833,517 sq km",
+"land": "9,147,593 sq km",
+"water": "685,924 sq km",
+}, 
+"area_comparative": "about half the size of Russia; about three-tenths the size of Africa; about half the size of South America (or slightly larger than Brazil); slightly larger than China; more than twice the size of the European Union",
+"land_boundaries": 
+{
+"total": "12,048 km",
+"border_countries": "Canada 8893 km (including 2477 km with Alaska), Mexico 3155 km",
+}, 
+"coastline": "19,924 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": " not specified",
+}, 
+"climate": "mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains",
+"terrain": "vast central plain, mountains in west, hills and low mountains in east; rugged mountains and broad river valleys in Alaska; rugged, volcanic topography in Hawaii",
+"elevation": 
+{
+"mean_elevation": "760 m",
+"lowest_point": "Death Valley (lowest point in North America) -86 m",
+"highest_point": "Denali 6,190 m (Mount McKinley) (highest point in North America)",
+}, 
+"natural_resources": "coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum, natural gas, timber, arable land, note, the US has the world&#39;s largest coal reserves with 491 billion short tons accounting for 27% of the world&#39;s total",
+"land_use": 
+{
+"agricultural_land": "44.5% (2011 est.)",
+"agricultural_land_arable_land": "16.8% (2011 est.)",
+"agricultural_land_permanent_crops": "0.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "27.4% (2011 est.)",
+"forest": "33.3% (2011 est.)",
+"other": "22.2% (2011 est.)",
+}, 
+"irrigated_land": "264,000 sq km (2012)",
+"population_distribution": "large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska&#39;s population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii&#39;s is centered on the island of Oahu",
+"natural_hazards": "&lt;p&gt;tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along the Atlantic and Gulf of Mexico coasts; tornadoes in the Midwest and Southeast; mud slides in California; forest fires in the west; flooding; permafrost in northern Alaska, a major impediment to development&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; volcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; both Mauna Loa (4,170 m) in Hawaii and Mount Rainier (4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth&#39;s Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (2,519 m) is the most active volcano in Alaska&#39;s Aleutian Arc and poses a significant threat to air travel since the area constitutes a major flight path between North America and East Asia; St. Helens (2,549 m), famous for the devastating 1980 eruption, remains active today; numerous other historically active volcanoes exist, mostly concentrated in the Aleutian arc and Hawaii; they include: in Alaska: Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell, Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof; in Hawaii: Haleakala, Kilauea, Loihi; in the Northern Mariana Islands: Anatahan; and in the Pacific Northwest: Mount Baker, Mount Hood; see note 2 under &quot;Geography - note&quot;&lt;/p&gt;",
+"environment_current_issues": "air pollution; large emitter of carbon dioxide from the burning of fossil fuels; water pollution from runoff of pesticides and fertilizers; limited natural freshwater resources in much of the western part of the country require careful management; deforestation; mining; desertification; species conservation; invasive species (the Hawaiian Islands are particularly vulnerable)",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Climate Change, Desertification, Endangered Species, Environmental Modification, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change-Kyoto Protocol, Hazardous Wastes",
+}, 
+"geography_note": "&lt;p&gt;&lt;strong&gt;note 1:&lt;/strong&gt; world&#39;s third-largest country by size (after Russia and Canada) and by population (after China and India); Denali (Mt. McKinley) is the highest point in North America and Death Valley the lowest point on the continent&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 2:&lt;/strong&gt; the western coast of the United States and southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world&#39;s earthquakes and some 75% of the world&#39;s volcanoes occur within the Ring of Fire&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 3:&lt;/strong&gt; the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;note 4: &lt;/strong&gt;Mammoth Cave, in west-central Kentucky, is the world&#39;s longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico - the world&#39;s longest underwater cave system (see &quot;Geography - note&quot; under Mexico); &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;note 5:&lt;/strong&gt; Kazumura Cave on the island of Hawaii is the world&#39;s longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;note 6: &lt;/strong&gt;Bracken Cave outside of San Antonio, Texas is the world&#39;s largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world&#39;s largest known concentration of mammals&lt;/p&gt;"
+}, 
+"people_and_society": 
+{
+"population": "329,256,465 (July 2018 est.)",
+"nationality": 
+{
+"noun": "American(s)",
+"adjective": "American",
+}, 
+"ethnic_groups": "white 72.4%, black 12.6%, Asian 4.8%, Amerindian and Alaska native 0.9%, native Hawaiian and other Pacific islander 0.2%, other 6.2%, two or more races 2.9% (2010 est.)",
+"languages": "English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)",
+"religions": "Protestant 46.5%, Roman Catholic 20.8%, Jewish 1.9%, Mormon 1.6%, other Christian 0.9%, Muslim 0.9%, Jehovah&#39;s Witness 0.8%, Buddhist 0.7%, Hindu 0.7%, other 1.8%, unaffiliated 22.8%, don&#39;t know/refused 0.6% (2014 est.)",
+"age_structure": 
+{
+"0_14_years": "18.62% (male 31,329,121 /female 29,984,705)",
+"15_24_years": "13.12% (male 22,119,340 /female 21,082,599)",
+"25_54_years": "39.29% (male 64,858,646 /female 64,496,889)",
+"55_64_years": "12.94% (male 20,578,432 /female 22,040,267)",
+"65_years_and_over": "16.03% (male 23,489,515 /female 29,276,951) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "51.2 (2015 est.)",
+"youth_dependency_ratio": "29 (2015 est.)",
+"elderly_dependency_ratio": "22.1 (2015 est.)",
+"potential_support_ratio": "4.5 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "38.2 years (2018 est.)",
+"male": "37 years",
+"female": "39.5 years",
+}, 
+"population_growth_rate": "0.8% (2018 est.)",
+"birth_rate": "12.4 births/1,000 population (2018 est.)",
+"death_rate": "8.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "3.8 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska&#39;s population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii&#39;s is centered on the island of Oahu",
+"urbanization": 
+{
+"urban_population": "82.5% of total population (2019)",
+"rate_of_urbanization": "0.95% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "18.805 million New York-Newark, 12.448 million Los Angeles-Long Beach-Santa Ana, 8.862 million Chicago, 6.245 million Houston, 6.201 million Dallas-Fort Worth, 5.264 million WASHINGTON, D.C. (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female NA",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.05 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "0.93 male(s)/female",
+"65_years_and_over": "0.8 male(s)/female",
+"total_population": "0.97 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "26.4 years (2015 est.)",
+"maternal_mortality_rate": "19 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "5.7 deaths/1,000 live births (2018 est.)",
+"male": "6.2 deaths/1,000 live births",
+"female": "5.2 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "80.1 years (2018 est.)",
+"male": "77.8 years",
+"female": "82.3 years",
+}, 
+"total_fertility_rate": "1.87 children born/woman (2017 est.)",
+"contraceptive_prevalence_rate": "75.9% (2015/17)",
+"drinking_water_source": 
+{
+"improved_urban": "99.4% of population",
+"improved_rural": "98.2% of population",
+"improved_total": "99.2% of population",
+"unimproved_urban": "0.6% of population",
+"unimproved_rural": "1.8% of population",
+"unimproved_total": "0.8% of population (2015 est.)",
+}, 
+"current_health_expenditure": "17.1% (2016)",
+"physicians_density": "2.59 physicians/1,000 population (2016)",
+"hospital_bed_density": "2.9 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "100% of population (2015 est.)",
+"improved_rural": "100% of population (2015 est.)",
+"improved_total": "100% of population (2015 est.)",
+"unimproved_urban": "0% of population (2015 est.)",
+"unimproved_rural": "0% of population (2015 est.)",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "36.2% (2016)",
+"children_under_the_age_of_5_years_underweight": "0.5% (2012)",
+"education_expenditures": "5% of GDP (2014)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "16 years",
+"male": "16 years",
+"female": "17 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "8.6%",
+"male": "9.5%",
+"female": "7.7% (2018 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "United States of America",
+"conventional_short_form": "United States",
+"abbreviation": "US or USA",
+"etymology": "the name America is derived from that of Amerigo VESPUCCI (1454-1512) - Italian explorer, navigator, and cartographer - using the Latin form of his name, Americus, feminized to America",
+}, 
+"government_type": "constitutional federal republic",
+"capital": 
+{
+"name": "Washington, DC",
+"geographic_coordinates": "38 53 N, 77 02 W",
+"time_difference": "UTC-5 (during Standard Time)",
+"daylight_saving_time": "+1hr, begins second Sunday in March; ends first Sunday in November",
+}, 
+"administrative_divisions": "50 states and 1 district*; Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia*, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming",
+"dependent_areas": "American Samoa, Baker Island, Guam, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Northern Mariana Islands, Palmyra Atoll, Puerto Rico, Virgin Islands, Wake Island",
+"independence": "4 July 1776 (declared independence from Great Britain); 3 September 1783 (recognized by Great Britain)",
+"national_holiday": "Independence Day, 4 July (1776)",
+"constitution": 
+{
+"history": "previous 1781 (Articles of Confederation and Perpetual Union); latest drafted July - September 1787, submitted to the Congress of the Confederation 20 September 1787, submitted for states&#39; ratification 28 September 1787, ratification completed by nine of the 13 states 21 June 1788, effective 4 March 1789",
+"amendments": "proposed as a &quot;joint resolution&quot; by Congress, which requires a two-thirds majority vote in both the House of Representatives and the Senate or by a constitutional convention called for by at least two thirds of the state legislatures; passage requires ratification by three fourths of the state legislatures or passage in state-held constitutional conventions as specified by Congress; the US president has no role in the constitutional amendment process; amended many times, last in 1992 (2018)",
+}, 
+"legal_system": "common law system based on English common law at the federal level; state legal systems based on common law, except Louisiana, where state law is based on Napoleonic civil code; judicial review of legislative acts",
+"international_law_organization_participation": "withdrew acceptance of compulsory ICJ jurisdiction in 2005; withdrew acceptance of ICCt jurisdiction in 2002",
+"citizenship": 
+{
+"citizenship_by_birth": "yes",
+"citizenship_by_descent_only": "yes",
+"dual_citizenship_recognized": "no, but the US government acknowledges such situtations exist; US citizens are not encouraged to seek dual citizenship since it limits protection by the US",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017); note - the president is both chief of state and head of government",
+"head_of_government": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)",
+"cabinet": "Cabinet appointed by the president, approved by the Senate",
+"elections_appointments": "president and vice president indirectly elected on the same ballot by the Electoral College of &#39;electors&#39; chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 8 November 2016 (next to be held on 3 November 2020)",
+"election_results": "Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 304, Hillary D. CLINTON (Democratic Party) 227, other 7; percent of direct popular vote - Hillary D. CLINTON 48.2%, Donald J. TRUMP 46.1%, other 5.7%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Congress consists of:&lt;br /&gt;Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)&lt;br /&gt; House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)",
+"elections": "&lt;br /&gt;Senate - last held on&amp;nbsp;6 November 2018 (next to be held on&amp;nbsp;3 November 2020)&lt;br /&gt; House of Representatives - last held on&amp;nbsp;6 November 2018 (next to be held on&amp;nbsp;3 November 2020)",
+"election_results": "&lt;br /&gt;Senate - percent of vote by party - NA; seats by party - Republican Party 53, Democratic Party 45, independent 2; composition - men 75, women 25, percent of women 25% &lt;br /&gt; House of Representatives - percent of vote by party - NA; seats by party - Democratic Party 234, Republican Party 200, 1 seat still undecided; composition - men 328, women 106, percent of women 24.4%; note - total US Congress percent of women 24.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "US Supreme Court (consists of 9 justices - the chief justice and 8 associate justices)",
+"judge_selection_and_term_of_office": "president nominates and, with the advice and consent of the Senate, appoints Supreme Court justices; justices serve for life",
+"subordinate_courts": "Courts of Appeal (includes the US Court of Appeal for the Federal District and 12 regional appeals courts); 94 federal district courts in 50 states and territories",
+}, 
+"political_parties_and_leaders": "Democratic Party [Tom PEREZ]&lt;br /&gt;Green Party [collective leadership]&lt;br /&gt;Libertarian Party [Nicholas SARWARK]&lt;br /&gt;Republican Party [Ronna Romney MCDANIEL]",
+"international_organization_participation": "ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNITAR, UNMIL, UNMISS, UNRWA, UN Security Council (permanent), UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC",
+"flag_description": "13 equal horizontal stripes of red (top and bottom) alternating with white; there is a blue rectangle in the upper hoist-side corner bearing 50 small, white, five-pointed stars arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the 50 stars represent the 50 states, the 13 stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red symbolizes courage, zeal, and fervency, while white denotes purity and rectitude of conduct; commonly referred to by its nickname of Old Glory",
+"national_symbol_s": "bald eagle; national colors: red, white, blue",
+"national_anthem": 
+{
+"name": "The Star-Spangled Banner",
+"lyrics_music": "Francis Scott KEY/John Stafford SMITH",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;The US has the most technologically powerful economy in the world, with a per capita GDP of $59,500. US firms are at or near the forefront in technological advances, especially in computers, pharmaceuticals, and medical, aerospace, and military equipment; however, their advantage has narrowed since the end of World War II. Based on a comparison of GDP measured at purchasing power parity conversion rates, the US economy in 2014, having stood as the largest in the world for more than a century, slipped into second place behind China, which has more than tripled the US growth rate for each year of the past four decades.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In the US, private individuals and business firms make most of the decisions, and the federal and state governments buy needed goods and services predominantly in the private marketplace. US business firms enjoy greater flexibility than their counterparts in Western Europe and Japan in decisions to expand capital plant, to lay off surplus workers, and to develop new products. At the same time, businesses face higher barriers to enter their rivals&#39; home markets than foreign firms face entering US markets.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Long-term problems for the US include stagnation of wages for lower-income families, inadequate investment in deteriorating infrastructure, rapidly rising medical and pension costs of an aging population, energy shortages, and sizable current account and budget deficits.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The onrush of technology has been a driving factor in the gradual development of a &quot;two-tier&quot; labor market in which those at the bottom lack the education and the professional/technical skills of those at the top and, more and more, fail to get comparable pay raises, health insurance coverage, and other benefits. But the globalization of trade, and especially the rise of low-wage producers such as China, has put additional downward pressure on wages and upward pressure on the return to capital. Since 1975, practically all the gains in household income have gone to the top 20% of households. Since 1996, dividends and capital gains have grown faster than wages or any other category of after-tax income.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Imported oil accounts for more than 50% of US consumption and oil has a major impact on the overall health of the economy. Crude oil prices doubled between 2001 and 2006, the year home prices peaked; higher gasoline prices ate into consumers&#39; budgets and many individuals fell behind in their mortgage payments. Oil prices climbed another 50% between 2006 and 2008, and bank foreclosures more than doubled in the same period. Besides dampening the housing market, soaring oil prices caused a drop in the value of the dollar and a deterioration in the US merchandise trade deficit, which peaked at $840 billion in 2008. Because the US economy is energy-intensive, falling oil prices since 2013 have alleviated many of the problems the earlier increases had created.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The sub-prime mortgage crisis, falling home prices, investment bank failures, tight credit, and the global economic downturn pushed the US into a recession by mid-2008. GDP contracted until the third quarter of 2009, the deepest and longest downturn since the Great Depression. To help stabilize financial markets, the US Congress established a $700 billion Troubled Asset Relief Program in October 2008. The government used some of these funds to purchase equity in US banks and industrial corporations, much of which had been returned to the government by early 2011. In January 2009, Congress passed and former President Barack OBAMA signed a bill providing an additional $787 billion fiscal stimulus to be used over 10 years - two-thirds on additional spending and one-third on tax cuts - to create jobs and to help the economy recover. In 2010 and 2011, the federal budget deficit reached nearly 9% of GDP. In 2012, the Federal Government reduced the growth of spending and the deficit shrank to 7.6% of GDP. US revenues from taxes and other sources are lower, as a percentage of GDP, than those of most other countries.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Wars in Iraq and Afghanistan required major shifts in national resources from civilian to military purposes and contributed to the growth of the budget deficit and public debt. Through FY 2018, the direct costs of the wars will have totaled more than $1.9 trillion, according to US Government figures.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In March 2010, former President OBAMA signed into law the Patient Protection and Affordable Care Act (ACA), a health insurance reform that was designed to extend coverage to an additional 32 million Americans by 2016, through private health insurance for the general population and Medicaid for the impoverished. Total spending on healthcare - public plus private - rose from 9.0% of GDP in 1980 to 17.9% in 2010.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In July 2010, the former president signed the DODD-FRANK Wall Street Reform and Consumer Protection Act, a law designed to promote financial stability by protecting consumers from financial abuses, ending taxpayer bailouts of financial firms, dealing with troubled banks that are &quot;too big to fail,&quot; and improving accountability and transparency in the financial system - in particular, by requiring certain financial derivatives to be traded in markets that are subject to government regulation and oversight.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Federal Reserve Board (Fed) announced plans in December 2012 to purchase $85 billion per month of mortgage-backed and Treasury securities in an effort to hold down long-term interest rates, and to keep short-term rates near zero until unemployment dropped below 6.5% or inflation rose above 2.5%. The Fed ended its purchases during the summer of 2014, after the unemployment rate dropped to 6.2%, inflation stood at 1.7%, and public debt fell below 74% of GDP. In December 2015, the Fed raised its target for the benchmark federal funds rate by 0.25%, the first increase since the recession began. With continued low growth, the Fed opted to raise rates several times since then, and in December 2017, the target rate stood at 1.5%.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In December 2017, Congress passed and President Donald TRUMP signed the Tax Cuts and Jobs Act, which, among its various provisions, reduces the corporate tax rate from 35% to 21%; lowers the individual tax rate for those with the highest incomes from 39.6% to 37%, and by lesser percentages for those at lower income levels; changes many deductions and credits used to calculate taxable income; and eliminates in 2019 the penalty imposed on taxpayers who do not obtain the minimum amount of health insurance required under the ACA. The new taxes took effect on 1 January 2018; the tax cut for corporations are permanent, but those for individuals are scheduled to expire after 2025. The Joint Committee on Taxation (JCT) under the Congressional Budget Office estimates that the new law will reduce tax revenues and increase the federal deficit by about $1.45 trillion over the 2018-2027 period. This amount would decline if economic growth were to exceed the JCT’s estimate.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$19.49 trillion",
+"2016": "$19.06 trillion",
+"2015": "$18.77 trillion",
+},
+"gdp_official_exchange_rate": "$19.49 trillion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "2.2%",
+"2016": "1.6%",
+"2015": "2.9%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$59,800",
+"2016": "$58,900",
+"2015": "$58,400",
+},
+"gross_national_saving":
+{
+"2017": "18.9% of GDP",
+"2016": "18.6% of GDP",
+"2015": "20.1% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "68.4% (2017 est.)",
+"government_consumption": "17.3% (2017 est.)",
+"investment_in_fixed_capital": "17.2% (2017 est.)",
+"investment_in_inventories": "0.1% (2017 est.)",
+"exports_of_goods_and_services": "12.1% (2017 est.)",
+"imports_of_goods_and_services": "-15% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "0.9% (2017 est.)",
+"industry": "19.1% (2017 est.)",
+"services": "80% (2017 est.)",
+}, 
+"agriculture_products": "wheat, corn, other grains, fruits, vegetables, cotton; beef, pork, poultry, dairy products; fish; forest products",
+"industries": "highly diversified, world leading, high-technology innovator, second-largest industrial output in the world; petroleum, steel, motor vehicles, aerospace, telecommunications, chemicals, electronics, food processing, consumer goods, lumber, mining",
+"industrial_production_growth_rate": "2.3% (2017 est.)",
+"labor_force": "160.4 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "0.7% (2009)",
+"industry": "20.3% (2009)",
+"services": "37.3% (2009)",
+"industry_and_services": "24.2% (2009)",
+"manufacturing": "17.6% (2009)",
+"farming_forestry_and_fishing": "0.7% (2009)",
+"manufacturing_extraction_transportation_and_crafts": "20.3% (2009)",
+"managerial_professional_and_technical": "37.3% (2009)",
+"sales_and_office": "24.2% (2009)",
+"other_services": "17.6% (2009)",
+}, 
+"unemployment_rate":
+{
+"2017": "4.4%",
+"2016": "4.9%",
+},
+"population_below_poverty_line": "15.1% (2010 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2%",
+"highest_10": "30% (2007 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2007": "45",
+"1997": "40.8",
+},
+"budget": 
+{
+"revenues": "3.315 trillion (2017 est.)",
+"expenditures": "3.981 trillion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "17% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3.4% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "78.8% of GDP",
+"2016": "81.2% of GDP",
+},
+"fiscal_year": "1 October - 30 September",
+"inflation_rate_consumer_prices":
+{
+"2017": "2.1%",
+"2016": "1.3%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "0.5%",
+"31 December 2009": "0.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "4.1%",
+"31 December 2016": "3.51%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$3.512 trillion",
+"31 December 2016": "$3.251 trillion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$3.512 trillion",
+"31 December 2016": "$3.251 trillion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$21.59 trillion",
+"31 December 2016": "$20.24 trillion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$25.07 trillion",
+"31 December 2014": "$26.33 trillion",
+"31 December 2013": "$24.03 trillion",
+},
+"current_account_balance":
+{
+"2017": "-$449.1 billion",
+"2016": "-$432.9 billion",
+},
+"exports":
+{
+"2017": "$1.553 trillion",
+"2016": "$1.456 trillion",
+},
+"exports_partners": "Canada 18.3%, Mexico 15.7%, China 8.4%, Japan 4.4% (2017)",
+"exports_commodities": "agricultural products (soybeans, fruit, corn) 9.2%, industrial supplies (organic chemicals) 26.8%, capital goods (transistors, aircraft, motor vehicle parts, computers, telecommunications equipment) 49.0%, consumer goods (automobiles, medicines) 15.0% (2008 est.)",
+"imports":
+{
+"2017": "$2.361 trillion",
+"2016": "$2.208 trillion",
+},
+"imports_commodities": "agricultural products 4.9%, industrial supplies 32.9% (crude oil 8.2%), capital goods 30.4% (computers, telecommunications equipment, motor vehicle parts, office machines, electric power machinery), consumer goods 31.8% (automobiles, clothing, medicines, furniture, toys) (2008 est.)",
+"imports_partners": "China 21.6%, Mexico 13.4%, Canada 12.8%, Japan 5.8%, Germany 5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$123.3 billion",
+"31 December 2015": "$117.6 billion",
+},
+"debt_external":
+{
+"31 March 2016": "$17.91 trillion",
+"31 March 2015": "$17.85 trillion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$4.08 trillion",
+"31 December 2016": "$3.614 trillion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$5.711 trillion",
+"31 December 2016": "$5.352 trillion",
+},
+"exchange_rates": "&lt;strong&gt;British pounds per US dollar: &lt;/strong&gt;0.7836 (2017 est.), 0.738 (2016 est.), 0.738 (2015 est.), 0.607 (2014 est), 0.6391 (2013 est.)&lt;br /&gt; &lt;strong&gt;Canadian dollars per US dollar: &lt;/strong&gt;1, 1.308 (2017 est.), 1.3256 (2016 est.), 1.3256 (2015 est.), 1.2788 (2014 est.), 1.0298 (2013 est.)&lt;br /&gt; &lt;strong&gt;Chinese yuan per US dollar: &lt;/strong&gt;1, 6.7588 (2017 est.), 6.6445 (2016 est.), 6.2275 (2015 est.), 6.1434 (2014 est.), 6.1958 (2013 est.)&lt;br /&gt; &lt;strong&gt;euros per US dollar: &lt;/strong&gt;0.885 (2017 est.), 0.903 (2016 est.), 0.9214(2015 est.), 0.885 (2014 est.), 0.7634 (2013 est.)&lt;br /&gt; &lt;strong&gt;Japanese yen per US dollar: &lt;/strong&gt;111.10 (2017 est.), 108.76 (2016 est.), 108.76 (2015 est.), 121.02 (2014 est.), 97.44 (2013 est.)", 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "4.095 trillion kWh (2016 est.)",
+"electricity_consumption": "3.902 trillion kWh (2016 est.)",
+"electricity_exports": "9.695 billion kWh (2016 est.)",
+"electricity_imports": "72.72 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "1.087 billion kW (2016 est.)",
+"electricity_from_fossil_fuels": "70% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "9% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "7% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "14% of total installed capacity (2017 est.)",
+"crude_oil_production": "10.962 million bbl/day (2018 est.)",
+"crude_oil_exports": "1.158 million bbl/day (2017 est.)",
+"crude_oil_imports": "7.969 million bbl/day (2017 est.)",
+"crude_oil_proved_reserves": " NA bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "20.3 million bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "19.96 million bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "5.218 million bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "2.175 million bbl/day (2017 est.)",
+"natural_gas_production": "772.8 billion cu m (2017 est.)",
+"natural_gas_consumption": "767.6 billion cu m (2017 est.)",
+"natural_gas_exports": "89.7 billion cu m (2017 est.)",
+"natural_gas_imports": "86.15 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2017 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "5.242 billion Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "119.902 million",
+"subscriptions_per_100_inhabitants": "37 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "395.881 million",
+"subscriptions_per_100_inhabitants": "121 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "a large, technologically advanced, multipurpose communications system; mobile subscriber penetration rate of about 127%;&amp;nbsp;5G technologies and commercial services into 2019 and 2020;&amp;nbsp;developing technologies based on 5G for non-commercial customers as well; FttP rather than FttN efforts (2018)",
+"domestic": "a large system of fiber-optic cable, microwave radio relay, coaxial cable, and domestic satellites carries every form of telephone traffic; a rapidly growing cellular system carries mobile telephone traffic throughout the country; fixed-line 27 per 100 and mobile-cellular 121 per 100 (2018)",
+"international": "country code - 1; multiple ocean cable systems provide international connectivity; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions)",
+}, 
+"broadcast_media": "4 major terrestrial TV networks with affiliate stations throughout the country, plus cable and satellite networks, independent stations, and a limited public broadcasting sector that is largely supported by private grants; overall, thousands of TV stations broadcasting; multiple national radio networks with many affiliate stations; while most stations are commercial, National Public Radio (NPR) has a network of some 900 member stations; satellite radio available; in total, over 15,000 radio stations operating (2018)",
+"internet_country_code": ".us",
+"internet_users": 
+{
+"total": "246,809,221",
+"percent_of_population": "76.2% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "109.838 million",
+"subscriptions_per_100_inhabitants": "34 (2017 est.)",
+}, 
+"communications_note": "&lt;strong&gt;note 1:&lt;/strong&gt; The Library of Congress, Washington DC, USA, claims to be the largest library in the world with more than 167 million items (as of 2018); its collections are universal, not limited by subject, format, or national boundary, and include materials from all parts of the world and in over 450 languages; collections include: books, newspapers, magazines, sheet music, sound and video recordings, photographic images, artwork, architectural drawings, and copyright data&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;note 2:&lt;/strong&gt; Cape Canaveral, Florida, USA, hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Ascension (Saint Helena, Ascension, and Tistan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Kwajalein (Marshall Islands)",
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "3.42% of GDP",
+"2018": "3.3% of GDP",
+"2017": "3.31% of GDP",
+"2016": "3.52% of GDP",
+"2015": "3.52% of GDP",
+},
+"military_and_security_forces": "United States Armed Forces: US Army, US Navy (includes Marine Corps), US Air Force, US Coast Guard (administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy), National Guard (Army National Guard and Air National Guard) (2019)",
+"military_service_age_and_obligation": "18 years of age (17 years of age with parental consent) for male and female voluntary service; no conscription; maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active (Navy), 4 years active (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "92 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "6,817 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "798.23 million (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "37.219 billion mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "N (2016)",
+"airports": "13,513 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "5,054 (2013)",
+"over_3_047_m": "189 (2013)",
+"2_438_to_3_047_m": "235 (2013)",
+"1_524_to_2_437_m": "1,478 (2013)",
+"914_to_1_523_m": "2,249 (2013)",
+"under_914_m": "903 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "8,459 (2013)",
+"over_3_047_m": "1 (2013)",
+"2_438_to_3_047_m": "6 (2013)",
+"1_524_to_2_437_m": "140 (2013)",
+"914_to_1_523_m": "1,552 (2013)",
+"under_914_m": "6,760 (2013)",
+}, 
+"heliports": "5,287 (2013)",
+"pipelines": "1,984,321 km natural gas, 240,711 km petroleum products (2013)",
+"railways": 
+{
+"total": "293,564 km (2014)",
+"standard_gauge": "293,564.2 km 1.435-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "6,586,610 km (2012)",
+"paved": "4,304,715 km (includes 76,334 km of expressways) (2012)",
+"unpaved": "2,281,895 km (2012)",
+}, 
+"waterways": "41,009 km (19,312 km used for commerce; Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, is shared with Canada) (2012)",
+"merchant_marine": 
+{
+"total": "3,692",
+"by_type": "bulk carrier 5, container ship 61, general cargo 115, oil tanker 71, other 3440 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"oil_terminal_s": "LOOP terminal, Haymark terminal",
+"container_port_s_teus": "Charleston (2,177,000), Hampton Roads (2,841,000), Houston (2,459,000), Long Beach (7,544,000), Los Angeles (9,343,000), New York/New Jersey (6,710,000), Oakland (2,420,000), Savannah (4,046,000), Seattle/Tacoma (3,665,000) (2017)",
+"lng_terminal_s_export": "Cameron (LA), Corpus Christi (TX), Cove Point (MD), Elba Island (GA), Freeport (TX), Sabine Pass (LA)&lt;br /&gt;note - two additional export facilities are under construction and expected to begin commercial operations in 2023-2024",
+"lng_terminal_s_import": "Cove Point (MD), Elba Island (GA), Everett (MA), Freeport (TX), Golden Pass (TX), Hackberry (LA), Lake Charles (LA), Neptune (offshore), Northeast Gateway (offshore), Pascagoula (MS), Sabine Pass (TX)",
+"cargo_ports": "Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City",
+"cruise_departure_ports_passengers": "Miami (2,032,000), Port Everglades (1,277,000), Port Canaveral (1,189,000), Seattle (430,000), Long Beach (415,000) (2009)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;the US has intensified domestic security measures and is collaborating closely with its neighbors, Canada and Mexico, to monitor and control legal and illegal personnel, transport, and commodities across the international borders; abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; 1990 Maritime Boundary Agreement in the Bering Sea still awaits Russian Duma ratification; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; The Bahamas and US have not been able to agree on a maritime boundary; US Naval Base at Guantanamo Bay is leased from Cuba and only mutual agreement or US abandonment of the area can terminate the lease; Haiti claims US-administered Navassa Island; US has made no territorial claim in Antarctica (but has reserved the right to do so) and does not recognize the claims of any other states; Marshall Islands claims Wake Island; Tokelau included American Samoa&#39;s Swains Island among the islands listed in its 2006 draft constitution&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "the US admitted 30,000 refugees during FY2019 including: 12,958 (Democratic Republic of the Congo), 4,932 (Burma), 4,451 (Ukraine), 1,757 (Eritrea), 1,198 (Afghanistan)",
+"illicit_drugs": "world&#39;s largest consumer of cocaine (shipped from Colombia through Mexico and the Caribbean), Colombian heroin, and Mexican heroin and marijuana; major consumer of ecstasy and Mexican methamphetamine; minor consumer of high-quality Southeast Asian heroin; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center",
+}
+}

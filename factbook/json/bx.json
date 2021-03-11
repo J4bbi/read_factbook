@@ -1,0 +1,495 @@
+{
+"name": "Brunei",
+"code": "BX",
+"publish_date": "December 19, 2019",
+"introduction": 
+{
+"background": "The Sultanate of Brunei&#39;s influence peaked between the 15th and 17th centuries when its control extended over coastal areas of northwest Borneo and the southern Philippines. Brunei subsequently entered a period of decline brought on by internal strife over royal succession, colonial expansion of European powers, and piracy. In 1888, Brunei became a British protectorate; independence was achieved in 1984. The same family has ruled Brunei for over six centuries. Brunei benefits from extensive petroleum and natural gas fields, the source of one of the highest per capita GDPs in the world. In 2017, Brunei celebrated the 50th anniversary of the Sultan Hassanal BOLKIAH’s accession to the throne.",
+}, 
+"geography": 
+{
+"location": "Southeastern Asia, along the northern coast of the island of Borneo, bordering the South China Sea and Malaysia",
+"geographic_coordinates": "4 30 N, 114 40 E",
+"map_references": "Southeast Asia",
+"area": 
+{
+"total": "5,765 sq km",
+"land": "5,265 sq km",
+"water": "500 sq km",
+}, 
+"area_comparative": "slightly smaller than Delaware",
+"land_boundaries": 
+{
+"total": "266 km",
+"border_countries": "Malaysia 266 km",
+}, 
+"coastline": "161 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm or to median line",
+}, 
+"climate": "tropical; hot, humid, rainy",
+"terrain": "flat coastal plain rises to mountains in east; hilly lowland in west",
+"elevation": 
+{
+"mean_elevation": "478 m",
+"lowest_point": "South China Sea 0 m",
+"highest_point": "Bukit Pagon 1,850 m",
+}, 
+"natural_resources": "petroleum, natural gas, timber",
+"land_use": 
+{
+"agricultural_land": "2.5% (2011 est.)",
+"agricultural_land_arable_land": "0.8% (2011 est.)",
+"agricultural_land_permanent_crops": "1.1% (2011 est.)",
+"agricultural_land_permanent_pasture": "0.6% (2011 est.)",
+"forest": "71.8% (2011 est.)",
+"other": "25.7% (2011 est.)",
+}, 
+"irrigated_land": "10 sq km (2012)",
+"natural_hazards": "typhoons, earthquakes, and severe flooding are rare",
+"environment_current_issues": "no major environmental problems, but air pollution control is becoming a concern; seasonal trans-boundary haze from forest fires in Indonesia",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "close to vital sea lanes through South China Sea linking Indian and Pacific Oceans; two parts physically separated by Malaysia; the eastern part, the Temburong district, is an exclave and is almost an enclave within Malaysia",
+}, 
+"people_and_society": 
+{
+"population": "450,565 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Bruneian(s)",
+"adjective": "Bruneian",
+}, 
+"ethnic_groups": "Malay 65.7%, Chinese 10.3%, other 24% (2016 est.)",
+"languages": "Malay (Bahasa Melayu) (official), English, Chinese dialects",
+"religions": "Muslim (official) 78.8%, Christian 8.7%, Buddhist 7.8%, other (includes indigenous beliefs) 4.7% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "22.82% (male 52,995 /female 49,836)",
+"15_24_years": "16.8% (male 37,707 /female 37,985)",
+"25_54_years": "46.9% (male 100,740 /female 110,596)",
+"55_64_years": "8.3% (male 18,859 /female 18,551)",
+"65_years_and_over": "5.17% (male 11,336 /female 11,960) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "38.4 (2015 est.)",
+"youth_dependency_ratio": "32.8 (2015 est.)",
+"elderly_dependency_ratio": "5.7 (2015 est.)",
+"potential_support_ratio": "17.6 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "30.5 years (2018 est.)",
+"male": "30 years",
+"female": "31 years",
+}, 
+"population_growth_rate": "1.55% (2018 est.)",
+"birth_rate": "16.9 births/1,000 population (2018 est.)",
+"death_rate": "3.7 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "2.3 migrant(s)/1,000 population (2018 est.)",
+"urbanization": 
+{
+"urban_population": "77.9% of total population (2019)",
+"rate_of_urbanization": "1.66% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "241,000 BANDAR SERI BEGAWAN (capital) (2011)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.06 male(s)/female",
+"15_24_years": "0.99 male(s)/female",
+"25_54_years": "0.91 male(s)/female",
+"55_64_years": "1.02 male(s)/female",
+"65_years_and_over": "0.95 male(s)/female",
+"total_population": "0.97 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "31 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "9.3 deaths/1,000 live births (2018 est.)",
+"male": "11.1 deaths/1,000 live births",
+"female": "7.5 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "77.5 years (2018 est.)",
+"male": "75.2 years",
+"female": "80 years",
+}, 
+"total_fertility_rate": "1.77 children born/woman (2018 est.)",
+"current_health_expenditure": "2.3% (2016)",
+"physicians_density": "1.77 physicians/1,000 population (2015)",
+"hospital_bed_density": "2.7 beds/1,000 population (2015)",
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "14.1% (2016)",
+"children_under_the_age_of_5_years_underweight": "9.6% (2009)",
+"education_expenditures": "4.4% of GDP (2016)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "96%",
+"male": "97.5%",
+"female": "94.5% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "14 years",
+"male": "14 years",
+"female": "15 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "28.9%",
+"male": "28.4%",
+"female": "29.5% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Brunei Darussalam",
+"conventional_short_form": "Brunei",
+"local_long_form": "Negara Brunei Darussalam",
+"local_short_form": "Brunei",
+"etymology": "derivation of the name is unclear; according to legend, MUHAMMAD SHAH, who would become the first sultan of Brunei, upon discovering what would become Brunei exclaimed &quot;Baru nah,&quot; which roughly translates as &quot;there&quot; or &quot;that&#39;s it&quot;",
+}, 
+"government_type": "absolute monarchy or sultanate",
+"capital": 
+{
+"name": "Bandar Seri Begawan",
+"geographic_coordinates": "4 53 N, 114 56 E",
+"time_difference": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "4 districts (daerah-daerah, singular - daerah); Belait, Brunei dan Muara, Temburong, Tutong",
+"independence": "1 January 1984 (from the UK)",
+"national_holiday": "National Day, 23 February (1984); note - 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan&#39;s birthday, 15 June",
+"constitution": 
+{
+"history": "drafted 1954 to 1959, signed 29 September 1959; note - some constitutional provisions suspended since 1962 under a State of Emergency, others suspended since independence in 1984",
+"amendments": "proposed by the monarch; passage requires submission to the Privy Council for Legislative Council review and finalization takes place by proclamation; the monarch can accept or reject changes to the original proposal provided by the Legislative Council; amended 1984, 2004, 2011 (2017)",
+}, 
+"legal_system": "mixed legal system based on English common law and Islamic law; note - in April 2019, the full sharia penal codes came into force and apply to Muslims and non-Muslims in parallel with present common law codes",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "the father must be a citizen of Brunei",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "12 years",
+}, 
+"suffrage": "18 years of age for village elections; universal",
+"executive_branch": 
+{
+"chief_of_state": "Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967); note - the monarch is both chief of state and head of government",
+"head_of_government": "Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)",
+"cabinet": "Council of Ministers appointed and presided over by the monarch; note - 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for constitutional issues, Council of Succession, and Legislative Council",
+"elections_appointments": "none; the monarchy is hereditary",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (36 seats; members appointed by the sultan including 3 ex-officio members - the speaker and first and second secretaries; members appointed for 5-year terms)",
+"elections": "appointed by the sultan",
+"election_results": "NA; composition - men 33, women 3, percent of women 8.3%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only",
+"judge_selection_and_term_of_office": "Supreme Court judges appointed by the monarch to serve until age 65, and older if approved by the monarch; Sharia Court judges appointed by the monarch for life",
+"subordinate_courts": "Intermediate Court; Magistrates&#39; Courts; Juvenile Court; small claims courts; lower sharia courts",
+}, 
+"political_parties_and_leaders": "National Development Party or NDP [YASSIN Affendi]",
+"international_organization_participation": "ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, ISO (correspondent), ITSO, ITU, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Serbini ALI (since 28 January 2016)",
+"chancery": "3520 International Court NW, Washington, DC 20008",
+"telephone": "[1] (202) 237-1838",
+"fax": "[1] (202) 885-0560",
+"consulate_s": "New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Matthew J. MATTHEWS (since 15 April 2019)",
+"telephone": "[673] 238-4616",
+"embassy": "Simpang 336-52-16-9, Jalan Duta, Bandar Seri Begawan, BC4115",
+"mailing_address": "Unit 4280, Box 40, FPO AP 96507; P.O. Box 2991, Bandar Seri Begawan BS8675, Negara Brunei Darussalam",
+"fax": "[673] 238-4604",
+}, 
+"flag_description": "yellow with two diagonal bands of white (top, almost double width) and black starting from the upper hoist side; the national emblem in red is superimposed at the center; yellow is the color of royalty and symbolizes the sultanate; the white and black bands denote Brunei&#39;s chief ministers; the emblem includes five main components: a swallow-tailed flag, the royal umbrella representing the monarchy, the wings of four feathers symbolizing justice, tranquility, prosperity, and peace, the two upraised hands signifying the government&#39;s pledge to preserve and promote the welfare of the people, and the crescent moon denoting Islam, the state religion; the state motto &quot;Always render service with God&#39;s guidance&quot; appears in yellow Arabic script on the crescent; a ribbon below the crescent reads &quot;Brunei, the Abode of Peace&quot;",
+"national_symbol_s": "royal parasol; national colors: yellow, white, black",
+"national_anthem": 
+{
+"name": "&quot;Allah Peliharakan Sultan&quot; (God Bless His Majesty)",
+"lyrics_music": "Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji BESAR bin Sagap",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Brunei is an energy-rich sultanate on the northern coast of Borneo in Southeast Asia. Brunei boasts a well-educated, largely English-speaking population; excellent infrastructure; and a stable government intent on attracting foreign investment. Crude oil and natural gas production account for approximately 65% of GDP and 95% of exports, with Japan as the primary export market.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Per capita GDP is among the highest in the world, and substantial income from overseas investment supplements income from domestic hydrocarbon production. Bruneian citizens pay no personal income taxes, and the government provides free medical services and free education through the university level.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Bruneian Government wants to diversify its economy away from hydrocarbon exports to other industries such as information and communications technology and halal manufacturing, permissible under Islamic law. Brunei’s trade increased in 2016 and 2017, following its regional economic integration in the ASEAN Economic Community, and the expected ratification of the Trans-Pacific Partnership trade agreement.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$33.87 billion",
+"2016": "$33.42 billion",
+"2015": "$34.27 billion",
+},
+"gdp_official_exchange_rate": "$12.13 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "1.3%",
+"2016": "-2.5%",
+"2015": "-0.4%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$78,900",
+"2016": "$79,000",
+"2015": "$82,200",
+},
+"gross_national_saving":
+{
+"2017": "47.5% of GDP",
+"2016": "50.1% of GDP",
+"2015": "51.9% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "25% (2017 est.)",
+"government_consumption": "24.8% (2017 est.)",
+"investment_in_fixed_capital": "32.6% (2017 est.)",
+"investment_in_inventories": "8.5% (2017 est.)",
+"exports_of_goods_and_services": "45.9% (2017 est.)",
+"imports_of_goods_and_services": "-36.8% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "1.2% (2017 est.)",
+"industry": "56.6% (2017 est.)",
+"services": "42.3% (2017 est.)",
+}, 
+"agriculture_products": "rice, vegetables, fruits; chickens, water buffalo, cattle, goats, eggs",
+"industries": "petroleum, petroleum refining, liquefied natural gas, construction, agriculture, aquaculture, transportation",
+"industrial_production_growth_rate": "1.5% (2017 est.)",
+"labor_force": "203,600 (2014 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "4.2%",
+"industry": "62.8%",
+"services": "33% (2008 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "6.9%",
+"2016": "6.9%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "2.245 billion (2017 est.)",
+"expenditures": "4.345 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "18.5% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-17.3% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "2.8% of GDP",
+"2016": "3% of GDP",
+},
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2017": "-0.2%",
+"2016": "-0.7%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "5.5%",
+"31 December 2016": "5.5%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$3.387 billion",
+"31 December 2016": "$3.232 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$3.387 billion",
+"31 December 2016": "$3.232 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$3.665 billion",
+"31 December 2016": "$4.066 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "$2.021 billion",
+"2016": "$1.47 billion",
+},
+"exports":
+{
+"2017": "$5.885 billion",
+"2016": "$5.023 billion",
+},
+"exports_partners": "Japan 27.8%, South Korea 12.4%, Thailand 11.5%, Malaysia 11.3%, India 9.3%, Singapore 7.7%, Switzerland 5%, China 4.7% (2017)",
+"exports_commodities": "mineral fuels, organic chemicals",
+"imports":
+{
+"2017": "$2.998 billion",
+"2016": "$2.658 billion",
+},
+"imports_commodities": "machinery and mechanical appliance parts, mineral fuels, motor vehicles, electric machinery",
+"imports_partners": "China 19.6%, Singapore 19%, Malaysia 18.8%, US 9.2%, Germany 5.9%, Japan 4.1%, UK 4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$3.488 billion",
+"31 December 2015": "$3.366 billion",
+},
+"debt_external":
+{
+"2014": "$0",
+"2013": "$0",
+},
+"exchange_rates": 
+{
+"currency": "Bruneian dollars (BND) per US dollar -",
+"exchange_rates":
+{
+"2017": "1.394",
+"2016": "1.3814",
+"2015": "1.3814",
+"2014": "1.3749",
+"2013": "1.267",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "4.014 billion kWh (2016 est.)",
+"electricity_consumption": "3.771 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "821,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "100% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "100,000 bbl/day (2018 est.)",
+"crude_oil_exports": "127,400 bbl/day (2015 est.)",
+"crude_oil_imports": "160 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "1.1 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "10,310 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "18,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "6,948 bbl/day (2015 est.)",
+"natural_gas_production": "12.74 billion cu m (2017 est.)",
+"natural_gas_consumption": "3.936 billion cu m (2017 est.)",
+"natural_gas_exports": "8.268 billion cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "260.5 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "10.04 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "74,213",
+"subscriptions_per_100_inhabitants": "17 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "544,732",
+"subscriptions_per_100_inhabitants": "123 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "service throughout the country is good; international service is good to Southeast Asia, Middle East, Western Europe, and the US; while fixed-line is slowing down, mobile broadband has taken over&amp;nbsp;in the&amp;nbsp;advancement in the telecoms access market; broadband penetration slow to moderate growth predicted over the next five years to 2023 (2018)",
+"domestic": "every service available; 17 per 100 fixed-line, 123 per 100 mobile-cellular (2018)",
+"international": "country code - 673; landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine Cable via&amp;nbsp;optical telecommunications submarine cables that provides links to Asia, the Middle East, Southeast Asia, Africa, Australia, and the US; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)",
+}, 
+"broadcast_media": "state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian TV stations are available; foreign TV broadcasts are available via satellite systems; RTB operates 5 radio networks and broadcasts on multiple frequencies; British Forces Broadcast Service (BFBS) provides radio broadcasts on 2 FM stations; some radio broadcast stations from Malaysia are available via repeaters",
+"internet_country_code": ".bn",
+"internet_users": 
+{
+"total": "410,800 (2019 est.)",
+"percent_of_population": "94% (Feb 2019 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "41,209",
+"subscriptions_per_100_inhabitants": "9 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "2.37% of GDP",
+"2017": "2.87% of GDP",
+"2016": "3.54% of GDP",
+"2015": "3.28% of GDP",
+"2014": "3.08% of GDP",
+},
+"military_and_security_forces": "Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Brunei Air Force. (2019)",
+"military_service_age_and_obligation": "17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2013)",
+"military_note": "&lt;div&gt;Brunei has a long-standing defense relationship with the United Kingdom and host a British Army garrison, including a Gurkha battalion and a jungle warfare school.&amp;nbsp;&amp;nbsp; There is also a long-term Singaporean military presence.&lt;/div&gt; (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "10 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "1,150,003 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "115.147 million mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "V8 (2016)",
+"airports": "1 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2019)",
+"over_3_047_m": "1",
+}, 
+"heliports": "3 (2013)",
+"pipelines": "33 km condensate, 86 km condensate/gas, 628 km gas, 492 km oil (2013)",
+"roadways": 
+{
+"total": "2,976 km (2014)",
+"paved": "2,559 km (2014)",
+"unpaved": "417 km (2014)",
+}, 
+"waterways": "209 km (navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links) (2012)",
+"merchant_marine": 
+{
+"total": "100",
+"by_type": "general cargo 20, LNG tanker 2, other 78 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Muara",
+"oil_terminal_s": "Lumut, Seria",
+"lng_terminal_s_export": "Lumut",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei in exchange for Brunei&#39;s sultan dropping claims to the Limbang corridor, which divides Brunei; nonetheless, Brunei claims a maritime boundary extending as far as a median with Vietnam, thus asserting an implicit claim to Louisa Reef&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "20,863 (2018); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land",
+"illicit_drugs": "drug trafficking and illegally importing controlled substances are serious offenses in Brunei and carry a mandatory death penalty",
+}
+}

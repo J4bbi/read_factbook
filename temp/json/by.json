@@ -1,0 +1,530 @@
+{
+"name": "Burundi",
+"code": "BY",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "Burundi is a small country in Central-East Africa bordered by Tanzania, Rwanda, the Democratic Republic of Congo, and Lake Tanganyika. Burundi gained its independence from Belgium in 1962 as the Kingdom of Burundi, but the monarchy was overthrown in 1966 and a republic established. Political violence and non-democratic transfers of power have marked much of its history; Burundi&#39;s first democratically elected president, a Hutu, was assassinated in October 1993 after only 100 days in office. The internationally brokered Arusha Agreement, signed in 2000, and subsequent ceasefire agreements with armed movements ended the 1993-2005 civil war. Burundi&amp;rsquo;s second democratic elections were held in 2005. Pierre NKURUNZIZA was elected president in 2005 and 2010, and again in a controversial election in 2015. Burundi continues to face many economic and political challenges.",
+}, 
+"geography": 
+{
+"location": "Central Africa, east of the Democratic Republic of the Congo, west of Tanzania",
+"geographic_coordinates": "3 30 S, 30 00 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "27,830 sq km",
+"land": "25,680 sq km",
+"water": "2,150 sq km",
+}, 
+"area_comparative": "slightly smaller than Maryland",
+"land_boundaries": 
+{
+"total": "1,140 km",
+"border_countries": "Democratic Republic of the Congo 236 km, Rwanda 315 km, Tanzania 589 km",
+}, 
+"coastline": "0 km (landlocked)",
+"maritime_claims": "none (landlocked)", 
+"climate": "equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)",
+"terrain": "hilly and mountainous, dropping to a plateau in east, some plains",
+"elevation": 
+{
+"mean_elevation": "1,504 m",
+"lowest_point": "Lake Tanganyika 772 m",
+"highest_point": "Heha 2,670 m",
+}, 
+"natural_resources": "nickel, uranium, rare earth oxides, peat, cobalt, copper, platinum, vanadium, arable land, hydropower, niobium, tantalum, gold, tin, tungsten, kaolin, limestone",
+"land_use": 
+{
+"agricultural_land": "73.3% (2011 est.)",
+"agricultural_land_arable_land": "38.9% (2011 est.)",
+"agricultural_land_permanent_crops": "15.6% (2011 est.)",
+"agricultural_land_permanent_pasture": "18.8% (2011 est.)",
+"forest": "6.6% (2011 est.)",
+"other": "20.1% (2011 est.)",
+}, 
+"irrigated_land": "230 sq km (2012)",
+"population_distribution": "one of Africa&#39;s most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil",
+"natural_hazards": "flooding; landslides; drought",
+"environment_current_issues": "soil erosion as a result of overgrazing and the expansion of agriculture into marginal lands; deforestation (little forested land remains because of uncontrolled cutting of trees for fuel); habitat loss threatens wildlife populations",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands",
+"signed_but_not_ratified": "Law of the Sea",
+}, 
+"geography_note": "landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drains into Lake Victoria, is the most remote headstream of the White Nile",
+}, 
+"people_and_society": 
+{
+"population": "11,844,520 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Burundian(s)",
+"adjective": "Burundian",
+}, 
+"ethnic_groups": "Hutu 85%, Tutsi 14%, Twa (Pygmy) 1%, Europeans 3,000, South Asians 2,000",
+"languages": "Kirundi only 29.7% (official); French only .3% (official); Swahili only .2%; English only .1% (official); Kirundi and French 8.4%; Kirundi, French, and English 2.4%, other language combinations 2%, unspecified 56.9% (2008 est.)",
+"religions": "Roman Catholic 62.1%, Protestant 23.9% (includes Adventist 2.3% and other Protestant 21.6%), Muslim 2.5%, other 3.6%, unspecified 7.9% (2008 est.)",
+"demographic_profile": "&lt;p&gt;Burundi is a densely populated country with a high population growth rate, factors that combined with land scarcity and poverty place a large share of its population at risk of food insecurity. About 90% of the population relies on subsistence agriculture. Subdivision of land to sons, and redistribution to returning refugees, results in smaller, overworked, and less productive plots. Food shortages, poverty, and a lack of clean water contribute to a 60% chronic malnutrition rate among children. A lack of reproductive health services has prevented a significant reduction in Burundi’s maternal mortality and fertility rates, which are both among the world’s highest. With two-thirds of its population under the age of 25 and a birth rate of about 6 children per woman, Burundi’s population will continue to expand rapidly for decades to come, putting additional strain on a poor country.&lt;/p&gt;&lt;p&gt;Historically, migration flows into and out of Burundi have consisted overwhelmingly of refugees from violent conflicts. In the last decade, more than a half million Burundian refugees returned home from neighboring countries, mainly Tanzania. Reintegrating the returnees has been problematic due to their prolonged time in exile, land scarcity, poor infrastructure, poverty, and unemployment. Repatriates and existing residents (including internally displaced persons) compete for limited land and other resources. To further complicate matters, international aid organizations reduced their assistance because they no longer classified Burundi as a post-conflict country. Conditions have deteriorated since renewed violence erupted in April 2015, causing another outpouring of refugees. In addition to refugee out-migration, Burundi has hosted thousands of refugees from neighboring countries, mostly from the Democratic Republic of the Congo and lesser numbers from Rwanda.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "45.52% (male 2,712,836 /female 2,678,223)",
+"15_24_years": "19.21% (male 1,135,145 /female 1,139,717)",
+"25_54_years": "28.7% (male 1,694,547 /female 1,704,369)",
+"55_64_years": "3.89% (male 218,272 /female 242,855)",
+"65_years_and_over": "2.69% (male 137,590 /female 180,966) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "89.6 (2015 est.)",
+"youth_dependency_ratio": "84.8 (2015 est.)",
+"elderly_dependency_ratio": "4.7 (2015 est.)",
+"potential_support_ratio": "21.1 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "17.1 years (2018 est.)",
+"male": "16.8 years",
+"female": "17.3 years",
+}, 
+"population_growth_rate": "3.23% (2018 est.)",
+"birth_rate": "40.9 births/1,000 population (2018 est.)",
+"death_rate": "8.6 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "one of Africa&#39;s most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil",
+"urbanization": 
+{
+"urban_population": "13.4% of total population (2019)",
+"rate_of_urbanization": "5.68% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "954,000 BUJUMBURA (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1.01 male(s)/female",
+"15_24_years": "1 male(s)/female",
+"25_54_years": "0.99 male(s)/female",
+"55_64_years": "0.9 male(s)/female",
+"65_years_and_over": "0.76 male(s)/female",
+"total_population": "0.99 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "21.3 years (2010 est.)",
+"maternal_mortality_rate": "548 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "57.4 deaths/1,000 live births (2018 est.)",
+"male": "63.7 deaths/1,000 live births",
+"female": "50.9 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "61.4 years (2018 est.)",
+"male": "59.6 years",
+"female": "63.2 years",
+}, 
+"total_fertility_rate": "5.93 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "28.5% (2016/17)",
+"drinking_water_source": 
+{
+"improved_urban": "91.1% of population",
+"improved_rural": "73.8% of population",
+"improved_total": "75.9% of population",
+"unimproved_urban": "8.9% of population",
+"unimproved_rural": "26.2% of population",
+"unimproved_total": "24.1% of population (2015 est.)",
+}, 
+"current_health_expenditure": "6.2% (2016)",
+"physicians_density": "0.05 physicians/1,000 population (2016)",
+"hospital_bed_density": "0.8 beds/1,000 population (2014)",
+"sanitation_facility_access": 
+{
+"improved_urban": "43.8% of population (2015 est.)",
+"improved_rural": "48.6% of population (2015 est.)",
+"improved_total": "48% of population (2015 est.)",
+"unimproved_urban": "56.2% of population (2015 est.)",
+"unimproved_rural": "51.4% of population (2015 est.)",
+"unimproved_total": "52% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "82,000 (2018 est.)",
+"hiv_aids_deaths": "1,900 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2019)",
+"food_or_waterborne_diseases": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever (2019)",
+"vectorborne_diseases": "malaria and dengue fever (2019)",
+"water_contact_diseases": "schistosomiasis (2019)",
+"animal_contact_diseases": "rabies (2019)",
+}, 
+"obesity_adult_prevalence_rate": "5.4% (2016)",
+"children_under_the_age_of_5_years_underweight": "29.3% (2016)",
+"education_expenditures": "4.8% of GDP (2017)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "85.6%",
+"male": "88.2%",
+"female": "83.1% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "11 years",
+"male": "11 years",
+"female": "11 years (2017)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "2.9%",
+"male": "4.4%",
+"female": "2% (2014 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Burundi",
+"conventional_short_form": "Burundi",
+"local_long_form": "Republique du Burundi/Republika y&#39;u Burundi",
+"local_short_form": "Burundi",
+"former": "Urundi, German East Africa, Ruanda-Urundi, Kingdom of Burundi",
+"etymology": "name derived from the pre-colonial Kingdom of Burundi (17th-19th century)",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Gitega (political capital), Bujumbura (commercial capital); note - in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; all branches of the government are expected to have moved from Bujumbura to Gitega by 2021",
+"geographic_coordinates": "3 25 S, 29 55 E",
+"time_difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi",
+"independence": "1 July 1962 (from UN trusteeship under Belgian administration)",
+"national_holiday": "Independence Day, 1 July (1962)",
+"constitution": 
+{
+"history": "several previous; latest ratified by referendum 28 February 2005",
+"amendments": "proposed by the president of the republic after consultation with the government or by absolute majority support of the membership in both houses of Parliament; passage requires at least two-thirds majority vote by the Senate membership and at least four-fifths majority vote by the National Assembly; the president can opt to submit amendment bills to a referendum; constitutional articles including those on national unity, the secularity of Burundi, its democratic form of government, and its sovereignty cannot be amended; amended 2018 (amendments extended the presidential term from 5 to 7 years, reintroduced the position of prime minister, and reduced the number of&amp;nbsp;vice presidents from 2 to 1) (2019)",
+}, 
+"legal_system": "mixed legal system of Belgian civil law and customary law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; withdrew from ICCt in October 2017",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "the father must be a citizen of Burundi",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Pierre NKURUNZIZA (since 26 August 2005); First Vice President Gaston SINDIMWO (since 20 August 2015); Second Vice President Joseph BUTORE (since 20 August 2015); note - the president is both chief of state and head of government",
+"head_of_government": "President Pierre NKURUNZIZA (since 26 August 2005); First Vice President Gaston SINDIMWO (since 20 August 2015); Second Vice President Joseph BUTORE (since 20 August 2015)",
+"cabinet": "Council of Ministers appointed by president",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 21 July 2015 (next to be held in 2020); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1",
+"election_results": "Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Hope of Burundians - Amizerio y&#39;ABARUNDI) 19%, other 11.6%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Parlement consists of:&lt;br /&gt;Senate or Inama Nkenguzamateka (43 seats in the July 2015 election; 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 4 seats reserved for former heads of state, 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)&lt;br /&gt; National Assembly or Inama Nshingamateka (121 seats in the June 2015 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 21 co-opted members; 60% of seats allocated to Hutu and 40% to Tutsi; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)",
+"elections": "&lt;br /&gt;Senate - last held on 24 July 2015 (next to be held in 2019)&lt;br /&gt; National Assembly - last held on 29 June 2015 (next to be held in 2020)",
+"election_results": "&lt;br /&gt;Senate - percent of vote by party - NA; seats by party - CNDD-FDD 33, FRODEBU 2, CNDD 1, former heads of state 4, Twas 3, women 8; composition - men 25, women 18, percent of women 41.9%; &lt;br /&gt; National Assembly - percent of vote by party - CNDD-FDD 60.3%, Independents of Hope 11.2%, UPRONA 2.5%, other 26%; seats by party - CNDD-FDD 77, Independents of Hope 21, UPRONA 2, women 18, Twas 3; composition - men 77, women 44, percent of women 36.4%; note - total Parliament percent of women 37.8%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)",
+"judge_selection_and_term_of_office": "Supreme Court judges nominated by the Judicial Service Commission, a 15-member independent body of judicial and legal profession officials), appointed by the president and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms",
+"subordinate_courts": "Courts of Appeal; County Courts; Courts of Residence; Martial Court; Court Against Corruption; Commercial Court",
+}, 
+"political_parties_and_leaders": "Front for Democracy in Burundi-Nyakuri or FRODEBU-Nyakuri [Keffa NIBIZI]&lt;br /&gt;Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya [Pierre Claver NAHIMANA]&lt;br /&gt;National Congress for Liberty or CNL [Agathon RWASA]&lt;br /&gt;National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Evariste NDAYISHIMIYE]&lt;br /&gt;National Liberation Forces or FNL [Jacques BIGITIMANA]&lt;br /&gt;Union for National Progress (Union pour le Progress Nationale) or UPRONA [Abel GASHATSI]",
+"international_organization_participation": "ACP, AfDB, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador S.E. Gandence SINDAYIGAYA (since 20 September 2019); Charge d&#39;Affaires Benjamin MANIRAKIZA (since 7 December 2017)",
+"chancery": "2233 Wisconsin Avenue NW, Suite 408, Washington, DC 20007",
+"telephone": "[1] (202) 342-2574",
+"fax": "[1] (202) 342-2578",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant); Charge d&amp;rsquo;Affaires Eunice S. REDDICK (since May 2019)",
+"telephone": "[257] 22-207-000",
+"embassy": "Avenue Des Etats-Unis, Bujumbura&lt;br /&gt;BP1720",
+"mailing_address": "B.P. 1720, Bujumbura",
+"fax": "[257] 22-222-926",
+}, 
+"flag_description": "divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk superimposed at the center bearing three red six-pointed stars outlined in green arranged in a triangular design (one star above, two stars below); green symbolizes hope and optimism, white purity and peace, and red the blood shed in the struggle for independence; the three stars in the disk represent the three major ethnic groups: Hutu, Twa, Tutsi, as well as the three elements in the national motto: unity, work, progress",
+"national_symbol_s": "lion; national colors: red, white, green",
+"national_anthem": 
+{
+"name": "&quot;Burundi Bwacu&quot; (Our Beloved Burundi)",
+"lyrics_music": "Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi&#39;s primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi&#39;s national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$8.007 billion",
+"2016": "$8.007 billion",
+"2015": "$8.091 billion",
+},
+"gdp_official_exchange_rate": "$3.396 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "0%",
+"2016": "-1%",
+"2015": "-4%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$700",
+"2016": "$800",
+"2015": "$800",
+},
+"gross_national_saving":
+{
+"2017": "-5.3% of GDP",
+"2016": "-4.1% of GDP",
+"2015": "-6.7% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "83% (2017 est.)",
+"government_consumption": "20.8% (2017 est.)",
+"investment_in_fixed_capital": "16% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "5.5% (2017 est.)",
+"imports_of_goods_and_services": "-25.3% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "39.5% (2017 est.)",
+"industry": "16.4% (2017 est.)",
+"services": "44.2% (2017 est.)",
+}, 
+"agriculture_products": "coffee, cotton, tea, corn, beans, sorghum, sweet potatoes, bananas, cassava (manioc, tapioca); beef, milk, hides",
+"industries": "light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported components; public works construction; food processing (fruits)",
+"industrial_production_growth_rate": "-2% (2017 est.)",
+"labor_force": "5.012 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "93.6%",
+"industry": "2.3%",
+"services": "4.1% (2002 est.)",
+}, 
+"unemployment_rate": "&lt;p&gt;NA&lt;/p&gt;", 
+"population_below_poverty_line": "64.6% (2014 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "4.1%",
+"highest_10": "28% (2006)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"1998": "42.4",
+},
+"budget": 
+{
+"revenues": "536.7 million (2017 est.)",
+"expenditures": "729.6 million (2017 est.)",
+}, 
+"taxes_and_other_revenues": "15.8% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-5.7% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "51.7% of GDP",
+"2016": "48.4% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "16.6%",
+"2016": "5.5%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "11.25%",
+"31 December 2009": "10%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "14.8%",
+"31 December 2016": "14.24%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$540 million",
+"31 December 2016": "$476.7 million",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$540 million",
+"31 December 2016": "$476.7 million",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$1.116 billion",
+"31 December 2016": "$1.03 billion",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"current_account_balance":
+{
+"2017": "-$418 million",
+"2016": "-$411 million",
+},
+"exports":
+{
+"2017": "$119 million",
+"2016": "$109.7 million",
+},
+"exports_partners": "Democratic Republic of the Congo 25.5%, Switzerland 18.4%, UAE 14.9%, Belgium 6% (2017)",
+"exports_commodities": "coffee, tea, sugar, cotton, hides",
+"imports":
+{
+"2017": "$603.8 million",
+"2016": "$527.2 million",
+},
+"imports_commodities": "capital goods, petroleum products, foodstuffs",
+"imports_partners": "India 18.5%, China 13%, Kenya 7.9%, UAE 6.8%, Saudi Arabia 6.8%, Uganda 6%, Tanzania 5.4%, Zambia 4.6% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$97.4 million",
+"31 December 2016": "$95.17 million",
+},
+"debt_external":
+{
+"31 December 2017": "$610.9 million",
+"31 December 2016": "$622.4 million",
+},
+"exchange_rates": 
+{
+"currency": "Burundi francs (BIF) per US dollar -",
+"exchange_rates":
+{
+"2017": "1,731",
+"2016": "1,654.63",
+"2015": "1,654.63",
+"2014": "1,571.9",
+"2013": "1,546.7",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "10 million (2017)",
+"electrification_total_population": "7.6% (2016)",
+"electrification_urban_areas": "49.7% (2016)",
+"electrification_rural_areas": "1.7% (2016)",
+}, 
+"electricity_production": "304 million kWh (2016 est.)",
+"electricity_consumption": "382.7 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "100 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "68,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "14% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "73% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "14% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "1,500 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "1,374 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "217,000 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "23,409",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "5,920,612",
+"subscriptions_per_100_inhabitants": "52 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "with&amp;nbsp;the great population density Burundi remains one of the most&amp;nbsp;alluring telecom markets in Africa for investors; the government in early 2018&amp;nbsp;began the Burundi Broadband project, which&amp;nbsp;plans to deliver nationwide connectivity by 2025; mobile operators have launched 3G and LTE mobile services to capitalize on the&amp;nbsp;expanding demand for Internet access (2018)",
+"domestic": "telephone density one of the lowest in the world; fixed-line connections stand at well less than 1 per 100 persons; mobile-cellular usage is approaching 52 per 100 persons (2018)",
+"international": "country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the Word Bank, has backed a joint venture with a number of prominent telcoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)",
+}, 
+"broadcast_media": "state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV station and a national radio network; 3 private TV stations and about 10 privately owned radio stations; transmissions of several international broadcasters are available in Bujumbura (2019)",
+"internet_country_code": ".bi",
+"internet_users": 
+{
+"total": "574,236",
+"percent_of_population": "5.2% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "3,914",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.88% of GDP",
+"2017": "1.87% of GDP",
+"2016": "2.2% of GDP",
+"2015": "2.14% of GDP",
+"2014": "2.01% of GDP",
+},
+"military_and_security_forces": "National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing), National Police (Police Nationale du Burundi) (2019)",
+"military_service_age_and_obligation": "18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited; mandatory retirement ages: 45 (enlisted), 50 (NCOs), 55 (officers), and 60 (officers with the rank of general) (2017)",
+}, 
+"transportation": 
+{
+"civil_aircraft_registration_country_code_prefix": "9U (2016)",
+"airports": "7 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2019)",
+"over_3_047_m": "1",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "6 (2013)",
+"914_to_1_523_m": "4 (2013)",
+"under_914_m": "2 (2013)",
+}, 
+"heliports": "1 (2012)",
+"roadways": 
+{
+"total": "12,322 km (2016)",
+"paved": "1,500 km (2016)",
+"unpaved": "10,822 km (2016)",
+}, 
+"waterways": " (mainly on Lake Tanganyika between Bujumbura, Burundi&#39;s principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo) (2011)",
+"ports_and_terminals": "Bujumbura (Lake Tanganyika)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "84,469&amp;nbsp;(Democratic Republic of the Congo) (refugees and asylum seekers) (2019)",
+"idps": "103,352 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1,993 coup and fighting between government forces and rebel groups; violence since April 2015) (2019)",
+"stateless_persons": "974 (2018)",
+}, 
+"trafficking_in_persons": 
+{
+"current_situation": "Burundi is a source country for children and possibly women subjected to forced labor and sex trafficking; business people recruit Burundian girls for prostitution domestically, as well as in Rwanda, Kenya, Uganda, and the Middle East, and recruit boys and girls for forced labor in Burundi and Tanzania; children and young adults are coerced into forced labor in farming, mining, informal commerce, fishing, or collecting river stones for construction; sometimes family, friends, and neighbors are complicit in exploiting children, at times luring them in with offers of educational or job opportunities",
+"tier_rating": "Tier 3 – Burundi does not comply fully with the minimum standards for the elimination of human trafficking and is not making significant efforts to do so; corruption, a lack of political will, and limited resources continue to hamper efforts to combat human trafficking; in 2014, the government did not inform judicial and law enforcement officials of the enactment of an anti-trafficking law or how to implement it and approved – but did not fund – its national anti-trafficking action plan; authorities again failed to identify trafficking victims or to provide them with adequate protective services; the government has focused on transnational child trafficking but gave little attention to its domestic child trafficking problem and adult trafficking victims (2015)",
+}, 
+}
+}

@@ -1,0 +1,543 @@
+{
+"name": "Singapore",
+"code": "SN",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "A Malay trading port known as Temasek existed on the island of Singapore by the 14th century. The settlement changed hands several times in the ensuing centuries and was eventually burned in the 17th century and fell into obscurity. The British founded modern Singapore as a trading colony on the site in 1819. It joined the Malaysian Federation in 1963 but was ousted two years later and became independent. Singapore subsequently became one of the world&#39;s most prosperous countries with strong international trading links (its port is one of the world&#39;s busiest in terms of tonnage handled) and with per capita GDP equal to that of the leading nations of Western Europe.",
+}, 
+"geography": 
+{
+"location": "Southeastern Asia, islands between Malaysia and Indonesia",
+"geographic_coordinates": "1 22 N, 103 48 E",
+"map_references": "Southeast Asia",
+"area": 
+{
+"total": "719.2 sq km",
+"land": "709.2 sq km",
+"water": "10 sq km",
+}, 
+"area_comparative": "slightly more than 3.5 times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "193 km",
+"maritime_claims": 
+{
+"territorial_sea": "3 nm",
+"exclusive_fishing_zone": " within and beyond territorial sea, as defined in treaties and practice",
+}, 
+"climate": "tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon (December to March) and southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms",
+"terrain": "lowlying, gently undulating central plateau",
+"elevation": 
+{
+"lowest_point": "Singapore Strait 0 m",
+"highest_point": "Bukit Timah 166 m",
+}, 
+"natural_resources": "fish, deepwater ports",
+"land_use": 
+{
+"agricultural_land": "1% (2011 est.)",
+"agricultural_land_arable_land": "0.9% (2011 est.)",
+"agricultural_land_permanent_crops": "0.1% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "3.3% (2011 est.)",
+"other": "95.7% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas",
+"natural_hazards": "flash floods",
+"environment_current_issues": "water pollution; industrial pollution; limited natural freshwater resources; limited land availability presents waste disposal problems; air pollution; deforestation; seasonal smoke/haze resulting from forest fires in Indonesia",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "focal point for Southeast Asian sea routes; consists of about 60 islands, by far the largest of which is Pulau Ujong; land reclamation has removed many former islands and created a number of new ones",
+}, 
+"people_and_society": 
+{
+"population": "5,995,991 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Singaporean(s)",
+"adjective": "Singapore",
+}, 
+"ethnic_groups": "Chinese 74.3%, Malay 13.4%, Indian 9%, other 3.2% (2018 est.)",
+"languages": "English (official) 36.9%, Mandarin (official) 34.9%, other Chinese dialects (includes Hokkien, Cantonese, Teochew, Hakka) 12.2%, Malay (official) 10.7%, Tamil (official) 3.3%, other 2% (2015 est.)",
+"religions": "Buddhist 33.2%, Christian 18.8%, Muslim 14%, Taoist 10%, Hindu 5%, other 0.6%, none 18.5% (2015 est.)",
+"age_structure": 
+{
+"0_14_years": "12.77% (male 391,714 /female 373,766)",
+"15_24_years": "16.05% (male 473,012 /female 489,553)",
+"25_54_years": "50.61% (male 1,476,528 /female 1,558,179)",
+"55_64_years": "10.53% (male 316,001 /female 315,648)",
+"65_years_and_over": "10.03% (male 274,863 /female 326,727) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "37.3 (2015 est.)",
+"youth_dependency_ratio": "21.3 (2015 est.)",
+"elderly_dependency_ratio": "16 (2015 est.)",
+"potential_support_ratio": "6.2 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "34.9 years (2018 est.)",
+"male": "34.8 years",
+"female": "35.1 years",
+}, 
+"population_growth_rate": "1.79% (2018 est.)",
+"birth_rate": "8.7 births/1,000 population (2018 est.)",
+"death_rate": "3.5 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "12.7 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas",
+"urbanization": 
+{
+"urban_population": "100% of total population (2019)",
+"rate_of_urbanization": "1.39% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "5.868 million SINGAPORE (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.07 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "0.97 male(s)/female",
+"25_54_years": "0.95 male(s)/female",
+"55_64_years": "1 male(s)/female",
+"65_years_and_over": "0.84 male(s)/female",
+"total_population": "0.96 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "30.5 years (2015 est.)",
+"maternal_mortality_rate": "8 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "2.3 deaths/1,000 live births (2018 est.)",
+"male": "2.5 deaths/1,000 live births",
+"female": "2.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "85.5 years (2018 est.)",
+"male": "82.8 years",
+"female": "88.3 years",
+}, 
+"total_fertility_rate": "0.84 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "4.3% (2016)",
+"physicians_density": "2.31 physicians/1,000 population (2016)",
+"hospital_bed_density": "2.4 beds/1,000 population (2015)",
+"sanitation_facility_access": 
+{
+"improved_urban": "100% of population (2015 est.)",
+"improved_total": "100% of population (2015 est.)",
+"unimproved_urban": "0% of population (2015 est.)",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.2% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "7,900 (2018 est.)",
+"hiv_aids_deaths": " &lt;100 (2018 est.)",
+"major_infectious_diseases": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus&lt;/p&gt;", 
+"obesity_adult_prevalence_rate": "6.1% (2016)",
+"education_expenditures": "2.9% of GDP (2013)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "97%",
+"male": "98.7%",
+"female": "95.4% (2016)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "16 years",
+"male": "16 years",
+"female": "17 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "9.1%",
+"male": "6.2%",
+"female": "12.5% (2016 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Singapore",
+"conventional_short_form": "Singapore",
+"local_long_form": "Republic of Singapore",
+"local_short_form": "Singapore",
+"etymology": "name derives from the Sanskrit words &quot;simha&quot; (lion) and &quot;pura&quot; (city) to describe the city-state&#39;s leonine symbol",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Singapore",
+"geographic_coordinates": "1 17 N, 103 51 E",
+"time_difference": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "no first order administrative divisions; there are five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)",
+"independence": "9 August 1965 (from Malaysian Federation)",
+"national_holiday": "National Day, 9 August (1965)",
+"constitution": 
+{
+"history": "several previous; latest adopted 22 December 1965",
+"amendments": "proposed by Parliament; passage requires two-thirds majority vote in the second and third readings by the elected Parliament membership and assent of the president of the republic; passage of amendments affecting sovereignty or control of the Police Force or the Armed Forces requires at least two-thirds majority vote in a referendum; amended many times, last in 2016 (2018)",
+}, 
+"legal_system": "English common law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICC (2019)",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Singapore",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "21 years of age; universal and compulsory",
+"executive_branch": 
+{
+"chief_of_state": "President HALIMAH Yacob (since 14 September 2017); note - President TAN&#39;s term ended on 31 August 2017; HALIMAH is Singapore&#39;s first female president; the head of the Council of Presidential Advisors, J.Y. PILLAY, served as acting president until HALIMAH was sworn in as president on 14 September 2017",
+"head_of_government": "Prime Minister LEE Hsien Loong (since 12 August 2004); Deputy Prime Ministers&amp;nbsp;HENG Swee Keat&amp;nbsp;(since 1&amp;nbsp;May 2019) (2019)",
+"cabinet": "Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament",
+"elections_appointments": "president directly elected by simple majority popular vote for a fixed term of 6-years&amp;nbsp;(there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president",
+"election_results": "HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate; Tony TAN Keng Yam elected president in the previous contested election on 27 August 2011; percent of vote - Tony TAN Keng Yam (independent) 35.2% , TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Parliament (101 seats; 89 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 9 but currently 3 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members will increase to 12 for the&amp;nbsp;next election (2019)",
+"elections": "last held on 11 September 2015 (next must be held by 15 April 2021)",
+"election_results": "percent of vote by party - PAP 69.9%, WP 12.5%, other 17.6%; seats by party - PAP 83, WP 6; composition - men 77, women 24, percent of women 23.8%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (although the number of judges varies - as of April 2019,&amp;nbsp;the court&amp;nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court",
+"judge_selection_and_term_of_office": "judges appointed by the president from candidates recommended by the prime minister after consultation with the chief justice; judges usually serve until retirement at age 65, but terms can be extended",
+"subordinate_courts": "district, magistrates&#39;, juvenile, family, community, and coroners&#39; courts; small claims tribunals; employment claims tribunals",
+}, 
+"political_parties_and_leaders": "National Solidarity Party or NSP [Sebastian TEO]&lt;br /&gt;People&#39;s Action Party or PAP [LEE Hsien Loong]&lt;br /&gt;Progress Singapore Party or PSP [Tan Cheng Bock]&lt;br /&gt;Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]&lt;br /&gt;Workers&#39; Party or WP [Pritam SINGH]",
+"international_organization_participation": "ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UPU, WCO, WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Ashok Kumar MIRPURI (since 30 July 2012)",
+"chancery": "3501 International Place NW, Washington, DC 20008",
+"telephone": "[1] (202) 537-3100",
+"fax": "[1] (202) 537-0876",
+"consulate_s_general": "San Francisco",
+"consulate_s": "New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant); Charge d&#39;Affaires Rafik MANSOUR (since July 2019)",
+"telephone": "[65] 6476-9100",
+"embassy": "27 Napier Road, Singapore 258508",
+"mailing_address": "FPO AP 96507-0001",
+"fax": "[65] 6476-9340",
+}, 
+"flag_description": "two equal horizontal bands of red (top) and white; near the hoist side of the red band, there is a vertical, white crescent (closed portion is toward the hoist side) partially enclosing five white five-pointed stars arranged in a circle; red denotes brotherhood and equality; white signifies purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the five stars represent the nation&#39;s ideals of democracy, peace, progress, justice, and equality",
+"national_symbol_s": "lion, merlion (mythical half lion-half fish creature), orchid; national colors: red, white",
+"national_anthem": 
+{
+"name": "&quot;Majulah Singapura&quot; (Onward Singapore)",
+"lyrics_music": "ZUBIR Said",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Singapore has a highly developed and successful free-market economy. It enjoys an open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of electronics, petroleum products, chemicals, medical and optical devices, pharmaceuticals, and on Singapore’s vibrant transportation, business, and financial services sectors.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010. Growth from 2012-2017 was slower than during the previous decade, a result of slowing structural growth - as Singapore reached high-income levels - and soft global demand for exports. Growth recovered to 3.6% in 2017 with a strengthening global economy.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The government is attempting to restructure Singapore’s economy to reduce its dependence on foreign labor, raise productivity growth, and increase wages amid slowing labor force growth and an aging population. Singapore has attracted major investments in advanced manufacturing, pharmaceuticals, and medical technology production and will continue efforts to strengthen its position as Southeast Asia&#39;s leading financial and technology hub. Singapore is a signatory of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and a party to the Regional Comprehensive Economic Partnership (RCEP) negotiations with nine other ASEAN members plus Australia, China, India, Japan, South Korea, and New Zealand. In 2015, Singapore formed, with the other ASEAN members, the ASEAN Economic Community.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$528.1 billion",
+"2016": "$509.7 billion",
+"2015": "$497.8 billion",
+},
+"gdp_official_exchange_rate": "$323.9 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.6%",
+"2016": "2.4%",
+"2015": "2.2%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$94,100",
+"2016": "$90,900",
+"2015": "$89,900",
+},
+"gross_national_saving":
+{
+"2017": "46.5% of GDP",
+"2016": "46% of GDP",
+"2015": "45.7% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "35.6% (2017 est.)",
+"government_consumption": "10.9% (2017 est.)",
+"investment_in_fixed_capital": "24.8% (2017 est.)",
+"investment_in_inventories": "2.8% (2017 est.)",
+"exports_of_goods_and_services": "173.3% (2017 est.)",
+"imports_of_goods_and_services": "-149.1% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "0% (2017 est.)",
+"industry": "24.8% (2017 est.)",
+"services": "75.2% (2017 est.)",
+}, 
+"agriculture_products": "vegetables; poultry, eggs; fish, ornamental fish, orchids",
+"industries": "electronics, chemicals, financial services, oil drilling equipment, petroleum refining, biomedical products, scientific instruments, telecommunication equipment, processed food and beverages, ship repair, offshore platform construction, entrepot trade",
+"industrial_production_growth_rate": "5.7% (2017 est.)",
+"labor_force": "3.657 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "0.7%",
+"industry": "25.6%",
+"services": "73.7% (2017)",
+}, 
+"unemployment_rate":
+{
+"2017": "2.2%",
+"2016": "2.1%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.6%",
+"highest_10": "27.5% (2017)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2017": "45.9",
+"2016": "45.8",
+},
+"budget": 
+{
+"revenues": "50.85 billion (2017 est.)",
+"expenditures": "51.87 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "15.7% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-0.3% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "111.1% of GDP",
+"2016": "106.8% of GDP",
+},
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.6%",
+"2016": "-0.5%",
+},
+"central_bank_discount_rate":
+{
+"2017": "2.15%",
+"2016": "1.17%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "5.28%",
+"31 December 2016": "5.35%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$137.4 billion",
+"31 December 2016": "$119.4 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$137.4 billion",
+"31 December 2016": "$119.4 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$471.2 billion",
+"31 December 2016": "$383.3 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$809.4 billion",
+"31 December 2016": "$712.3 billion",
+"31 December 2015": "$696 billion",
+},
+"current_account_balance":
+{
+"2017": "$60.99 billion",
+"2016": "$58.85 billion",
+},
+"exports":
+{
+"2017": "$396.8 billion",
+"2016": "$338 billion",
+},
+"exports_partners": "China 14.7%, Hong Kong 12.6%, Malaysia 10.8%, US 6.6%, Indonesia 5.8%, Japan 4.7%, South Korea 4.6%, Thailand 4% (2017)",
+"exports_commodities": "machinery and equipment (including electronics and telecommunications), pharmaceuticals and other chemicals, refined petroleum products, foodstuffs and beverages",
+"imports":
+{
+"2017": "$312.1 billion",
+"2016": "$277.6 billion",
+},
+"imports_commodities": "machinery and equipment, mineral fuels, chemicals, foodstuffs, consumer goods",
+"imports_partners": "China 13.9%, Malaysia 12%, US 10.7%, Japan 6.3%, South Korea 5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$279.9 billion",
+"31 December 2016": "$271.8 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$566.1 billion",
+"30 September 2017": "$464.1 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$1.285 trillion",
+"31 December 2016": "$1.22 trillion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$841.4 billion",
+"31 December 2016": "$759.2 billion",
+},
+"exchange_rates": 
+{
+"currency": "Singapore dollars (SGD) per US dollar -",
+"exchange_rates":
+{
+"2017": "1.3",
+"2016": "1.35",
+"2015": "1.3815",
+"2014": "1.3748",
+"2013": "1.2671",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "48.66 billion kWh (2016 est.)",
+"electricity_consumption": "47.69 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "13.35 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "98% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "2% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "14,780 bbl/day (2015 est.)",
+"crude_oil_imports": "783,300 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "755,000 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "1.322 million bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "1.82 million bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "2.335 million bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "12.97 billion cu m (2017 est.)",
+"natural_gas_exports": "622.9 million cu m (2017 est.)",
+"natural_gas_imports": "13.48 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2017 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "249.5 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,983,100",
+"subscriptions_per_100_inhabitants": "34 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "8,462,800",
+"subscriptions_per_100_inhabitants": "144 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "excellent service; world leader in telecommunications and perhaps the first &#39;Smart Nation&#39; where a sensor network is implemented; saturated mobile audience; roll out of 4G and 5G networks to ensure faster speeds; wireless and fiber broadband growing segments of telecommunications (2018)",
+"domestic": "excellent domestic facilities; fixed-line&amp;nbsp;34.9 per 100 and mobile-cellular 149.6 per 100 teledensity; multiple providers of high-speed Internet connectivity (2018)",
+"international": "country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&amp;nbsp;PGASCOM, BSCS,&amp;nbsp;IGG,&amp;nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )",
+}, 
+"broadcast_media": "state controls broadcast media;&amp;nbsp;6 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; a total of 19 domestic radio stations broadcasting, with MediaCorp operating 11, Singapore Press Holdings, also government-linked, another 5,&amp;nbsp;2 controlled by the Singapore Armed Forces Reservists Association and one owned by BBC Radio; Malaysian and Indonesian radio stations are available as is BBC; a number of Internet service radio stations are also available (2019)",
+"internet_country_code": ".sg",
+"internet_users": 
+{
+"total": "4,683,200",
+"percent_of_population": "81% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,470,400",
+"subscriptions_per_100_inhabitants": "25 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "3.3% of GDP",
+"2018": "3.14% of GDP",
+"2017": "3.16% of GDP",
+"2016": "3.19% of GDP",
+"2015": "3.09% of GDP",
+},
+"military_and_security_forces": "Singapore Armed Forces: Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes Air Defense);&amp;nbsp; Police Coast Guard (subordinate to the Singapore Police Force) (2019)",
+"military_service_age_and_obligation": "18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers) (2019)",
+"maritime_threats": "the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw three attacks against commercial vessels in 2018, a slight decrease from the four attacks in 2017 (2018)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "5 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "197 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "33,290,544 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "6,154,365,275 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "9V (2016)",
+"airports": "9 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "9 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "2 (2017)",
+"1_524_to_2_437_m": "3 (2017)",
+"914_to_1_523_m": "1 (2017)",
+"under_914_m": "1 (2017)",
+}, 
+"pipelines": "3220 km domestic gas (2014), 1122 km cross-border pipelines (2017), 8 km refined products (2013)",
+"roadways": 
+{
+"total": "3,500 km (2017)",
+"paved": "3,500 km (includes 164 km of expressways) (2017)",
+}, 
+"merchant_marine": 
+{
+"total": "3,526",
+"by_type": "bulk carrier 603, container ship 490, general cargo 132, oil tanker 732, other 1,569 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Singapore",
+"container_port_s_teus": "Singapore (33,666,000) (2017)",
+"lng_terminal_s_import": "Singapore",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": 
+{
+"islamic_state_of_iraq_and_ash_sham_isis_network_in_singapore": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its networks in Singapore; implement ISIS&#39;s strict interpretation of sharia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; attacks in Bangladesh are staged in Singapore; operates under the name the Islamic State in Bangladesh (2018)",
+"jemaah_islamiyah_ji": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its networks in Singapore and, ultimately, overthrow the Singapore Government and establish a pan-Islamic state across Southeast Asia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains a presence (2018)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;disputes with Malaysia over territorial waters, airspace, the price of fresh water delivered to Singapore from Malaysia, Singapore&#39;s extensive land reclamation works, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge; Indonesia and Singapore continue to work on finalization of their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia&#39;s Batam Island; piracy remains a problem in the Malacca Strait&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "1,303 (2018)",
+"illicit_drugs": "drug abuse limited because of aggressive law enforcement efforts, including carrying out death sentences; as a transportation and financial services hub, Singapore is vulnerable, despite strict laws and enforcement, as a venue for money laundering",
+}
+}

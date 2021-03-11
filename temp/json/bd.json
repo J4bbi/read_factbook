@@ -1,0 +1,424 @@
+{
+"name": "Bermuda",
+"code": "BD",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "Bermuda was first settled in 1609 by shipwrecked English colonists heading for Virginia. Self-governing since 1620, Bermuda is the oldest and most populous of the British overseas territories. Vacationing to the island to escape North American winters first developed in Victorian times. Tourism continues to be important to the island&#39;s economy, although international business has overtaken it in recent years. Bermuda has also developed into a highly successful offshore financial center. A referendum on independence from the UK was soundly defeated in 1995.",
+}, 
+"geography": 
+{
+"location": "North America, group of islands in the North Atlantic Ocean, east of South Carolina (US)",
+"geographic_coordinates": "32 20 N, 64 45 W",
+"map_references": "North America",
+"area": 
+{
+"total": "54 sq km",
+"land": "54 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "about one-third the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "103 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_fishing_zone": "200 nm",
+}, 
+"climate": "subtropical; mild, humid; gales, strong winds common in winter",
+"terrain": "low hills separated by fertile depressions",
+"elevation": 
+{
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Town Hill 79 m",
+}, 
+"natural_resources": "limestone, pleasant climate fostering tourism",
+"land_use": 
+{
+"agricultural_land": "14.8% (2011 est.)",
+"agricultural_land_arable_land": "14.8% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "20% (2011 est.)",
+"other": "65.2% (2011 est.)",
+}, 
+"irrigated_land": " NA",
+"population_distribution": "relatively even population distribution throughout",
+"natural_hazards": "hurricanes (June to November)",
+"environment_current_issues": "dense population and heavy vehicle traffic create serious congestion and air pollution problems; water resources scarce (most obtained as rainwater or from wells); solid waste disposal; hazardous waste disposal; sewage disposal; overfishing; oil spills",
+"geography_note": "consists of about 138 coral islands and islets with ample rainfall, but no rivers or freshwater lakes; some land was leased by the US Government from 1941 to 1995",
+}, 
+"people_and_society": 
+{
+"population": "71,176 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Bermudian(s)",
+"adjective": "Bermudian",
+}, 
+"ethnic_groups": "African descent 53.8%, white 31%, mixed 7.5%, other 7.1%, unspecified 0.6% (2010 est.)",
+"languages": "English (official), Portuguese",
+"religions": "Protestant 46.2% (includes Anglican 15.8%, African Methodist Episcopal 8.6%, Seventh Day Adventist 6.7, Pentecostal 3.5%, Methodist 2.7%, Presbyterian 2.0%, Church of God 1.6%, Baptist 1.2%, Salvation Army 1.1%, Brethren 1.0%, other Protestant 2.0%), Roman Catholic 14.5%, Jehovah&#39;s Witness 1.3%, other Christian 9.1%, Muslim 1%, other 3.9%, none 17.8%, unspecified 6.2% (2010 est.)",
+"age_structure": 
+{
+"0_14_years": "16.92% (male 6,088 /female 5,957)",
+"15_24_years": "11.95% (male 4,306 /female 4,197)",
+"25_54_years": "36.56% (male 13,049 /female 12,972)",
+"55_64_years": "16.04% (male 5,383 /female 6,034)",
+"65_years_and_over": "18.53% (male 5,596 /female 7,594) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "43.5 years (2018 est.)",
+"male": "41.5 years",
+"female": "45.4 years",
+}, 
+"population_growth_rate": "0.43% (2018 est.)",
+"birth_rate": "11.3 births/1,000 population (2018 est.)",
+"death_rate": "8.7 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "1.7 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "relatively even population distribution throughout",
+"urbanization": 
+{
+"urban_population": "100% of total population (2019)",
+"rate_of_urbanization": "-0.44% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "10,000 HAMILTON (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.02 male(s)/female",
+"0_14_years": "1.02 male(s)/female",
+"15_24_years": "1.03 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "0.89 male(s)/female",
+"65_years_and_over": "0.74 male(s)/female",
+"total_population": "0.94 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "2.5 deaths/1,000 live births (2018 est.)",
+"male": "2.6 deaths/1,000 live births",
+"female": "2.4 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "81.5 years (2018 est.)",
+"male": "78.3 years",
+"female": "84.7 years",
+}, 
+"total_fertility_rate": "1.92 children born/woman (2018 est.)",
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"education_expenditures": "1.5% of GDP (2017)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "12 years",
+"male": "11 years",
+"female": "12 years (2015)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "29.3%",
+"male": "29.7%",
+"female": "29% (2014 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Bermuda",
+"former": "Somers Islands",
+"etymology": "the islands making up Bermuda are named after Juan de BERMUDEZ, an early 16th century Spanish sea captain and the first European explorer of the archipelago",
+}, 
+"dependency_status": "overseas territory of the UK",
+"government_type": "parliamentary democracy; self-governing overseas territory of the UK",
+"capital": 
+{
+"name": "Hamilton",
+"geographic_coordinates": "32 17 N, 64 47 W",
+"time_difference": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins second Sunday in March; ends first Sunday in November",
+}, 
+"administrative_divisions": "9 parishes and 2 municipalities*; Devonshire, Hamilton, Hamilton*, Paget, Pembroke, Saint George*, Saint George&#39;s, Sandys, Smith&#39;s, Southampton, Warwick",
+"independence": "none (overseas territory of the UK)",
+"national_holiday": "Bermuda Day, 24 May; note - formerly known as Victoria Day, Empire Day, and Commonwealth Day",
+"constitution": 
+{
+"history": "several previous (dating to 1684); latest entered into force 8 June 1968 (Bermuda Constitution Order 1968)",
+"amendments": "proposal procedure - NA; passage by an Order in Council in the UK; amended several times, last in 2012 (2018)",
+}, 
+"legal_system": "English common law",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of the UK",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "10 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor John RANKIN (since 5 December 2016)",
+"head_of_government": "Premier David BURT (since 19 July 2017)",
+"cabinet": "Cabinet nominated by the premier, appointed by the governor",
+"elections_appointments": "the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament consists of:&lt;br /&gt;Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)&lt;br /&gt; House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)",
+"elections": "&lt;br /&gt;Senate - last appointments in August 2017 (next appointments in 2022)&lt;br /&gt;House of Assembly - last held on 18 July 2017 (next to be held not later than 2022)",
+"election_results": "Senate - composition - men 7, women 4, percent of women 36.4%&lt;br /&gt;House of Assembly - percent of vote by party - PLP 58.9%, OBA 40.6%, other 0.5%; seats by party - PLP 24, OBA 12; composition - men 28, women 8, percent of women 22.2%; note - total Parliament percent of women 25.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal",
+"judge_selection_and_term_of_office": "Court of Appeal justice appointed by the governor; justice tenure by individual appointment; Supreme Court judges nominated by the Judicial and Legal Services Commission and appointed by the governor; judge tenure based on terms of appointment",
+"subordinate_courts": "commercial court (began in 2006); magistrates&#39; courts",
+}, 
+"political_parties_and_leaders": "One Bermuda Alliance or OBA (vacant)&lt;br /&gt;Progressive Labor Party or PLP [E. David BURT]",
+"international_organization_participation": "Caricom (associate), ICC (NGOs), Interpol (subbureau), IOC, ITUC (NGOs), UPU, WCO",
+"diplomatic_representation_in_the_us": "none (overseas territory of the UK)", 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Consul General Mary Ellen KOENIG (since 28 November 2015)",
+"telephone": "[1] (441) 295-1342",
+"mailing_address": "P. O. Box HM325, Hamilton HMBX; American Consulate General Hamilton, US Department of State, 5300 Hamilton Place, Washington, DC 20520-5300",
+"fax": "[1] (441) 295-1592, 296-9233",
+"consulate_s_general": "Crown Hill, 16 Middle Road, Devonshire DVO3",
+}, 
+"flag_description": "red, with the flag of the UK in the upper hoist-side quadrant and the Bermudian coat of arms (a white shield with a red lion standing on a green grassy field holding a scrolled shield showing the sinking of the ship Sea Venture off Bermuda in 1609) centered on the outer half of the flag; it was the shipwreck of the vessel, filled with English colonists originally bound for Virginia, that led to the settling of Bermuda",
+"national_symbol_s": "red lion",
+"national_anthem": 
+{
+"name": "Hail to Bermuda",
+"lyrics_music": "Bette JOHNS",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda&#39;s economy, consistently accounting for about 85% of the island&#39;s GDP. Tourism is the country’s second largest industry, accounting for about 5% of Bermuda&#39;s GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Bermuda&#39;s economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2016": "$6.127 billion",
+"2015": "$6.133 billion",
+"2014": "$6.097 billion",
+},
+"gdp_official_exchange_rate": "$6.127 billion (2016 est.) (2016 est.)",
+"gdp_real_growth_rate":
+{
+"2016": "-0.1%",
+"2015": "0.6%",
+"2014": "-0.3%",
+},
+"gdp_per_capita_ppp":
+{
+"2016": "$99,400",
+"2015": "$95,500",
+"2014": "$87,500",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "51.3% (2017 est.)",
+"government_consumption": "15.7% (2017 est.)",
+"investment_in_fixed_capital": "13.7% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "49.8% (2017 est.)",
+"imports_of_goods_and_services": "-30.4% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "0.9% (2017 est.)",
+"industry": "5.3% (2017 est.)",
+"services": "93.8% (2017 est.)",
+}, 
+"agriculture_products": "bananas, vegetables, citrus, flowers; dairy products, honey",
+"industries": "international business, tourism, light manufacturing",
+"industrial_production_growth_rate": "2% (2017 est.)",
+"labor_force": "33,480 (2016 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "2%",
+"industry": "13%",
+"services": "85% (2016 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "7%",
+"2016": "7%",
+},
+"population_below_poverty_line": "11% (2008 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "999.2 million (2017 est.)",
+"expenditures": "1.176 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "16.3% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-2.9% (of GDP) (2017 est.)",
+"public_debt":
+{
+"FY14/15": "43% of GDP",
+},
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.9%",
+"2016": "1.4%",
+},
+"stock_of_narrow_money":
+{
+"30 September 2014": "$3.374 billion",
+"31 December 2013": "$3.422 billion",
+},
+"stock_of_broad_money":
+{
+"30 September 2014": "$22.1 billion",
+"31 December 2013": "$25.1 billion",
+},
+"stock_of_domestic_credit": "&lt;p&gt;NA&lt;/p&gt;", 
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$1.85 billion",
+"31 December 2014": "$1.601 billion",
+"31 December 2013": "$1.467 billion",
+},
+"current_account_balance":
+{
+"2017": "$818.6 million",
+"2016": "$763 million",
+},
+"exports":
+{
+"2017": "$19 million",
+"2016": "$19 million",
+},
+"exports_partners": "Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)",
+"exports_commodities": "reexports of pharmaceuticals",
+"imports":
+{
+"2017": "$1.094 billion",
+"2016": "$980 million",
+},
+"imports_commodities": "clothing, fuels, machinery and transport equipment, construction materials, chemicals, food and live animals",
+"imports_partners": "US 72.1%, South Korea 9.7%, Canada 4.2% (2017)",
+"debt_external":
+{
+"2017": "$2.515 billion",
+"2015": "$2.435 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"2014": "$2.641 billion",
+"2013": "$2.664 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"2014": "$889 million",
+"2013": "$835 million",
+},
+"exchange_rates": 
+{
+"currency": "Bermudian dollars (BMD) per US dollar -",
+"exchange_rates":
+{
+"2017": "1",
+"2016": "1",
+"2015": "1",
+"2014": "1",
+"2013": "1",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "650 million kWh (2016 est.)",
+"electricity_consumption": "604.5 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "171,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "100% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "5,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "3,939 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "793,700 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "21,883",
+"subscriptions_per_100_inhabitants": "31 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "64,997",
+"subscriptions_per_100_inhabitants": "92 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "a good, fully automatic digital telephone system with fiber-optic trunk lines; telecom sector provides a relatively high contribution to overall GDP; numerous competitors licensed, but small and localized (2018)",
+"domestic": "the system has a high fixed-line teledensity 31 per 100, coupled with a mobile-cellular teledensity of roughly&amp;nbsp;92 per 100 persons (2018)",
+"international": "country code - 1-441; landing points for the GlobeNet, Gemini Bermuda, CBUS, and the CB-1 submarine cables to the Caribbean, South America and the US; satellite earth stations - 3 (2019)",
+}, 
+"broadcast_media": "3 TV stations; cable and satellite TV subscription services are available; roughly 13 radio stations operating",
+"internet_country_code": ".bm",
+"internet_users": 
+{
+"total": "69,126",
+"percent_of_population": "98% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "Royal Bermuda Regiment (2019)",
+"military_service_age_and_obligation": "18-45 years of age for voluntary male or female enlistment in the Bermuda Regiment; males must register at age 18 and may be subject to conscription; term of service is 38 months for volunteers or conscripts (2012)",
+"military_note": "defense is the responsibility of the UK",
+}, 
+"transportation": 
+{
+"civil_aircraft_registration_country_code_prefix": "VP-B (2016)",
+"airports": "1 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2019)",
+"2_438_to_3_047_m": "1",
+}, 
+"roadways": 
+{
+"total": "447 km (2010)",
+"paved": "447 km (2010)",
+}, 
+"merchant_marine": 
+{
+"total": "160",
+"by_type": "bulk carrier 6, container ship 11, general cargo 1, oil tanker 19, other 123 (2018)",
+}, 
+"ports_and_terminals": "Hamilton, Ireland Island, Saint George",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

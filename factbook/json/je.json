@@ -1,0 +1,326 @@
+{
+"name": "Jersey",
+"code": "JE",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "Jersey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy that held sway in both France and England. These islands were the only British soil occupied by German troops in World War II. The Bailiwick of Jersey is a British crown dependency, which means that it is not part of the UK but is rather a self-governing possession of the British crown. However, the UK Government is constitutionally responsible for its defense and international representation.",
+}, 
+"geography": 
+{
+"location": "Western Europe, island in the English Channel, northwest of France",
+"geographic_coordinates": "49 15 N, 2 10 W",
+"map_references": "Europe",
+"area": 
+{
+"total": "116 sq km",
+"land": "116 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "about two-thirds the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "70 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_fishing_zone": "12 nm",
+}, 
+"climate": "temperate; mild winters and cool summers",
+"terrain": "gently rolling plain with low, rugged hills along north coast",
+"elevation": 
+{
+"lowest_point": "English Channel 0 m",
+"highest_point": "Les Platons 136 m",
+}, 
+"natural_resources": "arable land",
+"land_use": 
+{
+"agricultural_land": "66% (2011 est.)",
+"agricultural_land_arable_land": "66% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "0% (2011 est.)",
+"other": "34% (2011 est.)",
+}, 
+"irrigated_land": " NA",
+"population_distribution": "fairly even distribution; no notable trends",
+"natural_hazards": "very large tidal variation can be hazardous to navigation",
+"environment_current_issues": "habitat and species depletion due to human encroachment; water pollution; improper solid waste disposal",
+"geography_note": "largest and southernmost of Channel Islands; about 30% of population concentrated in Saint Helier",
+}, 
+"people_and_society": 
+{
+"population": "99,602 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Channel Islander(s)",
+"adjective": "Channel Islander",
+}, 
+"ethnic_groups": "Jersey 46.4%, British 32.7%, Portuguese/Madeiran 8.2%, Polish 3.3%, Irish, French, and other white 7.1%, other 2.4% (2011 est.)",
+"languages": "English 94.5% (official), Portuguese 4.6%, other 0.9% (2001 census)",
+"religions": "Protestant (Anglican, Baptist, Congregational New Church, Methodist, Presbyterian), Roman Catholic",
+"age_structure": 
+{
+"0_14_years": "16.37% (male 8,430 /female 7,870)",
+"15_24_years": "13.63% (male 7,004 /female 6,572)",
+"25_54_years": "40.71% (male 20,392 /female 20,160)",
+"55_64_years": "12.73% (male 6,187 /female 6,497)",
+"65_years_and_over": "16.56% (male 7,015 /female 9,475) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "47.1 (2015 est.)",
+"youth_dependency_ratio": "21.6 (2015 est.)",
+"elderly_dependency_ratio": "25.4 (2015 est.)",
+"potential_support_ratio": "3.9 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "37.7 years (2018 est.)",
+"male": "35.9 years",
+"female": "40.2 years",
+}, 
+"population_growth_rate": "0.76% (2018 est.)",
+"birth_rate": "12.5 births/1,000 population (2018 est.)",
+"death_rate": "7.8 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "2.9 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "fairly even distribution; no notable trends",
+"urbanization": 
+{
+"urban_population": "30.9% of total population (2019)",
+"rate_of_urbanization": "0.46% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "34,000 SAINT HELIER (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.07 male(s)/female",
+"15_24_years": "1.07 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "0.95 male(s)/female",
+"65_years_and_over": "0.74 male(s)/female",
+"total_population": "0.97 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "3.7 deaths/1,000 live births (2018 est.)",
+"male": "3.9 deaths/1,000 live births",
+"female": "3.5 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "82 years (2018 est.)",
+"male": "79.5 years",
+"female": "84.7 years",
+}, 
+"total_fertility_rate": "1.66 children born/woman (2018 est.)",
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"education_expenditures": " NA",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Bailiwick of Jersey",
+"conventional_short_form": "Jersey",
+"former": "Norman Isles",
+"etymology": "the name is of Old Norse origin, but the meaning of the root &quot;Jer(s)&quot; is uncertain; the &quot;-ey&quot; ending means &quot;island&quot;",
+}, 
+"dependency_status": "British crown dependency",
+"government_type": "parliamentary democracy (Assembly of the States of Jersey); a crown dependency of the UK",
+"capital": 
+{
+"name": "Saint Helier",
+"geographic_coordinates": "49 11 N, 2 06 W",
+"time_difference": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "none (British crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, and Trinity",
+"independence": "none (British crown dependency)",
+"national_holiday": "Liberation Day, 9 May (1945)",
+"constitution": 
+{
+"history": "unwritten; partly statutes, partly common law and practice",
+"amendments": "proposed by a government minister to the Assembly of the States of Jersey, by an Assembly member, or by an elected parish head; passage requires several Assembly readings, a majority vote by the Assembly, review by the UK Ministry of Justice, and approval of the British monarch (Royal Assent)",
+}, 
+"legal_system": "the laws of the UK apply where applicable; includes local statutes",
+"citizenship": "see United Kingdom", 
+"suffrage": "16 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir Stephen DALTON (since 13 March 2017)",
+"head_of_government": "Chief Minister John LE FONDRE (since 8 June 2018); Bailiff William BAILHACHE (since 29 January 2015)",
+"cabinet": "Council of Ministers appointed individually by the states",
+"elections_appointments": "the monarchy is hereditary; Council of Ministers, including the chief minister, indirectly elected by the Assembly of States; lieutenant governor and bailiff appointed by the monarch",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms; 5 non-voting members appointed by the monarch include the bailiff, lieutenant governor, dean of Jersey, attorney general, and the solicitor general)",
+"elections": "last held on 16 May 2018 (next to be held on 16 May 2022)",
+"election_results": "percent of vote - NA; seats - independents 49; composition - men 36, women 13, percent of 26.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)",
+"judge_selection_and_term_of_office": "Jersey Court of Appeal bailiffs and judges appointed by the Crown upon the advice of the Secretary of State for Justice; bailiffs and judges appointed for &quot;extent of good behavior;&quot; Royal Court bailiffs appointed by the Crown upon the advice of the Secretary of State for Justice; commissioners appointed by the bailiff; jurats appointed by the Electoral College; bailiffs and commissioners appointed for &quot;extent of good behavior;&quot; jurats appointed until retirement at age 72",
+"subordinate_courts": "Magistrate&#39;s Court; Youth Court; Petty Debts Court; Parish Hall Enquires (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)",
+}, 
+"political_parties_and_leaders": "&lt;strong&gt;one registered party:&lt;/strong&gt; Reform Jersey [Sam MEZEC]",
+"international_organization_participation": "UPU",
+"diplomatic_representation_in_the_us": "none (British crown dependency)", 
+"diplomatic_representation_from_the_us": "none (British crown dependency)", 
+"flag_description": "white with a diagonal red cross extending to the corners of the flag; in the upper quadrant, surmounted by a yellow crown, a red shield with three lions in yellow; according to tradition, the ships of Jersey - in an attempt to differentiate themselves from English ships flying the horizontal cross of St. George - rotated the cross to the &quot;X&quot; (saltire) configuration; because this arrangement still resembled the Irish cross of St. Patrick, the yellow Plantagenet crown and Jersey coat of arms were added",
+"national_symbol_s": "Jersey cow; national colors: red, white",
+"national_anthem": 
+{
+"name": "&quot;Isle de Siez Nous&quot; (Island Home)",
+"lyrics_music": "Gerard LE FEUVRE",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "Jersey&#39;s economy is based on international financial services, agriculture, and tourism. In 2016, the financial services sector accounted for about 41% of the island&#39;s output. Agriculture represented about 1% of Jersey’s economy in 2016. Potatoes are an important export crop, shipped mostly to the UK. The Jersey breed of dairy cattle originated on the island and is known worldwide. The dairy industry remains important to the island with approximately $8.8 million gallons of milk produced in 2015. Tourism accounts for a significant portion of Jersey’s economy, with more than 700,000 total visitors in 2015. Living standards come close to those of the UK. All raw material and energy requirements are imported as well as a large share of Jersey&#39;s food needs. Light taxes and death duties make the island a popular offshore financial center. Jersey maintains its relationship with the EU through the UK. Therefore, in light of the UK’s decision to leave the EU, Jersey will also need to renegotiate its ties to the EU.",
+"gdp_purchasing_power_parity":
+{
+"2016": "$5.569 billion",
+"2015": "$5.514 billion",
+"2014": "$4.98 billion",
+},
+"gdp_official_exchange_rate": "$5.004 billion (2015 est.) (2015 est.)",
+"gdp_real_growth_rate":
+{
+"2016": "1%",
+"2015": "10.7%",
+},
+"gdp_per_capita_ppp":
+{
+"2016": "$56,600",
+"2015": "$49,500",
+},
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "2% (2010)",
+"industry": "2% (2010)",
+"services": "96% (2010)",
+}, 
+"agriculture_products": "potatoes, cauliflower, tomatoes; beef, dairy products",
+"industries": "tourism, banking and finance, dairy, electronics",
+"industrial_production_growth_rate": " NA",
+"labor_force": "59,950 (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "3%",
+"industry": "12%",
+"services": "85% (2014 est.)",
+}, 
+"unemployment_rate":
+{
+"2015": "4%",
+"2014": "4.6%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2014": "0.3",
+"2013": "0.3",
+},
+"budget": 
+{
+"revenues": "829 million (2005)",
+"expenditures": "851 million (2005)",
+}, 
+"taxes_and_other_revenues": "16.6% (of GDP) (2005)",
+"budget_surplus_or_deficit": "-0.4% (of GDP) (2005)",
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2006": "3.7%",
+},
+"market_value_of_publicly_traded_shares": "&lt;p&gt;NA&lt;/p&gt;", 
+"exports": "&lt;p&gt;NA&lt;/p&gt;", 
+"exports_commodities": "light industrial and electrical goods, dairy cattle, foodstuffs, textiles, flowers",
+"imports": "&lt;p&gt;NA&lt;/p&gt;", 
+"imports_commodities": "machinery and transport equipment, manufactured goods, foodstuffs, mineral fuels, chemicals",
+"debt_external": "&lt;p&gt;NA&lt;/p&gt;", 
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2009": "",
+},
+"exchange_rates": 
+{
+"currency": "Jersey pounds (JEP) per US dollar",
+"exchange_rates":
+{
+"2017": "0.7836",
+"2016": "0.738",
+"2015": "0.738",
+"2012": "0.6542",
+"2011": "0.6391",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": " NA (2017)",
+"electricity_consumption": "630.1 million kWh (2004 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "450,000 Mt (2012 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "55,938",
+"subscriptions_per_100_inhabitants": "58 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "122,668",
+"subscriptions_per_100_inhabitants": "119 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern system with broadband access (2018)",
+"domestic": "fixed-line and mobile-cellular services widely available; fixed-line 58 per 100 and mobile-cellular 119 per 100 subscriptions (2018)",
+"international": "country code - 44; landing points for the INGRID, UK-Channel Islands-8, and Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and France (2019)",
+}, 
+"broadcast_media": "multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; satellite packages available; BBC Radio Jersey and 1 other radio station operating",
+"internet_country_code": ".je",
+"internet_users": 
+{
+"total": "58,000",
+"percent_of_population": "59.6% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of the UK",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "2 (registered in UK) (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "11 (registered in UK) (2015)",
+}, 
+"airports": "1 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "1 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+}, 
+"roadways": "576 km (2010)",
+"ports_and_terminals": "Gorey, Saint Aubin, Saint Helier",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

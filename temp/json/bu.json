@@ -1,0 +1,562 @@
+{
+"name": "Bulgaria",
+"code": "BU",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "The Bulgars, a Central Asian Turkic tribe, merged with the local Slavic inhabitants in the late 7th century to form the first Bulgarian state. In succeeding centuries, Bulgaria struggled with the Byzantine Empire to assert its place in the Balkans, but by the end of the 14th century the country was overrun by the Ottoman Turks. Northern Bulgaria attained autonomy in 1878 and all of Bulgaria became independent from the Ottoman Empire in 1908. Having fought on the losing side in both World Wars, Bulgaria fell within the Soviet sphere of influence and became a People&#39;s Republic in 1946. Communist domination ended in 1990, when Bulgaria held its first multiparty election since World War II and began the contentious process of moving toward political democracy and a market economy while combating inflation, unemployment, corruption, and crime. The country joined NATO in 2004 and the EU in 2007.",
+}, 
+"geography": 
+{
+"location": "Southeastern Europe, bordering the Black Sea, between Romania and Turkey",
+"geographic_coordinates": "43 00 N, 25 00 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "110,879 sq km",
+"land": "108,489 sq km",
+"water": "2,390 sq km",
+}, 
+"area_comparative": "almost identical in size to Virginia; slightly larger than Tennessee",
+"land_boundaries": 
+{
+"total": "1,806 km",
+"border_countries": "Greece 472 km, Macedonia 162 km, Romania 605 km, Serbia 344 km, Turkey 223 km",
+}, 
+"coastline": "354 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+}, 
+"climate": "temperate; cold, damp winters; hot, dry summers",
+"terrain": "mostly mountains with lowlands in north and southeast",
+"elevation": 
+{
+"mean_elevation": "472 m",
+"lowest_point": "Black Sea 0 m",
+"highest_point": "Musala 2,925 m",
+}, 
+"natural_resources": "bauxite, copper, lead, zinc, coal, timber, arable land",
+"land_use": 
+{
+"agricultural_land": "46.9% (2011 est.)",
+"agricultural_land_arable_land": "29.9% (2011 est.)",
+"agricultural_land_permanent_crops": "1.5% (2011 est.)",
+"agricultural_land_permanent_pasture": "15.5% (2011 est.)",
+"forest": "36.7% (2011 est.)",
+"other": "16.4% (2011 est.)",
+}, 
+"irrigated_land": "1,020 sq km (2012)",
+"population_distribution": "a fairly even distribution throughout most of the country, with urban areas attracting larger populations",
+"natural_hazards": "earthquakes; landslides",
+"environment_current_issues": "air pollution from industrial emissions; rivers polluted from raw sewage, heavy metals, detergents; deforestation; forest damage from air pollution and resulting acid rain; soil contamination from heavy metals from metallurgical plants and industrial wastes",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "strategic location near Turkish Straits; controls key land routes from Europe to Middle East and Asia",
+}, 
+"people_and_society": 
+{
+"population": "7,057,504 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Bulgarian(s)",
+"adjective": "Bulgarian",
+}, 
+"ethnic_groups": "Bulgarian 76.9%, Turkish 8%, Romani 4.4%, other 0.7% (including Russian, Armenian, and Vlach), other (unknown) 10% (2011 est.)",
+"languages": "Bulgarian (official) 76.8%, Turkish 8.2%, Romani 3.8%, other 0.7%, unspecified 10.5% (2011 est.)",
+"religions": "Eastern Orthodox 59.4%, Muslim 7.8%, other (including Catholic, Protestant, Armenian Apostolic Orthodox, and Jewish) 1.7%, none 3.7%, unspecified 27.4% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "14.6% (male 530,219 /female 500,398)",
+"15_24_years": "9.43% (male 346,588 /female 318,645)",
+"25_54_years": "43.12% (male 1,565,770 /female 1,477,719)",
+"55_64_years": "13.3% (male 442,083 /female 496,888)",
+"65_years_and_over": "19.54% (male 557,237 /female 821,957) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "51.7 (2015 est.)",
+"youth_dependency_ratio": "21.2 (2015 est.)",
+"elderly_dependency_ratio": "30.5 (2015 est.)",
+"potential_support_ratio": "3.3 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "43 years (2018 est.)",
+"male": "41.2 years",
+"female": "44.9 years",
+}, 
+"population_growth_rate": "-0.63% (2018 est.)",
+"birth_rate": "8.5 births/1,000 population (2018 est.)",
+"death_rate": "14.5 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-0.3 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "a fairly even distribution throughout most of the country, with urban areas attracting larger populations",
+"urbanization": 
+{
+"urban_population": "75.3% of total population (2019)",
+"rate_of_urbanization": "-0.22% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.277 million SOFIA (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.06 male(s)/female",
+"15_24_years": "1.09 male(s)/female",
+"25_54_years": "1.06 male(s)/female",
+"55_64_years": "0.89 male(s)/female",
+"65_years_and_over": "0.68 male(s)/female",
+"total_population": "0.95 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "26.7 years (2014 est.)",
+"maternal_mortality_rate": "10 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "8.3 deaths/1,000 live births (2018 est.)",
+"male": "9.3 deaths/1,000 live births",
+"female": "7.2 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "74.8 years (2018 est.)",
+"male": "71.5 years",
+"female": "78.3 years",
+}, 
+"total_fertility_rate": "1.47 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "99.6% of population",
+"improved_rural": "99% of population",
+"improved_total": "99.4% of population",
+"unimproved_urban": "0.4% of population",
+"unimproved_rural": "1% of population",
+"unimproved_total": "0.6% of population (2015 est.)",
+}, 
+"current_health_expenditure": "8.2% (2016)",
+"physicians_density": "3.99 physicians/1,000 population (2014)",
+"hospital_bed_density": "6.8 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "86.8% of population (2015 est.)",
+"improved_rural": "83.7% of population (2015 est.)",
+"improved_total": "86% of population (2015 est.)",
+"unimproved_urban": "13.2% of population (2015 est.)",
+"unimproved_rural": "16.3% of population (2015 est.)",
+"unimproved_total": "14% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "3,500 (2018 est.)",
+"hiv_aids_deaths": " &lt;100 (2018 est.)",
+"obesity_adult_prevalence_rate": "25% (2016)",
+"education_expenditures": "4.1% of GDP (2013)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "98.4%",
+"male": "98.7%",
+"female": "98.1% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "15 years",
+"female": "15 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "12.9%",
+"male": "13.3%",
+"female": "12.4% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Bulgaria",
+"conventional_short_form": "Bulgaria",
+"local_long_form": "Republika Bulgaria",
+"local_short_form": "Bulgaria",
+"former": "Kingdom of Bulgaria, People&#39;s Repulic of Bulgaria",
+"etymology": "named after the Bulgar tribes who settled the lower Balkan region in the 7th century A.D.",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Sofia",
+"geographic_coordinates": "42 41 N, 23 19 E",
+"time_difference": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "28 provinces (oblasti, singular - oblast); Blagoevgrad, Burgas, Dobrich, Gabrovo, Haskovo, Kardzhali, Kyustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smolyan, Sofia, Sofia-Grad (Sofia City), Stara Zagora, Targovishte, Varna, Veliko Tarnovo, Vidin, Vratsa, Yambol",
+"independence": "3 March 1878 (as an autonomous principality within the Ottoman Empire); 22 September 1908 (complete independence from the Ottoman Empire)",
+"national_holiday": "Liberation Day, 3 March (1878)",
+"constitution": 
+{
+"history": "several previous; latest drafted between late 1990 and early 1991, adopted 13 July 1991",
+"amendments": "proposed by the National Assembly or by the president of the republic; passage requires three-fourths majority vote of National Assembly members in three ballots; signed by the National Assembly chairperson; note - under special circumstances, a &quot;Grand National Assembly&quot; is elected with the authority to write a new constitution and amend certain articles of the constitution, including those affecting basic civil rights and national sovereignty; passage requires at least two-thirds majority vote in each of several readings; amended several times, last in 2015 (2016)",
+}, 
+"legal_system": "civil law",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Bulgaria",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)",
+"head_of_government": "Prime Minister Boyko BORISSOV (since 4 May 2017); note - BORISSOV served 2 previous terms as prime minister (27 July 2009-13 March 2013 and 7 November 2014-27 January 2017)",
+"cabinet": "Council of Ministers nominated by the prime minister, elected by the National Assembly",
+"elections_appointments": "president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 6 and 13 November 2016 (next to be held in fall 2021); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly",
+"election_results": "Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%; Boyko BORISSOV (GERB) elected prime minister; National Assembly vote - 133 to 100",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)",
+"elections": "last held on 26 March 2017 (next to be held spring 2021)",
+"election_results": "percent of vote by party/coalition - GERB 32.7%, BSP 27.2%, United Patriots 9.1%, DPS 9%, Volya 4.2%, other 17.8%; seats by party/coalition - GERB 95, BSP 80, United Patriots 27, DPS 26, Volya 12; composition - men 183, women 57, percent of women 23.8%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary",
+"judge_selection_and_term_of_office": "Supreme Court of Cassation and Supreme Administrative judges elected by the Supreme Judicial Council or SJC (consists of 25 members with extensive legal experience) and appointed by the president; judges can serve until mandatory retirement at age 65; Constitutional Court justices elected by the National Assembly and appointed by the president and the SJC; justices appointed for 9-year terms with renewal of 4 justices every 3 years",
+"subordinate_courts": "appeals courts; regional and district courts; administrative courts; courts martial",
+}, 
+"political_parties_and_leaders": "Alternative for Bulgarian Revival or ABV [Rumen PETKOV]&lt;br /&gt;Attack (Ataka) [Volen Nikolov SIDEROV]&lt;br /&gt;Bulgarian Agrarian People’s Union [Nikolay NENCHEV]&lt;br /&gt;Bulgarian Socialist Party or BSP [Korneliya NINOVA]&lt;br /&gt;Bulgaria of the Citizens or DBG [Dimiter DELCHEV]]&lt;br /&gt;Citizens for the European Development of Bulgaria or GERB [Boyko BORISSOV]&lt;br /&gt;Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]&lt;br /&gt;Democrats for Responsibility, Solidarity, and Tolerance or DOST [Lyutvi MESTAN]&lt;br /&gt;IMRO - Bulgarian National Movement or IMRO-BNM [Krasimir KARAKACHANOV]&lt;br /&gt;Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]&lt;br /&gt;National Front for the Salvation of Bulgaria or NFSB [Valeri SIMEONOV]&lt;br /&gt;Reformist Bloc or RB (a four-party alliance including DBG and SDS)&lt;br /&gt;United Patriots (alliance of IMRO-BNM, NFSB, and Attack)&lt;br /&gt;Union of Democratic Forces or SDS [Bozhidar LUKARSKI]&lt;br /&gt;Yes! Bulgaria [Hristo IVANOV]&lt;br /&gt;Volya [Veselin MARESHKI]",
+"international_organization_participation": "Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Tihomir Anguelov STOYTCHEV (since 27 June 2016)",
+"chancery": "1621 22nd Street NW, Washington, DC 20008",
+"telephone": "[1] (202) 387-0174",
+"fax": "[1] (202) 234-7973",
+"consulate_s_general": "Chicago, Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Herro MUSTAFA (since&amp;nbsp;18&amp;nbsp;October 2019)",
+"telephone": "[359] (2) 937-5100",
+"embassy": "16 Kozyak Street, Sofia 1408",
+"mailing_address": "American Embassy Sofia, US Department of State, 5740 Sofia Place, Washington, DC 20521-5740",
+"fax": "[359] (2) 937-5320",
+}, 
+"flag_description": "three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue",
+"national_symbol_s": "lion; national colors: white, green, red",
+"national_anthem": 
+{
+"name": "&quot;Mila Rodino&quot; (Dear Homeland)",
+"lyrics_music": "Tsvetan Tsvetkov RADOSLAVOV",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Bulgaria, a former communist country that entered the EU in 2007, has an open economy that historically has demonstrated strong growth, but its per-capita income remains the lowest among EU members and its reliance on energy imports and foreign demand for its exports makes its growth sensitive to external market conditions.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The government undertook significant structural economic reforms in the 1990s to move the economy from a centralized, planned economy to a more liberal, market-driven economy. These reforms included privatization of state-owned enterprises, liberalization of trade, and strengthening of the tax system - changes that initially caused some economic hardships but later helped to attract investment, spur growth, and make gradual improvements to living conditions. From 2000 through 2008, Bulgaria maintained robust, average annual real GDP growth in excess of 6%, which was followed by a deep recession in 2009 as the financial crisis caused domestic demand, exports, capital inflows and industrial production to contract, prompting the government to rein in spending. Real GDP growth remained slow - less than 2% annually - until 2015, when demand from EU countries for Bulgarian exports, plus an inflow of EU development funds, boosted growth to more than 3%. In recent years, strong domestic demand combined with low international energy prices have contributed to Bulgaria’s economic growth approaching 4% and have also helped to ease inflation. Bulgaria’s prudent public financial management contributed to budget surpluses both in 2016 and 2017.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Bulgaria is heavily reliant on energy imports from Russia, a potential vulnerability, and is a participant in EU-backed efforts to diversify regional natural gas supplies. In late 2016, the Bulgarian Government provided funding to Bulgaria’s National Electric Company to cover the $695 million compensation owed to Russian nuclear equipment manufacturer Atomstroyexport for the cancellation of the Belene Nuclear Power Plant project, which the Bulgarian Government terminated in 2012. As of early 2018, the government was floating the possibility of resurrecting the Belene project. The natural gas market, dominated by state-owned Bulgargaz, is also almost entirely supplied by Russia. Infrastructure projects such as the Inter-Connector Greece-Bulgaria and Inter-Connector Bulgaria-Serbia, which would enable Bulgaria to have access to non-Russian gas, have either stalled or made limited progress. In 2016, the Bulgarian Government established the State eGovernment Agency. This new agency is responsible for the electronic governance, coordinating national policies with the EU, and strengthening cybersecurity.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Despite a favorable investment regime, including low, flat corporate income taxes, significant challenges remain. Corruption in public administration, a weak judiciary, low productivity, lack of transparency in public procurements, and the presence of organized crime continue to hamper the country&#39;s investment climate and economic prospects.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$153.5 billion",
+"2016": "$148.2 billion",
+"2015": "$142.6 billion",
+},
+"gdp_official_exchange_rate": "$56.94 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.6%",
+"2016": "3.9%",
+"2015": "3.6%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$21,800",
+"2016": "$20,900",
+"2015": "$19,900",
+},
+"gross_national_saving":
+{
+"2017": "25.4% of GDP",
+"2016": "21.4% of GDP",
+"2015": "21.2% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "61.6% (2017 est.)",
+"government_consumption": "16% (2017 est.)",
+"investment_in_fixed_capital": "19.2% (2017 est.)",
+"investment_in_inventories": "1.7% (2017 est.)",
+"exports_of_goods_and_services": "66.3% (2017 est.)",
+"imports_of_goods_and_services": "-64.8% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "4.3% (2017 est.)",
+"industry": "28% (2017 est.)",
+"services": "67.4% (2017 est.)",
+}, 
+"agriculture_products": "vegetables, fruits, tobacco, wine, wheat, barley, sunflowers, sugar beets; livestock",
+"industries": "electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers",
+"industrial_production_growth_rate": "3.6% (2017 est.)",
+"labor_force": "3.357 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "6.8%",
+"industry": "26.6%",
+"services": "66.6% (2016 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "6.2%",
+"2016": "7.7%",
+},
+"population_below_poverty_line": "23.4% (2016 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.9%",
+"highest_10": "31.2% (2017)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2017": "40.2",
+"2016": "38.3",
+},
+"budget": 
+{
+"revenues": "20.35 billion (2017 est.)",
+"expenditures": "19.35 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "35.7% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "1.8% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "23.9% of GDP",
+"2016": "27.4% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.2%",
+"2016": "-1.3%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "0%",
+"31 December 2015": "0.01%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "5.41%",
+"31 December 2016": "6.39%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$29.27 billion",
+"31 December 2016": "$22.01 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$29.27 billion",
+"31 December 2016": "$22.01 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$33.44 billion",
+"31 December 2016": "$27.57 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$14.49 billion",
+"31 December 2016": "$5.205 billion",
+"31 December 2015": "$4.797 billion",
+},
+"current_account_balance":
+{
+"2017": "$2.562 billion",
+"2016": "$1.207 billion",
+},
+"exports":
+{
+"2017": "$29.08 billion",
+"2016": "$25.37 billion",
+},
+"exports_partners": "Germany 13.5%, Italy 8.3%, Romania 8.2%, Turkey 7.7%, Greece 6.5%, Belgium 4.2%, France 4.1% (2017)",
+"exports_commodities": "clothing, footwear, iron and steel, machinery and equipment, fuels, agriculture, tobacco, IT components",
+"imports":
+{
+"2017": "$31.43 billion",
+"2016": "$26.66 billion",
+},
+"imports_commodities": "machinery and equipment; metals and ores; chemicals and plastics; fuels, minerals, and raw materials",
+"imports_partners": "Germany 12.3%, Russia 10.3%, Italy 7.3%, Romania 7.1%, Turkey 6.2%, Spain 5.3%, Greece 4.4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$28.38 billion",
+"31 December 2016": "$25.13 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$42.06 billion",
+"31 December 2016": "$35.98 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$46.92 billion",
+"31 December 2016": "$45.26 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$5.868 billion",
+"31 December 2016": "$4.988 billion",
+},
+"exchange_rates": 
+{
+"currency": "leva (BGN) per US dollar -",
+"exchange_rates":
+{
+"2017": "1.63",
+"2016": "1.86",
+"2015": "1.768",
+"2014": "1.7644",
+"2013": "1.4742",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "42.29 billion kWh (2016 est.)",
+"electricity_consumption": "32.34 billion kWh (2016 est.)",
+"electricity_exports": "9.187 billion kWh (2017 est.)",
+"electricity_imports": "4.568 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "10.75 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "39% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "20% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "23% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "19% of total installed capacity (2017 est.)",
+"crude_oil_production": "1,000 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "133,900 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "15 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "144,300 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "97,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "92,720 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "49,260 bbl/day (2015 est.)",
+"natural_gas_production": "79.28 million cu m (2017 est.)",
+"natural_gas_consumption": "3.313 billion cu m (2017 est.)",
+"natural_gas_exports": "31.15 million cu m (2017 est.)",
+"natural_gas_imports": "3.256 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "5.663 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "46.31 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,302,316",
+"subscriptions_per_100_inhabitants": "18 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "8,532,908",
+"subscriptions_per_100_inhabitants": "120 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "inherited an extensive but antiquated telecommunications network from the Soviet era; quality has improved with a modern digital trunk line now connecting switching centers in most of the regions; remaining areas are connected by digital microwave radio relay; Bulgaria has a mature mobile market with&amp;nbsp;active competition (2018)",
+"domestic": "fixed-line 18 per 100 persons, mobile-cellular teledensity, fostered by multiple service providers, is over 120 telephones per 100 persons (2018)",
+"international": "country code - 359; Caucasus Cable System via submarine cable provides connectivity to Ukraine, Georgia&amp;nbsp;and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the Atlantic and Indian Ocean regions) (2019)",
+}, 
+"broadcast_media": "4 national terrestrial TV stations with 1 state-owned and 3 privately owned; a vast array of TV stations are available from cable and satellite TV providers; state-owned national radio broadcasts over 3 networks; large number of private radio stations broadcasting, especially in urban areas",
+"internet_country_code": ".bg",
+"internet_users": 
+{
+"total": "4,274,328",
+"percent_of_population": "59.8% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,764,782",
+"subscriptions_per_100_inhabitants": "25 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "3.25% of GDP",
+"2018": "1.48% of GDP",
+"2017": "1.24% of GDP",
+"2016": "1.26% of GDP",
+"2015": "1.26% of GDP",
+},
+"military_and_security_forces": "Bulgarian Armed Forces: Land Forces (aka Army), Naval Forces, Bulgarian Air Forces (Voennovazdushni Sili, VVS) (2019)",
+"military_service_age_and_obligation": "18-27 years of age for voluntary military service; conscription ended in January 2008; service obligation 6-9 months (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "8 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "44 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "1,118,689 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "1,583,340 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "LZ (2016)",
+"airports": "68 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "57 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "17 (2017)",
+"1_524_to_2_437_m": "12 (2017)",
+"under_914_m": "26 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "11 (2013)",
+"914_to_1_523_m": "2 (2013)",
+"under_914_m": "9 (2013)",
+}, 
+"heliports": "1 (2013)",
+"pipelines": "2765 km gas, 346 km oil, 378 km refined products (2017)",
+"railways": 
+{
+"total": "5,114 km (2014)",
+"standard_gauge": "4,989 km 1.435-m gauge (2,880 km electrified) (2014)",
+"narrow_gauge": "125 km 0.760-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "19,512 km (2011)",
+"paved": "19,235 km (includes 458 km of expressways) (2011)",
+"unpaved": "277 km (2011)",
+}, 
+"waterways": "470 km (2009)",
+"merchant_marine": 
+{
+"total": "80",
+"by_type": "bulk carrier 2, general cargo 18, oil tanker 8, other 52 (2018)",
+}, 
+"ports_and_terminals": "Burgas, Varna (Black Sea)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "17,161 (Syria) (2018)",
+"stateless_persons": "92 (2018)",
+}, 
+"trafficking_in_persons": 
+{
+"current_situation": "Bulgaria is a source and, to a lesser extent, a transit and destination country for men, women, and children subjected to sex trafficking and forced labor; Bulgaria is one of the main sources of human trafficking in the EU; women and children are increasingly sex trafficked domestically, as well as in Europe, Russia, the Middle East, and the US; adults and children become forced laborers in agriculture, construction, and the service sector in Europe, Israel, and Zambia; Romanian girls are also subjected to sex trafficking in Bulgaria",
+"tier_rating": "Tier 2 Watch List – Bulgaria does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, authorities prosecuted and convicted fewer traffickers and issued suspended sentences for the majority of those convicted; victim protection efforts declined and were minimal relative to the number of victims identified; funding for the state’s two NGO-operated shelters was significantly cut, forcing them to close; specialized services for child and adult male victims were non-existent; the government took action to combat trafficking-related complicity among public officials and police officers (2015)",
+}, 
+"illicit_drugs": "major European transshipment point for Southwest Asian heroin and, to a lesser degree, South American cocaine for the European market; limited producer of precursor chemicals; vulnerable to money laundering because of corruption, organized crime; some money laundering of drug-related proceeds through financial institutions",
+}
+}

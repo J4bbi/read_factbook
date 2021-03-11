@@ -1,0 +1,389 @@
+{
+"name": "Guam",
+"code": "GQ",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "Spain ceded Guam to the US in 1898. Captured by the Japanese in 1941, it was retaken by the US three years later. The military installations on the island are some of the most strategically important US bases in the Pacific; they also constitute the island’s most important source of income and economic stability.",
+}, 
+"geography": 
+{
+"location": "Oceania, island in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines",
+"geographic_coordinates": "13 28 N, 144 47 E",
+"map_references": "Oceania",
+"area": 
+{
+"total": "544 sq km",
+"land": "544 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "three times the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "125.5 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation",
+"terrain": "volcanic origin, surrounded by coral reefs; relatively flat coralline limestone plateau (source of most fresh water), with steep coastal cliffs and narrow coastal plains in north, low hills in center, mountains in south",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "Mount Lamlam 406 m",
+}, 
+"natural_resources": "aquatic wildlife (supporting tourism), fishing (largely undeveloped)",
+"land_use": 
+{
+"agricultural_land": "33.4% (2011 est.)",
+"agricultural_land_arable_land": "1.9% (2011 est.)",
+"agricultural_land_permanent_crops": "16.7% (2011 est.)",
+"agricultural_land_permanent_pasture": "14.8% (2011 est.)",
+"forest": "47.9% (2011 est.)",
+"other": "18.7% (2011 est.)",
+}, 
+"irrigated_land": "2 sq km (2012)",
+"population_distribution": "no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo",
+"natural_hazards": "frequent squalls during rainy season; relatively rare but potentially destructive typhoons (June to December)",
+"environment_current_issues": "fresh water scarcity; reef damage; inadequate sewage treatment; extermination of native bird populations by the rapid proliferation of the brown tree snake, an exotic, invasive species",
+"geography_note": "largest and southernmost island in the Mariana Islands archipelago and the largest island in Micronesia; strategic location in western North Pacific Ocean",
+}, 
+"people_and_society": 
+{
+"population": "167,772 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Guamanian(s) (US citizens)",
+"adjective": "Guamanian",
+}, 
+"ethnic_groups": "Chamorro 37.3%, Filipino 26.3%, white 7.1%, Chuukese 7%, Korean 2.2%, other Pacific Islander 2%, other Asian 2%, Chinese 1.6%, Palauan 1.6%, Japanese 1.5%, Pohnpeian 1.4%, mixed 9.4%, other 0.6% (2010 est.)",
+"languages": "English 43.6%, Filipino 21.2%, Chamorro 17.8%, other Pacific island languages 10%, Asian languages 6.3%, other 1.1% (2010 est.)",
+"religions": "Roman Catholic 85%, other 15% (1999 est.)",
+"age_structure": 
+{
+"0_14_years": "27.48% (male 23,893 /female 22,207)",
+"15_24_years": "16.4% (male 14,692 /female 12,816)",
+"25_54_years": "37.18% (male 32,170 /female 30,207)",
+"55_64_years": "10.05% (male 8,627 /female 8,236)",
+"65_years_and_over": "8.9% (male 6,947 /female 7,977) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "52.3 (2015 est.)",
+"youth_dependency_ratio": "38.8 (2015 est.)",
+"elderly_dependency_ratio": "13.6 (2015 est.)",
+"potential_support_ratio": "7.4 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "29.1 years (2018 est.)",
+"male": "28.4 years",
+"female": "29.9 years",
+}, 
+"population_growth_rate": "0.23% (2018 est.)",
+"birth_rate": "19.4 births/1,000 population (2018 est.)",
+"death_rate": "6 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-11 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo",
+"urbanization": 
+{
+"urban_population": "94.9% of total population (2019)",
+"rate_of_urbanization": "0.92% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "147,000 HAGATNA (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.07 male(s)/female",
+"0_14_years": "1.08 male(s)/female",
+"15_24_years": "1.15 male(s)/female",
+"25_54_years": "1.06 male(s)/female",
+"55_64_years": "1.05 male(s)/female",
+"65_years_and_over": "0.87 male(s)/female",
+"total_population": "1.06 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "11.9 deaths/1,000 live births (2018 est.)",
+"male": "11.8 deaths/1,000 live births",
+"female": "12.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "76.4 years (2018 est.)",
+"male": "73.9 years",
+"female": "78.9 years",
+}, 
+"total_fertility_rate": "2.92 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "99.5% of population",
+"improved_rural": "99.5% of population",
+"improved_total": "99.5% of population",
+"unimproved_urban": "0.5% of population",
+"unimproved_rural": "0.5% of population",
+"unimproved_total": "0.5% of population (2015 est.)",
+}, 
+"sanitation_facility_access": 
+{
+"improved_urban": "89.8% of population (2015 est.)",
+"improved_rural": "89.8% of population (2015 est.)",
+"improved_total": "89.8% of population (2015 est.)",
+"unimproved_urban": "10.2% of population (2015 est.)",
+"unimproved_rural": "10.2% of population (2015 est.)",
+"unimproved_total": "10.2% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"education_expenditures": " NA",
+"unemployment_youth_ages_15_24": 
+{
+"total": "29.4%",
+"male": "29.7%",
+"female": "28.9% (2011 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Guam",
+"local_long_form": "none",
+"local_short_form": "Guahan",
+"abbreviation": "GU",
+"etymology": "the native Chamorro name for the island &quot;Guahan&quot; (meaning &quot;we have&quot; or &quot;ours&quot;) was changed to Guam in the 1898 Treaty of Paris, whereby Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US",
+}, 
+"dependency_status": "unincorporated organized territory of the US with policy relations between Guam and the&amp;nbsp;federal government&amp;nbsp;under the jurisdiction of the Office of Insular Affairs, US Department of the Interior",
+"government_type": "republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government",
+"capital": 
+{
+"name": "Hagatna (Agana)",
+"geographic_coordinates": "13 28 N, 144 44 E",
+"time_difference": "UTC+10 (15 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "none (territory of the US)",
+"independence": "none (territory of the US)",
+"national_holiday": "Discovery Day (or Magellan Day), first Monday in March (1521)",
+"constitution": 
+{
+"history": "effective 1 July 1950 (Guam Act of 1950 serves as a constitution)",
+"amendments": "amended many times, last in 2015 (2017)",
+}, 
+"legal_system": "common law modeled on US system; US federal laws apply",
+"citizenship": "see United States", 
+"suffrage": "18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections",
+"executive_branch": 
+{
+"chief_of_state": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)",
+"head_of_government": "Governor Lourdes LEON GUERRERO (since 7 January 2019); Lieutenant Governor Josh TENORIO (since 7 January 2019)",
+"cabinet": "Cabinet appointed by the governor with the consent of the Legislature",
+"elections_appointments": "president and vice president indirectly elected on the same ballot by an Electoral College of &#39;electors&#39; chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 6 November 2018 (next to be held in November 2022)",
+"election_results": "Lourdes LEON GUERRERO elected governor; percent of vote - &amp;nbsp;Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)",
+"elections": "last held on&amp;nbsp;6 November 2018 (next to be held in November 2020)",
+"election_results": "percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court",
+"judge_selection_and_term_of_office": "justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life subject to retention election every 10 years",
+"subordinate_courts": "Superior Court of Guam - includes several divisions; US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit)",
+}, 
+"political_parties_and_leaders": "Democratic Party [Joaquin &quot;Kin&quot; PEREZ]&lt;br /&gt;Republican Party [Jerry CRISOSTOMO]",
+"international_organization_participation": "AOSIS (observer), IOC, PIF (observer), SPC, UPU",
+"diplomatic_representation_in_the_us": "none (territory of the US)", 
+"diplomatic_representation_from_the_us": "none (territory of the US)", 
+"flag_description": "territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Punta Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression",
+"national_symbol_s": "coconut tree; national colors: deep blue, red",
+"national_anthem": 
+{
+"name": "&quot;Fanohge Chamoru&quot; (Stand Ye Guamanians)",
+"lyrics_music": "Ramon Manalisay SABLAN [English], Lagrimas UNTALAN [Chamoru]/Ramon Manalisay SABLAN",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "US national defense spending is the main driver of Guam’s economy, followed closely by tourism and other services. Guam serves as a forward US base for the Western Pacific and is home to thousands of American military personnel. Total federal spending (defense and non-defense) amounted to $1.988 billion in 2016, or 34.2 of Guam’s GDP. Of that total, federal grants and cover-over payments amounted to $3444.1 million in 2016, or 35.8% of Guam’s total revenues for the fiscal year. In 2016, Guam’s economy grew 0.3%. Despite slow growth, Guam’s economy has been stable over the last decade. National defense spending cushions the island’s economy against fluctuations in tourism. Service exports, mainly spending by foreign tourists in Guam, amounted to over $1 billion for the first time in 2016, or 17.8% of GDP.",
+"gdp_purchasing_power_parity":
+{
+"2016": "$5.793 billion",
+"2015": "$5.697 billion",
+"2014": "$5.531 billion",
+},
+"gdp_official_exchange_rate": "$5.793 billion (2016 est.) (2016 est.)",
+"gdp_real_growth_rate":
+{
+"2016": "0.4%",
+"2015": "0.5%",
+"2014": "1.6%",
+},
+"gdp_per_capita_ppp":
+{
+"2016": "$35,600",
+"2015": "$35,200",
+"2014": "$34,400",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "56.2% (2016 est.)",
+"government_consumption": "55% (2016 est.)",
+"investment_in_fixed_capital": "20.6% (2016 est.)",
+"investment_in_inventories": " NA (2016 est.)",
+"exports_of_goods_and_services": "19.4% (2016 est.)",
+"imports_of_goods_and_services": "-51.2% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": " NA",
+"industry": " NA",
+"services": "58.4% NA (2015 est.)",
+}, 
+"agriculture_products": "fruits, copra, vegetables; eggs, pork, poultry, beef",
+"industries": "national defense, tourism, construction, transshipment services, concrete products, printing and publishing, food processing, textiles",
+"industrial_production_growth_rate": " NA",
+"labor_force": "73,210 (2016 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "0.3%",
+"industry": "21.6%",
+"services": "78.1% (2013 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "4.5%",
+"2016": "3.9%",
+},
+"population_below_poverty_line": "23% (2001 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "1.24 billion (2016 est.)",
+"expenditures": "1.299 billion (2016 est.)",
+}, 
+"taxes_and_other_revenues": "21.4% (of GDP) (2016 est.)",
+"budget_surplus_or_deficit": "-1% (of GDP) (2016 est.)",
+"public_debt":
+{
+"2016": "22.1% of GDP",
+"2013": "32.1% of GDP",
+},
+"fiscal_year": "1 October - 30 September",
+"inflation_rate_consumer_prices":
+{
+"2017": "1%",
+"2016": "0%",
+},
+"exports":
+{
+"2016": "$1.124 billion",
+"2015": "$1.046 billion",
+},
+"exports_partners": "Palau 13.6% (2017)",
+"exports_commodities": "transshipments of refined petroleum products, construction materials, fish, foodstuffs and beverages",
+"imports":
+{
+"2016": "$2.964 billion",
+"2015": "$3.054 billion",
+},
+"imports_commodities": "petroleum and petroleum products, food, manufactured goods",
+"imports_partners": "Singapore 41.7%, Japan 30.6%, Hong Kong 10.6% (2017)",
+"debt_external": "&lt;p&gt;NA&lt;/p&gt;", 
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2009": "",
+},
+"exchange_rates": "&lt;p&gt;the US dollar is used&lt;/p&gt;", 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "1.722 billion kWh (2016 est.)",
+"electricity_consumption": "1.601 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "560,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "94% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "6% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "14,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "13,500 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2014 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "2.214 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "68,000",
+"subscriptions_per_100_inhabitants": "42 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "181,000",
+"subscriptions_per_100_inhabitants": "113 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern system, integrated with US facilities for direct dialing, including free use of 800 numbers (2018)",
+"domestic": "three major companies provide both fixed-line and mobile services, as well as access to the Internet; fixed-line 42 per 100 and 113 per 100 for mobile-cellular (2018)",
+"international": "country code - 1-671; major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable submarine cables between Asia, Australia, and the US (Guam is a transpacific communications hub for major carriers linking the US and Asia); satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)",
+}, 
+"broadcast_media": "about a dozen TV channels, including digital channels; multi-channel cable TV services are available; roughly 20 radio stations",
+"internet_country_code": ".gu",
+"internet_users": 
+{
+"total": "125,328",
+"percent_of_population": "77% (July 2016 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of the US",
+}, 
+"transportation": 
+{
+"airports": "5 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "4 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "1 (2017)",
+"914_to_1_523_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "1 (2013)",
+"under_914_m": "1 (2013)",
+}, 
+"roadways": "1,045 km (2008)",
+"merchant_marine": 
+{
+"total": "3",
+"by_type": "other 3 (2018)",
+}, 
+"ports_and_terminals": "Apra Harbor",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}

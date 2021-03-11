@@ -1,0 +1,568 @@
+{
+"name": "Tanzania",
+"code": "TZ",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "Shortly after achieving independence from Britain in the early 1960s, Tanganyika and Zanzibar merged to form the United Republic of Tanzania in 1964. In 1995, the country held its first democratic elections since the 1970s. Zanzibar maintains semi-autonomy and participates in national elections; popular political opposition on the isles led to four contentious elections since 1995, in which the ruling party claimed victory despite international observers&#39; claims of voting irregularities.",
+}, 
+"geography": 
+{
+"location": "Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique",
+"geographic_coordinates": "6 00 S, 35 00 E",
+"map_references": "Africa",
+"area": 
+{
+"total": "947,300 sq km",
+"land": "885,800 sq km",
+"water": "61,500 sq km",
+}, 
+"area_comparative": "more than six times the size of Georgia; slightly larger than twice the size of California",
+"land_boundaries": 
+{
+"total": "4,161 km",
+"border_countries": "Burundi 589 km, Democratic Republic of the Congo 479 km, Kenya 775 km, Malawi 512 km, Mozambique 840 km, Rwanda 222 km, Uganda 391 km, Zambia 353 km",
+}, 
+"coastline": "1,424 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+}, 
+"climate": "varies from tropical along coast to temperate in highlands",
+"terrain": "plains along coast; central plateau; highlands in north, south",
+"elevation": 
+{
+"mean_elevation": "1,018 m",
+"lowest_point": "Indian Ocean 0 m",
+"highest_point": "Kilimanjaro (highest point in Africa) 5,895 m",
+}, 
+"natural_resources": "hydropower, tin, phosphates, iron ore, coal, diamonds, gemstones, gold, natural gas, nickel",
+"land_use": 
+{
+"agricultural_land": "43.7% (2011 est.)",
+"agricultural_land_arable_land": "14.3% (2011 est.)",
+"agricultural_land_permanent_crops": "2.3% (2011 est.)",
+"agricultural_land_permanent_pasture": "27.1% (2011 est.)",
+"forest": "37.3% (2011 est.)",
+"other": "19% (2011 est.)",
+}, 
+"irrigated_land": "1,840 sq km (2012)",
+"population_distribution": "the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast",
+"natural_hazards": "&lt;p&gt;flooding on the central plateau during the rainy season; drought&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; limited volcanic activity; Ol Doinyo Lengai (2,962 m) has emitted lava in recent years; other historically active volcanoes include Kieyo and Meru&lt;/p&gt;",
+"environment_current_issues": "water polution; improper management of liquid waste; indoor air pollution caused by the burning of fuel wood or charcoal for cooking and heating is a large environmental health issue; soil degradation; deforestation; desertification; destruction of coral reefs threatens marine habitats; wildlife threatened by illegal hunting and trade, especially for ivory; loss of biodiversity; solid waste disposal",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya and the Ruwenzori Mountains); bordered by three of the largest lakes on the continent: Lake Victoria (the world&#39;s second-largest freshwater lake) in the north, Lake Tanganyika (the world&#39;s second deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest",
+}, 
+"people_and_society": 
+{
+"population": "55,451,343 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Tanzanian(s)",
+"adjective": "Tanzanian",
+}, 
+"ethnic_groups": "mainland - African 99% (of which 95% are Bantu consisting of more than 130 tribes), other 1% (consisting of Asian, European, and Arab); Zanzibar - Arab, African, mixed Arab and African",
+"languages": "Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages",
+"religions": "Christian 61.4%, Muslim 35.2%, folk religion 1.8%, other 0.2%, unaffiliated 1.4% (2010 est.)",
+"demographic_profile": "&lt;p&gt;Tanzania has the largest population in East Africa and the lowest population density; almost a third of the population is urban. Tanzania’s youthful population – about two-thirds of the population is under 25 – is growing rapidly because of the high total fertility rate of 4.8 children per woman. Progress in reducing the birth rate has stalled, sustaining the country’s nearly 3% annual growth. The maternal mortality rate has improved since 2000, yet it remains very high because of early and frequent pregnancies, inadequate maternal health services, and a lack of skilled birth attendants – problems that are worse among poor and rural women. Tanzania has made strides in reducing under-5 and infant mortality rates, but a recent drop in immunization threatens to undermine gains in child health. Malaria is a leading killer of children under 5, while HIV is the main source of adult mortality&lt;/p&gt;&lt;p&gt;For Tanzania, most migration is internal, rural to urban movement, while some temporary labor migration from towns to plantations takes place seasonally for harvests. Tanzania was Africa’s largest refugee-hosting country for decades, hosting hundreds of thousands of refugees from the Great Lakes region, primarily Burundi, over the last fifty years. However, the assisted repatriation and naturalization of tens of thousands of Burundian refugees between 2002 and 2014 dramatically reduced the refugee population. Tanzania is increasingly a transit country for illegal migrants from the Horn of Africa and the Great Lakes region who are heading to southern Africa for security reasons and/or economic opportunities. Some of these migrants choose to settle in Tanzania.&lt;/p&gt;",
+"age_structure": 
+{
+"0_14_years": "43.4% (male 12,159,482 /female 11,908,654)",
+"15_24_years": "20.03% (male 5,561,922 /female 5,543,788)",
+"25_54_years": "30.02% (male 8,361,460 /female 8,284,229)",
+"55_64_years": "3.51% (male 872,601 /female 1,074,480)",
+"65_years_and_over": "3.04% (male 706,633 /female 978,094) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "93.4 (2015 est.)",
+"youth_dependency_ratio": "87.4 (2015 est.)",
+"elderly_dependency_ratio": "6 (2015 est.)",
+"potential_support_ratio": "16.6 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "17.9 years (2018 est.)",
+"male": "17.6 years",
+"female": "18.2 years",
+}, 
+"population_growth_rate": "2.74% (2018 est.)",
+"birth_rate": "35.3 births/1,000 population (2018 est.)",
+"death_rate": "7.5 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-0.5 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast",
+"urbanization": 
+{
+"urban_population": "34.5% of total population (2019)",
+"rate_of_urbanization": "5.22% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "262,000 Dodoma (legislative capital) (2018), 6.368 million DAR ES SALAAM (administrative capital), 1.061 million Mwanza (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.03 male(s)/female",
+"0_14_years": "1.02 male(s)/female",
+"15_24_years": "1 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "0.81 male(s)/female",
+"65_years_and_over": "0.72 male(s)/female",
+"total_population": "1 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "19.8 years (2015/16 est.)",
+"maternal_mortality_rate": "524 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "38.7 deaths/1,000 live births (2018 est.)",
+"male": "40.8 deaths/1,000 live births",
+"female": "36.6 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "63.1 years (2018 est.)",
+"male": "61.6 years",
+"female": "64.6 years",
+}, 
+"total_fertility_rate": "4.71 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "38.4% (2015/16)",
+"drinking_water_source": 
+{
+"improved_urban": "77.2% of population",
+"improved_rural": "45.5% of population",
+"improved_total": "55.6% of population",
+"unimproved_urban": "22.8% of population",
+"unimproved_rural": "54.5% of population",
+"unimproved_total": "44.4% of population (2015 est.)",
+}, 
+"current_health_expenditure": "4.1% (2016)",
+"physicians_density": "0.04 physicians/1,000 population (2014)",
+"hospital_bed_density": "0.7 beds/1,000 population (2010)",
+"sanitation_facility_access": 
+{
+"improved_urban": "31.3% of population (2015 est.)",
+"improved_rural": "8.3% of population (2015 est.)",
+"improved_total": "15.6% of population (2015 est.)",
+"unimproved_urban": "68.7% of population (2015 est.)",
+"unimproved_rural": "91.7% of population (2015 est.)",
+"unimproved_total": "84.4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "4.6% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "1.6 million (2018 est.)",
+"hiv_aids_deaths": "24,000 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea, hepatitis A, and typhoid fever (2016)",
+"vectorborne_diseases": "malaria, dengue fever, and Rift Valley fever (2016)",
+"water_contact_diseases": "schistosomiasis and leptospirosis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+}, 
+"obesity_adult_prevalence_rate": "8.4% (2016)",
+"children_under_the_age_of_5_years_underweight": "13.7% (2015)",
+"education_expenditures": "3.4% of GDP (2014)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write Kiswahili (Swahili), English, or Arabic",
+"total_population": "77.9%",
+"male": "83.2%",
+"female": "73.1% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "8 years",
+"male": "8 years",
+"female": "8 years (2013)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "3.9%",
+"male": "3.1%",
+"female": "4.6% (2014 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "United Republic of Tanzania",
+"conventional_short_form": "Tanzania",
+"local_long_form": "Jamhuri ya Muungano wa Tanzania",
+"local_short_form": "Tanzania",
+"former": "German East Africa, Trust Territory of Tanganyika, United Republic of Tanganyika and Zanzibar",
+"etymology": "the country&#39;s name is a combination of the first letters of Tanganyika and Zanzibar, the two states that merged to form Tanzania in 1964",
+}, 
+"government_type": "presidential republic",
+"capital": 
+{
+"name": "Dar es Salaam (administrative capital), Dodoma (legislative capital); note - Dodoma was designated the national capital in 1996 and serves as the meeting place for the National Assembly; Dar es Salaam remains the de facto capital, the country&#39;s largest city and commercial center, and the site of the executive branch offices and diplomatic representation; the government contends that it will complete the transfer of the executive branch to Dodoma by 2020",
+"geographic_coordinates": "6 48 S, 39 17 E",
+"time_difference": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "31 regions; Arusha, Dar es Salaam, Dodoma, Geita, Iringa, Kagera, Kaskazini Pemba (Pemba North), Kaskazini Unguja (Zanzibar North), Katavi, Kigoma, Kilimanjaro, Kusini Pemba (Pemba South), Kusini Unguja (Zanzibar Central/South), Lindi, Manyara, Mara, Mbeya, Mjini Magharibi (Zanzibar Urban/West), Morogoro, Mtwara, Mwanza, Njombe, Pwani (Coast), Rukwa, Ruvuma, Shinyanga, Simiyu, Singida, Songwe, Tabora, Tanga",
+"independence": "26 April 1964 (Tanganyika united with Zanzibar to form the United Republic of Tanganyika and Zanzibar); 29 October 1964 (renamed United Republic of Tanzania); notable earlier dates: 9 December 1961 (Tanganyika became independent from UK-administered UN trusteeship); 10 December 1963 (Zanzibar became independent from UK)",
+"national_holiday": "Union Day (Tanganyika and Zanzibar), 26 April (1964)",
+"constitution": 
+{
+"history": "several previous; latest adopted 25 April 1977; note - progress enacting a new constitution drafted in 2014 by the Constituent Assembly stalled",
+"amendments": "proposed by the National Assembly; passage of amendments to constitutional articles including those on sovereignty of the United Republic, the authorities and powers of the government, the president, the Assembly, and the High Court requires two-thirds majority vote of the mainland Assembly membership and of the Zanzibar House of Representatives membership; House of Representatives approval of other amendments is not required; amended several times, last in 2017 (2019)",
+}, 
+"legal_system": "English common law; judicial review of legislative acts limited to matters of interpretation",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Tanzania; if a child is born abroad, the father must be a citizen of Tanzania",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President John MAGUFULI, Dr. (since 5 November 2015); Vice President Samia Suluhu HASSAN (since 5 November 2015); note - the president is both chief of state and head of government",
+"head_of_government": "President John MAGUFULI, Dr. (since 5 November 2015); Vice President Samia Suluhu HASSAN (since 5 November 2015); note - Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet",
+"cabinet": "Cabinet appointed by the president from among members of the National Assembly",
+"elections_appointments": "president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 25 October 2015 (next to be held in October 2020); prime minister appointed by the president",
+"election_results": "John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve a 5-year term); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)",
+"elections": "Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 25 October 2015 (next National Assembly election to be held in October 2020; next Zanzibar election either October 2020 or March 2021); note the Zanzibar Electoral Commission annulled the 2015 election; repoll held on 20 March 2016",
+"election_results": "National Assembly - percent of vote by party - CCM 55%, Chadema 31.8%, CUF 8.6%, other 4.6%; seats by party - CCM 253, Chadema 70, CUF 42, other 2; composition as of September 2018 - men 245, women 145, percent of women 37.2%&lt;br /&gt;&lt;br /&gt;Zanzibar House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)",
+"judge_selection_and_term_of_office": "Court of Appeal and High Court justices appointed by the national president after consultation with the Judicial Service Commission for Tanzania, a judicial body of high level judges and 2 members appointed by the national president; Court of Appeal and High Court judges serve until mandatory retirement at age 60, but terms can be extended; High Court of Zanzibar judges appointed by the national president after consultation with the Judicial Commission of Zanzibar; judges can serve until mandatory retirement at age 65",
+"subordinate_courts": "Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts",
+}, 
+"political_parties_and_leaders": "&lt;p&gt;Alliance for Change and Transparency (Wazalendo) or ACT [Zitto KABWE]&lt;br /&gt;Alliance for Democratic Change or ADC [Miraji ABDALLAH] &lt;br /&gt;Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim LIPUMBA]&lt;br /&gt;National Convention for Construction and Reform-Mageuzi or NCCR-M [James Francis MBATIA]&lt;br /&gt;National League for Democracy&lt;br /&gt;Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or Chadema [Freeman MBOWE]&lt;br /&gt;Revolutionary Party (Chama Cha Mapinduzi) or CCM [John MAGUFULI]&lt;br /&gt;Tanzania Labor Party or TLP [Augustine MREMA]&lt;br /&gt;United Democratic Party or UDP [John Momose CHEYO]&lt;/p&gt;",
+"international_organization_participation": "ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Wilson Mutagaywa MASILINGI (since 17 September 2015)",
+"chancery": "1232 22nd Street NW, Washington, DC 20037",
+"telephone": "[1] (202) 939-6125",
+"fax": "[1] (202) 797-7408",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant); Charge d&#39;Affaires Inmi PATTERSON (since 5 July 2017)",
+"telephone": "[255] (22) 229-4000",
+"embassy": "686 Old Bagamoyo Road, Msasani, Dar es Salaam",
+"mailing_address": "P.O. Box 9123, Dar es Salaam",
+"fax": "[255] (22) 229-4970 or 4971",
+}, 
+"flag_description": "divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green and the lower triangle is blue; the banner combines colors found on the flags of Tanganyika and Zanzibar; green represents the natural vegetation of the country, gold its rich mineral deposits, black the native Swahili people, and blue the country&#39;s many lakes and rivers, as well as the Indian Ocean",
+"national_symbol_s": "Uhuru (Freedom) torch, giraffe; national colors: green, yellow, blue, black",
+"national_anthem": 
+{
+"name": "&quot;Mungu ibariki Afrika&quot; (God Bless Africa)",
+"lyrics_music": "collective/Enoch Mankayi SONTONGA",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Tanzania has achieved high growth rates based on its vast natural resource wealth and tourism with GDP growth in 2009-17 averaging 6%-7% per year. Dar es Salaam used fiscal stimulus measures and easier monetary policies to lessen the impact of the global recession and in general, benefited from low oil prices. Tanzania has largely completed its transition to a market economy, though the government retains a presence in sectors such as telecommunications, banking, energy, and mining.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The economy depends on agriculture, which accounts for slightly less than one-quarter of GDP and employs about 65% of the work force, although gold production in recent years has increased to about 35% of exports. All land in Tanzania is owned by the government, which can lease land for up to 99 years. Proposed reforms to allow for land ownership, particularly foreign land ownership, remain unpopular.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The financial sector in Tanzania has expanded in recent years and foreign-owned banks account for about 48% of the banking industry&#39;s total assets. Competition among foreign commercial banks has resulted in significant improvements in the efficiency and quality of financial services, though interest rates are still relatively high, reflecting high fraud risk. Banking reforms have helped increase private-sector growth and investment.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The World Bank, the IMF, and bilateral donors have provided funds to rehabilitate Tanzania&#39;s aging infrastructure, including rail and port, which provide important trade links for inland countries. In 2013, Tanzania completed the world&#39;s largest Millennium Challenge Compact (MCC) grant, worth $698 million, but in late 2015, the MCC Board of Directors deferred a decision to renew Tanzania’s eligibility because of irregularities in voting in Zanzibar and concerns over the government&#39;s use of a controversial cybercrime bill.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The new government elected in 2015 has developed an ambitious development agenda focused on creating a better business environment through improved infrastructure, access to financing, and education progress, but implementing budgets remains challenging for the government. Recent policy moves by President MAGUFULI are aimed at protecting domestic industry and have caused concern among foreign investors.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$162.5 billion",
+"2016": "$153.3 billion",
+"2015": "$143.3 billion",
+},
+"gdp_official_exchange_rate": "$51.76 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "6%",
+"2016": "7%",
+"2015": "7%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$3,200",
+"2016": "$3,100",
+"2015": "$3,000",
+},
+"gross_national_saving":
+{
+"2017": "25% of GDP",
+"2016": "23.1% of GDP",
+"2015": "24.9% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "62.4% (2017 est.)",
+"government_consumption": "12.5% (2017 est.)",
+"investment_in_fixed_capital": "36.1% (2017 est.)",
+"investment_in_inventories": "-8.7% (2017 est.)",
+"exports_of_goods_and_services": "18.1% (2017 est.)",
+"imports_of_goods_and_services": "-20.5% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "23.4% (2017 est.)",
+"industry": "28.6% (2017 est.)",
+"services": "47.6% (2017 est.)",
+}, 
+"agriculture_products": "coffee, sisal, tea, cotton, pyrethrum (insecticide made from chrysanthemums), cashew nuts, tobacco, cloves, corn, wheat, cassava (manioc, tapioca), bananas, fruits, vegetables; cattle, sheep, goats",
+"industries": "agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds, gold, and iron), salt, soda ash; cement, oil refining, shoes, apparel, wood products, fertilizer",
+"industrial_production_growth_rate": "12% (2017 est.)",
+"labor_force": "24.89 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "66.9%",
+"industry": "6.4%",
+"services": "26.6% (2014 est.)",
+}, 
+"unemployment_rate":
+{
+"2014": "10.3%",
+},
+"population_below_poverty_line": "22.8% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.8%",
+"highest_10": "29.6% (2007)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2007": "37.6",
+"2000": "34.6",
+},
+"budget": 
+{
+"revenues": "7.873 billion (2017 est.)",
+"expenditures": "8.818 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "15.2% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1.8% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "37% of GDP",
+"2016": "38% of GDP",
+},
+"fiscal_year": "1 July - 30 June",
+"inflation_rate_consumer_prices":
+{
+"2017": "5.3%",
+"2016": "5.2%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "8.25%",
+"31 December 2009": "3.7%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "17.62%",
+"31 December 2016": "15.96%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$5.002 billion",
+"31 December 2016": "$4.641 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$5.002 billion",
+"31 December 2016": "$4.641 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$9.045 billion",
+"31 December 2016": "$9.616 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2012": "$1.803 billion",
+"31 December 2011": "$1.539 billion",
+"31 December 2010": "$1.264 billion",
+},
+"current_account_balance":
+{
+"2017": "-$1.464 billion",
+"2016": "-$2.137 billion",
+},
+"exports":
+{
+"2017": "$4.971 billion",
+"2016": "$5.697 billion",
+},
+"exports_partners": "India 21.8%, South Africa 17.9%, Kenya 8.8%, Switzerland 6.7%, Belgium 5.9%, Democratic Republic of the Congo 5.8%, China 4.8% (2017)",
+"exports_commodities": "gold, coffee, cashew nuts, manufactures, cotton",
+"imports":
+{
+"2017": "$7.869 billion",
+"2016": "$8.464 billion",
+},
+"imports_commodities": "consumer goods, machinery and transportation equipment, industrial raw materials, crude oil",
+"imports_partners": "India 16.5%, China 15.8%, UAE 9.2%, Saudi Arabia 7.9%, South Africa 5.1%, Japan 4.9%, Switzerland 4.4% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$5.301 billion",
+"31 December 2016": "$4.067 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$17.66 billion",
+"31 December 2016": "$15.21 billion",
+},
+"stock_of_direct_foreign_investment_at_home": "&lt;p&gt;NA&lt;/p&gt;", 
+"stock_of_direct_foreign_investment_abroad": "&lt;p&gt;NA&lt;/p&gt;", 
+"exchange_rates": 
+{
+"currency": "Tanzanian shillings (TZS) per US dollar -",
+"exchange_rates":
+{
+"2017": "2,243.8",
+"2016": "2,177.1",
+"2015": "2,177.1",
+"2014": "1,989.7",
+"2013": "1,654",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "39 million (2017)",
+"electrification_total_population": "33% (2017)",
+"electrification_urban_areas": "65% (2017)",
+"electrification_rural_areas": "17% (2017)",
+}, 
+"electricity_production": "6.699 billion kWh (2016 est.)",
+"electricity_consumption": "5.682 billion kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "102 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "1.457 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "55% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "40% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "6% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "72,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "67,830 bbl/day (2015 est.)",
+"natural_gas_production": "3.115 billion cu m (2017 est.)",
+"natural_gas_consumption": "3.115 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"natural_gas_proved_reserves": "6.513 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "14.57 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "127,094",
+"subscriptions_per_100_inhabitants": " less than 1 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "39,953,860",
+"subscriptions_per_100_inhabitants": "74 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "telecommunications services are marginal; system operating below capacity and being modernized for better service; 2 fixed-line operators and 8 operational mobile networks; unfortunate high tariffs on telecoms; mobile penetration is 83%; 3G/LTE services (2018)",
+"domestic": "fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 74 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2018)",
+"international": "country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&amp;nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)",
+}, 
+"broadcast_media": "a state-owned TV station and multiple privately owned TV stations; state-owned national radio station supplemented by more than 40 privately owned radio stations; transmissions of several international broadcasters are available (2019)",
+"internet_country_code": ".tz",
+"internet_users": 
+{
+"total": "6,822,754",
+"percent_of_population": "13% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,848,167",
+"subscriptions_per_100_inhabitants": "3 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "1.21% of GDP",
+"2017": "1.18% of GDP",
+"2016": "1.14% of GDP",
+"2015": "1.13% of GDP",
+"2014": "1.05% of GDP",
+},
+"military_and_security_forces": "Tanzania People&#39;s Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces Command, Naval Forces Command, Air Force Command, National Building Army (Jeshi la Kujenga Taifa, JKT), People&#39;s Militia (Reserves) (2019)",
+"military_service_age_and_obligation": "18-25 years of age for voluntary military service; 6-year commitment (2019)",
+"maritime_threats": "The International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships, especially as Somali-based pirates extend their activities south; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen.",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "5 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "17 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "1,239,707 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "2,337,440 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "5H (2016)",
+"airports": "166 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "10 (2013)",
+"over_3_047_m": "2 (2013)",
+"2_438_to_3_047_m": "2 (2013)",
+"1_524_to_2_437_m": "4 (2013)",
+"914_to_1_523_m": "2 (2013)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "156 (2013)",
+"over_3_047_m": "1 (2013)",
+"1_524_to_2_437_m": "24 (2013)",
+"914_to_1_523_m": "98 (2013)",
+"under_914_m": "33 (2013)",
+}, 
+"pipelines": "311 km gas, 891 km oil, 8 km refined products (2013)",
+"railways": 
+{
+"total": "4,567 km (2014)",
+"narrow_gauge": "1,860 km 1.067-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "87,581 km (2015)",
+"paved": "10,025 km (2015)",
+"unpaved": "77,556 km (2015)",
+}, 
+"waterways": " (Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi) are the principal avenues of commerce with neighboring countries; the rivers are not navigable) (2011)",
+"merchant_marine": 
+{
+"total": "329",
+"by_type": "bulk carrier 6, container ship 9, general cargo 184, oil tanker 41, other 89 (2018)",
+}, 
+"ports_and_terminals": "Dar es Salaam, Zanzibar",
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": "&lt;strong&gt;aim(s):&lt;/strong&gt; attract Tanzanian recruits to support terrorist operations in Kenya and Somalia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains minimal clandestine footprint in key cities (2018)",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "163,629 (Burundi), 73,169 (Democratic Republic of the Congo) (2019)",
+"trafficking_in_persons": 
+{
+"current_situation": "Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania’s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines and quarries, in the informal commercial sector, in factories, in the sex trade, and possibly on small fishing boats; Tanzanian children and adults are subjected to domestic servitude, other forms of forced labor, and sex trafficking in other African countries, the Middle East, Europe, and the US; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries with false offers of education or legitimate jobs; trafficking victims from Burundi, Kenya, South Asia, and Yemen are forced to work in Tanzania’s agricultural, mining, and domestic service sectors or may be sex trafficked",
+"tier_rating": "Tier 2 Watch List – Tanzania does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Tanzania was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government adopted a three-year national action plan and implementing regulations for the 2008 anti-trafficking law; authorities somewhat increased their number of trafficking investigations and prosecutions and convicted one offender, but the penalty was a fine in lieu of prison, which was inadequate given the severity of the crime; the government did not operate any shelters for victims and relied on NGOs to provide protective services (2015)",
+}, 
+"illicit_drugs": "targeted by traffickers moving hashish, Afghan heroin, and South American cocaine transported down the East African coastline, through airports, or overland through Central Africa; Zanzibar likely used by traffickers for drug smuggling; traffickers in the past have recruited Tanzanian couriers to move drugs through Iran into East Asia",
+}
+}

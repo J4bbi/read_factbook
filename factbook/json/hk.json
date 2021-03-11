@@ -1,0 +1,478 @@
+{
+"name": "Hong Kong",
+"code": "HK",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "Occupied by the UK in 1841, Hong Kong was formally ceded by China the following year; various adjacent lands were added later in the 19th century. Pursuant to an agreement signed by China and the UK on 19 December 1984, Hong Kong became the Hong Kong Special Administrative Region of the People&#39;s Republic of China on 1 July 1997. In this agreement, China promised that, under its &quot;one country, two systems&quot; formula, China&#39;s socialist economic system would not be imposed on Hong Kong and that Hong Kong would enjoy a &quot;high degree of autonomy&quot; in all matters except foreign and defense affairs for the subsequent 50 years.",
+}, 
+"geography": 
+{
+"location": "Eastern Asia, bordering the South China Sea and China",
+"geographic_coordinates": "22 15 N, 114 10 E",
+"map_references": "Southeast Asia",
+"area": 
+{
+"total": "1,108 sq km",
+"land": "1,073 sq km",
+"water": "35 sq km",
+}, 
+"area_comparative": "six times the size of Washington, DC",
+"land_boundaries": 
+{
+"total": "33 km",
+"regional_borders": "China 33 km",
+}, 
+"coastline": "733 km",
+"maritime_claims": "12 nm",
+"climate": "subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall",
+"terrain": "hilly to mountainous with steep slopes; lowlands in north",
+"elevation": 
+{
+"lowest_point": "South China Sea 0 m",
+"highest_point": "Tai Mo Shan 958 m",
+}, 
+"natural_resources": "outstanding deepwater harbor, feldspar",
+"land_use": 
+{
+"agricultural_land": "5% (2011 est.)",
+"agricultural_land_arable_land": "3.2% (2011 est.)",
+"agricultural_land_permanent_crops": "0.9% (2011 est.)",
+"agricultural_land_permanent_pasture": "0.9% (2011 est.)",
+"forest": "0% (2011 est.)",
+"other": "95% (2011 est.)",
+}, 
+"irrigated_land": "10 sq km (2012)",
+"population_distribution": "population fairly evenly distributed",
+"natural_hazards": "occasional typhoons",
+"environment_current_issues": "air and water pollution from rapid urbanization; urban waste pollution; industrial pollution",
+"environment_international_agreements": "Marine Dumping (associate member), Ship Pollution (associate member)",
+"geography_note": "consists of a mainland area (the New Territories) and more than 200 islands",
+}, 
+"people_and_society": 
+{
+"population": "7,213,338 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Chinese/Hong Konger",
+"adjective": "Chinese/Hong Kong",
+}, 
+"ethnic_groups": "Chinese 92%, Filipino 2.5%, Indonesian 2.1%, other 3.4% (2016 est.)",
+"languages": "Cantonese (official) 88.9%, English (official) 4.3%, Mandarin (official) 1.9%, other Chinese dialects 3.1%, other 1.9% (2016 est.)",
+"religions": "Buddhist or Taoist 27.9%, Protestant 6.7%, Roman Catholic 5.3%, Muslim 4.2%, Hindu 1.4%, Sikh 0.2%, other or none 54.3% (2016 est.)",
+"age_structure": 
+{
+"0_14_years": "12.38% (male 471,983 /female 420,977)",
+"15_24_years": "9.89% (male 372,991 /female 340,221)",
+"25_54_years": "43.96% (male 1,354,676 /female 1,816,303)",
+"55_64_years": "16.64% (male 571,329 /female 628,774)",
+"65_years_and_over": "17.14% (male 580,248 /female 655,836) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "35.9 (2015 est.)",
+"youth_dependency_ratio": "15.2 (2015 est.)",
+"elderly_dependency_ratio": "20.7 (2015 est.)",
+"potential_support_ratio": "4.8 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "44.8 years (2018 est.)",
+"male": "43.7 years",
+"female": "45.5 years",
+}, 
+"population_growth_rate": "0.29% (2018 est.)",
+"birth_rate": "8.8 births/1,000 population (2018 est.)",
+"death_rate": "7.6 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "1.7 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population fairly evenly distributed",
+"urbanization": 
+{
+"urban_population": "100% of total population (2019)",
+"rate_of_urbanization": "0.82% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "7.491 million Hong Kong (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.08 male(s)/female",
+"0_14_years": "1.12 male(s)/female",
+"15_24_years": "1.1 male(s)/female",
+"25_54_years": "0.75 male(s)/female",
+"55_64_years": "0.91 male(s)/female",
+"65_years_and_over": "0.88 male(s)/female",
+"total_population": "0.87 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "29.8 years (2008 est.)",
+"infant_mortality_rate": 
+{
+"total": "2.7 deaths/1,000 live births (2018 est.)",
+"male": "2.9 deaths/1,000 live births",
+"female": "2.5 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "83.1 years (2018 est.)",
+"male": "80.4 years",
+"female": "86 years",
+}, 
+"total_fertility_rate": "1.2 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "74.8% (2012)",
+"physicians_density": "1.96 physicians/1,000 population (2018)",
+"hospital_bed_density": "5.4 beds/1,000 population (2018)",
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"education_expenditures": "3.3% of GDP (2018)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "16 years",
+"male": "16 years",
+"female": "16 years (2014)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "8.7%",
+"male": "9.3%",
+"female": "8.2% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Hong Kong Special Administrative Region",
+"conventional_short_form": "Hong Kong",
+"local_long_form": "Heung Kong Takpit Hangching Ku (Eitel/Dyer-Ball)",
+"local_short_form": "Heung Kong (Eitel/Dyer-Ball)",
+"abbreviation": "HK",
+"etymology": "probably an imprecise phonetic rendering of the Cantonese name meaning &quot;fragrant harbor&quot;",
+}, 
+"dependency_status": "special administrative region of the People&#39;s Republic of China",
+"government_type": "presidential limited democracy; a special administrative region of the People&#39;s Republic of China",
+"administrative_divisions": "none (special administrative region of the People&#39;s Republic of China)",
+"independence": "none (special administrative region of China)",
+"national_holiday": "National Day (Anniversary of the Founding of the People&#39;s Republic of China), 1 October (1949); note - 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day",
+"constitution": 
+{
+"history": "several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People&#39;s Republic of China serves as the constitution); note - since 1990, China&#39;s National People&#39;s Congress has interpreted specific articles of the Basic Law",
+"amendments": "proposed by the Standing Committee of the National People&amp;rsquo;s Congress (NPC), the People&amp;rsquo;s Republic of China State Council, and the Special Administrative Region of Hong Kong; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Council of Hong Kong, approval by two thirds of Hong Kong&amp;rsquo;s deputies to the NPC, and approval by the Hong Kong chief executive; final passage requires approval by the NPC",
+}, 
+"legal_system": "mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure)",
+"citizenship": "see China", 
+"suffrage": "18 years of age in direct elections for half of the Legislative Council seats and all of the seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past 7 years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials",
+"executive_branch": 
+{
+"chief_of_state": "President of China XI Jinping (since 14 March 2013)",
+"head_of_government": "Chief Executive Carrie LAM (since 1 July 2017)",
+"cabinet": "Executive Council or ExCo appointed by the chief executive",
+"elections_appointments": "president indirectly elected by National People&#39;s Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 26 March 2017 (next to be held in 2022)",
+"election_results": "Carrie LAM elected chief executive; Election Committee vote - Carrie LAM 777, John TSANG 365, WOO Kwok-hing 21, invalid 23",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Legislative Council or LegCo (70 seats; 35 members directly elected in multi-seat constituencies by party-list proportional representation vote; 30 members indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods; 5 at large &quot;super-seat&quot; members directly elected by all of Hong Kong&amp;rsquo;s eligible voters who do not participate in a functional constituency; members serve 4-year terms)",
+"elections": "last held on 4 September 2016; (next to be held in September 2020); note - byelection held on 11 March and 25 November&amp;nbsp;2018 to fill&amp;nbsp;5 seats left vacant after&amp;nbsp;5 legislators were removed from office",
+"election_results": "percent of vote by block - pro-democracy 36%; pro-Beijing 40.2%, localist 19%, other 4.8%; seats by block/party - pro-Beijing 40 (DAB 12, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 9); pro-democracy 23 (Democratic Party 7, Civic Party 6, PP-LSD 2, Professional Commons 2, Labor 1, NWSC 1, PTU 1, other democrats 3), localists 6 (ALLinHK 2, CP-PPI-HKRO 1, Demosisto 1, Democracy Groundwork 1, other localist 1), non-aligned independent 1; composition - men 59, women 11, percent of women 15.7%; note - 2 localists were barred from taking office in November 2016 and 4 pro-democracy legislators were removed in July 2017; two pan-democratic,&amp;nbsp;two DAB, and one pro-establishment candidates won the byelections&amp;nbsp;in 2018 to fill the seats vacated by the&amp;nbsp;5 legislators removed from office; one pro-democracy seat remains unfilled pending a court appeal; percent of vote by block as of March 2019 - pro-Beijing 62% pro-democracy 38%; seats by block/party as of March 2019 - pro-Beijing 43 (DAB 13, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 11); pro-democracy 26 (Democratic Party 7, Civic Party 5, Professional Commons 2, Civic Passion 1, Labor 1 PTU 1, Council Front 6, independent 3); composition as of March 2019 - men 58, women 11; percent of women 15.7%&lt;br /&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges); note - a sitting bench consists of the chief justice, 3 permanent judges, and 1 non-permanent judge",
+"judge_selection_and_term_of_office": "all judges appointed by the Hong Kong Chief Executive upon the recommendation of the Judicial Officers Recommendation Commission, an independent body consisting of the Secretary for Justice, other judges, and judicial and legal professionals; permanent judges serve until normal retirement at age 65, but term can be extended; non-permanent judges appointed for renewable 3-year terms without age limit",
+"subordinate_courts": "High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); magistrates&#39; courts; specialized tribunals",
+}, 
+"political_parties_and_leaders": "&lt;strong&gt;parties:&lt;/strong&gt; &lt;br /&gt;ALLinHK (alliance of 6 localist groups)&lt;br /&gt;Business and Professional Alliance or BPA [LO Wai-kwok]&lt;br /&gt;Civic Party [Alvin YEUNG]&lt;br /&gt;Civic Passion or CP [CHENG Chung-tai] (part of Civic Passion-Proletariat Political Institute-Hong Kong Resurgence Order alliance or CP-PPI-HKRO that dissolved after the 2016 election)&lt;br /&gt;Democracy Groundwork [LAU Siu-lai]&lt;br /&gt;Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [Starry LEE Wai-king]&lt;br /&gt;Democratic Party [WU Chi-wai]&lt;br /&gt;Demosisto [Ivan LAM]&lt;br /&gt;Federation of Trade Unions or FTU [Stanley NG Chau-pei]&lt;br /&gt;Labor Party [Steven KWOK Wing-kin]&lt;br /&gt;League of Social Democrats or LSD [Avery NG Man-yuen]&lt;br /&gt;Liberal Party [Felix CHUNG Kwok-pan]&lt;br /&gt;Neighborhood and Workers Service Center or NWSC [LEUNG Yui-chung]&lt;br /&gt;New People&#39;s Party or NPP [Regina IP Lau Su-yee]&lt;br /&gt;People Power or PP [Raymond CHAN]&lt;br /&gt;Youngspiration [Sixtus &quot;Baggio&quot; LEUNG Chung-hang]&lt;br /&gt;&lt;strong&gt;other:&lt;/strong&gt; &lt;br /&gt;Professional Commons [Charles Peter MOK] (think tank)&lt;br /&gt;Professional Teachers Union or PTU",
+"international_organization_participation": "ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "none (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; Eddie MAK, JP (since 3 July 2018) is the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] 202 331-8947; FAX: [1] 202 331-8958",
+"hketo_offices": "New York, San Francisco",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Consul General Hanscom SMITH (since July 2019); note - also accredited to Macau",
+"telephone": "[852] 2523-9011",
+"embassy": "U. S. Consulate General Hong Kong and Macau&lt;br /&gt;26 Garden Road&lt;br /&gt;Central, Hong Kong",
+"mailing_address": "Unit 8000, Box 1, DPO AP 96521-0006",
+"fax": "[852] 2845-1598",
+"consulate_s_general": "26 Garden Road, Hong Kong",
+}, 
+"flag_description": "red with a stylized, white, five-petal Bauhinia flower in the center; each petal contains a small, red, five-pointed star in its middle; the red color is the same as that on the Chinese flag and represents the motherland; the fragrant Bauhinia - developed in Hong Kong the late 19th century - has come to symbolize the region; the five stars echo those on the flag of China",
+"national_symbol_s": "orchid tree flower; national colors: red, white",
+"national_anthem": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; as a Special Administrative Region of China, &quot;Yiyongjun Jinxingqu&quot; is the official anthem (see China)&lt;/p&gt;", 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Hong Kong has a free market economy, highly dependent on international trade and finance - the value of goods and services trade, including the sizable share of reexports, is about four times GDP. Hong Kong has no tariffs on imported goods, and it levies excise duties on only four commodities, whether imported or produced locally: hard alcohol, tobacco, oil, and methyl alcohol. There are no quotas or dumping laws. Hong Kong continues to link its currency closely to the US dollar, maintaining an arrangement established in 1983.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Excess liquidity, low interest rates and a tight housing supply have caused Hong Kong property prices to rise rapidly. The lower and middle-income segments of the population increasingly find housing unaffordable.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hong Kong&#39;s open economy has left it exposed to the global economic situation. Its continued reliance on foreign trade and investment makes it vulnerable to renewed global financial market volatility or a slowdown in the global economy.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Mainland China has long been Hong Kong&#39;s largest trading partner, accounting for about half of Hong Kong&#39;s total trade by value. Hong Kong&#39;s natural resources are limited, and food and raw materials must be imported. As a result of China&#39;s easing of travel restrictions, the number of mainland tourists to the territory surged from 4.5 million in 2001 to 47.3 million in 2014, outnumbering visitors from all other countries combined. After peaking in 2014, overall tourist arrivals dropped 2.5% in 2015 and 4.5% in 2016. The tourism sector rebounded in 2017, with visitor arrivals rising 3.2% to 58.47 million. Travelers from Mainland China totaled 44.45 million, accounting for 76% of the total.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Hong Kong Government is promoting the Special Administrative Region (SAR) as the preferred business hub for renminbi (RMB) internationalization. Hong Kong residents are allowed to establish RMB-denominated savings accounts, RMB-denominated corporate and Chinese government bonds have been issued in Hong Kong, RMB trade settlement is allowed, and investment schemes such as the Renminbi Qualified Foreign Institutional Investor (RQFII) Program was first launched in Hong Kong. Offshore RMB activities experienced a setback, however, after the People’s Bank of China changed the way it set the central parity rate in August 2015. RMB deposits in Hong Kong fell from 1.0 trillion RMB at the end of 2014 to 559 billion RMB at the end of 2017, while RMB trade settlement handled by banks in Hong Kong also shrank from 6.8 trillion RMB in 2015 to 3.9 trillion RMB in 2017.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hong Kong has also established itself as the premier stock market for Chinese firms seeking to list abroad. In 2015, mainland Chinese companies constituted about 50% of the firms listed on the Hong Kong Stock Exchange and accounted for about 66% of the exchange&#39;s market capitalization.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;During the past decade, as Hong Kong&#39;s manufacturing industry moved to the mainland, its service industry has grown rapidly. In 2014, Hong Kong and China signed a new agreement on achieving basic liberalization of trade in services in Guangdong Province under the Closer Economic Partnership Agreement (CEPA), adopted in 2003 to forge closer ties between Hong Kong and the mainland. The new measures, which took effect in March 2015, cover a negative list and a most-favored treatment provision. On the basis of the Guangdong Agreement, the Agreement on Trade in Services signed in November 2015 further enhanced liberalization, including extending the implementation of the majority of Guangdong pilot liberalization measures to the whole Mainland, reducing the restrictive measures in the negative list, and adding measures in the positive lists for cross-border services as well as cultural and telecommunications services. In June 2017, the Investment Agreement and the Agreement on Economic and Technical Cooperation (Ecotech Agreement) were signed under the framework of CEPA.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hong Kong’s economic integration with the mainland continues to be most evident in the banking and finance sector. Initiatives like the Hong Kong-Shanghai Stock Connect, the Hong Kong- Shenzhen Stock Connect the Mutual Recognition of Funds, and the Bond Connect scheme are all important steps towards opening up the Mainland’s capital markets and have reinforced Hong Kong’s role as China’s leading offshore RMB market. Additional connect schemes such as ETF Connect (for exchange-traded fund products) are also under exploration by Hong Kong authorities. In 2017, Chief Executive Carrie LAM announced plans to increase government spending on research and development, education, and technological innovation with the aim of spurring continued economic growth through greater sector diversification.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$455.9 billion",
+"2016": "$439.2 billion",
+"2015": "$429.9 billion",
+},
+"gdp_official_exchange_rate": "$341.4 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3.8%",
+"2016": "2.2%",
+"2015": "2.4%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$61,500",
+"2016": "$59,500",
+"2015": "$58,800",
+},
+"gross_national_saving":
+{
+"2017": "26.6% of GDP",
+"2016": "25.5% of GDP",
+"2015": "24.9% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "67% (2017 est.)",
+"government_consumption": "9.9% (2017 est.)",
+"investment_in_fixed_capital": "21.8% (2017 est.)",
+"investment_in_inventories": "0.4% (2017 est.)",
+"exports_of_goods_and_services": "188% (2017 est.)",
+"imports_of_goods_and_services": "-187.1% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "0.1% (2017 est.)",
+"industry": "7.6% (2017 est.)",
+"services": "92.3% (2017 est.)",
+}, 
+"agriculture_products": "fresh vegetables and fruit; poultry, pork; fish",
+"industries": "trading and logistics, financial services, professional services, tourism, cultural and creative, clothing and textiles, shipping, electronics, toys, clocks and watches",
+"industrial_production_growth_rate": "1.7% (2017 est.)",
+"labor_force": "3.965 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "3.8% (2013 est.)",
+"industry": "2% (2016 est.)",
+"services": "54.5% (2016 est.)",
+"industry_and_services": "12.5% (2013 est.)",
+"agriculture_fishing_forestry_mining": "10.1% (2013)",
+"manufacturing": "17.1% (2013 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "3.1%",
+"2016": "3.4%",
+},
+"population_below_poverty_line": "19.9% (2016 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "1.8% NA",
+"highest_10": "38.1% NA (2016)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2016": "53.9",
+"2011": "53.7",
+},
+"budget": 
+{
+"revenues": "79.34 billion (2017 est.)",
+"expenditures": "61.64 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "23.2% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "5.2% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "0.1% of GDP",
+"2016": "0.1% of GDP",
+},
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.5%",
+"2016": "2.4%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "1.75%",
+"31 December 2016": "1%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "5%",
+"31 December 2016": "5%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$311.1 billion",
+"31 December 2016": "$285.5 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$311.1 billion",
+"31 December 2016": "$285.5 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$825.3 billion",
+"31 December 2016": "$676.5 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$4.359 trillion",
+"31 December 2016": "$3.175 trillion",
+"31 December 2015": "$3.165 trillion",
+},
+"current_account_balance":
+{
+"2017": "$14.75 billion",
+"2016": "$12.71 billion",
+},
+"exports":
+{
+"2017": "$537.8 billion",
+"2016": "$460 billion",
+},
+"exports_partners": "China 54.1%, US 7.7% (2017)",
+"exports_commodities": "electrical machinery and appliances, textiles, apparel, watches and clocks, toys, &quot;jewelry, goldsmiths&#39; and silversmiths&#39; wares, and other articles of precious or semi-precious materials&quot;; Hong Kong plays an important role as entrepot to the Chinese mainland; in 2017, 58% of Hong Kong’s re-exports originated in mainland China, and 54% were destined for the Chinese mainland",
+"imports":
+{
+"2017": "$561.8 billion",
+"2016": "$518.2 billion",
+},
+"imports_commodities": "raw materials and semi-manufactures, consumer goods, capital goods, foodstuffs, fuel (most is reexported)",
+"imports_partners": "China 44.6%, Singapore 6.4%, Japan 6.1%, South Korea 5.5%, US 5.2% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$431.4 billion",
+"31 December 2016": "$386.2 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$633.6 billion",
+"31 December 2016": "$1.349 trillion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$2.2 trillion",
+"31 December 2016": "$1.616 trillion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$2.036 trillion",
+"31 December 2016": "$1.538 trillion",
+},
+"exchange_rates": 
+{
+"currency": "Hong Kong dollars (HKD) per US dollar -",
+"exchange_rates":
+{
+"2017": "7.82",
+"2016": "7.76",
+"2015": "7.762",
+"2014": "7.752",
+"2013": "7.754",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "35.97 billion kWh (2016 est.)",
+"electricity_consumption": "41.84 billion kWh (2016 est.)",
+"electricity_exports": "1.205 billion kWh (2016 est.)",
+"electricity_imports": "11.62 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "12.63 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "100% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "0% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "403,100 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "13,570 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "402,100 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "3.37 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "3.37 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "0 cu m (1 January 2016 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "102.5 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "4,266,837",
+"subscriptions_per_100_inhabitants": "59 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "18,340,347",
+"subscriptions_per_100_inhabitants": "255 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern facilities provide excellent domestic and international services; some of the highest peak average broadband speeds in the world; HK aims to&amp;nbsp;be among&amp;nbsp;the earliest adopters of 5G mobile technology as early as 2020; almost all households have access to high-speed broadband connectivity; in the next five years the government&amp;nbsp;has organized&amp;nbsp;the development of&amp;nbsp;&#39;smart cities&#39; in six areas&amp;nbsp;-&amp;nbsp;&quot;smart mobility&quot;, &quot;smart living&quot;, &quot;smart environment&quot;, &quot;smart people&quot;, &quot;smart government&quot;, and &quot;smart economy&quot; &amp;nbsp;by 2022 (2018)",
+"domestic": "microwave radio relay links and extensive fiber-optic network; fixed-line is 59 per 100 and mobile-cellular is 255 per 100 (2018)",
+"international": "country code - 852;&amp;nbsp;APG, ASE, EAC-C2C, HK-G,&amp;nbsp;Bay-to-Bay Express Cable System, H2 Cable,&amp;nbsp;HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAG&amp;nbsp;and FEA&amp;nbsp;submarine cables provide connections to Asia, US, Australia, the Middle East, and&amp;nbsp;Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2019)",
+}, 
+"broadcast_media": "4 commercial terrestrial TV networks each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters of terrestrial radio, one of which is government funded, operate about 12 radio stations; note - 4 digital radio broadcasters operated in Hong Kong from 2010 to 2017, but all digital radio services were terminated in September 2017 due to weak market demand (2019)",
+"internet_country_code": ".hk",
+"internet_users": 
+{
+"total": "6.066 million",
+"percent_of_population": "85% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "2,645,752",
+"subscriptions_per_100_inhabitants": "37 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular indigenous military forces; Hong Kong Police Force; Hong Kong garrison of China&#39;s People&#39;s Liberation Army (PLA) includes elements of the PLA Army, PLA Navy, and PLA Air Force; these forces are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command (2019)",
+"military_note": "defense is the responsibility of China",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "7 (registered in China) (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "253 (registered in China) (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "41,867,157 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "11.294 billion mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "B-H (2016)",
+"airports": "2 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "2 (2017)",
+"over_3_047_m": "1 (2017)",
+"1_524_to_2_437_m": "1 (2017)",
+}, 
+"heliports": "9 (2013)",
+"roadways": 
+{
+"total": "2,107 km (2017)",
+"paved": "2,107 km (2017)",
+}, 
+"merchant_marine": 
+{
+"total": "2,615",
+"by_type": "bulk carrier 1143, container ship 499, general cargo 217, oil tanker 355, other 401 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Hong Kong",
+"container_port_s_teus": "Hong Kong (20,770,000) (2017)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Hong Kong plans to reduce its 2,800-hectare Frontier Closed Area (FCA) to 400 hectares by 2015; the FCA was established in 1951 as a buffer zone between Hong Kong and mainland China to prevent illegal migration from and the smuggling of goods&lt;/p&gt;",
+"illicit_drugs": "despite strenuous law enforcement efforts, faces difficult challenges in controlling transit of heroin and methamphetamine to regional and world markets; modern banking system provides conduit for money laundering; rising indigenous use of synthetic drugs, especially among young people",
+}
+}

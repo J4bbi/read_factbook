@@ -1,0 +1,596 @@
+{
+"name": "India",
+"code": "IN",
+"publish_date": "December 19, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;The Indus Valley civilization, one of the world&#39;s oldest, flourished during the 3rd and 2nd millennia B.C. and extended into northwestern India. Aryan tribes from the northwest infiltrated the Indian subcontinent about 1500 B.C.; their merger with the earlier Dravidian inhabitants created the classical Indian culture. The Maurya Empire of the 4th and 3rd centuries B.C. - which reached its zenith under ASHOKA - united much of South Asia. The Golden Age ushered in by the Gupta dynasty (4th to 6th centuries A.D.) saw a flowering of Indian science, art, and culture. Islam spread across the subcontinent over a period of 700 years. In the 10th and 11th centuries, Turks and Afghans invaded India and established the Delhi Sultanate. In the early 16th century, the Emperor BABUR established the Mughal Dynasty, which ruled India for more than three centuries. European explorers began establishing footholds in India during the 16th century.&lt;/p&gt; &lt;p&gt;By the 19th century, Great Britain had become the dominant political power on the subcontinent and India was seen as the &quot;Jewel in the Crown&quot; of the British Empire. The British Indian Army played a vital role in both World Wars. Years of nonviolent resistance to British rule, led by Mohandas GANDHI and Jawaharlal NEHRU, eventually resulted in Indian independence in 1947. Large-scale communal violence took place before and after the subcontinent partition into two separate states - India and Pakistan. The neighboring countries have fought three wars since independence, the last of which was in 1971 and resulted in East Pakistan becoming the separate nation of Bangladesh. India&#39;s nuclear weapons tests in 1998 emboldened Pakistan to conduct its own tests that same year. In November 2008, terrorists originating from Pakistan conducted a series of coordinated attacks in Mumbai, India&#39;s financial capital. India&#39;s economic growth following the launch of economic reforms in 1991, a massive youthful population, and a strategic geographic location have contributed to India&#39;s emergence as a regional and global power. However, India still faces pressing problems such as environmental degradation, extensive poverty, and widespread corruption, and its restrictive business climate is dampening economic growth expectations.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma and Pakistan",
+"geographic_coordinates": "20 00 N, 77 00 E",
+"map_references": "Asia",
+"area": 
+{
+"total": "3,287,263 sq km",
+"land": "2,973,193 sq km",
+"water": "314,070 sq km",
+}, 
+"area_comparative": "slightly more than one-third the size of the US",
+"land_boundaries": 
+{
+"total": "13,888 km",
+"border_countries": "Bangladesh 4142 km, Bhutan 659 km, Burma 1468 km, China 2659 km, Nepal 1770 km, Pakistan 3190 km",
+}, 
+"coastline": "7,000 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": "200 nm or to the edge of the continental margin",
+}, 
+"climate": "varies from tropical monsoon in south to temperate in north",
+"terrain": "upland plain (Deccan Plateau) in south, flat to rolling plain along the Ganges, deserts in west, Himalayas in north",
+"elevation": 
+{
+"mean_elevation": "160 m",
+"lowest_point": "Indian Ocean 0 m",
+"highest_point": "Kanchenjunga 8,586 m",
+}, 
+"natural_resources": "coal (fourth-largest reserves in the world), antimony, iron ore, lead, manganese, mica, bauxite, rare earth elements, titanium ore, chromite, natural gas, diamonds, petroleum, limestone, arable land",
+"land_use": 
+{
+"agricultural_land": "60.5% (2011 est.)",
+"agricultural_land_arable_land": "52.8% (2011 est.)",
+"agricultural_land_permanent_crops": "4.2% (2011 est.)",
+"agricultural_land_permanent_pasture": "3.5% (2011 est.)",
+"forest": "23.1% (2011 est.)",
+"other": "16.4% (2011 est.)",
+}, 
+"irrigated_land": "667,000 sq km (2012)",
+"population_distribution": "with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations",
+"natural_hazards": "&lt;p&gt;droughts; flash floods, as well as widespread and destructive flooding from monsoonal rains; severe thunderstorms; earthquakes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; Barren Island (354 m) in the Andaman Sea has been active in recent years&lt;/p&gt;",
+"environment_current_issues": "deforestation; soil erosion; overgrazing; desertification; air pollution from industrial effluents and vehicle emissions; water pollution from raw sewage and runoff of agricultural pesticides; tap water is not potable throughout the country; huge and growing population is overstraining natural resources; preservation and quality of forests; biodiversity loss",
+"environment_international_agreements": 
+{
+"party_to": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal",
+}, 
+"people_and_society": 
+{
+"population": "1,296,834,042 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Indian(s)",
+"adjective": "Indian",
+}, 
+"ethnic_groups": "Indo-Aryan 72%, Dravidian 25%, Mongoloid and other 3% (2000)",
+"languages": "Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6% (2011 est.)",
+"religions": "Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, other and unspecified 2% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "26.98% (male 185,736,879 /female 164,194,080)",
+"15_24_years": "17.79% (male 122,573,662 /female 108,109,968)",
+"25_54_years": "41.24% (male 276,283,581 /female 258,563,835)",
+"55_64_years": "7.6% (male 49,334,703 /female 49,197,817)",
+"65_years_and_over": "6.39% (male 39,184,523 /female 43,654,994) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "52.2 (2015 est.)",
+"youth_dependency_ratio": "43.6 (2015 est.)",
+"elderly_dependency_ratio": "8.6 (2015 est.)",
+"potential_support_ratio": "11.7 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "28.1 years (2018 est.)",
+"male": "27.5 years",
+"female": "28.9 years",
+}, 
+"population_growth_rate": "1.14% (2018 est.)",
+"birth_rate": "18.7 births/1,000 population (2018 est.)",
+"death_rate": "7.3 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "0 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations",
+"urbanization": 
+{
+"urban_population": "34.5% of total population (2019)",
+"rate_of_urbanization": "2.37% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "29.399 million NEW DELHI (capital), 20.185 million Mumbai, 14.755 million Kolkata, 11.883 million Bangalore, 10.711 million Chennai, 9.741 million Hyderabad (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.11 male(s)/female",
+"0_14_years": "1.13 male(s)/female",
+"15_24_years": "1.13 male(s)/female",
+"25_54_years": "1.07 male(s)/female",
+"55_64_years": "1 male(s)/female",
+"65_years_and_over": "0.9 male(s)/female",
+"total_population": "1.08 male(s)/female (2018 est.)",
+}, 
+"maternal_mortality_rate": "145 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "37.8 deaths/1,000 live births (2018 est.)",
+"male": "36.7 deaths/1,000 live births",
+"female": "39.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "69.1 years (2018 est.)",
+"male": "67.8 years",
+"female": "70.5 years",
+}, 
+"total_fertility_rate": "2.4 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "53.5% (2015/16)",
+"drinking_water_source": 
+{
+"improved_urban": "97.1% of population",
+"improved_rural": "92.6% of population",
+"improved_total": "94.1% of population",
+"unimproved_urban": "2.9% of population",
+"unimproved_rural": "7.4% of population",
+"unimproved_total": "5.9% of population (2015 est.)",
+}, 
+"current_health_expenditure": "3.7% (2016)",
+"physicians_density": "0.78 physicians/1,000 population (2017)",
+"hospital_bed_density": "0.7 beds/1,000 population (2011)",
+"sanitation_facility_access": 
+{
+"improved_urban": "62.6% of population (2015 est.)",
+"improved_rural": "28.5% of population (2015 est.)",
+"improved_total": "39.6% of population (2015 est.)",
+"unimproved_urban": "37.4% of population (2015 est.)",
+"unimproved_rural": "71.5% of population (2015 est.)",
+"unimproved_total": "60.4% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.2% (2017 est.)",
+"hiv_aids_people_living_with_hiv_aids": "2.1 million (2017 est.)",
+"hiv_aids_deaths": "69,000 (2017 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "very high (2016)",
+"food_or_waterborne_diseases": "bacterial diarrhea, hepatitis A and E, and typhoid fever (2016)",
+"vectorborne_diseases": "dengue fever, Japanese encephalitis, and malaria (2016)",
+"water_contact_diseases": "leptospirosis (2016)",
+"animal_contact_diseases": "rabies (2016)",
+}, 
+"obesity_adult_prevalence_rate": "3.9% (2016)",
+"children_under_the_age_of_5_years_underweight": "36.3% (2015)",
+"education_expenditures": "3.8% of GDP (2013)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "71.2%",
+"male": "81.3%",
+"female": "60.6% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "12 years",
+"male": "12 years",
+"female": "13 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "10.1%",
+"male": "9.5%",
+"female": "12% (2012 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of India",
+"conventional_short_form": "India",
+"local_long_form": "Republic of India/Bharatiya Ganarajya",
+"local_short_form": "India/Bharat",
+"etymology": "the English name derives from the Indus River; the Indian name &quot;Bharat&quot; may derive from the &quot;Bharatas&quot; tribe mentioned in the Vedas of the second millennium B.C.; the name is also associated with Emperor Bharata, the legendary conqueror of all of India",
+}, 
+"government_type": "federal parliamentary republic",
+"capital": 
+{
+"name": "New Delhi",
+"geographic_coordinates": "28 36 N, 77 12 E",
+"time_difference": "UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "28 states and 9 union territories*; Andaman and Nicobar Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli*, Daman and Diu*, Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir*, Jharkhand, Karnataka, Kerala, Ladakh*, Lakshadweep*, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal",
+"independence": "15 August 1947 (from the UK)",
+"national_holiday": "Republic Day, 26 January (1950)",
+"constitution": 
+{
+"history": "previous 1935 (preindependence); latest draft completed 4 November 1949, adopted 26 November 1949, effective 26 January 1950",
+"amendments": "proposed by either the Council of States or the House of the People; passage requires majority participation of the total membership in each house and at least two-thirds majority of voting members of each house, followed by assent of the president of India; proposed amendments to the constitutional amendment procedures also must be ratified by at least one half of the India state legislatures before presidential assent; amended many times, last in 2019 (2019)",
+}, 
+"legal_system": "common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of India",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Ram Nath KOVIND (since 25 July 2017); Vice President M. Venkaiah NAIDU (since 11 August 2017)",
+"head_of_government": "Prime Minister Narendra MODI (since 26 May 2014)",
+"cabinet": "Union Council of Ministers recommended by the prime minister, appointed by the president",
+"elections_appointments": "president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 17 July 2017 (next to be held in July 2022); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2017 (next to be held in August 2022); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party",
+"election_results": "Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.7% Meira KUMAR (INC) 34.3%; M. Venkaiah NAIDU elected vice president; electoral college vote - M. Venkaiah NAIDU (BJP) 516, Gopalkrishna GANDHI (independent) 244",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Sansad consists of:&lt;br /&gt;Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms)&lt;br /&gt; House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)",
+"elections": "Council of States - last held by state and territorial assemblies at various dates in 2018&lt;br /&gt;&lt;br /&gt;House of the People - last held April-May 2014 in 9 phases; (next&amp;nbsp;to be held in 7 phases&amp;nbsp;11 April to 19 May&amp;nbsp;2019)",
+"election_results": "Council of States - percent of vote by party - NA; seats by party - NA; composition - men 218, women 27, percent of women 11%&lt;br /&gt; &lt;br /&gt;House of the People - percent of vote by party - BJP 31%, INC 19.3%, AITC 3.8%, SP 3.4%, AIADMK 3.3%, CPI(M) 3.3%, TDP 2.6%, YSRC 2.5%, AAP 2.1%, SAD 1.8%, BJD 1.7%, SS 1.7%, NCP 1.6%, RJD 1.3%, TRS 1.3%, LJP 0.4%, other 15.9%, independent 3%; seats by party - BJP 282, INC 44, AIADMK 37, AITC 34, BJD 20, SS 18, TDP 16, TRS 11, CPI(M) 9, YSRC 9, LJP 6, NCP 6, SP 5, AAP 4, RJD 4, SAD 4, other 33, independent 3; composition - men 483, women 62, percent of women 11.4%; note - total Parliament percent of women 11.3%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of 28 judges, including the chief justice)",
+"judge_selection_and_term_of_office": "justices appointed by the president to serve until age 65",
+"subordinate_courts": "High Courts; District Courts; Labour Court",
+}, 
+"political_parties_and_leaders": "Aam Aadmi Party or AAP [Arvind KEJRIWAL]&lt;br /&gt;All India Anna Dravida Munnetra Kazhagam or AIADMK [Edappadi PALANISWAMY, Occhaathevar PANNEERSELVAM]&lt;br /&gt;All India Trinamool Congress or AITC [Mamata BANERJEE]&lt;br /&gt;Bahujan Samaj Party or BSP [MAYAWATI]&lt;br /&gt;Bharatiya Janata Party or BJP [Amit SHAH]&lt;br /&gt;Biju Janata Dal or BJD [Naveen PATNAIK]&lt;br /&gt;Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]&lt;br /&gt;Indian National Congress or INC&lt;br /&gt;Lok Janshakti Party (LJP) [Ram Vilas PASWAN]&lt;br /&gt;Nationalist Congress Party or NCP [Sharad PAWAR]&lt;br /&gt;Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]&lt;br /&gt;Samajwadi Party or SP [Akhilesh YADAV]&lt;br /&gt;Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]&lt;br /&gt;Shiv Sena or SS [Uddhav THACKERAY]&lt;br /&gt;Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]&lt;br /&gt;Telugu Desam Party or TDP [Chandrababu NAIDU]&lt;br /&gt;YSR Congress or YSRC [Jagan Mohan REDDY]",
+"international_organization_participation": "ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue partner), BIMSTEC, BIS, BRICS, C, CD, CERN (observer), CICA, CP, EAS, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS (observer), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OECD, OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC, SACEP, SCO (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador &lt;span class=&quot;st&quot;&gt;Harsh Vardhan SHRINGLA&lt;/span&gt; (since 11 January 2019)",
+"chancery": "2107 Massachusetts Avenue NW, Washington, DC 20008; Consular Wing located at 2536 Massachusetts Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 939-7000",
+"fax": "[1] (202) 265-4351",
+"consulate_s_general": "Atlanta, Chicago, Houston, New York, San Francisco",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Kenneth I. JUSTER (since 23 November 2017)",
+"telephone": "[91] (11) 2419-8000",
+"embassy": "Shantipath, Chanakyapuri, New Delhi 110021",
+"mailing_address": "use embassy street address",
+"fax": "[91] (11) 2419-0017",
+"consulate_s_general": "Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)",
+}, 
+"flag_description": "three equal horizontal bands of saffron (subdued orange) (top), white, and green, with a blue chakra (24-spoked wheel) centered in the white band; saffron represents courage, sacrifice, and the spirit of renunciation; white signifies purity and truth; green stands for faith and fertility; the blue chakra symbolizes the wheel of life in movement and death in stagnation",
+"national_symbol_s": "the Lion Capital of Ashoka, which depicts four Asiatic lions standing back to back mounted on a circular abacus, is the official emblem; Bengal tiger; lotus flower; national colors: saffron, white, green",
+"national_anthem": 
+{
+"name": "&quot;Jana-Gana-Mana&quot; (Thou Art the Ruler of the Minds of All People)",
+"lyrics_music": "Rabindranath TAGORE",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;India&#39;s diverse economy encompasses traditional village farming, modern agriculture, handicrafts, a wide range of modern industries, and a multitude of services. Slightly less than half of the workforce is in agriculture, but services are the major source of economic growth, accounting for nearly two-thirds of India&#39;s output but employing less than one-third of its labor force. India has capitalized on its large educated English-speaking population to become a major exporter of information technology services, business outsourcing services, and software workers. Nevertheless, per capita income remains below the world average. India is developing into an open-market economy, yet traces of its past autarkic policies remain. Economic liberalization measures, including industrial deregulation, privatization of state-owned enterprises, and reduced controls on foreign trade and investment, began in the early 1990s and served to accelerate the country&#39;s growth, which averaged nearly 7% per year from 1997 to 2017.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;India&#39;s economic growth slowed in 2011 because of a decline in investment caused by high interest rates, rising inflation, and investor pessimism about the government&#39;s commitment to further economic reforms and about slow world growth. Investors’ perceptions of India improved in early 2014, due to a reduction of the current account deficit and expectations of post-election economic reform, resulting in a surge of inbound capital flows and stabilization of the rupee. Growth rebounded in 2014 through 2016. Despite a high growth rate compared to the rest of the world, India’s government-owned banks faced mounting bad debt, resulting in low credit growth. Rising macroeconomic imbalances in India and improving economic conditions in Western countries led investors to shift capital away from India, prompting a sharp depreciation of the rupee through 2016.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The economy slowed again in 2017, due to shocks of &quot;demonetizaton&quot; in 2016 and introduction of GST in 2017. Since the election, the government has passed an important goods and services tax bill and raised foreign direct investment caps in some sectors, but most economic reforms have focused on administrative and governance changes, largely because the ruling party remains a minority in India’s upper house of Parliament, which must approve most bills.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;India has a young population and corresponding low dependency ratio, healthy savings and investment rates, and is increasing integration into the global economy. However, long-term challenges remain significant, including: India&#39;s discrimination against women and girls, an inefficient power generation and distribution system, ineffective enforcement of intellectual property rights, decades-long civil litigation dockets, inadequate transport and agricultural infrastructure, limited non-agricultural employment opportunities, high spending and poorly targeted subsidies, inadequate availability of quality basic and higher education, and accommodating rural-to-urban migration.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$9.474 trillion",
+"2016": "$8.88 trillion",
+"2015": "$8.291 trillion",
+},
+"gdp_official_exchange_rate": "$2.602 trillion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "6.7%",
+"2016": "7.1%",
+"2015": "8.2%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$7,200",
+"2016": "$6,800",
+"2015": "$6,500",
+},
+"gross_national_saving":
+{
+"2017": "28.8% of GDP",
+"2016": "29.7% of GDP",
+"2015": "30.7% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "59.1% (2017 est.)",
+"government_consumption": "11.5% (2017 est.)",
+"investment_in_fixed_capital": "28.5% (2017 est.)",
+"investment_in_inventories": "3.9% (2017 est.)",
+"exports_of_goods_and_services": "19.1% (2017 est.)",
+"imports_of_goods_and_services": "-22% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "15.4% (2016 est.)",
+"industry": "23% (2016 est.)",
+"services": "61.5% (2016 est.)",
+}, 
+"agriculture_products": "rice, wheat, oilseed, cotton, jute, tea, sugarcane, lentils, onions, potatoes; dairy products, sheep, goats, poultry; fish",
+"industries": "textiles, chemicals, food processing, steel, transportation equipment, cement, mining, petroleum, machinery, software, pharmaceuticals",
+"industrial_production_growth_rate": "5.5% (2017 est.)",
+"labor_force": "521.9 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "47%",
+"industry": "22%",
+"services": "31% (FY 2014 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "8.5%",
+"2016": "8.5%",
+},
+"population_below_poverty_line": "21.9% (2011 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "3.6%",
+"highest_10": "29.8% (2011)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2011": "35.2",
+"1997": "37.8",
+},
+"budget": 
+{
+"revenues": "238.2 billion (2017 est.)",
+"expenditures": "329 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "9.2% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-3.5% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "71.2% of GDP",
+"2016": "69.5% of GDP",
+},
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2017": "3.6%",
+"2016": "4.5%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "6%",
+"31 December 2016": "6.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "9.51%",
+"31 December 2016": "9.67%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$451.5 billion",
+"31 December 2016": "$293.5 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$451.5 billion",
+"31 December 2016": "$293.5 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$1.927 trillion",
+"31 December 2016": "$1.684 trillion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$1.516 trillion",
+"31 December 2014": "$1.558 trillion",
+"31 December 2013": "$1.139 trillion",
+},
+"current_account_balance":
+{
+"2017": "-$48.66 billion",
+"2016": "-$14.35 billion",
+},
+"exports":
+{
+"2017": "$304.1 billion",
+"2016": "$268.6 billion",
+},
+"exports_partners": "US 15.6%, UAE 10.2%, Hong Kong 4.9%, China 4.3% (2017)",
+"exports_commodities": "petroleum products, precious stones, vehicles, machinery, iron and steel, chemicals, pharmaceutical products, cereals, apparel",
+"imports":
+{
+"2017": "$452.2 billion",
+"2016": "$376.1 billion",
+},
+"imports_commodities": "crude oil, precious stones, machinery, chemicals, fertilizer, plastics, iron and steel",
+"imports_partners": "China 16.3%, US 5.5%, UAE 5.2%, Saudi Arabia 4.8%, Switzerland 4.7% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$409.8 billion",
+"31 December 2016": "$359.7 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$501.6 billion",
+"31 December 2016": "$456.4 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$377.5 billion",
+"31 December 2016": "$318.5 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$155.2 billion",
+"31 December 2016": "$144.1 billion",
+},
+"exchange_rates": 
+{
+"currency": "Indian rupees (INR) per US dollar -",
+"exchange_rates":
+{
+"2017": "65.17",
+"2016": "67.195",
+"2015": "67.195",
+"2014": "64.152",
+"2013": "61.03",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"population_without_electricity": "168 million (2017)",
+"electrification_total_population": "84.5% (2016)",
+"electrification_urban_areas": "98.4% (2016)",
+"electrification_rural_areas": "77.6% (2016)",
+}, 
+"electricity_production": "1.386 trillion kWh (2016 est.)",
+"electricity_consumption": "1.137 trillion kWh (2016 est.)",
+"electricity_exports": "5.15 billion kWh (2015 est.)",
+"electricity_imports": "5.617 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "367.8 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "71% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "2% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "12% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "16% of total installed capacity (2017 est.)",
+"crude_oil_production": "709,000 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "4.057 million bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "4.495 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "4.897 million bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "4.521 million bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "1.305 million bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "653,300 bbl/day (2015 est.)",
+"natural_gas_production": "31.54 billion cu m (2017 est.)",
+"natural_gas_consumption": "55.43 billion cu m (2017 est.)",
+"natural_gas_exports": "76.45 million cu m (2017 est.)",
+"natural_gas_imports": "23.96 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "1.29 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "2.383 billion Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "23,234,687",
+"subscriptions_per_100_inhabitants": "2 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "1,168,902,277",
+"subscriptions_per_100_inhabitants": "91 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "supported by deregulation and liberalization of telecommunications laws and policies, India has emerged as one of the fastest-growing telecom markets in the world; implementation of 4G/LTE services shift to data services across the country; steps taken towards 5G services; fixed broadband penetration is expected to grow at a moderate rate over the next five years to 2023 (2018)",
+"domestic": "fixed-line subscriptions stands at 2 per 100 and mobile-cellular at 91 per 100; mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world&#39;s largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 very small aperture terminals (VSAT) (2018)",
+"international": "country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 &amp;amp; 4, AAE-1, BBG, EIG, FALCON,&amp;nbsp;FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman &amp;amp; Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn submarine cables to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands&amp;nbsp;including&amp;nbsp;Australia&amp;nbsp;; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region (2019)",
+}, 
+"broadcast_media": "Doordarshan, India&#39;s public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2015, more than 230 million homes had access to cable and satellite TV offering more than 700 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly",
+"internet_country_code": ".in",
+"internet_users": 
+{
+"total": "374,328,160",
+"percent_of_population": "29.5% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "17,856,024",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "2.42% of GDP",
+"2017": "2.51% of GDP",
+"2016": "2.51% of GDP",
+"2015": "2.41% of GDP",
+"2014": "2.5% of GDP",
+},
+"military_and_security_forces": "Indian Armed Forces: Army, Navy (includes marines), Air Force, Coast Guard; Defense Security Corps (paramilitary forces); Ministry of Home Affairs paramilitary forces: Central Armed Police Force (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2019)",
+"military_service_age_and_obligation": "16-18 years of age for voluntary military service (Army 17 1/2, Air Force 17, Navy 16 1/2); no conscription; women may join as officers, currently serve in combat roles as pilots, and under consideration for Army combat roles (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "20 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "485 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "98,927,860 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "1,833,847,614 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "VT (2016)",
+"airports": "346 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "253 (2017)",
+"over_3_047_m": "22 (2017)",
+"2_438_to_3_047_m": "59 (2017)",
+"1_524_to_2_437_m": "76 (2017)",
+"914_to_1_523_m": "82 (2017)",
+"under_914_m": "14 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "93 (2013)",
+"over_3_047_m": "1 (2013)",
+"2_438_to_3_047_m": "3 (2013)",
+"1_524_to_2_437_m": "6 (2013)",
+"914_to_1_523_m": "38 (2013)",
+"under_914_m": "45 (2013)",
+}, 
+"heliports": "45 (2013)",
+"pipelines": "9 km condensate/gas, 13581 km gas, 2054 km liquid petroleum gas, 8943 km oil, 20 km oil/gas/water, 11069 km refined products (2013)",
+"railways": 
+{
+"total": "68,525 km (2014)",
+"narrow_gauge": "9,499 km 1.000-m gauge (2014)",
+"broad_gauge": "58,404 km 1.676-m gauge (23,654 electrified) (2014)",
+}, 
+"roadways": "4,699,024 km (2015)",
+"waterways": "14,500 km (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels) (2012)",
+"merchant_marine": 
+{
+"total": "1,719",
+"by_type": "bulk carrier 75, container ship 22, general cargo 582, oil tanker 133, other 907 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam",
+"container_port_s_teus": "Chennai (1,549,457), Jawaharal Nehru Port (4,833,397), Mundra&amp;nbsp;(4,240,260) (2017)",
+"lng_terminal_s_import": "Dabhol, Dahej, Hazira",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_home_based": 
+{
+"hizbul_mujahideen_hm": "&lt;strong&gt;aim(s):&lt;/strong&gt; annex the state of Jammu and Kashmir to Pakistan&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; HM is an indigenous Kashmiri militant group that operates in Jammu and Kashmir (2018)",
+"indian_mujahedeen_im": "&lt;strong&gt;aim(s):&lt;/strong&gt; establish Islamic rule in India and, ultimately, convert all non-Muslims to Islam; stated goal is to carry out terrorist attacks against Indians for perceived atrocities against Indian Muslims&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; formerly based in the western state of Maharashtra, India&#39;s third-largest and second-most populous state, and now probably operates mostly outside India, particularly Nepal (2018)",
+}, 
+"terrorist_groups_foreign_based": 
+{
+"al_qa_ida_aq": "&lt;br /&gt;&lt;strong&gt;aim(s):&lt;/strong&gt; overthrow the Indian Government and, ultimately, establish a pan-Islamic caliphate under a strict Salafi Muslim interpretation of sharia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains an operational presence as al-Qa&#39;ida in the Indian Subcontinent (2018)",
+"al_qa_ida_in_the_indian_subcontinent_aqis": "&lt;strong&gt;aim(s):&lt;/strong&gt; establish an Islamic caliphate in the Indian subcontinent&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; targets primarily military and security personnel, especially in the states of Assam, Gujarat, and Jammu and Kashmir; present in large cities, including Delhi (2018)",
+"harakat_ul_mujahidin_hum": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its networks and paramilitary training in India and, ultimately, annex Kashmir into Pakistan and establish an Islamic state in Kashmir&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; conducts attacks against Indian troops and civilians in Kashmir (2018)",
+"harakat_ul_jihad_i_islami_huji": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its networks and operational capabilities in India&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains an operational presence, especially in the south, including in Bangalore and Hubli (2018)",
+"harakat_ul_jihad_i_islami_bangladesh_huji_b": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its networks in India and, ultimately, install an Islamic state in Bangladesh&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains a low-profile presence (2018)",
+"islamic_state_of_iraq_and_ash_sham_khorasan_isis_k": "&lt;strong&gt;aim(s):&lt;/strong&gt;&amp;nbsp; spread the ISIS caliphate by eliminating the Indian Government and, ultimately, unite Kashmir with Pakistan&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt;&amp;nbsp; maintains a recruitment presence in major cities (2018)",
+"jaish_e_mohammed_jem": "&lt;strong&gt;aim(s):&lt;/strong&gt; annex Jammu and Kashmir to Pakistan&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operates primarily in Jammu and Kashmir State (2018)",
+"lashkar_e_tayyiba_lt": "&lt;strong&gt;aim(s):&lt;/strong&gt; annex Jammu and Kashmir State to Pakistan and, ultimately, install Islamic rule throughout South Asia&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; operational throughout India, especially in the north in Jammu and Kashmir State, since at least 1993&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; continues to be one of the largest and most deadly of the anti-India-focused armed groups (2018)",
+"liberation_tigers_of_tamil_eelam_ltte": "&lt;strong&gt;aim(s):&lt;/strong&gt; enhance its networks in India and, ultimately, revive the movement to establish a Tamil homeland&lt;br /&gt;&lt;strong&gt;area(s) of operation:&lt;/strong&gt; maintains safe havens, transit routes, human trafficking, and an operational presence in an effort to revive the movement and conduct attacks (2018)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;since China and India launched a security and foreign policy dialogue in 2005, consolidated discussions related to the dispute over most of their rugged, militarized boundary, regional nuclear proliferation, Indian claims that China transferred missiles to Pakistan, and other matters continue; Kashmir remains the site of the world&#39;s largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries; UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan&#39;s ceding historic Kashmir lands to China in 1964; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show its Junagadh claim in Indian Gujarat State; Prime Minister Singh&#39;s September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Joint Border Committee with Nepal continues to examine contested boundary sections, including the 400 sq km dispute over the source of the Kalapani River; India maintains a strict border regime to keep out Maoist insurgents and control illegal cross-border activities from Nepal&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "108,008 (Tibet/China), 60,802 (Sri Lanka), 18,813 (Burma), 6,984 (Afghanistan) (2018)",
+"idps": "479,000 (armed conflict and intercommunal violence) (2018)",
+}, 
+"illicit_drugs": "world&#39;s largest producer of licit opium for the pharmaceutical trade, but an undetermined quantity of opium is diverted to illicit international drug markets; transit point for illicit narcotics produced in neighboring countries and throughout Southwest Asia; illicit producer of methaqualone; vulnerable to narcotics money laundering through the hawala system; licit ketamine and precursor production",
+}
+}

@@ -1,0 +1,558 @@
+{
+"name": "Croatia",
+"code": "HR",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the close of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state consisting of six socialist republics under the strong hand of Marshal Josip Broz, aka TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before occupying Yugoslav forces, dominated by Serb officers, were mostly cleared from Croatian lands, along with a majority of Croatia&#39;s ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in April 2009 and the EU in July 2013.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southeastern Europe, bordering the Adriatic Sea, between Bosnia and Herzegovina and Slovenia",
+"geographic_coordinates": "45 10 N, 15 30 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "56,594 sq km",
+"land": "55,974 sq km",
+"water": "620 sq km",
+}, 
+"area_comparative": "slightly smaller than West Virginia",
+"land_boundaries": 
+{
+"total": "2,237 km",
+"border_countries": "Bosnia and Herzegovina 956 km, Hungary 348 km, Montenegro 19 km, Serbia 314 km, Slovenia 600 km",
+}, 
+"coastline": "5,835 km (mainland 1,777 km, islands 4,058 km)",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"continental_shelf": " 200-m depth or to the depth of exploitation",
+}, 
+"climate": "Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast",
+"terrain": "geographically diverse; flat plains along Hungarian border, low mountains and highlands near Adriatic coastline and islands",
+"elevation": 
+{
+"mean_elevation": "331 m",
+"lowest_point": "Adriatic Sea 0 m",
+"highest_point": "Dinara 1,831 m",
+}, 
+"natural_resources": "oil, some coal, bauxite, low-grade iron ore, calcium, gypsum, natural asphalt, silica, mica, clays, salt, hydropower",
+"land_use": 
+{
+"agricultural_land": "23.7% (2011 est.)",
+"agricultural_land_arable_land": "16% (2011 est.)",
+"agricultural_land_permanent_crops": "1.5% (2011 est.)",
+"agricultural_land_permanent_pasture": "6.2% (2011 est.)",
+"forest": "34.4% (2011 est.)",
+"other": "41.9% (2011 est.)",
+}, 
+"irrigated_land": "240 sq km (2012)",
+"population_distribution": "more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated",
+"natural_hazards": "destructive earthquakes",
+"environment_current_issues": "air pollution improving but still a concern in urban settings and in emissions arriving from neighboring countries; surface water pollution in the Danube River Basin",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia - some 1,200 islands, islets, ridges, and rocks",
+}, 
+"people_and_society": 
+{
+"population": "4,270,480 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Croat(s), Croatian(s)",
+"adjective": "Croatian",
+}, 
+"ethnic_groups": "Croat 90.4%, Serb 4.4%, other 4.4% (including Bosniak, Hungarian, Slovene, Czech, and Romani), unspecified 0.8% (2011 est.)",
+"languages": "Croatian (official) 95.6%, Serbian 1.2%, other 3% (including Hungarian, Czech, Slovak, and Albanian), unspecified 0.2% (2011 est.)",
+"religions": "Roman Catholic 86.3%, Orthodox 4.4%, Muslim 1.5%, other 1.5%, unspecified 2.5%, not religious or atheist 3.8% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "14.21% (male 312,805 /female 293,931)",
+"15_24_years": "11.09% (male 242,605 /female 230,853)",
+"25_54_years": "40.15% (male 858,025 /female 856,455)",
+"55_64_years": "14.65% (male 304,054 /female 321,543)",
+"65_years_and_over": "19.91% (male 342,025 /female 508,184) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "50.9 (2015 est.)",
+"youth_dependency_ratio": "22.4 (2015 est.)",
+"elderly_dependency_ratio": "28.5 (2015 est.)",
+"potential_support_ratio": "3.5 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "43.3 years (2018 est.)",
+"male": "41.4 years",
+"female": "45.3 years",
+}, 
+"population_growth_rate": "-0.51% (2018 est.)",
+"birth_rate": "8.8 births/1,000 population (2018 est.)",
+"death_rate": "12.4 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-1.4 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated",
+"urbanization": 
+{
+"urban_population": "57.2% of total population (2019)",
+"rate_of_urbanization": "-0.08% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "685,000 ZAGREB (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.06 male(s)/female",
+"15_24_years": "1.05 male(s)/female",
+"25_54_years": "1 male(s)/female",
+"55_64_years": "0.95 male(s)/female",
+"65_years_and_over": "0.67 male(s)/female",
+"total_population": "0.93 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "28 years (2014 est.)",
+"maternal_mortality_rate": "8 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "9.1 deaths/1,000 live births (2018 est.)",
+"male": "8.8 deaths/1,000 live births",
+"female": "9.3 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "76.3 years (2018 est.)",
+"male": "73.2 years",
+"female": "79.6 years",
+}, 
+"total_fertility_rate": "1.41 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "99.6% of population",
+"improved_rural": "99.7% of population",
+"improved_total": "99.6% of population",
+"unimproved_urban": "0.4% of population",
+"unimproved_rural": "0.3% of population",
+"unimproved_total": "0.4% of population (2015 est.)",
+}, 
+"current_health_expenditure": "7.2% (2016)",
+"physicians_density": "3.13 physicians/1,000 population (2016)",
+"hospital_bed_density": "5.6 beds/1,000 population (2015)",
+"sanitation_facility_access": 
+{
+"improved_urban": "97.8% of population (2015 est.)",
+"improved_rural": "95.8% of population (2015 est.)",
+"improved_total": "97% of population (2015 est.)",
+"unimproved_urban": "2.2% of population (2015 est.)",
+"unimproved_rural": "4.2% of population (2015 est.)",
+"unimproved_total": "3% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " &lt;.1% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "1,600 (2018 est.)",
+"hiv_aids_deaths": " &lt;100 (2018 est.)",
+"major_infectious_diseases": 
+{
+"degree_of_risk": "intermediate (2016)",
+"vectorborne_diseases": "tickborne encephalitis (2016)",
+}, 
+"obesity_adult_prevalence_rate": "24.4% (2016)",
+"education_expenditures": "4.6% of GDP (2013)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.3%",
+"male": "99.7%",
+"female": "98.9% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "15 years",
+"male": "14 years",
+"female": "16 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "27.4%",
+"male": "27.1%",
+"female": "27.7% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of Croatia",
+"conventional_short_form": "Croatia",
+"local_long_form": "Republika Hrvatska",
+"local_short_form": "Hrvatska",
+"former": "People&#39;s Republic of Croatia, Socialist Republic of Croatia",
+"etymology": "name derives from the Croats, a Slavic tribe who migrated to the Balkans in the 7th century A.D.",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Zagreb",
+"geographic_coordinates": "45 48 N, 16 00 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "20 counties (zupanije, zupanija - singular) and 1 city* (grad - singular) with special county status; Bjelovarsko-Bilogorska(Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivnica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sisak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county)",
+"independence": "25 June 1991 (from Yugoslavia); notable earlier dates: ca. 925 (Kingdom of Croatia established); 1 December 1918 (Kingdom of Serbs, Croats, and Slovenes (Yugoslavia) established)",
+"national_holiday": "Independence Day, 8 October (1991) and Statehood Day, 25 June (1991); note - 25 June 1991 was the day the Croatian parliament voted for independence; following a three-month moratorium to allow the European Community to solve the Yugoslav crisis peacefully, parliament adopted a decision on 8 October 1991 to sever constitutional relations with Yugoslavia",
+"constitution": 
+{
+"history": "several previous; latest adopted 22 December 1990",
+"amendments": "proposed by at least one fifth of the Assembly membership, by the president of the republic, by the Government of Croatia, or through petition by at least 10% of the total electorate; proceedings to amend require majority vote by the Assembly; passage requires two-thirds majority vote by the Assembly; passage by petition requires a majority vote in a referendum and promulgation by the Assembly; amended several times, last in 2014 (2016)",
+}, 
+"legal_system": "civil law system influenced by legal heritage of Austria-Hungary; note - Croatian law was fully harmonized with the European Community acquis as of the June 2010 completion of EU accession negotiations",
+"international_law_organization_participation": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Croatia",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Kolinda GRABAR-KITAROVIC (since 19 February 2015)",
+"head_of_government": "Prime Minister Andrej PLENKOVIC (since 19 October 2016); Deputy Prime Ministers Damir KRSTICEVIC (since 19 October 2016), Predrag STROMAR (since 9 June 2017), Marija Pejcinovic BURIC (since 19 June 2017), and Tomislav TOLUSIC (since 25 May 2018)",
+"cabinet": "Council of Ministers named by the prime minister and approved by the Assembly",
+"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 December 2014 and 11 January 2015 (next to be held in 2019); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly",
+"election_results": "Kolinda GRABAR-KITAROVIC elected president in second round; percent of vote - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC (Forward Croatia Progressive Alliance) 49.3%",
+}, 
+"legislative_branch": 
+{
+"description": "unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D&#39;Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms",
+"elections": "last held on 11 September 2016 as a snap election following dissolution of the Assembly on 15 July 2016 (next to be held by 23 December 2020)",
+"election_results": "percent of vote by coalition/party - NA; number of seats by coalition/party - HDZ coalition 61, People&#39;s Coalition 54, Most-HL 13, Only Option 8, minorities 8 (includes SDSS 3), other 7; composition - men 123, women 28, percent of women 18.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices)",
+"judge_selection_and_term_of_office": "president of Supreme Court nominated by the president of Croatia and elected by the Sabor for a 4-year term; other Supreme Court justices appointed by the National Judicial Council; all judges serve until age 70",
+"subordinate_courts": "Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside of the judicial system",
+}, 
+"political_parties_and_leaders": "Bloc of Pensioners Together or BUZ [Milivoj SPIKA]&lt;br /&gt;Bridge of Independent Lists or Most-NL [Bozo PETROV]&lt;br /&gt;Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]&lt;br /&gt;Croatian Christian Democratic Party or HDS [Goran DODIG]&lt;br /&gt;Croatian Democratic Congress of Slavonia and Baranja or HDSSB [Branimir GLAVAS]&lt;br /&gt;Croatian Democratic Union or HDZ [Andrej PLENKOVIC]&lt;br /&gt;Croatian Laborists - Labor Party or HL [David BREGOVAC]&lt;br /&gt;Croatian Party of Rights - Dr. Ante Starcevic or HSP AS [Hrvoje NICE]&lt;br /&gt;Croatian Peasant Party or HSS [Kreso BELJAK]&lt;br /&gt;Croatian Pensioner Party or HSU [Silvano HRELJA]&lt;br /&gt;Croatian People&#39;s Party - Liberal Democrats or HNS [Ivan VRDOLJAK]&lt;br /&gt;Croatian Social Liberal Party or HSLS [Darinko KOSOR]&lt;br /&gt;Forward Croatia Progressive Alliance [Ivo JOSIPOVIC]&lt;br /&gt;Human Shield (Zivi Zid) [Vilibor SINCIC]&lt;br /&gt;Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]&lt;br /&gt;Independents for Croatia or NHR [Bruna ESIH]&lt;br /&gt;Istrian Democratic Assembly or IDS [Boris MILETIC]&lt;br /&gt;Let&#39;s Change Croatia or PH [Ivan LOVRINOVIC]&lt;br /&gt;Milan Bandic 365 - Party of Labor and Solidarity or BM365-SRS [Milan BANDIC]&lt;br /&gt;Movement for Successful Croatia or HRAST [Ladislav ILCIC]&lt;br /&gt;People&#39;s Party - Reformists Party [Radimir CACIC]&lt;br /&gt;Power-People&amp;rsquo;s and Civic Engagement Party or SNAGA [Goran ALEKSIC]&lt;br /&gt;Smart Party or PAMETNO [Marijana PULJAK]&lt;br /&gt;Social Democratic Party of Croatia or SDP [Davor BERNARDIC]",
+"international_organization_participation": "Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Pjer SIMUNOVIC (since 8 September 2017)",
+"chancery": "2343 Massachusetts Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 588-5899",
+"fax": "[1] (202) 588-8936",
+"consulate_s_general": "Chicago, Los Angeles, New York",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador W. Robert KOHORST (since 12 January 2018)",
+"telephone": "[385] (1) 661-2200",
+"embassy": "2 Thomas Jefferson Street, 10010 Zagreb",
+"mailing_address": "use embassy street address",
+"fax": "[385] (1) 661-2373",
+}, 
+"flag_description": "three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia",
+"national_symbol_s": "red-white checkerboard; national colors: red, white, blue",
+"national_anthem": 
+{
+"name": "&quot;Lijepa nasa domovino&quot; (Our Beautiful Homeland)",
+"lyrics_music": "Antun MIHANOVIC/Josip RUNJANIN",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Though still one of the wealthiest of the former Yugoslav republics, Croatia’s economy suffered badly during the 1991-95 war. The country&#39;s output during that time collapsed, and Croatia missed the early waves of investment in Central and Eastern Europe that followed the fall of the Berlin Wall. Between 2000 and 2007, however, Croatia&#39;s economic fortunes began to improve with moderate but steady GDP growth between 4% and 6%, led by a rebound in tourism and credit-driven consumer spending. Inflation over the same period remained tame and the currency, the kuna, stable.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Croatia experienced an abrupt slowdown in the economy in 2008; economic growth was stagnant or negative in each year between 2009 and 2014, but has picked up since the third quarter of 2014, ending 2017 with an average of 2.8% growth. Challenges remain including uneven regional development, a difficult investment climate, an inefficient judiciary, and loss of educated young professionals seeking higher salaries elsewhere in the EU. In 2016, Croatia revised its tax code to stimulate growth from domestic consumption and foreign investment. Income tax reduction began in 2017, and in 2018 various business costs were removed from income tax calculations. At the start of 2018, the government announced its economic reform plan, slated for implementation in 2019.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Tourism is one of the main pillars of the Croatian economy, comprising 19.6% of Croatia’s GDP. Croatia is working to become a regional energy hub, and is undertaking plans to open a floating liquefied natural gas (LNG) regasification terminal by the end of 2019 or early in 2020 to import LNG for re-distribution in southeast Europe.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Croatia joined the EU on July 1, 2013, following a decade-long accession process. Croatia has developed a plan for Eurozone accession, and the government projects Croatia will adopt the Euro by 2024. In 2017, the Croatian government decreased public debt to 78% of GDP, from an all-time high of 84% in 2014, and realized a 0.8% budget surplus - the first surplus since independence in 1991. The government has also sought to accelerate privatization of non-strategic assets with mixed success. Croatia’s economic recovery is still somewhat fragile; Croatia’s largest private company narrowly avoided collapse in 2017, thanks to a capital infusion from an American investor. Restructuring is ongoing, and projected to finish by mid-July 2018.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$102.1 billion",
+"2016": "$99.37 billion",
+"2015": "$95.97 billion",
+},
+"gdp_official_exchange_rate": "$54.76 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "2.8%",
+"2016": "3.5%",
+"2015": "2.4%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$24,700",
+"2016": "$23,800",
+"2015": "$22,800",
+},
+"gross_national_saving":
+{
+"2017": "24.7% of GDP",
+"2016": "23.4% of GDP",
+"2015": "24.5% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "57.3% (2017 est.)",
+"government_consumption": "19.5% (2017 est.)",
+"investment_in_fixed_capital": "20% (2017 est.)",
+"investment_in_inventories": "0% (2017 est.)",
+"exports_of_goods_and_services": "51.1% (2017 est.)",
+"imports_of_goods_and_services": "-48.8% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "3.7% (2017 est.)",
+"industry": "26.2% (2017 est.)",
+"services": "70.1% (2017 est.)",
+}, 
+"agriculture_products": "arable crops (wheat, corn, barley, sugar beet, sunflower, rapeseed, alfalfa, clover); vegetables (potatoes, cabbage, onion, tomato, pepper); fruits (apples, plum, mandarins, olives), grapes for wine; livestock (cattle, cows, pigs); dairy products",
+"industries": "chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism",
+"industrial_production_growth_rate": "1.2% (2017 est.)",
+"labor_force": "1.559 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "1.9%",
+"industry": "27.3%",
+"services": "70.8% (2017 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "12.4%",
+"2016": "15%",
+},
+"population_below_poverty_line": "19.5% (2015 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.7%",
+"highest_10": "23% (2015 est.)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2015": "30.8",
+"2014": "32.1",
+},
+"budget": 
+{
+"revenues": "25.24 billion (2017 est.)",
+"expenditures": "24.83 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "46.1% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "0.8% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "77.8% of GDP",
+"2016": "82.3% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.1%",
+"2016": "-1.1%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2017": "3%",
+"31 December 2016": "3.5%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "4.23%",
+"31 December 2016": "4.97%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$14.2 billion",
+"31 December 2016": "$11.64 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$14.2 billion",
+"31 December 2016": "$11.64 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$39.97 billion",
+"31 December 2016": "$41.38 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2017": "$18.33 billion",
+"31 December 2016": "$19.98 billion",
+"31 December 2015": "$22.6 billion",
+},
+"current_account_balance":
+{
+"2017": "$2.15 billion",
+"2016": "$1.338 billion",
+},
+"exports":
+{
+"2017": "$13.15 billion",
+"2016": "$13.88 billion",
+},
+"exports_partners": "Italy 13.4%, Germany 12.2%, Slovenia 10.6%, Bosnia and Herzegovina 9.8%, Austria 6.2%, Serbia 4.8% (2017)",
+"exports_commodities": "transport equipment, machinery, textiles, chemicals, foodstuffs, fuels",
+"imports":
+{
+"2017": "$22.34 billion",
+"2016": "$19.76 billion",
+},
+"imports_commodities": "machinery, transport and electrical equipment; chemicals, fuels and lubricants; foodstuffs",
+"imports_partners": "Germany 15.7%, Italy 12.9%, Slovenia 10.7%, Hungary 7.5%, Austria 7.5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$18.82 billion",
+"31 December 2016": "$14.24 billion",
+},
+"debt_external":
+{
+"31 December 2017": "$48.1 billion",
+"31 December 2016": "$46.96 billion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$43.71 billion",
+"31 December 2016": "$35.65 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$8.473 billion",
+"31 December 2016": "$6.358 billion",
+},
+"exchange_rates": 
+{
+"currency": "kuna (HRK) per US dollar -",
+"exchange_rates":
+{
+"2017": "6.62",
+"2016": "6.8",
+"2015": "6.806",
+"2014": "6.8583",
+"2013": "5.7482",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "12.2 billion kWh (2016 est.)",
+"electricity_consumption": "15.93 billion kWh (2016 est.)",
+"electricity_exports": "3.2 billion kWh (2016 est.)",
+"electricity_imports": "8.702 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "4.921 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "45% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "40% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "16% of total installed capacity (2017 est.)",
+"crude_oil_production": "14,000 bbl/day (2018 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "55,400 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "71 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "74,620 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "73,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "40,530 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "35,530 bbl/day (2015 est.)",
+"natural_gas_production": "1.048 billion cu m (2017 est.)",
+"natural_gas_consumption": "2.577 billion cu m (2017 est.)",
+"natural_gas_exports": "172.7 million cu m (2017 est.)",
+"natural_gas_imports": "1.841 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "24.92 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "17.96 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,401,354",
+"subscriptions_per_100_inhabitants": "33 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "4,315,580",
+"subscriptions_per_100_inhabitants": "101 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "the telecommunications network has improved steadily since the mid-1990s, covering much of what were once inaccessible areas; local lines are digital; telecoms market in Croatia has been shaped by Croatia becoming part of the European Union in 2013, a process which&amp;nbsp;opened up the market&amp;nbsp;and the creation of a regulatory environment&amp;nbsp;leading to competition; mobile market has one of the highest penetration rates in the Balkans region;&amp;nbsp; trials for 5G technologies underway (2018)",
+"domestic": "fixed-line teledensity has dropped somewhat to about 33 per 100 persons; mobile-cellular telephone subscriptions 101 per 100 (2018)",
+"international": "country code - 385; &amp;nbsp;the ADRIA-1 submarine cable provides connectivity to Albania and Greece;&amp;nbsp;digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik (2019)",
+}, 
+"broadcast_media": "the national state-owned public broadcaster, Croatian Radiotelevision, operates 4 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians living abroad, and 6 regional TV centers; 2 private broadcasters operate national terrestrial networks;&amp;nbsp;29 privately owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operates&amp;nbsp;4 national radio networks and&amp;nbsp;23 regional radio stations; 2 privately owned national radio networks and 117 local&amp;nbsp;radio stations (2019)",
+"internet_country_code": ".hr",
+"internet_users": 
+{
+"total": "3,135,949",
+"percent_of_population": "72.7% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,095,881",
+"subscriptions_per_100_inhabitants": "26 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "1.68% of GDP",
+"2018": "1.59% of GDP",
+"2017": "1.67% of GDP",
+"2016": "1.62% of GDP",
+"2015": "1.78% of GDP",
+},
+"military_and_security_forces": "Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH) consists of five major commands directly subordinate to a General Staff: Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM, includes coast guard), Air Force and Air Defense Command (Hrvatsko Ratno Zrakoplovstvo I Protuzracna Obrana), Joint Education and Training Command, Logistics Command; Military Police Force supports each of the three Croatian military forces (2017)",
+"military_service_age_and_obligation": "18-27 years of age for voluntary military service; conscription abolished in 2008 (2017)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "3 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "46 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "1,782,666 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "775,320 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "9A (2016)",
+"airports": "69 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "24 (2017)",
+"over_3_047_m": "2 (2017)",
+"2_438_to_3_047_m": "6 (2017)",
+"1_524_to_2_437_m": "3 (2017)",
+"914_to_1_523_m": "3 (2017)",
+"under_914_m": "10 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "45 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "6 (2013)",
+"under_914_m": "38 (2013)",
+}, 
+"heliports": "1 (2013)",
+"pipelines": "2410 km gas, 610 km oil (2011)",
+"railways": 
+{
+"total": "2,722 km (2014)",
+"standard_gauge": "2,722 km 1.435-m gauge (980 km electrified) (2014)",
+}, 
+"roadways": "26,958 km (includes 1,416 km of expressways) (2015)",
+"waterways": "785 km (2009)",
+"merchant_marine": 
+{
+"total": "131",
+"by_type": "bulk carrier 28, oil tanker 14, other 89 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Ploce, Rijeka, Sibenik, Split",
+"oil_terminal_s": "Omisalj",
+"river_port_s": "Vukovar (Danube)",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia&#39;s claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "2,886 (2018)",
+"illicit_drugs": "primarily a transit country along the Balkan route for maritime shipments of South American cocaine bound for Western Europe and other illicit drugs and chemical precursors to and from Western Europe; no significant domestic production of illicit drugs",
+}
+}

@@ -1,0 +1,561 @@
+{
+"name": "Canada",
+"code": "CA",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada repatriated its constitution from the UK in 1982, severing a final colonial tie. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world&#39;s longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Northern North America, bordering the North Atlantic Ocean on the east, North Pacific Ocean on the west, and the Arctic Ocean on the north, north of the conterminous US",
+"geographic_coordinates": "60 00 N, 95 00 W",
+"map_references": "North America",
+"area": 
+{
+"total": "9,984,670 sq km",
+"land": "9,093,507 sq km",
+"water": "891,163 sq km",
+}, 
+"area_comparative": "slightly larger than the US",
+"land_boundaries": 
+{
+"total": "8,893 km",
+"border_countries": "US 8893 km (includes 2477 km with Alaska)",
+}, 
+"coastline": "202,080 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+"continental_shelf": "200 nm or to the edge of the continental margin",
+}, 
+"climate": "varies from temperate in south to subarctic and arctic in north",
+"terrain": "mostly plains with mountains in west, lowlands in southeast",
+"elevation": 
+{
+"mean_elevation": "487 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Mount Logan 5,959 m",
+}, 
+"natural_resources": "bauxite, iron ore, nickel, zinc, copper, gold, lead, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower",
+"land_use": 
+{
+"agricultural_land": "6.8% (2011 est.)",
+"agricultural_land_arable_land": "4.7% (2011 est.)",
+"agricultural_land_permanent_crops": "0.5% (2011 est.)",
+"agricultural_land_permanent_pasture": "1.6% (2011 est.)",
+"forest": "34.1% (2011 est.)",
+"other": "59.1% (2011 est.)",
+}, 
+"irrigated_land": "8,700 sq km (2012)",
+"population_distribution": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia",
+"natural_hazards": "&lt;p&gt;continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country&#39;s rain and snow east of the mountains&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; the vast majority of volcanoes in Western Canada&#39;s Coast Mountains remain dormant&lt;/p&gt;",
+"environment_current_issues": "metal smelting, coal-burning utilities, and vehicle emissions impacting agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands",
+"signed_but_not_ratified": "Air Pollution-Volatile Organic Compounds, Marine Life Conservation",
+}, 
+"geography_note": "&lt;p&gt;&lt;strong&gt;note 1:&lt;/strong&gt; second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border&lt;/p&gt; &lt;p&gt;&lt;strong&gt;note 2:&lt;/strong&gt; Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined&lt;/p&gt;"
+}, 
+"people_and_society": 
+{
+"population": "35,881,659 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Canadian(s)",
+"adjective": "Canadian",
+}, 
+"ethnic_groups": "Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, other 51.6% (2016 est.)",
+"languages": "English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)",
+"religions": "Catholic 39% (includes Roman Catholic 38.8%, other Catholic .2%), Protestant 20.3% (includes United Church 6.1%, Anglican 5%, Baptist 1.9%, Lutheran 1.5%, Pentecostal 1.5%, Presbyterian 1.4%, other Protestant 2.9%), Orthodox 1.6%, other Christian 6.3%, Muslim 3.2%, Hindu 1.5%, Sikh 1.4%, Buddhist 1.1%, Jewish 1%, other 0.6%, none 23.9% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "15.43% (male 2,839,236 /female 2,698,592)",
+"15_24_years": "11.62% (male 2,145,626 /female 2,023,369)",
+"25_54_years": "39.62% (male 7,215,261 /female 7,002,546)",
+"55_64_years": "14.24% (male 2,538,820 /female 2,570,709)",
+"65_years_and_over": "19.08% (male 3,055,560 /female 3,791,940) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "47.3 (2015 est.)",
+"youth_dependency_ratio": "23.5 (2015 est.)",
+"elderly_dependency_ratio": "23.8 (2015 est.)",
+"potential_support_ratio": "4.2 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "42.4 years (2018 est.)",
+"male": "41.1 years",
+"female": "43.7 years",
+}, 
+"population_growth_rate": "0.72% (2018 est.)",
+"birth_rate": "10.2 births/1,000 population (2018 est.)",
+"death_rate": "8.8 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "5.7 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia",
+"urbanization": 
+{
+"urban_population": "81.5% of total population (2019)",
+"rate_of_urbanization": "0.97% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "6.139 million Toronto, 4.196 million Montreal, 2.556 million Vancouver, 1.513 million Calgary, 1.43 million Edmonton, 1.378 million OTTAWA (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.06 male(s)/female",
+"25_54_years": "1.03 male(s)/female",
+"55_64_years": "0.99 male(s)/female",
+"65_years_and_over": "0.81 male(s)/female",
+"total_population": "0.98 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "28.1 years (2012 est.)",
+"maternal_mortality_rate": "10 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "4.5 deaths/1,000 live births (2018 est.)",
+"male": "4.8 deaths/1,000 live births",
+"female": "4.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "82 years (2018 est.)",
+"male": "79.4 years",
+"female": "84.8 years",
+}, 
+"total_fertility_rate": "1.6 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "99% of population",
+"improved_total": "99.8% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "1% of population",
+"unimproved_total": "0.2% of population (2015 est.)",
+}, 
+"current_health_expenditure": "10.5% (2016)",
+"physicians_density": "2.61 physicians/1,000 population (2017)",
+"hospital_bed_density": "2.7 beds/1,000 population (2012)",
+"sanitation_facility_access": 
+{
+"improved_urban": "100% of population (2015 est.)",
+"improved_rural": "99% of population (2015 est.)",
+"improved_total": "99.8% of population (2015 est.)",
+"unimproved_urban": "0% of population (2015 est.)",
+"unimproved_rural": "1% of population (2015 est.)",
+"unimproved_total": "0.2% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"obesity_adult_prevalence_rate": "29.4% (2016)",
+"education_expenditures": "5.3% of GDP (2011)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "16 years",
+"male": "16 years",
+"female": "17 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "11.1%",
+"male": "12.5%",
+"female": "9.6% (2018 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Canada",
+"etymology": "the country name likely derives from the St. Lawrence Iroquoian word &quot;kanata&quot; meaning village or settlement",
+}, 
+"government_type": "federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution",
+"capital": 
+{
+"name": "Ottawa",
+"geographic_coordinates": "45 25 N, 75 42 W",
+"time_difference": "UTC-5 (same time as Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins second Sunday in March; ends first Sunday in November",
+}, 
+"administrative_divisions": "10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon*",
+"independence": "1 July 1867 (union of British North American colonies); 11 December 1931 (recognized by UK per Statute of Westminster)",
+"national_holiday": "Canada Day, 1 July (1867)",
+"constitution": 
+{
+"history": "consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982",
+"amendments": "proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011) (2018)",
+}, 
+"legal_system": "common law system except in Quebec, where civil law based on the French civil code prevails",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "yes",
+"citizenship_by_descent_only": "yes",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "minimum of 3 of last 5 years resident in Canada",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Julie PAYETTE (since 2 October 2017)",
+"head_of_government": "Prime Minister Justin Pierre James TRUDEAU (Liberal Party) (since 4 November 2015)",
+"cabinet": "Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament",
+"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Parlement consists of:&lt;br /&gt;Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)&lt;br /&gt; House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)",
+"elections": "Senate - appointed; latest appointments in December 2018&lt;br /&gt; House of Commons - last held on 21 October 2019 (next to be held in October 2023)",
+"election_results": "&lt;br /&gt; Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% &lt;br /&gt;&lt;br /&gt;House of Commons - percent of vote by party - CPC 34.4%, Liberal Party 33.1%, NDP 15.9%, Bloc Quebecois 7.7%, Greens 6.5%, other 2.4%; seats by party - Liberal Party 157, CPC 121, NDP 24, Bloc Quebecois 32, Greens 4; composition - men 240, women 98, percent of women 29%; note - total Parliament percent of women 34.3%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)",
+"judge_selection_and_term_of_office": "chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75",
+"subordinate_courts": "federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note -&amp;nbsp; in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements",
+}, 
+"political_parties_and_leaders": "Bloc Quebecois [Mario BEAULIEU]&lt;br /&gt;Conservative Party of Canada or CPC [Andrew SCHEER]&lt;br /&gt;Green Party [Jo-Ann ROBERTS]&lt;br /&gt;Liberal Party [Justin TRUDEAU]&lt;br /&gt;New Democratic Party or NDP [Jagmeet SINGH]&lt;br /&gt;People&#39;s Party of Canada [Maxime BERNIER]",
+"international_organization_participation": "ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador David Brookes MACNAUGHTON (since 2 March 2016)",
+"chancery": "501 Pennsylvania Avenue NW, Washington, DC 20001",
+"telephone": "[1] (202) 682-1740",
+"fax": "[1] (202) 682-7726",
+"consulate_s_general": "Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco/Silicon Valley, Seattle",
+"trade_office_s": "Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador (vacant); Charge d&#39;Affaires Richard M. MILLS, Jr. (since 23 August 2019)",
+"telephone": "[1] (613) 688-5335",
+"embassy": "490 Sussex Drive, Ottawa, Ontario K1N 1G8",
+"mailing_address": "P. O. Box 5000, Ogdensburg, NY 13669-0430; P.O. Box 866, Station B, Ottawa, Ontario K1P 5T1",
+"fax": "[1] (613) 688-3082",
+"consulate_s_general": "Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver",
+"consulate_s": "Winnipeg",
+}, 
+"flag_description": "two vertical bands of red (hoist and fly side, half width) with white square between them; an 11-pointed red maple leaf is centered in the white square; the maple leaf has long been a Canadian symbol",
+"national_symbol_s": "maple leaf, beaver; national colors: red, white",
+"national_anthem": 
+{
+"name": "O Canada",
+"lyrics_music": "Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;TThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada&#39;s major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector&#39;s tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$1.774 trillion",
+"2016": "$1.721 trillion",
+"2015": "$1.697 trillion",
+},
+"gdp_official_exchange_rate": "$1.653 trillion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "3%",
+"2016": "1.4%",
+"2015": "1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$48,400",
+"2016": "$47,500",
+"2015": "$47,400",
+},
+"gross_national_saving":
+{
+"2017": "20.8% of GDP",
+"2016": "20% of GDP",
+"2015": "20.5% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "57.8% (2017 est.)",
+"government_consumption": "20.8% (2017 est.)",
+"investment_in_fixed_capital": "23% (2017 est.)",
+"investment_in_inventories": "0.7% (2017 est.)",
+"exports_of_goods_and_services": "30.9% (2017 est.)",
+"imports_of_goods_and_services": "-33.2% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "1.6% (2017 est.)",
+"industry": "28.2% (2017 est.)",
+"services": "70.2% (2017 est.)",
+}, 
+"agriculture_products": "wheat, barley, oilseed, tobacco, fruits, vegetables; dairy products; fish; forest products",
+"industries": "transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas",
+"industrial_production_growth_rate": "4.9% (2017 est.)",
+"labor_force": "19.52 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "2%",
+"industry": "13%",
+"services": "6%",
+"industry_and_services": "76%",
+"manufacturing": "3% (2006 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "6.3%",
+"2016": "7%",
+},
+"population_below_poverty_line": "9.4% (2008 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.6%",
+"highest_10": "24.8% (2000)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2005": "32.1",
+"1994": "31.5",
+},
+"budget": 
+{
+"revenues": "649.6 billion (2017 est.)",
+"expenditures": "665.7 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "39.3% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-1% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "89.7% of GDP",
+"2016": "91.1% of GDP",
+},
+"fiscal_year": "1 April - 31 March",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.6%",
+"2016": "1.4%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2010": "1%",
+"31 December 2009": "0.25%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "3.2%",
+"31 December 2016": "2.7%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$748.9 billion",
+"31 December 2016": "$637.6 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$748.9 billion",
+"31 December 2016": "$637.6 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$3.219 trillion",
+"31 December 2016": "$2.802 trillion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$1.593 trillion",
+"31 December 2014": "$2.095 trillion",
+"31 December 2013": "$2.114 trillion",
+},
+"current_account_balance":
+{
+"2017": "-$48.75 billion",
+"2016": "-$49.32 billion",
+},
+"exports":
+{
+"2017": "$423.5 billion",
+"2016": "$393.5 billion",
+},
+"exports_partners": "US 76.4%, China 4.3% (2017)",
+"exports_commodities": "motor vehicles and parts, industrial machinery, aircraft, telecommunications equipment; chemicals, plastics, fertilizers; wood pulp, timber, crude petroleum, natural gas, electricity, aluminum",
+"imports":
+{
+"2017": "$442.1 billion",
+"2016": "$413.4 billion",
+},
+"imports_commodities": "machinery and equipment, motor vehicles and parts, crude oil, chemicals, electricity, durable consumer goods",
+"imports_partners": "US 51.5%, China 12.6%, Mexico 6.3% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$86.68 billion",
+"31 December 2016": "$82.72 billion",
+},
+"debt_external":
+{
+"31 March 2016": "$1.608 trillion",
+"31 March 2015": "$1.55 trillion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$1.039 trillion",
+"31 December 2016": "$1.004 trillion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$1.371 trillion",
+"31 December 2016": "$1.277 trillion",
+},
+"exchange_rates": 
+{
+"currency": "Canadian dollars (CAD) per US dollar -",
+"exchange_rates":
+{
+"2017": "1.308",
+"2016": "1.3256",
+"2015": "1.3256",
+"2014": "1.2788",
+"2013": "1.0298",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "649.6 billion kWh (2016 est.)",
+"electricity_consumption": "522.2 billion kWh (2016 est.)",
+"electricity_exports": "73.35 billion kWh (2016 est.)",
+"electricity_imports": "2.682 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "143.5 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "23% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "9% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "56% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "12% of total installed capacity (2017 est.)",
+"crude_oil_production": "4.264 million bbl/day (2018 est.)",
+"crude_oil_exports": "2.818 million bbl/day (2017 est.)",
+"crude_oil_imports": "806,700 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "170.5 billion bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "2.009 million bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "2.445 million bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "1.115 million bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "405,700 bbl/day (2017 est.)",
+"natural_gas_production": "159.1 billion cu m (2017 est.)",
+"natural_gas_consumption": "124.4 billion cu m (2017 est.)",
+"natural_gas_exports": "83.96 billion cu m (2017 est.)",
+"natural_gas_imports": "26.36 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "2.056 trillion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "640.6 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "14,700,854",
+"subscriptions_per_100_inhabitants": "41 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "31,458,600",
+"subscriptions_per_100_inhabitants": "88 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "excellent service provided by modern technology; consumer demand for mobile data services have promted telecos to invest and&amp;nbsp;advance LTE infrastructure,&amp;nbsp;and further investment in 5G; government policy has&amp;nbsp;aided&amp;nbsp;the extension of broadband to rural and regional areas, with the result that services are almost universally accessible (2018)",
+"domestic": "comparatively low mobile penetration provides further room for growth; domestic satellite system with about 300 earth stations; 41 per 100 fixed-line; 88 per 100 mobile-cellular (2018)",
+"international": "country code - 1; Nunavut Undersea Fibre Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables provide links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)",
+}, 
+"broadcast_media": "2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)",
+"internet_country_code": ".ca",
+"internet_users": 
+{
+"total": "31,770,034",
+"percent_of_population": "89.8% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "13,922,504",
+"subscriptions_per_100_inhabitants": "39 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "1.31% of GDP",
+"2018": "1.31% of GDP",
+"2017": "1.44% of GDP",
+"2016": "1.16% of GDP",
+"2015": "1.2% of GDP",
+},
+"military_and_security_forces": "Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command, Canadian Special Operations Forces Command (2019)",
+"military_service_age_and_obligation": "17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2012)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "51 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "879 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "80,228,301 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "2,074,830,881 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "C (2016)",
+"airports": "1,467 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "523 (2017)",
+"over_3_047_m": "21 (2017)",
+"2_438_to_3_047_m": "19 (2017)",
+"1_524_to_2_437_m": "147 (2017)",
+"914_to_1_523_m": "257 (2017)",
+"under_914_m": "79 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "944 (2013)",
+"1_524_to_2_437_m": "75 (2013)",
+"914_to_1_523_m": "385 (2013)",
+"under_914_m": "484 (2013)",
+}, 
+"heliports": "26 (2013)",
+"pipelines": "110000 km gas and liquid petroleum (2017)",
+"railways": 
+{
+"total": "77,932 km (2014)",
+"standard_gauge": "77,932 km 1.435-m gauge (2014)",
+}, 
+"roadways": 
+{
+"total": "1,042,300 km (2011)",
+"paved": "415,600 km (includes 17,000 km of expressways) (2011)",
+"unpaved": "626,700 km (2011)",
+}, 
+"waterways": "636 km (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States) (2011)",
+"merchant_marine": 
+{
+"total": "657",
+"by_type": "bulk carrier 17, container ship 1, general cargo 91, oil tanker 17, other 531 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Halifax, Saint John (New Brunswick), Vancouver",
+"oil_terminal_s": "Lower Lakes terminal",
+"container_port_s_teus": "Montreal (1,537,669), Vancouver (3,252,225) (2017)",
+"lng_terminal_s_import": "Saint John",
+"river_and_lake_port_s": "Montreal, Quebec City, Sept-Isles (St. Lawrence)",
+"dry_bulk_cargo_port_s": "Port-Cartier (iron ore and grain),",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; sovereignty dispute with Denmark over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "7,356&amp;nbsp;(Colombia), 7,192 (China),&amp;nbsp;7,141 (Haiti), 5,483 (Nigeria), 5,607 (Pakistan) (2018); 9,978 (Venezuela) (2019)",
+"stateless_persons": "3,790 (2018)",
+}, 
+"illicit_drugs": "illicit producer of cannabis for the domestic drug market and export to US; use of hydroponics technology permits growers to plant large quantities of high-quality marijuana indoors; increasing ecstasy production, some of which is destined for the US; vulnerable to narcotics money laundering because of its mature financial services sector",
+}
+}

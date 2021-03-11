@@ -1,0 +1,454 @@
+{
+"name": "Marshall Islands",
+"code": "RM",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "After almost four decades under US administration as the easternmost part of the UN Trust Territory of the Pacific Islands, the Marshall Islands attained independence in 1986 under a Compact of Free Association. Compensation claims continue as a result of US nuclear testing conducted on some of the atolls between 1947 and 1962 (67 tests total). The Marshall Islands hosts the US Army Kwajalein Atoll Reagan Missile Test Site, a key installation in the US missile defense network. Kwajalein also hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory)).",
+}, 
+"geography": 
+{
+"location": "Oceania, consists of 29 atolls and five isolated islands in the North Pacific Ocean, about halfway between Hawaii and Australia; the atolls and islands are situated in two, almost-parallel island chains - the Ratak (Sunrise) group and the Ralik (Sunset) group; the total number of islands and islets is about 1,225; 22 of the atolls and four of the islands are uninhabited",
+"geographic_coordinates": "9 00 N, 168 00 E",
+"map_references": "Oceania",
+"area": 
+{
+"total": "181 sq km",
+"land": "181 sq km",
+"water": "0 sq km",
+}, 
+"area_comparative": "about the size of Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "370.4 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_economic_zone": "200 nm",
+"contiguous_zone": "24 nm",
+}, 
+"climate": "tropical; hot and humid; wet season May to November; islands border typhoon belt",
+"terrain": "low coral limestone and sand islands",
+"elevation": 
+{
+"mean_elevation": "2 m",
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "East-central Airik Island, Maloelap Atoll 14 m",
+}, 
+"natural_resources": "coconut products, marine products, deep seabed minerals",
+"land_use": 
+{
+"agricultural_land": "50.7% (2011 est.)",
+"agricultural_land_arable_land": "7.8% (2011 est.)",
+"agricultural_land_permanent_crops": "31.2% (2011 est.)",
+"agricultural_land_permanent_pasture": "11.7% (2011 est.)",
+"forest": "49.3% (2011 est.)",
+"other": "0% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "most people live in urban clusters found on many of the country&#39;s islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye",
+"natural_hazards": "infrequent typhoons",
+"environment_current_issues": "inadequate supplies of potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels; sea level rise",
+"environment_international_agreements": 
+{
+"party_to": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll, famous as a World War II battleground, surrounds the world&#39;s largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific",
+}, 
+"people_and_society": 
+{
+"population": "75,684 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Marshallese (singular and plural)",
+"adjective": "Marshallese",
+}, 
+"ethnic_groups": "Marshallese 92.1%, mixed Marshallese 5.9%, other 2% (2006)",
+"languages": "Marshallese (official) 98.2%, other languages 1.8% (1999 census)",
+"religions": "Protestant 80.5% (United Church of Christ 47%, Assembly of God 16.2%, Bukot Nan Jesus 5.4%, Full Gospel 3.3%, Reformed Congressional Church 3%, Salvation Army 1.9%, Seventh Day Adventist 1.4%, Meram in Jesus 1.2%, other Protestant 1.1%), Roman Catholic 8.5%,&amp;nbsp;Mormon 7%, Jehovah&#39;s Witness 1.7%,&amp;nbsp; other 1.2%, none 1.1% (2011 est.)",
+"age_structure": 
+{
+"0_14_years": "34.26% (male 13,224 /female 12,706)",
+"15_24_years": "18.49% (male 7,117 /female 6,875)",
+"25_54_years": "37.15% (male 14,318 /female 13,800)",
+"55_64_years": "5.86% (male 2,221 /female 2,215)",
+"65_years_and_over": "4.24% (male 1,580 /female 1,628) (2018 est.)",
+}, 
+"median_age": 
+{
+"total": "23.1 years (2018 est.)",
+"male": "23 years",
+"female": "23.2 years",
+}, 
+"population_growth_rate": "1.5% (2018 est.)",
+"birth_rate": "23.8 births/1,000 population (2018 est.)",
+"death_rate": "4.2 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "-4.6 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "most people live in urban clusters found on many of the country&#39;s islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye",
+"urbanization": 
+{
+"urban_population": "77.4% of total population (2019)",
+"rate_of_urbanization": "0.61% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "31,000 MAJURO (capital) (2018)",
+"sex_ratio": 
+{
+"at_birth": "1.05 male(s)/female",
+"0_14_years": "1.04 male(s)/female",
+"15_24_years": "1.04 male(s)/female",
+"25_54_years": "1.04 male(s)/female",
+"55_64_years": "1 male(s)/female",
+"65_years_and_over": "0.97 male(s)/female",
+"total_population": "1.03 male(s)/female (2018 est.)",
+}, 
+"infant_mortality_rate": 
+{
+"total": "18.7 deaths/1,000 live births (2018 est.)",
+"male": "21.1 deaths/1,000 live births",
+"female": "16.1 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "73.6 years (2018 est.)",
+"male": "71.4 years",
+"female": "76 years",
+}, 
+"total_fertility_rate": "2.98 children born/woman (2018 est.)",
+"drinking_water_source": 
+{
+"improved_urban": "93.5% of population",
+"improved_rural": "97.6% of population",
+"improved_total": "94.6% of population",
+"unimproved_urban": "6.5% of population",
+"unimproved_rural": "2.4% of population",
+"unimproved_total": "5.4% of population (2015 est.)",
+}, 
+"current_health_expenditure": "23.3% (2016)",
+"physicians_density": "0.46 physicians/1,000 population (2012)",
+"hospital_bed_density": "2.7 beds/1,000 population (2010)",
+"sanitation_facility_access": 
+{
+"improved_urban": "84.5% of population (2015 est.)",
+"improved_rural": "56.2% of population (2015 est.)",
+"improved_total": "76.9% of population (2015 est.)",
+"unimproved_urban": "15.5% of population (2015 est.)",
+"unimproved_rural": "43.8% of population (2015 est.)",
+"unimproved_total": "23.1% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": " NA",
+"hiv_aids_people_living_with_hiv_aids": " NA",
+"hiv_aids_deaths": " NA",
+"major_infectious_diseases": "&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus&lt;/p&gt;", 
+"obesity_adult_prevalence_rate": "52.9% (2016)",
+"children_under_the_age_of_5_years_underweight": "11.9% (2017)",
+"education_expenditures": " NA",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "98.3%",
+"male": "98.3%",
+"female": "98.2% (2011)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "11%",
+"male": "12.2%",
+"female": "8.7% (2010 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Republic of the Marshall Islands",
+"conventional_short_form": "Marshall Islands",
+"local_long_form": "Republic of the Marshall Islands",
+"local_short_form": "Marshall Islands",
+"former": "Trust Territory of the Pacific Islands, Marshall Islands District",
+"abbreviation": "RMI",
+"etymology": "named after British Captain John MARSHALL, who charted many of the islands in 1788",
+}, 
+"government_type": "mixed presidential-parliamentary system in free association with the US",
+"capital": 
+{
+"name": "Majuro; note - the capital is an atoll of 64 islands; governmental buildings are housed on three fused islands: Djarrit, Uliga, and Delap",
+"geographic_coordinates": "7 06 N, 171 23 E",
+"time_difference": "UTC+12 (17 hours ahead of Washington, DC, during Standard Time)",
+}, 
+"administrative_divisions": "24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini &amp;amp; Kili, Ebon, Enewetak &amp;amp; Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namorik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje",
+"independence": "21 October 1986 (from the US-administered UN trusteeship)",
+"national_holiday": "Constitution Day, 1 May (1979)",
+"constitution": 
+{
+"history": "effective 1 May 1979",
+"amendments": "proposed by the National Parliament or by a constitutional convention; passage by Parliament requires at least two-thirds majority vote of the total membership in each of two readings and approval by a majority of votes in a referendum; amendments submitted by a constitutional convention require approval of at least two thirds of votes in a referendum; amended several times, last in 1995 (2018)",
+}, 
+"legal_system": "mixed legal system of US and English common law, customary law, and local statutes",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of the Marshall Islands",
+"dual_citizenship_recognized": "no",
+"residency_requirement_for_naturalization": "5 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Hilda C. HEINE (since 28 January 2016); note - the president is both chief of state and head of government",
+"head_of_government": "President Hilda C. HEINE (since 28 January 2016)",
+"cabinet": "Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker",
+"elections_appointments": "president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on 27 January 2016 (next to be held in 2020)",
+"election_results": "Hilda C. HEINE elected president; Parliament vote - Hilda C. HEINE 24 votes, she was the only candidate",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral National Parliament consists of:&lt;br /&gt;Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms&lt;br /&gt;Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela",
+"elections": "last held on 16 November 2015 (next to be held by November 2019)",
+"election_results": "percent of vote by party - NA; seats by party - independent 33; composition - men 28, women 5, percent of women 15.2%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court (consists of the chief justice and 2 associate justices)",
+"judge_selection_and_term_of_office": "judges appointed by the Cabinet upon the recommendation of the Judicial Service Commission (consists of the chief justice of the High Court, the attorney general and a private citizen selected by the Cabinet) and upon approval of the Nitijela; the current chief justice, appointed in 2013, serves for 10 years; Marshallese citizens appointed as justices serve until retirement at age 72",
+"subordinate_courts": "High Court; District Courts; Traditional Rights Court; Community Courts",
+}, 
+"political_parties_and_leaders": "traditionally there have been no formally organized political parties; what has existed more closely resembles factions or interest groups because they do not have party headquarters, formal platforms, or party structures; the following two &quot;groupings&quot; have competed in legislative balloting in recent years - Aelon Kein Ad Party [Imata KABUA] and United Democratic Party or UDP [Litokwa TOMEING]",
+"international_organization_participation": "ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Gerald M. ZACKIOS (since 16 September 2016)",
+"chancery": "2433 Massachusetts Avenue NW, 1st Floor, Washington, DC 20008",
+"telephone": "[1] (202) 234-5414",
+"fax": "[1] (202) 232-3236",
+"consulate_s_general": "Honolulu, Springdale (AR)",
+"consulate_s": "Agana (Guam)",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Karen Brevard STEWART (since 25 July 2016)",
+"telephone": "[692] 247-4011",
+"embassy": "Oceanside, Mejen Weto, Long Island, Majuro",
+"mailing_address": "P. O. Box 1379, Majuro, Republic of the Marshall Islands 96960-1379",
+"fax": "[692] 247-4012",
+}, 
+"flag_description": "blue with two stripes radiating from the lower hoist-side corner - orange (top) and white; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; blue represents the Pacific Ocean, the orange stripe signifies the Ralik Chain or sunset and courage, while the white stripe signifies the Ratak Chain or sunrise and peace; the star symbolizes the cross of Christianity, each of the 24 rays designates one of the electoral districts in the country and the four larger rays highlight the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the rising diagonal band can also be interpreted as representing the equator, with the star showing the archipelago&#39;s position just to the north",
+"national_symbol_s": "a 24-rayed star; national colors: blue, white, orange",
+"national_anthem": 
+{
+"name": "Forever Marshall Islands",
+"lyrics_music": "Amata KABUA",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact&#39;s financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$196 million",
+"2016": "$191.3 million",
+"2015": "$184.6 million",
+},
+"gdp_official_exchange_rate": "$222 million (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "2.5%",
+"2016": "3.6%",
+"2015": "2%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$3,600",
+"2016": "$3,500",
+"2015": "$3,400",
+},
+"gdp_composition_by_end_use": 
+{
+"government_consumption": "50% (2016 est.)",
+"investment_in_fixed_capital": "17.8% (2016 est.)",
+"investment_in_inventories": "0.2% (2016 est.)",
+"exports_of_goods_and_services": "52.9% (2016 est.)",
+"imports_of_goods_and_services": "-102.3% (2016 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "4.4% (2013 est.)",
+"industry": "9.9% (2013 est.)",
+"services": "85.7% (2013 est.)",
+}, 
+"agriculture_products": "coconuts, tomatoes, melons, taro, breadfruit, fruits; pigs, chickens",
+"industries": "copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)",
+"industrial_production_growth_rate": " NA",
+"labor_force": "10,670 (2013 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "11%",
+"industry": "16.3%",
+"services": "72.7% (2011 est.)",
+}, 
+"unemployment_rate":
+{
+"2006": "36%",
+"2000": "30.9%",
+},
+"population_below_poverty_line": " NA",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": " NA",
+"highest_10": " NA",
+}, 
+"budget": 
+{
+"revenues": "116.7 million (2013 est.)",
+"expenditures": "113.9 million (2013 est.)",
+}, 
+"taxes_and_other_revenues": "52.6% (of GDP) (2013 est.)",
+"budget_surplus_or_deficit": "1.3% (of GDP) (2013 est.)",
+"public_debt":
+{
+"2017": "25.5% of GDP",
+"2016": "30% of GDP",
+},
+"fiscal_year": "1 October - 30 September",
+"inflation_rate_consumer_prices":
+{
+"2017": "0%",
+"2016": "-1.5%",
+},
+"current_account_balance":
+{
+"2017": "-$1 million",
+"2016": "$15 million",
+},
+"exports":
+{
+"2013": "$0",
+},
+"exports_commodities": "copra cake, coconut oil, handicrafts, fish",
+"imports":
+{
+"2016": "$103.8 million",
+"2013": "$133.7 million",
+},
+"imports_commodities": "foodstuffs, machinery and equipment, fuels, beverages, tobacco",
+"debt_external":
+{
+"2013": "$97.96 million",
+"2008": "$87 million",
+},
+"exchange_rates": "&lt;p&gt;the US dollar is used&lt;/p&gt;", 
+}, 
+"energy": 
+{
+"electricity_access": 
+{
+"electrification_total_population": "93.1% (2016)",
+"electrification_urban_areas": "94.6% (2016)",
+"electrification_rural_areas": "89.1% (2016)",
+}, 
+"electricity_production": "650 million kWh (2016 est.)",
+"electricity_consumption": "604.5 million kWh (2016 est.)",
+"electricity_exports": "0 kWh (2016 est.)",
+"electricity_imports": "0 kWh (2016 est.)",
+"electricity_installed_generating_capacity": "52,000 kW (2016 est.)",
+"electricity_from_fossil_fuels": "81% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "19% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "0% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2017 est.)",
+"crude_oil_exports": "0 bbl/day (2015 est.)",
+"crude_oil_imports": "0 bbl/day (2015 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_consumption": "2,000 bbl/day (2016 est.)",
+"refined_petroleum_products_exports": "0 bbl/day (2015 est.)",
+"refined_petroleum_products_imports": "2,060 bbl/day (2015 est.)",
+"natural_gas_production": "0 cu m (2017 est.)",
+"natural_gas_consumption": "0 cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "0 cu m (2017 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "293,700 Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "2,361",
+"subscriptions_per_100_inhabitants": "3 (July 2016 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "16,000",
+"subscriptions_per_100_inhabitants": "21 (July 2016 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "&lt;p&gt;some telecom infrastructure improvements made in recent years; modern services include fiber optic cable service, cellular, Internet, international calling, caller ID, and leased data circuits; &amp;nbsp;the US Government, World Bank, UN and International Telecommunication Union (ITU), &amp;nbsp;have aided in&amp;nbsp;improvements and monetary aid to the islands telecom; mobile penetrations is around 30%; radio communication is&amp;nbsp;especially&amp;nbsp;vital to remote islands&amp;nbsp;&lt;/p&gt; (2018)",
+"domestic": "Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones; fixed-line 3 per 100 persons and mobile-cellular is 21 per 100 persons (2018)",
+"international": "country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein",
+}, 
+"broadcast_media": "no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2019)",
+"internet_country_code": ".mh",
+"internet_users": 
+{
+"total": "21,857",
+"percent_of_population": "29.8% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,000",
+"subscriptions_per_100_inhabitants": "1 (2017 est.)",
+}, 
+"communications_note": "Kwajalein hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))",
+}, 
+"military_and_security": 
+{
+"military_and_security_forces": "no regular military forces; Marshall Islands Police Department (2019)",
+"military_note": "defense is the responsibility of the US",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "1 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "1 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "86,868 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "0 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "V7 (2016)",
+"airports": "15 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "4 (2017)",
+"1_524_to_2_437_m": "3 (2017)",
+"914_to_1_523_m": "1 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "11 (2013)",
+"914_to_1_523_m": "10 (2013)",
+"under_914_m": "1 (2013)",
+}, 
+"roadways": 
+{
+"total": "2,028 km (2007)",
+"paved": "75 km (2007)",
+"unpaved": "1,953 km",
+}, 
+"merchant_marine": 
+{
+"total": "3,419",
+"by_type": "bulk carrier 1437, container ship 256, general cargo 68, oil tanker 837, other 821 (2018)",
+}, 
+"ports_and_terminals": "Enitwetak Island, Kwajalein, Majuro",
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;claims US territory of Wake Island&lt;/p&gt;",
+"trafficking_in_persons": 
+{
+"current_situation": "The Marshall Islands is a source and destination country for Marshallese women and girls and women from East Asia subjected to sex trafficking; Marshallese and foreign women are forced into prostitution in businesses frequented by crew members of fishing and transshipping vessels that dock in Majuro; some Chinese women are recruited to the Marshall Islands with promises of legitimate work and are subsequently forced into prostitution",
+"tier_rating": "Tier 3 – The Marshall Islands do not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government made no anti-trafficking law enforcement efforts, including developing a written plan to combat trafficking; no new trafficking investigations were opened in 2014, and no prosecutions or convictions were made for the fourth consecutive year; no efforts were made to identify trafficking victims, especially among women in prostitution or men working on foreign fishing vessels in Marshallese waters, and no attempt was made to ensure their access to protective services; limited awareness-raising events were conducted by an international organization (2015)",
+}, 
+}
+}

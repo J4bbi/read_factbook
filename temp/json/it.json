@@ -1,0 +1,567 @@
+{
+"name": "Italy",
+"code": "IT",
+"publish_date": "December 29, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Italy became a nation-state in 1861 when the regional states of the peninsula, along with Sardinia and Sicily, were united under King Victor EMMANUEL II. An era of parliamentary government came to a close in the early 1920s when Benito MUSSOLINI established a Fascist dictatorship. His alliance with Nazi Germany led to Italy&#39;s defeat in World War II. A democratic republic replaced the monarchy in 1946 and economic revival followed. Italy is a charter member of NATO and the European Economic Community (EEC) and its subsequent successors the EC and the EU. It has been at the forefront of European economic and political unification, joining the Economic and Monetary Union in 1999. Persistent problems include sluggish economic growth, high youth and female unemployment, organized crime, corruption, and economic disparities between southern Italy and the more prosperous north.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Southern Europe, a peninsula extending into the central Mediterranean Sea, northeast of Tunisia",
+"geographic_coordinates": "42 50 N, 12 50 E",
+"map_references": "Europe",
+"area": 
+{
+"total": "301,340 sq km",
+"land": "294,140 sq km",
+"water": "7,200 sq km",
+}, 
+"area_comparative": "almost twice the size of Georgia; slightly larger than Arizona",
+"land_boundaries": 
+{
+"total": "1,836.4 km",
+"border_countries": "Austria 404 km, France 476 km, Holy See (Vatican City) 3.4 km, San Marino 37 km, Slovenia 218 km, Switzerland 698 km",
+}, 
+"coastline": "7,600 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"continental_shelf": " 200-m depth or to the depth of exploitation",
+}, 
+"climate": "predominantly Mediterranean; alpine in far north; hot, dry in south",
+"terrain": "mostly rugged and mountainous; some plains, coastal lowlands",
+"elevation": 
+{
+"mean_elevation": "538 m",
+"lowest_point": "Mediterranean Sea 0 m",
+"highest_point": "Mont Blanc (Monte Bianco) de Courmayeur (a secondary peak of Mont Blanc) 4,748 m",
+}, 
+"natural_resources": "coal, antimony, mercury, zinc, potash, marble, barite, asbestos, pumice, fluorspar, feldspar, pyrite (sulfur), natural gas and crude oil reserves, fish, arable land",
+"land_use": 
+{
+"agricultural_land": "47.1% (2011 est.)",
+"agricultural_land_arable_land": "22.8% (2011 est.)",
+"agricultural_land_permanent_crops": "8.6% (2011 est.)",
+"agricultural_land_permanent_pasture": "15.7% (2011 est.)",
+"forest": "31.4% (2011 est.)",
+"other": "21.5% (2011 est.)",
+}, 
+"irrigated_land": "39,500 sq km (2012)",
+"population_distribution": "despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations",
+"natural_hazards": "&lt;p&gt;regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding; land subsidence in Venice&lt;/p&gt;&lt;p&gt;&lt;strong&gt;volcanism:&lt;/strong&gt; significant volcanic activity; Etna (3,330 m), which is in eruption as of 2010, is Europe&#39;s most active volcano; flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, which remains a threat to the millions of nearby residents in the Bay of Naples area, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth&#39;s Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini&lt;/p&gt;",
+"environment_current_issues": "air pollution from industrial emissions such as sulfur dioxide; coastal and inland rivers polluted from industrial and agricultural effluents; acid rain damaging lakes; inadequate industrial waste treatment and disposal facilities",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "none of the selected agreements",
+}, 
+"geography_note": "strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe",
+}, 
+"people_and_society": 
+{
+"population": "62,246,674 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Italian(s)",
+"adjective": "Italian",
+}, 
+"ethnic_groups": "Italian (includes small clusters of German-, French-, and Slovene-Italians in the north and Albanian-Italians and Greek-Italians in the south)",
+"languages": "Italian (official), German (parts of Trentino-Alto Adige region are predominantly German speaking), French (small French-speaking minority in Valle d&#39;Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)",
+"religions": "Christian 83.3% (overwhelmingly Roman Catholic with very small groups of Jehovah&#39;s Witnesses and Protestants), Muslim 3.7%, unaffiliated 12.4%, other 0.6% (2010 est.)",
+"age_structure": 
+{
+"0_14_years": "13.6% (male 4,326,862 /female 4,136,562)",
+"15_24_years": "9.61% (male 2,994,651 /female 2,984,172)",
+"25_54_years": "41.82% (male 12,845,442 /female 13,183,240)",
+"55_64_years": "13.29% (male 4,012,640 /female 4,261,956)",
+"65_years_and_over": "21.69% (male 5,817,819 /female 7,683,330) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "56.5 (2015 est.)",
+"youth_dependency_ratio": "21.5 (2015 est.)",
+"elderly_dependency_ratio": "35 (2015 est.)",
+"potential_support_ratio": "2.9 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "45.8 years (2018 est.)",
+"male": "44.7 years",
+"female": "46.9 years",
+}, 
+"population_growth_rate": "0.16% (2018 est.)",
+"birth_rate": "8.5 births/1,000 population (2018 est.)",
+"death_rate": "10.5 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "3.6 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations",
+"urbanization": 
+{
+"urban_population": "70.7% of total population (2019)",
+"rate_of_urbanization": "0.29% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "4.234 million ROME (capital), 3.136 million Milan, 2.192 million Naples, 1.789 million Turin, 883,000 Bergamo, 852,000 Palermo (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1 male(s)/female",
+"25_54_years": "0.97 male(s)/female",
+"55_64_years": "0.94 male(s)/female",
+"65_years_and_over": "0.76 male(s)/female",
+"total_population": "0.93 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "30.7 years (2014 est.)",
+"maternal_mortality_rate": "2 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "3.2 deaths/1,000 live births (2018 est.)",
+"male": "3.4 deaths/1,000 live births",
+"female": "3 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "82.4 years (2018 est.)",
+"male": "79.7 years",
+"female": "85.2 years",
+}, 
+"total_fertility_rate": "1.45 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "65.1% (2013)",
+"drinking_water_source": 
+{
+"improved_urban": "100% of population",
+"improved_rural": "100% of population",
+"improved_total": "100% of population",
+"unimproved_urban": "0% of population",
+"unimproved_rural": "0% of population",
+"unimproved_total": "0% of population (2015 est.)",
+}, 
+"current_health_expenditure": "8.9% (2016)",
+"physicians_density": "4.09 physicians/1,000 population (2017)",
+"hospital_bed_density": "3.4 beds/1,000 population (2012)",
+"sanitation_facility_access": 
+{
+"improved_urban": "99.5% of population (2015 est.)",
+"improved_rural": "99.6% of population (2015 est.)",
+"improved_total": "99.5% of population (2015 est.)",
+"unimproved_urban": "0.5% of population (2015 est.)",
+"unimproved_rural": "0.4% of population (2015 est.)",
+"unimproved_total": "0.5% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.3% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "130,000 (2018 est.)",
+"hiv_aids_deaths": " &lt;1000 (2018 est.)",
+"obesity_adult_prevalence_rate": "19.9% (2016)",
+"education_expenditures": "3.8% of GDP (2016)",
+"literacy": 
+{
+"definition": "age 15 and over can read and write",
+"total_population": "99.2%",
+"male": "99.4%",
+"female": "99% (2015)",
+}, 
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "16 years",
+"male": "16 years",
+"female": "17 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "34.7%",
+"male": "33%",
+"female": "37.3% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Italian Republic",
+"conventional_short_form": "Italy",
+"local_long_form": "Repubblica Italiana",
+"local_short_form": "Italia",
+"former": "Kingdom of Italy",
+"etymology": "derivation is unclear, but the Latin &quot;Italia&quot; may come from the Oscan &quot;Viteliu&quot; meaning &quot;[Land] of Young Cattle&quot; (the bull was a symbol of southern Italic tribes)",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Rome",
+"geographic_coordinates": "41 54 N, 12 29 E",
+"time_difference": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "&lt;p&gt;15 regions (regioni, singular - regione) and 5 autonomous regions (regioni autonome, singular - regione autonoma)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;regions:&lt;/strong&gt; Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;autonomous regions:&lt;/strong&gt; Friuli Venezia Giulia; Sardegna (Sardinia); Sicilia (Sicily); Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German); Valle d&#39;Aosta (Aosta Valley) or Vallee d&#39;Aoste (French)&lt;/p&gt;",
+"independence": "17 March 1861 (Kingdom of Italy proclaimed; Italy was not finally unified until 1871)",
+"national_holiday": "Republic Day, 2 June (1946)",
+"constitution": 
+{
+"history": "previous 1848 (originally for the Kingdom of Sardinia and adopted by the Kingdom of Italy in 1861); latest enacted 22 December 1947, adopted 27 December 1947, entered into force 1 January 1948",
+"amendments": "proposed by both houses of Parliament; passage requires two successive debates and approval by absolute majority of each house on the second vote; a referendum is only required when requested by one fifth of the members of either house, by voter petition, or by five Regional Councils (elected legislative assemblies of the 15 first-level administrative regions and 5 autonomous regions of Italy); referendum not required if an amendment has been approved by a two-thirds majority in each house in the second vote; amended many times, last in 2012; note - a referendum held on 4 December 2016 on constitutional amendments was defeated (2017)",
+}, 
+"legal_system": "civil law system; judicial review of legislation under certain conditions in Constitutional Court",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no",
+"citizenship_by_descent_only": "at least one parent must be a citizen of Italy",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "4 years for EU nationals, 5 years for refugees and specified exceptions, 10 years for all others",
+}, 
+"suffrage": "18 years of age; universal except in senatorial elections, where minimum age is 25",
+"executive_branch": 
+{
+"chief_of_state": "President Sergio MATTARELLA (since 3 February 2015)",
+"head_of_government": "Prime Minister Giuseppe CONTE (since 1 June 2018); the prime minister&#39;s official title is President of the Council of Ministers; note - CONTE resigned on 20 August 2019 but returned as prime minister after PD and M5S agreed to form a new coalition government on 28 August 2019",
+"cabinet": "Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; the current deputy prime ministers, known officially as vice-presidents of the Council of Ministers, are Matteo Salvini (L) and Luigi Di Maio (M5S) (since 1 June 2018)",
+"elections_appointments": "president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 31 January 2015 (next to be held in 2022); prime minister appointed by the president, confirmed by parliament",
+"election_results": "Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 1,009 (505-vote threshold)",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Parlamento consists of:&lt;br /&gt;Senate or Senato della Repubblica (321 seats;&amp;nbsp;116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and&amp;nbsp;6 ex-officio members appointed by the president of the Republic to serve for life)&lt;br /&gt; Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d&#39;Aosta elected by simple majority vote; members serve 5-year terms)",
+"elections": "&lt;br /&gt; Senate - last held on 4 March 2018 (next to be held in March 2023)&lt;br /&gt; Chamber of Deputies - last held on 4 March 2018 (next to be held in March 2023)",
+"election_results": "&lt;br /&gt; Senate - percent of vote by party - center-right coalition 37.5% (L 17.6%, FI 14.4%, FdI 4.3%, UdC 1.2%), M5S 32.2%, center-left coalition (PD 19.1%, +E 2.3%, I 0.5%, CP 0.5%, SVP-PATT 0.4%), LeU 3.3%; seats by party - center-right coalition 77(L 37, FI 33, FdI 7), M5S 68, center-left coalition 44(PD 43, SVP-PATT 1), LeU 4; composition - men 208, women 113, percent of women 35.2%&lt;br /&gt;&lt;br /&gt; Chamber of Deputies - percent of vote by party - center-right coalition 37% (L 17.4%, FI 14%, FdI 4.4%, UdC 1.3%), M5S 33%, center-left coalition 22.9% (PD 18.8%, E+ 2.6%, I 0.6%, CP 0.5%, SVP-PATT 0.4%); seats by party - center-right coalition 151 (L73, FI 59, FdI 19), M5S 133, center-left coalition 88 (PD 86, SVP 2), LeU 14; composition - men 405, women 225, percent of women 35.7%; note - total Parliament percent of women 35.5%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)",
+"judge_selection_and_term_of_office": "Supreme Court judges appointed by the High Council of the Judiciary, headed by the president of the republic; judges may serve for life; Constitutional Court judges - 5 appointed by the president, 5 elected by Parliament, 5 elected by select higher courts; judges serve up to 9 years",
+"subordinate_courts": "various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)",
+}, 
+"political_parties_and_leaders": "&lt;p&gt;&lt;strong&gt;Governing Coalition&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; &lt;br /&gt; Northern League (Lega Nord) or Lega [Matteo SALVINI]&lt;br /&gt;Five Star Movement or M5S [Luigi DI MAIO]&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Left-center-right opposition:&lt;/strong&gt; &lt;br /&gt;Democratic Party or PD [Nicola ZINGARETTI]&lt;br /&gt;Forza Italia or FI [Silvio BERLUSCONI]&lt;br /&gt;Brothers of Italy [Giorgia MELONI]&lt;br /&gt; Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]&lt;br /&gt;More Europe or +EU [Emma BONINO]&lt;br /&gt;Popular Civic List or CP [Beatrice LORENZIN]&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Other parties and parliamentary groups:&lt;br /&gt;&lt;/strong&gt;Possible [Beatrice BRIGNONE]&lt;br /&gt;Us with Italy [Raffaele FITTO]&lt;br /&gt;South Tyrolean People&#39;s Party or SVP [Philipp ACHAMMER]&lt;br /&gt; Trentino Tyrolean Autonomist Party (Partito Autonomista Trentino Tirolese) or PATT [Franco PANIZZA, secretary] &lt;br /&gt; Article One or Art.1-MDP [Roberto SPERANZA]&lt;/p&gt;",
+"international_organization_participation": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Armando VARRICCHIO (since 2 March 2016)",
+"chancery": "3000 Whitehaven Street NW, Washington, DC 20008",
+"telephone": "[1] (202) 612-4400",
+"fax": "[1] (202) 518-2151",
+"consulate_s_general": "Boston, Chicago, Detroit, Houston, Miami, New York, Los Angeles, Philadelphia, San Francisco",
+"consulate_s": "Charlotte (NC), Cleveland (OH), Detroit (MI), Hattiesburg (MS), Honolulu (HI), New Orleans, Newark (NJ), Norfolk (VA), Pittsburgh (PA), Portland (OR), Seattle",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador Lewis EISENBERG (since 4 October 2017); note - also accredited to San Marino",
+"telephone": "[39] 06-4674-1",
+"embassy": "Via Vittorio Veneto 121, 00187-Rome",
+"mailing_address": "PSC 59, Box 100, APO AE 09624",
+"fax": "[39] 06-488-2672",
+"consulate_s_general": "Florence, Milan, Naples",
+}, 
+"flag_description": "three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag brought to Italy by Napoleon in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard",
+"national_symbol_s": "white, five-pointed star (Stella d&#39;Italia); national colors: red, white, green",
+"national_anthem": 
+{
+"name": "&quot;Il Canto degli Italiani&quot; (The Song of the Italians)",
+"lyrics_music": "Goffredo MAMELI/Michele NOVARO",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Italy’s economy comprises a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, with a legacy of unemployment and underdevelopment. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Italy is the third-largest economy in the euro zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, reaching 131% of GDP in 2017. Investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy&#39;s borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy&#39;s longstanding structural economic problems, including labor market inefficiencies, a sluggish judicial system, and a weak banking sector. Italy’s economy returned to modest growth in late 2014 for the first time since 2011. In 2015-16, Italy’s economy grew at about 1% each year, and in 2017 growth accelerated to 1.5% of GDP. In 2017, overall unemployment was 11.4%, but youth unemployment remained high at 37.1%. GDP growth is projected to slow slightly in 2018.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$2.317 trillion",
+"2016": "$2.282 trillion",
+"2015": "$2.263 trillion",
+},
+"gdp_official_exchange_rate": "$1.939 trillion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "1.5%",
+"2016": "0.9%",
+"2015": "1%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$38,200",
+"2016": "$37,600",
+"2015": "$37,200",
+},
+"gross_national_saving":
+{
+"2017": "20.3% of GDP",
+"2016": "19.7% of GDP",
+"2015": "18.8% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "61% (2017 est.)",
+"government_consumption": "18.6% (2017 est.)",
+"investment_in_fixed_capital": "17.5% (2017 est.)",
+"investment_in_inventories": "-0.2% (2017 est.)",
+"exports_of_goods_and_services": "31.4% (2017 est.)",
+"imports_of_goods_and_services": "-28.3% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "2.1% (2017 est.)",
+"industry": "23.9% (2017 est.)",
+"services": "73.9% (2017 est.)",
+}, 
+"agriculture_products": "fruits, vegetables, grapes, potatoes, sugar beets, soybeans, grain, olives; beef, dairy products; fish",
+"industries": "tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics",
+"industrial_production_growth_rate": "2.1% (2017 est.)",
+"labor_force": "25.94 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "3.9%",
+"industry": "28.3%",
+"services": "67.8% (2011)",
+}, 
+"unemployment_rate":
+{
+"2017": "11.3%",
+"2016": "11.7%",
+},
+"population_below_poverty_line": "29.9% (2012 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.3%",
+"highest_10": "26.8% (2000)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2012": "31.9",
+"1995": "27.3",
+},
+"budget": 
+{
+"revenues": "903.3 billion (2017 est.)",
+"expenditures": "948.1 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "46.6% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-2.3% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "131.8% of GDP",
+"2016": "132% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "1.3%",
+"2016": "-0.1%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2013": "0.25%",
+"31 December 2012": "0.75%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "3%",
+"31 December 2016": "3.5%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$1.347 trillion",
+"31 December 2016": "$1.101 trillion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$1.347 trillion",
+"31 December 2016": "$1.101 trillion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$3.422 trillion",
+"31 December 2016": "$3.024 trillion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2014": "$587.3 billion",
+"31 December 2013": "$615.5 billion",
+"31 December 2012": "$480.5 billion",
+},
+"current_account_balance":
+{
+"2017": "$53.42 billion",
+"2016": "$47.64 billion",
+},
+"exports":
+{
+"2017": "$496.3 billion",
+"2016": "$454.1 billion",
+},
+"exports_partners": "Germany 12.5%, France 10.3%, US 9%, Spain 5.2%, UK 5.2%, Switzerland 4.6% (2017)",
+"exports_commodities": "engineering products, textiles and clothing, production machinery, motor vehicles, transport equipment, chemicals; foodstuffs, beverages, and tobacco; minerals, nonferrous metals",
+"imports":
+{
+"2017": "$432.9 billion",
+"2016": "$389.8 billion",
+},
+"imports_commodities": "engineering products, chemicals, transport equipment, energy products, minerals and nonferrous metals, textiles and clothing; food, beverages, tobacco",
+"imports_partners": "Germany 16.3%, France 8.8%, China 7.1%, Netherlands 5.6%, Spain 5.3%, Belgium 4.5% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$151.2 billion",
+"31 December 2015": "$130.6 billion",
+},
+"debt_external":
+{
+"31 March 2016": "$2.444 trillion",
+"31 March 2015": "$2.3 trillion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$552.1 billion",
+"31 December 2016": "$471.7 billion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$671.8 billion",
+"31 December 2016": "$584.1 billion",
+},
+"exchange_rates": 
+{
+"currency": "euros (EUR) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.885",
+"2016": "0.903",
+"2015": "0.9214",
+"2014": "0.885",
+"2013": "0.7634",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "275.3 billion kWh (2016 est.)",
+"electricity_consumption": "293.5 billion kWh (2016 est.)",
+"electricity_exports": "6.155 billion kWh (2016 est.)",
+"electricity_imports": "43.18 billion kWh (2016 est.)",
+"electricity_installed_generating_capacity": "114.2 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "54% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "14% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "32% of total installed capacity (2017 est.)",
+"crude_oil_production": "90,000 bbl/day (2018 est.)",
+"crude_oil_exports": "13,790 bbl/day (2017 est.)",
+"crude_oil_imports": "1.341 million bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "487.8 million bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "1.607 million bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "1.236 million bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "615,900 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "422,500 bbl/day (2017 est.)",
+"natural_gas_production": "5.55 billion cu m (2017 est.)",
+"natural_gas_consumption": "75.15 billion cu m (2017 est.)",
+"natural_gas_exports": "271.8 million cu m (2017 est.)",
+"natural_gas_imports": "69.66 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "38.11 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "351 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "20,700,659",
+"subscriptions_per_100_inhabitants": "33 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "83,871,543",
+"subscriptions_per_100_inhabitants": "135 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern, well-developed, fast; fully automated telephone, telex, and data services; highest mobile penetration rates in Europe;&amp;nbsp;leading edge&amp;nbsp;of development with 5G; Rome, Turin and Naples have 5G commercially for users (2018)",
+"domestic": "high-capacity cable and microwave radio relay trunks; 33 per 100 for fixed-line and 135 per 100 for mobile-cellular subscriptions (2018)",
+"international": "country code - 39; landing points for&amp;nbsp;Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 &amp;amp; 4 &amp;amp; 5, Trapani-Kelibia, Columbus-III, Didon, GO-1, HANNIBAL System, MENA, Bridge International, Malta-Italy Interconnector, Melita1, IMEWE, VMSCS, AAE-1, and OTEGLOBE, submarine cables provide links to Asia, the&amp;nbsp;Middle East, Europe, North Africa, Southeast Asia, Australia and US; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean) (2019)",
+}, 
+"broadcast_media": "two Italian media giants dominate - the publicly owned Radiotelevisione Italiana (RAI) with 3 national terrestrial stations and privately owned Mediaset with 3 national terrestrial stations; a large number of private stations and Sky Italia - a satellite TV network; RAI operates 3 AM/FM nationwide radio stations; about 1,300 commercial radio stations",
+"internet_country_code": ".it",
+"internet_users": 
+{
+"total": "38,025,661",
+"percent_of_population": "61.3% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "16,586,376",
+"subscriptions_per_100_inhabitants": "27 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2019": "1.22% of GDP",
+"2018": "1.21% of GDP",
+"2017": "1.21% of GDP",
+"2016": "1.18% of GDP",
+"2015": "1.07% of GDP",
+},
+"military_and_security_forces": "Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI), Carabinieri Corps (Arma dei Carabinieri, CC). (2019)",
+"military_service_age_and_obligation": "18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation (2013)",
+"military_note": "Italy has established a Joint Special Operations Command and a Joint Headquarters Cyber Operations (Comando Interforze per le Operazioni Cibernetiche (CIOC) (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "9 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "382 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "26,036,010 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "945,433,732 mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "I (2016)",
+"airports": "129 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "98 (2017)",
+"over_3_047_m": "9 (2017)",
+"2_438_to_3_047_m": "31 (2017)",
+"1_524_to_2_437_m": "18 (2017)",
+"914_to_1_523_m": "29 (2017)",
+"under_914_m": "11 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "31 (2013)",
+"1_524_to_2_437_m": "1 (2013)",
+"914_to_1_523_m": "10 (2013)",
+"under_914_m": "20 (2013)",
+}, 
+"heliports": "5 (2013)",
+"pipelines": "20223 km gas, 1393 km oil, 1574 km refined products (2013)",
+"railways": 
+{
+"total": "20,182 km (2014)",
+"standard_gauge": "18,770.1 km 1.435-m gauge (12,893.6 km electrified) (2014)",
+"narrow_gauge": "122.3 km 1.000-m gauge (122.3 km electrified) (2014)",
+}, 
+"roadways": 
+{
+"total": "487,700 km (2007)",
+"paved": "487,700 km (includes 6,700 km of expressways) (2007)",
+}, 
+"waterways": "2,400 km (used for commercial traffic; of limited overall value compared to road and rail) (2012)",
+"merchant_marine": 
+{
+"total": "1,405",
+"by_type": "bulk carrier 59, container ship 10, general cargo 142, oil tanker 128, other 1066 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice",
+"oil_terminal_s": "Melilli (Santa Panagia) oil terminal, Sarroch oil terminal",
+"container_port_s_teus": "Genoa (2,622,200), Gioia Tauro (2,448,600) (2017)",
+"lng_terminal_s_import": "La Spezia, Panigaglia, Porto Levante",
+}, 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Italy&#39;s long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": 
+{
+"refugees_country_of_origin": "22,319 (Nigeria), 18,249 (Pakistan), 16,941 (Afghanistan), 15,003 (Mali), 13,373 (Somalia), 12,549 (Gambia), 13,525 (Ukraine), 7,644 (Senegal), 7,174 (Cote d&#39;Ivoire), 6,975 (Eritrea) (2018); note - estimate for Ukraine represents asylum applicants since the beginning of the Ukraine crisis in 2014 to July 2018",
+"stateless_persons": "732 (2018)",
+}, 
+"illicit_drugs": "important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling",
+}
+}

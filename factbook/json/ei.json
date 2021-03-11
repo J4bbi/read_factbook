@@ -1,0 +1,559 @@
+{
+"name": "Ireland",
+"code": "EI",
+"publish_date": "December 17, 2019",
+"introduction": 
+{
+"background": "&lt;p&gt;Celtic tribes arrived on the island between 600 and 150 B.C. Invasions by Norsemen that began in the late 8th century were finally ended when King Brian BORU defeated the Danes in 1014. Norman invasions began in the 12th century and set off more than seven centuries of Anglo-Irish struggle marked by fierce rebellions and harsh repressions. The Irish famine of the mid-19th century was responsible for a drop in the island&#39;s population by more than one quarter through starvation, disease, and emigration. For more than a century afterward, the population of the island continued to fall only to begin growing again in the 1960s. Over the last 50 years, Ireland&#39;s high birthrate has made it demographically one of the youngest populations in the EU.&lt;/p&gt;&lt;p&gt;The modern Irish state traces its origins to the failed 1916 Easter Monday Uprising that touched off several years of guerrilla warfare resulting in independence from the UK in 1921 for 26 southern counties; six northern (Ulster) counties remained part of the UK. Deep sectarian divides between the Catholic and Protestant populations and systemic discrimination in Northern Ireland erupted into years of violence known as the &quot;Troubles&quot; that began in the 1960s. The Government of Ireland was part of a process along with the UK and US Governments that helped broker the Good Friday Agreement in Northern Ireland in 1998. This initiated a new phase of cooperation between the Irish and British Governments. Ireland was neutral in World War II and continues its policy of military neutrality. Ireland joined the European Community in 1973 and the euro-zone currency union in 1999. The economic boom years of the Celtic Tiger (1995-2007) saw rapid economic growth, which came to an abrupt end in 2008 with the meltdown of the Irish banking system. Today the economy is recovering, fueled by large and growing foreign direct investment, especially from US multi-nationals.&lt;/p&gt;",
+}, 
+"geography": 
+{
+"location": "Western Europe, occupying five-sixths of the island of Ireland in the North Atlantic Ocean, west of Great Britain",
+"geographic_coordinates": "53 00 N, 8 00 W",
+"map_references": "Europe",
+"area": 
+{
+"total": "70,273 sq km",
+"land": "68,883 sq km",
+"water": "1,390 sq km",
+}, 
+"area_comparative": "slightly larger than West Virginia",
+"land_boundaries": 
+{
+"total": "490 km",
+"border_countries": "UK 490 km",
+}, 
+"coastline": "1,448 km",
+"maritime_claims": 
+{
+"territorial_sea": "12 nm",
+"exclusive_fishing_zone": "200 nm",
+}, 
+"climate": "temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time",
+"terrain": "mostly flat to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast",
+"elevation": 
+{
+"mean_elevation": "118 m",
+"lowest_point": "Atlantic Ocean 0 m",
+"highest_point": "Carrauntoohil 1,041 m",
+}, 
+"natural_resources": "natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite",
+"land_use": 
+{
+"agricultural_land": "66.1% (2011 est.)",
+"agricultural_land_arable_land": "15.4% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "50.7% (2011 est.)",
+"forest": "10.9% (2011 est.)",
+"other": "23% (2011 est.)",
+}, 
+"irrigated_land": "0 sq km (2012)",
+"population_distribution": "population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities",
+"natural_hazards": "rare extreme weather events",
+"environment_current_issues": "water pollution, especially of lakes, from agricultural runoff; acid rain kills plants, destroys soil fertility, and contributes to deforestation",
+"environment_international_agreements": 
+{
+"party_to": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling",
+"signed_but_not_ratified": "Air Pollution-Persistent Organic Pollutants, Marine Life Conservation",
+}, 
+"geography_note": "strategic location on major air and sea routes between North America and northern Europe; over 40% of the population resides within 100 km of Dublin",
+}, 
+"people_and_society": 
+{
+"population": "5,068,050 (July 2018 est.)",
+"nationality": 
+{
+"noun": "Irishman(men), Irishwoman(women), Irish (collective plural)",
+"adjective": "Irish",
+}, 
+"ethnic_groups": "Irish 82.2%, Irish travelers 0.7%, other white 9.5%, Asian 2.1%, black 1.4%, other 1.5%, unspecified 2.6% (2016 est.)",
+"languages": "English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken by approximately 39.8% of the population as of 2016; mainly spoken in areas along Ireland&#39;s western coast known as gaeltachtai, which are officially recognized regions where Irish is the predominant language)",
+"religions": "Roman Catholic 78.3%, Church of Ireland 2.7%, other Christian 1.6%, Orthodox 1.3%, Muslim 1.3%, other 2.4%, none 9.8%, unspecified 2.6% (2016 est.)",
+"age_structure": 
+{
+"0_14_years": "21.37% (male 554,110 /female 529,067)",
+"15_24_years": "11.92% (male 306,052 /female 297,890)",
+"25_54_years": "42.86% (male 1,091,495 /female 1,080,594)",
+"55_64_years": "10.53% (male 267,255 /female 266,438)",
+"65_years_and_over": "13.32% (male 312,694 /female 362,455) (2018 est.)",
+}, 
+"dependency_ratios": 
+{
+"total_dependency_ratio": "53.8 (2015 est.)",
+"youth_dependency_ratio": "33.4 (2015 est.)",
+"elderly_dependency_ratio": "20.3 (2015 est.)",
+"potential_support_ratio": "4.9 (2015 est.)",
+}, 
+"median_age": 
+{
+"total": "37.1 years (2018 est.)",
+"male": "36.8 years",
+"female": "37.5 years",
+}, 
+"population_growth_rate": "1.11% (2018 est.)",
+"birth_rate": "13.8 births/1,000 population (2018 est.)",
+"death_rate": "6.6 deaths/1,000 population (2018 est.)",
+"net_migration_rate": "4 migrant(s)/1,000 population (2018 est.)",
+"population_distribution": "population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities",
+"urbanization": 
+{
+"urban_population": "63.4% of total population (2019)",
+"rate_of_urbanization": "1.14% annual rate of change (2015-20 est.)",
+}, 
+"major_urban_areas_population": "1.215 million DUBLIN (capital) (2019)",
+"sex_ratio": 
+{
+"at_birth": "1.06 male(s)/female",
+"0_14_years": "1.05 male(s)/female",
+"15_24_years": "1.03 male(s)/female",
+"25_54_years": "1.01 male(s)/female",
+"55_64_years": "1 male(s)/female",
+"65_years_and_over": "0.86 male(s)/female",
+"total_population": "1 male(s)/female (2018 est.)",
+}, 
+"mother_s_mean_age_at_first_birth": "30.7 years (2015 est.)",
+"maternal_mortality_rate": "5 deaths/100,000 live births (2017 est.)",
+"infant_mortality_rate": 
+{
+"total": "3.6 deaths/1,000 live births (2018 est.)",
+"male": "4 deaths/1,000 live births",
+"female": "3.2 deaths/1,000 live births",
+}, 
+"life_expectancy_at_birth": 
+{
+"total_population": "81 years (2018 est.)",
+"male": "78.7 years",
+"female": "83.5 years",
+}, 
+"total_fertility_rate": "1.96 children born/woman (2018 est.)",
+"contraceptive_prevalence_rate": "73.3% (2010)",
+"drinking_water_source": 
+{
+"improved_urban": "97.9% of population",
+"improved_rural": "97.8% of population",
+"improved_total": "97.9% of population",
+"unimproved_urban": "2.1% of population",
+"unimproved_rural": "2.2% of population",
+"unimproved_total": "2.1% of population (2015 est.)",
+}, 
+"current_health_expenditure": "7.4% (2016)",
+"physicians_density": "3.09 physicians/1,000 population (2017)",
+"hospital_bed_density": "2.8 beds/1,000 population (2013)",
+"sanitation_facility_access": 
+{
+"improved_urban": "89.1% of population (2015 est.)",
+"improved_rural": "92.9% of population (2015 est.)",
+"improved_total": "90.5% of population (2015 est.)",
+"unimproved_urban": "10.9% of population (2015 est.)",
+"unimproved_rural": "7.1% of population (2015 est.)",
+"unimproved_total": "9.5% of population (2015 est.)",
+}, 
+"hiv_aids_adult_prevalence_rate": "0.2% (2018 est.)",
+"hiv_aids_people_living_with_hiv_aids": "7,200 (2018 est.)",
+"hiv_aids_deaths": " &lt;100 (2018 est.)",
+"obesity_adult_prevalence_rate": "25.3% (2016)",
+"education_expenditures": "3.7% of GDP (2016)",
+"school_life_expectancy_primary_to_tertiary_education": 
+{
+"total": "19 years",
+"male": "19 years",
+"female": "19 years (2016)",
+}, 
+"unemployment_youth_ages_15_24": 
+{
+"total": "14.4%",
+"male": "16%",
+"female": "12.6% (2017 est.)",
+}, 
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "none",
+"conventional_short_form": "Ireland",
+"local_long_form": "none",
+"local_short_form": "Eire",
+"etymology": "the modern Irish name &quot;Eire&quot; evolved from the Gaelic &quot;Eriu,&quot; the name of the matron goddess of Ireland (goddess of the land); the names &quot;Ireland&quot; in English and &quot;Eire&quot; in Irish are direct translations of each other",
+}, 
+"government_type": "parliamentary republic",
+"capital": 
+{
+"name": "Dublin",
+"geographic_coordinates": "53 19 N, 6 14 W",
+"time_difference": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)",
+"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+}, 
+"administrative_divisions": "28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow",
+"independence": "6 December 1921 (from the UK by the Anglo-Irish Treaty, which ended British rule); 6 December 1922 (Irish Free State established); 18 April 1949 (Republic of Ireland Act enabled)",
+"national_holiday": "Saint Patrick&#39;s Day, 17 March; note - marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); although Saint Patrick&#39;s feast day was celebrated in Ireland as early as the ninth century, it only became an official public holiday in Ireland in 1903",
+"constitution": 
+{
+"history": "previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937",
+"amendments": "proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature; amended many times, last in 2019 (2019)",
+}, 
+"legal_system": "common law system based on the English model but substantially modified by customary law; judicial review of legislative acts by Supreme Court",
+"international_law_organization_participation": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction",
+"citizenship": 
+{
+"citizenship_by_birth": "no, unless a parent of a child born in Ireland has been legally resident in Ireland for at least three of the four years prior to the birth of the child",
+"citizenship_by_descent_only": "yes",
+"dual_citizenship_recognized": "yes",
+"residency_requirement_for_naturalization": "4 of the previous 8 years",
+}, 
+"suffrage": "18 years of age; universal",
+"executive_branch": 
+{
+"chief_of_state": "President Michael D. HIGGINS (since 11 November 2011)",
+"head_of_government": "Taoiseach (Prime Minister) Leo VARADKAR (since 14 June 2017)",
+"cabinet": "Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)",
+"elections_appointments": "president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president",
+"election_results": "Michael D. HIGGINS reelected president; percent of vote - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%",
+}, 
+"legislative_branch": 
+{
+"description": "bicameral Parliament or Oireachtas consists of:&lt;br /&gt;Senate or Seanad Eireann (60 seats; 43 members indirectly elected from 5 vocational panels of nominees by an electoral college consisting of members from the House of Representatives, outgoing Senate members, and city and county council members, 11 appointed by the prime minister, and 6 elected by 2 university constituencies - 3 each from the University of Dublin (Trinity College) and the National University of Ireland)&lt;br /&gt; House of Representatives or Dail Eireann (158 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)",
+"elections": "&lt;br /&gt; Senate - last held in April and May 2016 (next to be held no later than 2021)&lt;br /&gt; House of Representatives - last held on 26 February 2016 (next to be held no later than 2021)",
+"election_results": "&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt; Senate - percent of vote by party - NA; seats by party - Fine Gael 19, Fianna Fail 14, Sinn Fein 7, Labor Party 5, Green Party 1, independent 14; composition - men 42, women 18, percent of women 30% &lt;br /&gt; House of Representatives - percent of vote by party - Fine Gael 25.5%, Fianna Fail 24.4%, Sinn Fein 13.8%, Labor Party 6.6%, AAA-PBD 4.0%, Social Democrats 3.0%, Green Party 2.7%, Renua Ireland 2.2% independent 17.8%; seats by party - Fine Gael 50, Fianna Fail 44, Sinn Fein 23, Labor Party 7, AAA-PBP 6, Social Democrats 3, Green Party 2, independent 23; composition - men 123, women 35, percent of women 22.2%; note - total Parliament percent of women 24.3%",
+}, 
+"judicial_branch": 
+{
+"highest_courts": "Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)",
+"judge_selection_and_term_of_office": "judges nominated by the prime minister and Cabinet and appointed by the president; chief justice serves in the position for 7 years; judges can serve until age 70",
+"subordinate_courts": "High Court, Court of Appeal; circuit and district courts; criminal courts",
+}, 
+"political_parties_and_leaders": "Solidarity-People Before Profit or AAAS-PBP [collective leadership]&lt;br /&gt;Fianna Fail [Micheal MARTIN]&lt;br /&gt;Fine Gael [Leo VARADKAR]&lt;br /&gt;Green Party [Eamon RYAN]&lt;br /&gt;Labor (Labour) Party [Brendan HOWLIN]&lt;br /&gt;Renua Ireland (vacant)&lt;br /&gt;Sinn Fein [Mary Lou MCDONALD]&lt;br /&gt;Social Democrats [Catherine MURPHY, Roisin SHORTALL]&lt;br /&gt;Socialist Party [collective leadership]&lt;br /&gt;The Workers&#39; Party [Michael DONNELLY]",
+"international_organization_participation": "ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC",
+"diplomatic_representation_in_the_us": 
+{
+"chief_of_mission": "Ambassador Daniel Gerard MULHALL (since 8 September 2017)",
+"chancery": "2234 Massachusetts Avenue NW, Washington, DC 20008",
+"telephone": "[1] (202) 462-3939",
+"fax": "[1] (202) 232-5993",
+"consulate_s_general": "Atlanta, Austin (TX), Boston, Chicago, New York, San Francisco",
+}, 
+"diplomatic_representation_from_the_us": 
+{
+"chief_of_mission": "Ambassador&amp;nbsp;Edward F. CRAWFORD&amp;nbsp;(since&amp;nbsp;1 July 2019)",
+"telephone": "[353] (1) 630-6200",
+"embassy": "42 Elgin Road, Ballsbridge, Dublin 4",
+"mailing_address": "use embassy street address",
+"fax": "[353] (1) 688-9946",
+}, 
+"flag_description": "three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange",
+"national_symbol_s": "harp, shamrock (trefoil); national colors: blue, green",
+"national_anthem": 
+{
+"name": "&quot;Amhran na bhFiann&quot; (The Soldier&#39;s Song)",
+"lyrics_music": "Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY",
+}, 
+}, 
+"economy": 
+{
+"economy_overview": "&lt;p&gt;Ireland is a small, modern, trade-dependent economy. It was among the initial group of 12 EU nations that began circulating the euro on 1 January 2002. GDP growth averaged 6% in 1995-2007, but economic activity dropped sharply during the world financial crisis and the subsequent collapse of its domestic property market and construction industry during 2008-11. Faced with sharply reduced revenues and a burgeoning budget deficit from efforts to stabilize its fragile banking sector, the Irish Government introduced the first in a series of draconian budgets in 2009. These measures were not sufficient to stabilize Ireland’s public finances. In 2010, the budget deficit reached 32.4% of GDP - the world&#39;s largest deficit, as a percentage of GDP. In late 2010, the former COWEN government agreed to a $92 billion loan package from the EU and IMF to help Dublin recapitalize Ireland’s banking sector and avoid defaulting on its sovereign debt. In March 2011, the KENNY government intensified austerity measures to meet the deficit targets under Ireland&#39;s EU-IMF bailout program.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In late 2013, Ireland formally exited its EU-IMF bailout program, benefiting from its strict adherence to deficit-reduction targets and success in refinancing a large amount of banking-related debt. In 2014, the economy rapidly picked up. In late 2014, the government introduced a fiscally neutral budget, marking the end of the austerity program. Continued growth of tax receipts has allowed the government to lower some taxes and increase public spending while keeping to its deficit-reduction targets. In 2015, GDP growth exceeded 26%. The magnitude of the increase reflected one-off statistical revisions, multinational corporate restructurings in intellectual property, and the aircraft leasing sector, rather than real gains in the domestic economy, which was still growing. Growth moderated to around 4.1% in 2017, but the recovering economy assisted lowering the deficit to 0.6% of GDP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In the wake of the collapse of the construction sector and the downturn in consumer spending and business investment during the 2008-11 economic crisis, the export sector, dominated by foreign multinationals, has become an even more important component of Ireland&#39;s economy. Ireland’s low corporation tax of 12.5% and a talented pool of high-tech laborers have been some of the key factors in encouraging business investment. Loose tax residency requirements made Ireland a common destination for international firms seeking to pay less tax or, in the case of U.S. multinationals, defer taxation owed to the United States. In 2014, amid growing international pressure, the Irish government announced it would phase in more stringent tax laws, effectively closing a commonly used loophole. The Irish economy continued to grow in 2017 and is forecast to do so through 2019, supported by a strong export sector, robust job growth, and low inflation, to the point that the Government must now address concerns about overheating and potential loss of competitiveness. The greatest risks to the economy are the UK’s scheduled departure from the European Union (&quot;Brexit&quot;) in March 2019, possible changes to international taxation policies that could affect Ireland’s revenues, and global trade pressures.&lt;/p&gt;",
+"gdp_purchasing_power_parity":
+{
+"2017": "$353.3 billion",
+"2016": "$329.5 billion",
+"2015": "$314.1 billion",
+},
+"gdp_official_exchange_rate": "$331.5 billion (2017 est.)",
+"gdp_real_growth_rate":
+{
+"2017": "7.2%",
+"2016": "4.9%",
+"2015": "25%",
+},
+"gdp_per_capita_ppp":
+{
+"2017": "$73,200",
+"2016": "$69,100",
+"2015": "$66,600",
+},
+"gross_national_saving":
+{
+"2017": "33.1% of GDP",
+"2016": "33.7% of GDP",
+"2015": "29% of GDP",
+},
+"gdp_composition_by_end_use": 
+{
+"household_consumption": "34% (2017 est.)",
+"government_consumption": "10.1% (2017 est.)",
+"investment_in_fixed_capital": "23.4% (2017 est.)",
+"investment_in_inventories": "1.2% (2017 est.)",
+"exports_of_goods_and_services": "119.9% (2017 est.)",
+"imports_of_goods_and_services": "-89.7% (2017 est.)",
+}, 
+"gdp_composition_by_sector_of_origin": 
+{
+"agriculture": "1.2% (2017 est.)",
+"industry": "38.6% (2017 est.)",
+"services": "60.2% (2017 est.)",
+}, 
+"agriculture_products": "barley, potatoes, wheat; beef, dairy products",
+"industries": "pharmaceuticals, chemicals, computer hardware and software, food products, beverages and brewing; medical devices",
+"industrial_production_growth_rate": "7.8% (2017 est.)",
+"labor_force": "2.226 million (2017 est.)",
+"labor_force_by_occupation": 
+{
+"agriculture": "5%",
+"industry": "11%",
+"services": "84% (2015 est.)",
+}, 
+"unemployment_rate":
+{
+"2017": "6.7%",
+"2016": "8.4%",
+},
+"population_below_poverty_line": "8.2% (2013 est.)",
+"household_income_or_consumption_by_percentage_share": 
+{
+"lowest_10": "2.9%",
+"highest_10": "27.2% (2000)",
+}, 
+"distribution_of_family_income_gini_index":
+{
+"2013": "31.3",
+"1987": "35.9",
+},
+"budget": 
+{
+"revenues": "86.04 billion (2017 est.)",
+"expenditures": "87.19 billion (2017 est.)",
+}, 
+"taxes_and_other_revenues": "26% (of GDP) (2017 est.)",
+"budget_surplus_or_deficit": "-0.3% (of GDP) (2017 est.)",
+"public_debt":
+{
+"2017": "68.6% of GDP",
+"2016": "73.6% of GDP",
+},
+"fiscal_year": "calendar year",
+"inflation_rate_consumer_prices":
+{
+"2017": "0.3%",
+"2016": "-0.2%",
+},
+"central_bank_discount_rate":
+{
+"31 December 2015": "0.05%",
+"31 August 2014": "0.15%",
+},
+"commercial_bank_prime_lending_rate":
+{
+"31 December 2017": "4.08%",
+"31 December 2016": "3.48%",
+},
+"stock_of_narrow_money":
+{
+"31 December 2017": "$191.9 billion",
+"31 December 2016": "$156.2 billion",
+},
+"stock_of_broad_money":
+{
+"31 December 2017": "$191.9 billion",
+"31 December 2016": "$156.2 billion",
+},
+"stock_of_domestic_credit":
+{
+"31 December 2017": "$299.1 billion",
+"31 December 2016": "$287.1 billion",
+},
+"market_value_of_publicly_traded_shares":
+{
+"31 December 2015": "$128 billion",
+"31 December 2014": "$143.5 billion",
+"31 December 2013": "$170.1 billion",
+},
+"current_account_balance":
+{
+"2017": "$28.14 billion",
+"2016": "-$12.59 billion",
+},
+"exports":
+{
+"2017": "$219.7 billion",
+"2016": "$206 billion",
+},
+"exports_partners": "US 27.1%, UK 13.4%, Belgium 11%, Germany 8.1%, Switzerland 5.1%, Netherlands 4.9%, France 4.3% (2017)",
+"exports_commodities": "machinery and equipment, computers, chemicals, medical devices, pharmaceuticals; foodstuffs, animal products",
+"imports":
+{
+"2017": "$98.13 billion",
+"2016": "$92.09 billion",
+},
+"imports_commodities": "data processing equipment, other machinery and equipment, chemicals, petroleum and petroleum products, textiles, clothing",
+"imports_partners": "UK 29%, US 18.9%, France 12.1%, Germany 9.6%, Netherlands 4.1% (2017)",
+"reserves_of_foreign_exchange_and_gold":
+{
+"31 December 2017": "$4.412 billion",
+"31 December 2015": "$2.203 billion",
+},
+"debt_external":
+{
+"31 March 2016": "$2.47 trillion",
+"31 March 2015": "$2.35 trillion",
+},
+"stock_of_direct_foreign_investment_at_home":
+{
+"31 December 2017": "$1.54 trillion",
+"31 December 2016": "$1.411 trillion",
+},
+"stock_of_direct_foreign_investment_abroad":
+{
+"31 December 2017": "$1.56 trillion",
+"31 December 2016": "$1.404 trillion",
+},
+"exchange_rates": 
+{
+"currency": "euros (EUR) per US dollar -",
+"exchange_rates":
+{
+"2017": "0.885",
+"2016": "0.903",
+"2015": "0.9214",
+"2014": "0.885",
+"2013": "0.7634",
+},
+}, 
+}, 
+"energy": 
+{
+"electricity_access": "100% (2016)",
+"electricity_production": "28.53 billion kWh (2016 est.)",
+"electricity_consumption": "25.68 billion kWh (2016 est.)",
+"electricity_exports": "1.583 billion kWh (2016 est.)",
+"electricity_imports": "871 million kWh (2016 est.)",
+"electricity_installed_generating_capacity": "9.945 million kW (2016 est.)",
+"electricity_from_fossil_fuels": "65% of total installed capacity (2016 est.)",
+"electricity_from_nuclear_fuels": "0% of total installed capacity (2017 est.)",
+"electricity_from_hydroelectric_plants": "2% of total installed capacity (2017 est.)",
+"electricity_from_other_renewable_sources": "33% of total installed capacity (2017 est.)",
+"crude_oil_production": "0 bbl/day (2018 est.)",
+"crude_oil_exports": "5,900 bbl/day (2017 est.)",
+"crude_oil_imports": "66,210 bbl/day (2017 est.)",
+"crude_oil_proved_reserves": "0 bbl (1 January 2018 est.)",
+"refined_petroleum_products_production": "64,970 bbl/day (2017 est.)",
+"refined_petroleum_products_consumption": "153,700 bbl/day (2017 est.)",
+"refined_petroleum_products_exports": "37,040 bbl/day (2017 est.)",
+"refined_petroleum_products_imports": "126,600 bbl/day (2017 est.)",
+"natural_gas_production": "3.511 billion cu m (2017 est.)",
+"natural_gas_consumption": "5.238 billion cu m (2017 est.)",
+"natural_gas_exports": "0 cu m (2017 est.)",
+"natural_gas_imports": "1.642 billion cu m (2017 est.)",
+"natural_gas_proved_reserves": "9.911 billion cu m (1 January 2018 est.)",
+"carbon_dioxide_emissions_from_consumption_of_energy": "36.91 million Mt (2017 est.)",
+}, 
+"communications": 
+{
+"telephones_fixed_lines": 
+{
+"total_subscriptions": "1,842,026",
+"subscriptions_per_100_inhabitants": "37 (2017 est.)",
+}, 
+"telephones_mobile_cellular": 
+{
+"total_subscriptions": "4,898,872",
+"subscriptions_per_100_inhabitants": "98 (2017 est.)",
+}, 
+"telephone_system": 
+{
+"general_assessment": "modern digital system using cable and microwave radio relay; previous depressed economic climate has changed to one with Ireland having one of the highest GDP growth rates in Europe which translates to mean spending among telecom consumers; introduction of flat-rate plans;&amp;nbsp;upgraded LTE technologies in rural areas; government intends to spend millions on the National Broadband Plan (NBP)&amp;nbsp;initiative to change the broadband landscape (2018)",
+"domestic": "increasing levels of broadband access particularly in urban areas; fixed-line 37 per 100 and mobile-cellular 98 per 100 subscriptions (2018)",
+"international": "country code - 353; landing point for the&amp;nbsp;AEConnect&amp;nbsp;-1,&amp;nbsp;Celtic-Norse, Havfrue/AEC-2, GTT Express, Cleltic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 &amp;amp; 2, GTT Atlantic, Sirius South, Emerald Bridge Fibres&amp;nbsp;and Geo Eirgrid&amp;nbsp;&amp;nbsp;submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019)",
+}, 
+"broadcast_media": "publicly owned broadcaster Radio Telefis Eireann (RTE) operates&amp;nbsp;4 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2019)",
+"internet_country_code": ".ie",
+"internet_users": 
+{
+"total": "4,069,432",
+"percent_of_population": "82.2% (July 2016 est.)",
+}, 
+"broadband_fixed_subscriptions": 
+{
+"total": "1,401,356",
+"subscriptions_per_100_inhabitants": "28 (2017 est.)",
+}, 
+}, 
+"military_and_security": 
+{
+"military_expenditures":
+{
+"2018": "0.33% of GDP",
+"2017": "0.4% of GDP",
+"2016": "0.34% of GDP",
+"2015": "0.35% of GDP",
+"2014": "0.47% of GDP",
+},
+"military_and_security_forces": "Irish Defence Forces (Oglaigh na h-Eireannn): Army (includes Army Reserve), Naval Service (includes Naval Service Reserves), Air Corps (2019)",
+"military_service_age_and_obligation": "18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves); Irish citizen, European Economic Area citizenship, or refugee status (2019)",
+}, 
+"transportation": 
+{
+"national_air_transport_system": 
+{
+"number_of_registered_air_carriers": "6 (2015)",
+"inventory_of_registered_aircraft_operated_by_air_carriers": "431 (2015)",
+"annual_passenger_traffic_on_registered_air_carriers": "113,144,501 (2015)",
+"annual_freight_traffic_on_registered_air_carriers": "138.58 million mt-km (2015)",
+}, 
+"civil_aircraft_registration_country_code_prefix": "EI (2016)",
+"airports": "40 (2013)",
+"airports_with_paved_runways": 
+{
+"total": "16 (2017)",
+"over_3_047_m": "1 (2017)",
+"2_438_to_3_047_m": "1 (2017)",
+"1_524_to_2_437_m": "4 (2017)",
+"914_to_1_523_m": "5 (2017)",
+"under_914_m": "5 (2017)",
+}, 
+"airports_with_unpaved_runways": 
+{
+"total": "24 (2013)",
+"2_438_to_3_047_m": "1 (2013)",
+"914_to_1_523_m": "2 (2013)",
+"under_914_m": "21 (2013)",
+}, 
+"pipelines": "2,427 km gas (2017)",
+"railways": 
+{
+"total": "4,301 km (2018)",
+"narrow_gauge": "1,930 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2018)",
+"broad_gauge": "2,371 km 1.600-m gauge (53 km electrified) (2018)",
+}, 
+"roadways": 
+{
+"total": "99,830 km (2018)",
+"paved": "99,830 km (includes 2,717 km of expressways) (2018)",
+}, 
+"waterways": "956 km (pleasure craft only) (2010)",
+"merchant_marine": 
+{
+"total": "88",
+"by_type": "bulk carrier 8, general cargo 34, oil tanker 1, other 45 (2018)",
+}, 
+"ports_and_terminals": 
+{
+"major_seaport_s": "Dublin, Shannon Foynes",
+"cruise_port_s": "Cork, Dublin",
+"container_port_s_teus": "Dublin (529,563) (2016)",
+"river_port_s": "Cork (Lee), Waterford (Suir)",
+}, 
+}, 
+"terrorism": 
+{
+"terrorist_groups_foreign_based": 
+{
+"continuity_irish_republican_army_cira": "&lt;strong&gt;aim(s):&lt;/strong&gt; to bring about a united Ireland&lt;br /&gt;&lt;strong&gt;area(s) of operation:&amp;nbsp;&lt;/strong&gt;maintains an operational presence (2018)",
+"new_irish_republican_army_nira": "&lt;strong&gt;aim(s):&lt;/strong&gt; to bring about a united Ireland&lt;strong&gt;&lt;br /&gt;area(s) of operation:&lt;/strong&gt; maintains an operational presence&lt;br /&gt;&lt;strong&gt;note:&lt;/strong&gt; formerly known as the Real Irish Republican Army (RIRA) (2018)",
+}
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;Ireland, Iceland, and the UK dispute Denmark&#39;s claim that the Faroe Islands&#39; continental shelf extends beyond 200 nm&lt;/p&gt;",
+"refugees_and_internally_displaced_persons": "99 (2018)",
+"illicit_drugs": "transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern",
+}
+}

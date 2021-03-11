@@ -1,0 +1,88 @@
+{
+"name": "Coral Sea Islands",
+"code": "CR",
+"publish_date": "December 18, 2019",
+"introduction": 
+{
+"background": "Scattered over more than three-quarters of a million square kilometers of ocean, the Coral Sea Islands were declared a territory of Australia in 1969. They are uninhabited except for a small meteorological staff on the Willis Islets. Automated weather stations, beacons, and a lighthouse occupy many other islands and reefs. The Coral Sea Islands Act 1969 was amended in 1997 to extend the boundaries of the Coral Sea Islands Territory around Elizabeth and Middleton Reefs.",
+}, 
+"geography": 
+{
+"location": "Oceania, islands in the Coral Sea, northeast of Australia",
+"geographic_coordinates": "18 00 S, 152 00 E",
+"map_references": "Oceania",
+"area": 
+{
+"total": "3 sq km less than",
+"land": "3 sq km less than",
+"water": "0 sq km",
+}, 
+"area_comparative": "about four times the size of the National Mall in Washington, DC",
+"land_boundaries": "0 km",
+"coastline": "3,095 km",
+"maritime_claims": 
+{
+"territorial_sea": "3 nm",
+"exclusive_fishing_zone": "200 nm",
+}, 
+"climate": "tropical",
+"terrain": "sand and coral reefs and islands (cays)",
+"elevation": 
+{
+"lowest_point": "Pacific Ocean 0 m",
+"highest_point": "unnamed location on Cato Island 9 m",
+}, 
+"natural_resources": "fish",
+"land_use": 
+{
+"agricultural_land": "0% (2011 est.)",
+"agricultural_land_arable_land": "0% (2011 est.)",
+"agricultural_land_permanent_crops": "0% (2011 est.)",
+"agricultural_land_permanent_pasture": "0% (2011 est.)",
+"forest": "0% (2011 est.)",
+"other": "100% (2011 est.)",
+}, 
+"natural_hazards": "occasional tropical cyclones",
+"environment_current_issues": "no permanent freshwater resources; damaging activities include coral mining, destructive fishing practices (overfishing, blast fishing)",
+"geography_note": "important nesting area for birds and turtles",
+}, 
+"people_and_society": 
+{
+"population": " no indigenous inhabitants (2017 est.)",
+}, 
+"government": 
+{
+"country_name": 
+{
+"conventional_long_form": "Coral Sea Islands Territory",
+"conventional_short_form": "Coral Sea Islands",
+"etymology": "self-descriptive name to reflect the islands&#39; position in the Coral Sea off the northeastern coast of Australia",
+}, 
+"dependency_status": "territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport",
+"legal_system": "the common law legal system of Australia applies where applicable",
+"citizenship": "see Australia", 
+"diplomatic_representation_in_the_us": "none (territory of Australia)", 
+"diplomatic_representation_from_the_us": "none (territory of Australia)", 
+"flag_description": "the flag of Australia is used",
+}, 
+"economy": 
+{
+"economy_overview": "no economic activity",
+}, 
+"communications": 
+{
+"communications_note": "automatic weather stations on many of the isles and reefs relay data to the mainland",
+}, 
+"military_and_security": 
+{
+"military_note": "defense is the responsibility of Australia",
+}, 
+"transportation": 
+{
+"ports_and_terminals": "none; offshore anchorage only", 
+}, 
+"transnational_issues": 
+{
+"disputes_international": "&lt;p&gt;none&lt;/p&gt;",
+}
+}
